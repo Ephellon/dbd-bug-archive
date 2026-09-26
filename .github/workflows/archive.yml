@@ -8,7 +8,7 @@ name: Weekly archive
 
 on:
   schedule:
-    - cron: '17 6 * * 1'   # Mondays, 06:17 UTC
+    - cron: '45 5 * * 0'   # Sundays, 05:45 UTC (shy of 06:00, where runs queue up)
   workflow_dispatch:
 
 concurrency:

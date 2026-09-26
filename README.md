@@ -120,7 +120,7 @@ interface chrome such as spoiler toggle buttons and inline SVG icons.
 ## Weekly sync
 
 [`.github/workflows/archive.yml`](.github/workflows/archive.yml) re-runs the
-bot every Monday and commits anything new, so posts made before the knowledge
+bot every Sunday and commits anything new, so posts made before the knowledge
 base comes down in October 2026 are not missed. It can also be run on demand
 from the Actions tab.
 
