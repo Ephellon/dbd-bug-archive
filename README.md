@@ -22,8 +22,14 @@ Three ways to find a patch:
 | You want | Do this |
 | --- | --- |
 | To browse | Open [the index](archive/index.md) and pick a section |
-| A specific version | Press <kbd>t</kbd> on GitHub and type the version, e.g. `10.1.2` |
+| A specific version | Press <kbd>t</kbd> on GitHub and type it with dashes, e.g. `10-1-2` |
 | Anything mentioning a thing | Press <kbd>/</kbd> on GitHub and search, e.g. `Decisive Strike` |
+
+Filenames use dashes where a version uses dots, because they come from the
+forum's own slugs: `10.1.2` is `558-10-1-2-bugfix-patch.md`. The file finder
+matches on that name, so `10.1.2` finds nothing and `10-1-2` finds the page.
+Full-text search is unaffected — `10.1.2` works there, since the version
+appears with its dots inside the page.
 
 Reading an article, you never need to go back to the index: every page has
 **← previous · section · next →** links at the top *and* bottom, ordered
