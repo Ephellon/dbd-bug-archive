@@ -101,7 +101,7 @@ images.
   interrupted run picks up where it stopped.
 - **Polite.** One request at a time, throttled by `--delay`, with four retries
   and exponential backoff on network errors and HTTP 429.
-- **Honest about failures.** A article that fails is reported to stderr and the
+- **Honest about failures.** An article that fails is reported to stderr and the
   run continues; unhandled HTML tags are listed at the end.
 
 ### How it works
