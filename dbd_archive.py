@@ -610,15 +610,16 @@ SUMMARY_CLOSE = "<!-- /summary -->"
 _SUMMARY_BLOCK = re.compile(
     re.escape(SUMMARY_OPEN) + r".*?" + re.escape(SUMMARY_CLOSE) + r"\n*", re.DOTALL)
 SUMMARIES_FILE = "summaries.json"
+SUMMARY_HEADING = "## AI TL;DR"
 
 
 def write_summaries(root: str, manifest: dict) -> int:
-    """Inject the summaries from summaries.json below each article's title.
+    """Inject the summaries from summaries.json below each article's front matter.
 
     The file maps article id to a short plain-text summary and is produced
     outside this bot. Articles without an entry are left alone, and an existing
     block is replaced, so re-running after a summary is rewritten updates the
-    page. Runs before the navigation pass, which rewrites the surrounding file.
+    page. The navigation pass that follows settles the final ordering.
     """
     path = os.path.join(root, SUMMARIES_FILE)
     if not os.path.exists(path):
@@ -634,16 +635,13 @@ def write_summaries(root: str, manifest: dict) -> int:
             continue
         with open(article, encoding="utf-8") as fh:
             text = fh.read()
-        stripped = _SUMMARY_BLOCK.sub("", text)
-        if not summary:
-            updated = stripped
-        else:
-            block = f"{SUMMARY_OPEN}\n{summary}\n{SUMMARY_CLOSE}"
-            # Sits directly under the H1 so it reads as a standfirst.
-            updated, count = re.subn(r"(^# .*\n)", r"\1\n" + block.replace("\\", "\\\\") + "\n",
-                                     stripped, count=1, flags=re.MULTILINE)
-            if not count:
-                continue
+        front, marker, body = text.partition("\n---\n")
+        body = _SUMMARY_BLOCK.sub("", body).lstrip("\n")
+        if summary:
+            block = (f"{SUMMARY_OPEN}\n{SUMMARY_HEADING}\n\n{summary}\n"
+                     f"{SUMMARY_CLOSE}\n\n")
+            body = block + body
+        updated = front + marker + "\n" + body
         if updated != text:
             with open(article, "w", encoding="utf-8") as fh:
                 fh.write(updated)
@@ -704,8 +702,14 @@ def write_navigation(root: str, manifest: dict) -> int:
             with open(path, encoding="utf-8") as fh:
                 text = fh.read()
             head, marker, body = text.partition("\n---\n")
-            front, body = head + marker, _NAV_BLOCK.sub("", body).strip()
-            updated = f"{front}\n{nav}\n\n{body}\n\n{nav}\n"
+            front = head + marker
+            body = _NAV_BLOCK.sub("", body)
+            # The summary is a standfirst: it stays directly under the front
+            # matter, above the navigation line.
+            found = _SUMMARY_BLOCK.search(body)
+            summary = found.group(0).strip() + "\n\n" if found else ""
+            body = _SUMMARY_BLOCK.sub("", body).strip()
+            updated = f"{front}\n{summary}{nav}\n\n{body}\n\n{nav}\n"
             if updated != text:
                 with open(path, "w", encoding="utf-8") as fh:
                     fh.write(updated)
