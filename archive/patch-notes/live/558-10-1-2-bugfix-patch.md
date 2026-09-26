@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/558-10-1-2-bugfix-
 author: "ThatRyanB"
 published: "2026-09-08T14:30:27+00:00"
 updated: "2026-09-17T15:02:29+00:00"
-archived: "2026-09-26T16:40:03Z"
+archived: "2026-09-26T17:08:22Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The Judgment’s Divine Light timing was adjusted—Zealous window back to 0.8 s
 
 # 10.1.2 Bugfix Patch
 
-![DbD_1012_PatchNotes_HF2_16-9.png](558-10-1-2-bugfix-patch/01-dbd-1012-patchnotes-hf2-16-9.png)
+![DbD_1012_PatchNotes_HF2_16-9.png](../../images/3b7122ac21bcdb44-dbd-1012-patchnotes-hf2-16-9.png)
 
 ## Content
 
@@ -41,7 +41,7 @@ Dev note: *The Judgment's performance skyrocketed following HF2. We are revertin
 - Survivors being Liberated from Exile respawn at least 32m away from The Judgment and get a 1s immunity to Divine Light
   - *Dev note: After spending some time in Exile, returning to the Entity's Realm can be disorienting. Sometimes Survivors come back and The Judgment is right there, re-initiating a chase with them, to no fault of their (The Judgment's) own. To reduce the amount of times a Survivor that is freshly out of Exile gets chased again, we'll be respawning them away from the Killer. The 1s immunity is there to make sure a stray Divine Light doesn't accidentally hit - giving them a proper chance at a reset.*
 
-![bar_red.png](558-10-1-2-bugfix-patch/02-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Game Mode: 2v8
 
@@ -96,7 +96,7 @@ Dev note: *The Judgment's performance skyrocketed following HF2. We are revertin
 
 - Number of Chest spawns has been increased from 20 to 27
 
-![bar_red.png](558-10-1-2-bugfix-patch/03-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Bug Fixes
 
@@ -171,7 +171,7 @@ Dev note: *The Judgment's performance skyrocketed following HF2. We are revertin
 
 - Fixed an issue where The Mark of the Adherent Add-On was using an old description in 12 languages.
 
-![bar_red.png](558-10-1-2-bugfix-patch/04-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Known Issues
 

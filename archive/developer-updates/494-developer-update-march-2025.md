@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/494-developer-upda
 author: "ThatRyanB"
 published: "2025-03-06T15:00:10+00:00"
 updated: "2025-03-07T16:58:19+00:00"
-archived: "2026-09-26T16:42:52Z"
+archived: "2026-09-26T17:10:42Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Legion’s fatigue, Feral Frenzy and movement values are tuned, Xenomorph’s ta
 
 # Developer Update | March 2025
 
-![DevUpdate_MarchBanner.png](494-developer-update-march-2025/01-devupdate-marchbanner.png)
+![DevUpdate_MarchBanner.png](../images/b09b1678fd0cfaca-devupdate-marchbanner.png)
 
 *EDIT: Updated the Good Guy changes and dev note to clarify that the quicker acceleration will also apply to the start of Slice and Dice.*
 
@@ -31,18 +31,18 @@ Read on for all the details:
 
 ## STATUS EFFECT UPDATES
 
-![DevUpdate_MendingActions.png](494-developer-update-march-2025/02-devupdate-mendingactions.png)
+![DevUpdate_MendingActions.png](../images/c424fcdc05dc628a-devupdate-mendingactions.png)
 
 - **\[CHANGE\]** Decreased self-mending time to 10 seconds *(was 12)*
 - **\[CHANGE\]** Decreased altruistic-mending time to 6 seconds *(was 8)*
 
 *DEV NOTE: We know that Deep Wound can be a frustrating mechanic to come up against as it slows down the pace of the game for Survivors. By reducing mending times, we hope to reduce this friction slightly. We want players to feel the urgency of triaging this status effect, but once they make the choice to act, we don’t want them to feel pulled away from the game for too long!*
 
-![devupdate-frame.png](494-developer-update-march-2025/03-devupdate-frame.png)
+![devupdate-frame.png](../images/0bb14b82647860a5-devupdate-frame.png)
 
 ## KILLER UPDATES
 
-![DevUpdate_Legion.png](494-developer-update-march-2025/04-devupdate-legion.png)
+![DevUpdate_Legion.png](../images/bbca37dfc9280189-devupdate-legion.png)
 
 - **\[CHANGE\]** Decreased fatigue time to 2.5 seconds *(was 3)*
 - **\[CHANGE\]** Increased fatigue move speed to 2.3 m/s *(was 2.07)*
@@ -55,9 +55,9 @@ Read on for all the details:
 
 *These changes will make Legion feel like more of an active and mobile threat, reducing their reliance on a more passive status effect.*
 
-![devupdate-frame.png](494-developer-update-march-2025/05-devupdate-frame.png)
+![devupdate-frame.png](../images/0bb14b82647860a5-devupdate-frame.png)
 
-![DevUpdate_Xenomorph.png](494-developer-update-march-2025/06-devupdate-xenomorph.png)
+![DevUpdate_Xenomorph.png](../images/391f9bb2348b7b1e-devupdate-xenomorph.png)
 
 - **\[CHANGE\]** Increased tail attack charge time to .35 seconds *(was .2)*
 - **\[CHANGE\]** Increased tail attack charge sound volume for survivors
@@ -75,18 +75,18 @@ Read on for all the details:
 
 *We also did a pass on Xenomorph’s Add-Ons to buff some of its weaker, less used ones, while re-aligning some turret-based Add-Ons to fit with the above changes.*
 
-![devupdate-frame.png](494-developer-update-march-2025/07-devupdate-frame.png)
+![devupdate-frame.png](../images/0bb14b82647860a5-devupdate-frame.png)
 
-![DevUpdate_GoodGuy.png](494-developer-update-march-2025/08-devupdate-goodguy.png)
+![DevUpdate_GoodGuy.png](../images/41473faf82475aaa-devupdate-goodguy.png)
 
 - **\[CHANGE\]** Reduced Hidey-Ho Mode cooldown to 12s *(was 14)*
 - **\[CHANGE\]** Reduced time to reach max speed at the start of Slice and Dice and after Scamper
 
 *DEV NOTE: We know that the Good Guy’s utility and mobility in chases has historically been one of his core draws. While recent changes have made him less oppressive at lower MMR ranks, we've made some adjustments to help get him back in the action quicker and improve “movement feel”, particularly accelerating quicker as you activate Slice and Dice and after the Scamper action to get you up to max speed.*
 
-![devupdate-frame.png](494-developer-update-march-2025/09-devupdate-frame.png)
+![devupdate-frame.png](../images/0bb14b82647860a5-devupdate-frame.png)
 
-![DevUpdate_TerrorRadiusAdjustments.png](494-developer-update-march-2025/10-devupdate-terrorradiusadjustments.png)
+![DevUpdate_TerrorRadiusAdjustments.png](../images/c263326172cc7c9a-devupdate-terrorradiusadjustments.png)
 
 - **\[CHANGE\]** Increased the Hillbilly’s Terror Radius to 40 *(was 32)*
 - **\[CHANGE\]** Increased the Blight’s Terror Radius to 40 *(was 32)*
@@ -98,11 +98,11 @@ Read on for all the details:
 
 *We’ve also reduced the radiuses for stealthy Killers to better fit their playstyles. The Skull Merchant is a slight outlier here. While she can gain Undetectable by deploying a drone, we felt she could still benefit from added stealth support.*
 
-![devupdate-frame.png](494-developer-update-march-2025/11-devupdate-frame.png)
+![devupdate-frame.png](../images/0bb14b82647860a5-devupdate-frame.png)
 
 ## NEW FEATURES
 
-![DevUpdate_MatchSurrenderOption.png](494-developer-update-march-2025/12-devupdate-matchsurrenderoption.png)
+![DevUpdate_MatchSurrenderOption.png](../images/7e7ea1c1fc632ade-devupdate-matchsurrenderoption.png)
 
 - **\[NEW\]** If one of the following conditions is met, the "Surrender” option will become available on the Match Details screen
   - When all remaining Survivors are bots, the **Killer can Surrender** without a disconnection penalty
@@ -116,24 +116,24 @@ Read on for all the details:
 
 *And for all you Plot Twisters out there, we see you – this will not trigger the Surrender option.*
 
-![devupdate-frame.png](494-developer-update-march-2025/13-devupdate-frame.png)
+![devupdate-frame.png](../images/0bb14b82647860a5-devupdate-frame.png)
 
-![DevUpdate_ForsakenBoneyard.png](494-developer-update-march-2025/14-devupdate-forsakenboneyard.png)
+![DevUpdate_ForsakenBoneyard.png](../images/12f115ea8fadc9df-devupdate-forsakenboneyard.png)
 
 - **\[NEW\]** Expanded the Forsaken Boneyard realm with a Shack-focused map
 - **\[NEW\]** Updated the existing map tiles to improve navigation
 
-![DevUpdate_ForsakenBoneyard_1.png](494-developer-update-march-2025/15-devupdate-forsakenboneyard-1.png) ![DevUpdate_ForsakenBoneyard_2.png](494-developer-update-march-2025/16-devupdate-forsakenboneyard-2.png) ![DevUpdate_ForsakenBoneyard_3.png](494-developer-update-march-2025/17-devupdate-forsakenboneyard-3.png)
+![DevUpdate_ForsakenBoneyard_1.png](../images/bc1ac859e2740343-devupdate-forsakenboneyard-1.png) ![DevUpdate_ForsakenBoneyard_2.png](../images/2d634b8f7bcc723b-devupdate-forsakenboneyard-2.png) ![DevUpdate_ForsakenBoneyard_3.png](../images/b911ec1bc345ca6d-devupdate-forsakenboneyard-3.png)
 
 *DEV NOTE: We’re expanding the Forsaken Boneyard realm and map pool with a new map layout with the Killer Shack at its center, featuring updated map tiles. Specifically, we’ve heard your feedback that Eyrie of Crows can be difficult to navigate at times thanks to collisions with certain aesthetic elements.*
 
 *We’ve opted to remove the large bunches of branches from map tiles on this Shack map, while also introducing double pallet tiles that we hope will add some exciting new looping possibilities.*
 
-![devupdate-frame.png](494-developer-update-march-2025/18-devupdate-frame.png)
+![devupdate-frame.png](../images/0bb14b82647860a5-devupdate-frame.png)
 
 ## PERK UPDATES
 
-![DevUpdate_SurvivorPerks.png](494-developer-update-march-2025/19-devupdate-survivorperks.png)
+![DevUpdate_SurvivorPerks.png](../images/0668728d50fb870b-devupdate-survivorperks.png)
 
 **QUICK AND QUIET**
 
@@ -156,9 +156,9 @@ Read on for all the details:
 
 *DEV NOTE: While these Perks specialize in misdirecting the Killer, we’ve found that their cooldowns don’t match their value. By reducing their cooldowns and increasing the duration of their effects (specifically Deception and Dance With Me), we hope to give these off-meta Perks a better chance at value in deception-based builds.*
 
-![devupdate-frame.png](494-developer-update-march-2025/20-devupdate-frame.png)
+![devupdate-frame.png](../images/0bb14b82647860a5-devupdate-frame.png)
 
-![DevUpdate_KillerPerks.png](494-developer-update-march-2025/21-devupdate-killerperks.png)
+![DevUpdate_KillerPerks.png](../images/198b96f947dad6f5-devupdate-killerperks.png)
 
 **KNOCK OUT**
 
@@ -188,7 +188,7 @@ Read on for all the details:
 
 *We’ve adjusted their values to help increase their viability in more specialized Perk builds.*
 
-![devupdate-frame.png](494-developer-update-march-2025/22-devupdate-frame.png)
+![devupdate-frame.png](../images/0bb14b82647860a5-devupdate-frame.png)
 
 Until next time...
 

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/155-3-6-0-chains-o
 author: "Peanits"
 published: "2020-03-10T14:32:15+00:00"
 updated: "2020-03-10T15:00:28+00:00"
-archived: "2026-09-26T16:42:14Z"
+archived: "2026-09-26T17:10:22Z"
 ---
 
 <!-- summary -->

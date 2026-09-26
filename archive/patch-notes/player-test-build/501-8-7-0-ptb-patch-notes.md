@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/501-8-7-0-ptb-patc
 author: "ThatRyanB"
 published: "2025-04-15T14:28:56+00:00"
 updated: "2025-04-15T15:06:13+00:00"
-archived: "2026-09-26T16:40:58Z"
+archived: "2026-09-26T17:09:09Z"
 ---
 
 <!-- summary -->
@@ -21,14 +21,14 @@ Orela Rose joins the roster as a new survivor, bringing three unique perks—Do 
 
 # 8.7.0 | PTB Patch Notes
 
-![870_PatchNotes_Forum.jpg](501-8-7-0-ptb-patch-notes/01-870-patchnotes-forum.jpg)
+![870_PatchNotes_Forum.jpg](../../images/32baedbb54207c39-870-patchnotes-forum.jpg)
 
 ## Important
 
 - Progress & save data information has been copied from the Live game to our PTB servers on ***April 7, 2025***. Please note that players will be able to progress for the duration of the PTB, but none of that progress will make it back to the Live version of the game.
 - Players will once again receive 12,500 Auric Cells on the PTB to explore Outfits and Characters in the Store. Both Auric Cells and purchases made on the PTB Build will not transfer to the Live Build.
 
-![bar_red.png](501-8-7-0-ptb-patch-notes/02-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Content
 
@@ -45,7 +45,7 @@ Orela Rose joins the roster as a new survivor, bringing three unique perks—Do 
   - When you gain Exhausted, you see the Killer's aura for **1/1.5/2 seconds**.
   - Exhausted prevents one from using perks that cause Exhausted.
 
-![bar_white.png](501-8-7-0-ptb-patch-notes/03-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Killers
 
@@ -62,7 +62,7 @@ Orela Rose joins the roster as a new survivor, bringing three unique perks—Do 
 
 - Removed the turn rate limit during the open phase of Demon Strike.
 
-![bar_white.png](501-8-7-0-ptb-patch-notes/04-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Perks
 
@@ -89,7 +89,7 @@ Orela Rose joins the roster as a new survivor, bringing three unique perks—Do 
 - **Unbound:**
   - Increased the Haste effect after vaulting a window to 10% (was 5%).
 
-![bar_red.png](501-8-7-0-ptb-patch-notes/05-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Features
 
@@ -97,14 +97,14 @@ Orela Rose joins the roster as a new survivor, bringing three unique perks—Do 
 
 - Introducing a unified place for all Quest, which will include daily, event, rift quests and much more.
 
-![bar_white.png](501-8-7-0-ptb-patch-notes/06-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Base Game Adjustments
 
 - Added a protection to Survivors when their teammates spam the Unhook interaction without ever Unhooking.
 - Added a protection for failing Skill Checks that trigger right when the interaction is stopped.
 
-![bar_white.png](501-8-7-0-ptb-patch-notes/07-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Haste & Hindered Stacking
 
@@ -113,26 +113,26 @@ Orela Rose joins the roster as a new survivor, bringing three unique perks—Do 
 - The speed bonus/penalty of Haste and Hindered are now shown on their respective status effect icons.
 - Perks which affect movement speed now mention Haste or Hindered in their descriptions.
 
-![bar_white.png](501-8-7-0-ptb-patch-notes/08-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Surrender Option
 
 - Added a new Killer scenario: 10 minutes after the last generator is completed, the Killer has the option to Surrender.
 
-![bar_white.png](501-8-7-0-ptb-patch-notes/09-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Rarity Rework
 
 - Rarity levels have been revised to better surface different tier value and adding a new tag-based system that allows to surface extra information to players.
 
-![bar_white.png](501-8-7-0-ptb-patch-notes/10-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Bot Improvements
 
 - Smoothened the camera direction of Bots while they are turning corners.
 - Survivor Bots are no longer trigger-happy with their Flashlights.
 
-![bar_red.png](501-8-7-0-ptb-patch-notes/11-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Bug Fixes
 

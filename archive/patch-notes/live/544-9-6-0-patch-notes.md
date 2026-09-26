@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/544-9-6-0-patch-no
 author: "ThatRyanB"
 published: "2026-04-28T14:30:01+00:00"
 updated: "2026-04-28T14:30:55+00:00"
-archived: "2026-09-26T16:40:08Z"
+archived: "2026-09-26T17:08:25Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The Legion returns, map weighting is now equal, and a Diminishing Returns system
 
 # 9.6.0 | Patch Notes
 
-![DbD_960_Patch Notes_FORUM.png](544-9-6-0-patch-notes/01-dbd-960-patch-notes-forum.png)
+![DbD_960_Patch Notes_FORUM.png](../../images/2ea85ac2df5a2f66-dbd-960-patch-notes-forum.png)
 
 ## Important
 
@@ -29,7 +29,7 @@ The Legion returns, map weighting is now equal, and a Diminishing Returns system
 - The Legion has been re-enabled.
 - Map weighting has been adjusted in order for maps to have an equal chance of spawning - Realm Repeat Prevention remains in effect.
 
-![image-ee035b390d2198-8cb1.png](544-9-6-0-patch-notes/02-image-ee035b390d2198-8cb1.png)
+![image-ee035b390d2198-8cb1.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Features
 
@@ -51,7 +51,7 @@ The Legion returns, map weighting is now equal, and a Diminishing Returns system
     - 5th value and up - 5% of modifier
 - Game manual updated to include information on diminishing returns.
 
-![bar_white.png](544-9-6-0-patch-notes/03-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### 1v4 Play While You Wait Update
 
@@ -60,7 +60,7 @@ The Legion returns, map weighting is now equal, and a Diminishing Returns system
   - This allows you to play a match as a Survivor while saving your place in the Killer queue.
   - After finishing your Survivor match, you will automatically be returned to your place in the Killer queue.
 
-![bar_white.png](544-9-6-0-patch-notes/04-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Progress Bar Update
 
@@ -68,7 +68,7 @@ The Legion returns, map weighting is now equal, and a Diminishing Returns system
 - The color has been updated so it represents the speed of the interaction, becoming yellow if faster than normal, and red if slower than normal.
   - Previously, the color was dependent on the individual contributor. Ie. a player could see the bar red even when going faster.
 
-![bar_white.png](544-9-6-0-patch-notes/05-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Visible Team Perks
 
@@ -82,7 +82,7 @@ The Legion returns, map weighting is now equal, and a Diminishing Returns system
 - Elements can be hovered to display their descriptions.
 - The loadout of the opposite team is not displayed until the match is over, following the final Score screen behavior.
 
-![bar_white.png](544-9-6-0-patch-notes/06-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Spectator Mode
 
@@ -93,7 +93,7 @@ The Legion returns, map weighting is now equal, and a Diminishing Returns system
   - Goals
   - Status Effects
 
-![bar_white.png](544-9-6-0-patch-notes/07-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Auras Customization
 
@@ -104,7 +104,7 @@ The Legion returns, map weighting is now equal, and a Diminishing Returns system
   - Killer objects (e.g. The Hag's traps, The Singularity's Biopods)
   - Breakable walls.
 
-![image-9ab1847eed225-e32e.png](544-9-6-0-patch-notes/08-image-9ab1847eed225-e32e.png)
+![image-9ab1847eed225-e32e.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## Content
 
@@ -163,7 +163,7 @@ The Legion returns, map weighting is now equal, and a Diminishing Returns system
 - Decreased battery consumption upon Survivor teleport to **12%** *(was 15%)*.
 - Key binding for Grab Axe button updated to use Power input *(was Attack input)*.
 
-![bar_white.png](544-9-6-0-patch-notes/09-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Killer Add-on Updates
 
@@ -191,7 +191,7 @@ The Legion returns, map weighting is now equal, and a Diminishing Returns system
 - Access Panel (Very Rare)
   - While aiming the Fire Axe, reveals survivors within **6 meters** of Security Doors with Killer Instinct *(was 4 meters)*.
 
-![bar_white.png](544-9-6-0-patch-notes/10-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Survivor Perk Updates
 
@@ -200,7 +200,7 @@ The Legion returns, map weighting is now equal, and a Diminishing Returns system
 - Whenever you unhook another Survivor, you earn **1** Token, up to **1/2/3** *(was "Whenever another Survivor is hooked, you earn 1/2/3 tokens, up to 9").*
 - While repairing, whenever you hit a great basic Skill Check, spend all Tokens. For each Token spent, the Generator gains **5%** permanent progress *(was 2% permanent progress).*
 
-![image-50d9a54a5f04a-2ad4.png](544-9-6-0-patch-notes/11-image-50d9a54a5f04a-2ad4.png)
+![image-50d9a54a5f04a-2ad4.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## 2v8
 
@@ -209,13 +209,13 @@ The Legion returns, map weighting is now equal, and a Diminishing Returns system
 - Increased Walk Reload Speed penalty from **0.7** to **0.8**.
 - Decreased Fire Miss Duration from **1.5 seconds** to **1.2 seconds**.
 
-![bar_white.png](544-9-6-0-patch-notes/12-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### The Oni
 
 - Increased loss of Demon Mode uptime from **7 seconds** to **10 seconds** when downing a Survivor.
 
-![bar_white.png](544-9-6-0-patch-notes/13-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Cage of Corruption
 
@@ -223,14 +223,14 @@ The Legion returns, map weighting is now equal, and a Diminishing Returns system
 - Once the Anti-Camp bar reaches maximum threshold the Survivor will be given the choice to relocate.
 - Upon relocation the Bleedout Timer now pauses for **30 seconds**.
 
-![bar_white.png](544-9-6-0-patch-notes/14-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Maps
 
 - Added Temple of Purgation.
 - Added Ironworks of Misery.
 
-![image-f80caef801a178-ee36.png](544-9-6-0-patch-notes/15-image-f80caef801a178-ee36.png)
+![image-f80caef801a178-ee36.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Bug Fixes
 
@@ -373,7 +373,7 @@ The Legion returns, map weighting is now equal, and a Diminishing Returns system
 - Fixed an issue where Survivors were able to get on top of a pallet in the treatment room in the Treatment Theatre map.
 - Fixed an issue where some rocks on the ground had superfluous collision.
 
-![image-15f1a5b821f1f-62a4.png](544-9-6-0-patch-notes/16-image-15f1a5b821f1f-62a4.png)
+![image-15f1a5b821f1f-62a4.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Changes from PTB
 
@@ -389,13 +389,13 @@ The Legion returns, map weighting is now equal, and a Diminishing Returns system
 
 *While this ultimately increases complexity, this change guarantees that Survivor and Killer modifiers from Loadouts always work as intended by Players selecting them.*
 
-![bar_white.png](544-9-6-0-patch-notes/17-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Progress Bar Update
 
 - The progress bar arrows no longer adjust their speed dynamically and instead have three static speeds, fast, normal, and slow.
 
-![bar_white.png](544-9-6-0-patch-notes/18-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Visible Team Perks
 
@@ -405,7 +405,7 @@ The Legion returns, map weighting is now equal, and a Diminishing Returns system
 - When the selected Killer is visible to Survivors the characters name is now also displayed.
 - The hidden loadout has been adjusted to not be confused with an empty loadout.
 
-![bar_white.png](544-9-6-0-patch-notes/19-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Survivor Perk Updates
 
@@ -418,7 +418,7 @@ The Legion returns, map weighting is now equal, and a Diminishing Returns system
 
 *With this update, the responsibility to earn Tokens will now be on the Survivor Player who has chosen to equip the Perk, incentivizing them to alternate between objectives like Hook rescues and Generator repairs.*
 
-![bar_white.png](544-9-6-0-patch-notes/20-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Bug Fixes
 
@@ -437,7 +437,7 @@ The Legion returns, map weighting is now equal, and a Diminishing Returns system
 - Fixed an issue where the external perk icon was missing when The Skull Merchant used the Geographical Readout add-on.
 - Fixed an issue where Red Herring is missing the cooldown state on the icon.
 
-![image-e097e6dd0f54d8-18da.png](544-9-6-0-patch-notes/21-image-e097e6dd0f54d8-18da.png)
+![image-e097e6dd0f54d8-18da.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## Known Issues
 

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/306-5-4-0-portrait
 author: "Peanits"
 published: "2021-11-30T15:27:06+00:00"
 updated: "2021-11-30T16:05:51+00:00"
-archived: "2026-09-26T16:40:47Z"
+archived: "2026-09-26T17:09:00Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ The remainder of the update is a broad bug-fix sweep touching tutorial UI, perk 
 
 # 5.4.0 | Portrait of a Murder
 
-![540Banner.png](306-5-4-0-portrait-of-a-murder/01-540banner.png)
+![540Banner.png](../../images/ef718e02ba7b05c6-540banner.png)
 
 ## Features
 

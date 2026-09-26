@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/332-5-7-2-bugfix-p
 author: "Peanits"
 published: "2022-05-10T14:30:05+00:00"
 updated: "2022-05-10T14:42:23+00:00"
-archived: "2026-09-26T16:40:44Z"
+archived: "2026-09-26T17:08:57Z"
 ---
 
 <!-- summary -->
@@ -21,13 +21,13 @@ New chase music was added for Ghost Face, giving his pursuit a distinct soundtra
 
 # 5.7.2 | Bugfix Patch
 
-![572Banner.png](332-5-7-2-bugfix-patch/01-572banner.png)
+![572Banner.png](../../images/12c5c21c5ad03d2e-572banner.png)
 
 ## Features
 
 - Added new chase music to The Ghost Face.
 
-![PatchNotesDivider.png](332-5-7-2-bugfix-patch/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 
@@ -51,7 +51,7 @@ New chase music was added for Ghost Face, giving his pursuit a distinct soundtra
 - Fixed an issue that caused Victor to dissolve after pouncing on most of the stairways on Haddonfield map
 - Fixed an issue that caused tutorial progression to appear to be carried over to a different account after switching accounts.
 
-![PatchNotesDivider.png](332-5-7-2-bugfix-patch/03-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Known Issues
 

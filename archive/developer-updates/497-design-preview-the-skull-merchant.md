@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/497-design-preview
 author: "ThatRyanB"
 published: "2025-03-24T16:30:09+00:00"
 updated: "2025-03-24T16:30:10+00:00"
-archived: "2026-09-26T16:42:50Z"
+archived: "2026-09-26T17:10:41Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Dead by Daylight’s developers outlined a forthcoming overhaul of the Killer Sk
 
 # Design Preview | The Skull Merchant
 
-![DbD_DesignPreview-SM_Banner_1920x1080.png](497-design-preview-the-skull-merchant/01-dbd-designpreview-sm-banner-1920x1080.png)
+![DbD_DesignPreview-SM_Banner_1920x1080.png](../images/945ddaf7a6797884-dbd-designpreview-sm-banner-1920x1080.png)
 
 **Click here for** [**Português Brasileiro**](https://dbd.game/4bVx069)**,** [**简体中文**](https://dbd.game/4hIKeoa)**,** [**Français**](https://dbd.game/4jfJTdV)**,** [**日本語**](https://dbd.game/4c074GH)**, and** [**Español**](https://dbd.game/4hFjuVE)**.**
 
@@ -47,7 +47,7 @@ Skull Merchant can deploy a Stealth Drone (she carries a total of 5), which scan
 
 Importantly, we’ve slowed their rotation speed slightly and toned down the visual intensity of these zones, removing the large scan lines to replace them with something more subtle. **Namely, you'll see the direction of each detection zone as they rotate, but the detection zone itself is invisible**. This gives Survivors an impression of the space that’s being actively scanned but requires them to proceed cautiously.
 
-![image-aaf071f6c3346-22ec.png](497-design-preview-the-skull-merchant/02-image-aaf071f6c3346-22ec.png)
+![image-aaf071f6c3346-22ec.png](../images/d1bff59000551844-image-aaf071f6c3346-22ec.png)
 
 *While we know they had their supporters, the original scan lines were visually loud and often clashed with the rest of the game’s look and feel. The intent here is to strike a balance between giving Survivors just enough info to assess the threat (a subtle, rotating field of detection) without that threat overwhelming the space and feeling incongruous to Dead by Daylight’s visual identity.*
 
@@ -57,7 +57,7 @@ Once a Stealth Drone has been active for a short period, **Skull Merchant can ch
 
 Power is consumed slowly as the controlled Drone idles and slightly more is consumed while moving. Skull Merchant is also able to use a burst of this Power to activate Drone Propulsion. **This charged power sends the Drone flying forward at high speed**, relative to how long it was charged.
 
-![SM-KD_ArticleAsset.gif](497-design-preview-the-skull-merchant/03-sm-kd-articleasset.gif)
+![SM-KD_ArticleAsset.gif](../images/4b06fee4c16507b8-sm-kd-articleasset.gif)
 
 *Put simply: Stealth Drone go brr*
 

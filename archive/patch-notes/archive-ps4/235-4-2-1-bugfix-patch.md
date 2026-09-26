@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/235-4-2-1-bugfix-p
 author: "Peanits"
 published: "2020-09-17T14:51:53+00:00"
 updated: "2020-09-24T14:34:44+00:00"
-archived: "2026-09-26T16:41:53Z"
+archived: "2026-09-26T17:10:01Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The Huntress' hatchet interactions, the Survivor heartbeat sound in the Terror R
 
 # 4.2.1 | Bugfix Patch
 
-![421Banner.png](235-4-2-1-bugfix-patch/01-421banner.png)
+![421Banner.png](../../images/036e111bb69cf97f-421banner.png)
 
 ## Bug Fixes
 

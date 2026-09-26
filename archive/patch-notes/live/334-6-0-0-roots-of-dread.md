@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/334-6-0-0-roots-of
 author: "Peanits"
 published: "2022-06-07T14:28:45+00:00"
 updated: "2022-06-07T14:45:09+00:00"
-archived: "2026-09-26T16:40:44Z"
+archived: "2026-09-26T17:08:57Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ The remainder of the patch focuses on extensive bug and PTB fixes covering power
 
 # 6.0.0 | Roots of Dread
 
-![600Banner.png](334-6-0-0-roots-of-dread/01-600banner.png)
+![600Banner.png](../../images/bccba507dc6dc789-600banner.png)
 
 ## Features
 
@@ -71,7 +71,7 @@ The remainder of the patch focuses on extensive bug and PTB fixes covering power
     - Added a timer to the Main Menu indicating time remaining until the Rift closes.
   - New Map: Garden of Joy
 
-  ![PatchNotesDivider.png](334-6-0-0-roots-of-dread/02-patchnotesdivider.png)
+  ![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
   ## Bug Fixes
   - Tentatively fixed an issue that could cause the Onryo's power to sometimes not load properly at the start of a match.
@@ -120,7 +120,7 @@ The remainder of the patch focuses on extensive bug and PTB fixes covering power
   - Fixed an issue that caused the Deathslinger's harpoon to bounce off survivors who are fast vaulting a pallet.
   - Fixed an issue that caused Pallet Stuns to move a killer if they are on the same side of the pallet as the survivor.
 
-  ![PatchNotesDivider.png](334-6-0-0-roots-of-dread/03-patchnotesdivider.png)
+  ![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
   ## Fixes from PTB
   - Fixed an issue that caused the jumpscare stinger to not play if the Dredge exits a locker too quickly.
@@ -169,7 +169,7 @@ The remainder of the patch focuses on extensive bug and PTB fixes covering power
   - Fixed an issue that caused Archive Challenges with no progress to incorrectly use the "in progress" state.
   - Fixed an issue that caused the left side Lobby UI to be positioned lower than intended, causing overlapping UI elements on smaller resolutions.
 
-  ![PatchNotesDivider.png](334-6-0-0-roots-of-dread/04-patchnotesdivider.png)
+  ![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
   ## Known Issues
   - PS5 | Outrun the Overlap trophy description uses English text in certain languages.

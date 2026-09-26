@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/397-developer-upda
 author: "Peanits"
 published: "2023-07-04T15:28:06+00:00"
 updated: "2023-07-04T17:04:12+00:00"
-archived: "2026-09-26T16:43:16Z"
+archived: "2026-09-26T17:10:51Z"
 ---
 
 <!-- summary -->
@@ -21,11 +21,11 @@ The update introduces AI survivor bots that replace disconnected players, and a 
 
 # Developer Update | July 2023
 
-![Developer update Totem NEW.png](397-developer-update-july-2023/01-developer-update-totem-new.png)
+![Developer update Totem NEW.png](../images/c324ebbb019628c4-developer-update-totem-new.png)
 
 Summer is upon us, and The Entity’s Realm is heating up. Between an extra special guest making his long-awaited debut and the return of a classic summertime event, our next update is already packed with content. But we’re just getting started: We have loads of exciting features and balance changes in store for you, and we’re going to dive into each of them today.
 
-![Survivors.png](397-developer-update-july-2023/02-survivors.png)
+![Survivors.png](../images/2d7c5f6bbf0cc211-survivors.png)
 
 ## Survivor Disconnect Bots
 
@@ -35,7 +35,7 @@ That’s where Dwight-bot and his many friends come in. Going forward, any Survi
 
 We have been working hard towards improving our Survivor bot AI ever since their introduction to custom games late last year. While bots cannot truly replace the experience of playing with real people, they are more than capable of stepping in when needed to help repair Generators, save their fellow Survivors, and keep the Killer busy. We will continue to improve the Survivor bot AI over time as we have done in recent updates.
 
-![Cheating.png](397-developer-update-july-2023/03-cheating.png)
+![Cheating.png](../images/c6d7967eeaea8d9b-cheating.png)
 
 ## Successful Report Feedback
 
@@ -45,13 +45,13 @@ This is why the team has designed a "Successful Report" feature. In the next upd
 
 The message will show you the date of the player ban and the reason for banning. Note that if a player gets banned and un-banned multiple times, you as the reporter will only get notified once per report you sent.
 
-![ReportFeedback.png](397-developer-update-july-2023/04-reportfeedback.png)
+![ReportFeedback.png](../images/3b470f14dd3271e4-reportfeedback.png)
 
 These feedback messages will apply to both temporary for things like harassment, as well as for permanent bans for cheating. We are constantly improving our anti-cheat and security measures to prevent cheaters from playing to begin with, but we want to reassure you that cheaters are dealt with seriously whenever they manage to slip through.
 
 We're hoping that this feature will make reporting problematic in-game behaviours feel more purposeful and worthwhile. We’re very grateful to all of you out there who are investing your personal time & effort toward keeping our game safe and fun. Thank you for your help!
 
-![Onryo.png](397-developer-update-july-2023/05-onryo.png)
+![Onryo.png](../images/52f0e4ca928dcd76-onryo.png)
 
 ## The Onryo
 
@@ -91,7 +91,7 @@ We have also made a few adjustments to The Onryo’s Demanifested state:
 
 Lastly, we have done a balancing pass on The Onryo’s Add-ons, bringing her highest and lowest performing Add-ons closer in line with the rest of the options.
 
-![Hooks.png](397-developer-update-july-2023/06-hooks.png)
+![Hooks.png](../images/f5500e7679a048c3-hooks.png)
 
 ## Hook Grabs
 
@@ -99,7 +99,7 @@ We’ve all been in that situation before. A Survivor runs toward their hooked f
 
 In this next update, **we are removing grabs from unhooking Survivors**. In practice, this means that the awkward mindgame when unhooking has been eliminated. Be warned, however: You still are not safe while unhooking. Though you may succeed in rescuing the hooked Survivor, the Killer will still be able to hit you twice before you can make your escape. In most cases, you will trade your safety for your friend’s.
 
-![Generator.png](397-developer-update-july-2023/07-generator.png)
+![Generator.png](../images/29243b97ed052978-generator.png)
 
 ## Brand New Part
 
@@ -109,7 +109,7 @@ When a Brand New Part is installed, you will face a difficult Skill Check. Upon 
 
 In terms of time saved, the updated Brand New Part will save 10 seconds compared to the previous 22.5 seconds. As this lowers the required charges for the affected generator, any regression Perks which apply regression based on the generator’s total charges will have their effectiveness slightly reduced.
 
-![Perks.png](397-developer-update-july-2023/08-perks.png)
+![Perks.png](../images/e0b9bea7d13cb9ca-perks.png)
 
 ## Perks
 
@@ -159,7 +159,7 @@ Trail of Torment allows the Killer to hide their terror radius and sneak up on S
 
 To make this Perk more threatening, **Trail of Torment will now only deactivate when the affected generator stopped regressing, not when a health state is lost.**
 
-![PatchNotesDividerSmolWhite.png](397-developer-update-july-2023/09-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../images/bdb54c9551da7286-image.png)
 
 ### Survivor Perks
 
@@ -217,7 +217,7 @@ Before the Visual Terror Radius was introduced, Spine Chill was often used by de
 
 **Now that the Visual Terror Radius is available, we are removing the terror radius visualization aspect of this Perk.**
 
-![Killers.png](397-developer-update-july-2023/10-killers.png)
+![Killers.png](../images/fdcbac5b29ef8ba6-killers.png)
 
 ## Killer Tweaks
 
@@ -281,7 +281,7 @@ These Add-ons increase the duration of triggered Phantasm Traps, allowing her mo
 
 **Half Egg Shell now increased Phantasm Trap duration by 45%** (was 30%), and **Cracked Turtle Egg now increases Phantasm Trap duration by 55%** (was 35%).
 
-![ColdwindFarm.png](397-developer-update-july-2023/11-coldwindfarm.png)
+![ColdwindFarm.png](../images/50a50ea552d9df25-coldwindfarm.png)
 
 ## Coldwind Farm Balance Update
 
@@ -291,17 +291,17 @@ For Fractured Cowshed, we found this map leaned too heavily in favour of the Sur
 
 To remedy this, we have made significant layout changes to the map, breaking up the strong outer ring of tiles in the process. Additionally, we have made some adjustments to the layout of the barn itself – which is now slightly closer to the middle of the map – to reduce its strength.
 
-![Fractured.png](397-developer-update-july-2023/12-fractured.png)
+![Fractured.png](../images/976a1d7c40a83d58-fractured.png)
 
 As for Rancid Abattoir, depending on how the map generated, the slaughterhouse could feature strong setups for Survivors, allowing them to waste a good amount of the Killer’s time. Additionally, the large freezer in the center of the building featured a single entrance and nothing important to gameplay (i.e. no pallets or windows), leaving little reason for anyone to explore it.
 
 We have updated the layout of the slaughterhouse to make stronger setups less effective. We have also opened up the wall in the back of the freezer to allow players to navigate it more easily.
 
-![Rancid.png](397-developer-update-july-2023/13-rancid.png)
+![Rancid.png](../images/1d7e35a13d6912eb-rancid.png)
 
 Across the entire realm, you’ll notice updated corn tiles with added detail, as well as updated edge tiles along the map’s outer fences.
 
-![Corn.png](397-developer-update-july-2023/14-corn.png)
+![Corn.png](../images/e53b994a006d5ccb-corn.png)
 
 With that, we have reached the end of this Developer Update. All the changes in this post will be available to test on the Public Test Build starting later this week. We look forward to reading through your thoughts once you’ve had the opportunity to try them out!
 

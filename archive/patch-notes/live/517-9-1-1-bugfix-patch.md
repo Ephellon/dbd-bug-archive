@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/517-9-1-1-bugfix-p
 author: "ThatRyanB"
 published: "2025-08-05T18:02:08+00:00"
 updated: "2025-08-06T16:13:11+00:00"
-archived: "2026-09-26T16:40:13Z"
+archived: "2026-09-26T17:08:30Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Streetwise and Last Stand perks have been re-enabled, and the Fog Vial received 
 
 # 9.1.1 | Bugfix Patch
 
-![911_PatchNotes_FORUM.jpg](517-9-1-1-bugfix-patch/01-911-patchnotes-forum.jpg)
+![911_PatchNotes_FORUM.jpg](../../images/0f60187de8f79e92-911-patchnotes-forum.jpg)
 
 ## Priority Bug Fixes
 
@@ -36,7 +36,7 @@ Streetwise and Last Stand perks have been re-enabled, and the Fog Vial received 
 - Fixed an issue where the "Be chased for 20 seconds" quest in "Into the Fog" would not progress.
 - Fixed an issue that caused a black screen when attempting to spectate for the second time after returning to the tally screen.
 
-![bar_red.png](517-9-1-1-bugfix-patch/02-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Content
 
@@ -54,7 +54,7 @@ Streetwise and Last Stand perks have been re-enabled, and the Fog Vial received 
   - Decreases the fog cloud's maximum size by 25% *(No change)*.
   - Decreases the fog cloud's maximum lifetime by 50% *(No change)*.
 
-![bar_red.png](517-9-1-1-bugfix-patch/03-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Bug Fixes
 

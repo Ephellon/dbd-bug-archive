@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/503-stats-january-
 author: "ThatRyanB"
 published: "2025-04-22T14:58:32+00:00"
 updated: "2025-04-22T14:58:32+00:00"
-archived: "2026-09-26T16:42:49Z"
+archived: "2026-09-26T17:10:40Z"
 ---
 
 <!-- summary -->
@@ -21,19 +21,19 @@ The team released a quarterly statistical overview for January-March 2025, spotl
 
 # Stats | January - March 2025
 
-![DBD_Stats_Q12025_KillerPickRates.png](503-stats-january-march-2025/01-dbd-stats-q12025-killerpickrates.png)
+![DBD_Stats_Q12025_KillerPickRates.png](../images/a3a662cac9b3aefe-dbd-stats-q12025-killerpickrates.png)
 
 Can you believe how quickly April has been flying by? Not only is the Blood Moon event in full swing, but we also have a new update – Steady Pulse – quickly approaching on the horizon. In the meantime, we wanted to take a look back at the **first 3 months of the year** and share a look at how things are going for Killers and Survivors.
 
 Kicking things off are Killer pick rates! Looking at both MMR groups, The Mastermind and The Blight were both winners, leveraging their high mobility to land in the top 5. While The Nightmare didn’t quite crack the top 10 for the wider MMR bracket, his recent rework helped drive a higher pick rate among higher MMR players.
 
-![DBD_Stats_Q12025_KillerKillRates.png](503-stats-january-march-2025/02-dbd-stats-q12025-killerkillrates.png)
+![DBD_Stats_Q12025_KillerKillRates.png](../images/f883247b76331c94-dbd-stats-q12025-killerkillrates.png)
 
 Speaking of The Nightmare, fresh off his rework, it sure seems like he was a *dream* to play, leading kill rates across both MMR brackets, while The Lich continued to leverage his vile darkness across all MMR levels. High MMR mainstays like The Twins, The Blight and The Nurse unsurprisingly made appearances as well.
 
 Looking at the bigger picture, there was an **average kill rate of 60% across all MMR**, while that **average kill rate increased to 63% for high MMR**. This largely falls in line with our intended Killer balance.
 
-![DBD_Stats_Q12025_SurvivorEscapeRates.png](503-stats-january-march-2025/03-dbd-stats-q12025-survivorescaperates.png)
+![DBD_Stats_Q12025_SurvivorEscapeRates.png](../images/7dd5119b524d8dd2-dbd-stats-q12025-survivorescaperates.png)
 
 Of course, there’s more to a Trial than just Killers. Let’s take a look at how Survivors have fared!
 

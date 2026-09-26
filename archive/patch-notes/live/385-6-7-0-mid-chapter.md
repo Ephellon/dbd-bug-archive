@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/385-6-7-0-mid-chap
 author: "Peanits"
 published: "2023-04-18T14:25:33+00:00"
 updated: "2023-04-18T15:08:16+00:00"
-archived: "2026-09-26T16:40:35Z"
+archived: "2026-09-26T17:08:50Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Autohaven Wreckers - Blood Lodge and Gas Heaven got a map rework, fixing unsafe 
 
 # 6.7.0 | Mid-Chapter
 
-![660_PTB_PatchNotes_Forum copie.png](385-6-7-0-mid-chapter/01-660-ptb-patchnotes-forum-copie.png)
+![660_PTB_PatchNotes_Forum copie.png](../../images/6d3df2425a1a830a-660-ptb-patchnotes-forum-copie.png)
 
 ## Release Schedule
 
@@ -33,7 +33,7 @@ Update releases: 11am ET
 
 For more information on any of these changes, see our [March](https://forums.bhvr.com/dead-by-daylight/kb/articles/382) and [April](https://forums.bhvr.com/dead-by-daylight/kb/articles/384) Developer Updates.
 
-![PatchNotesDivider.png](385-6-7-0-mid-chapter/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Content
 
@@ -54,7 +54,7 @@ For more information on any of these changes, see our [March](https://forums.bhv
 - Lightburn has been removed from all applicable challenge descriptions and challenge requirements.
 - Adjusted the challenge requirements for challenges in Tomes 1 to 5 and 12 so they are better aligned with the challenge difficulties of other Tomes and their levels within The Archives.
 
-![PatchNotesDivider.png](385-6-7-0-mid-chapter/03-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Features
 
@@ -72,13 +72,13 @@ We are removing Killer-specific light interactions.
 - The Spirit
   - Can no longer burn The Spirit's Husk
 
-![PatchNotesDividerSmolWhite.png](385-6-7-0-mid-chapter/04-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/91876cf1e9daa48d-patchnotesdividersmolwhite.png)
 
 ## General Healing
 
 - Decrease the bonus on successful Healing Great Skill Checks from **5%** to **3%**.
 
-![PatchNotesDividerSmolWhite.png](385-6-7-0-mid-chapter/05-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ## Killer Tweaks
 
@@ -106,7 +106,7 @@ We are removing Killer-specific light interactions.
   - Scarlet Egg Add-On
     - Increases the duration of Killer Instinct when triggered by Rites of Judgment by **3 seconds**.
 
-![PatchNotesDividerSmolWhite.png](385-6-7-0-mid-chapter/06-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ## Perk Updates
 
@@ -125,7 +125,7 @@ We are removing Killer-specific light interactions.
 - **Overcharge**
   - Overcharge a generator by performing the Damage Generator action. The next Survivor interacting with that Generator is faced with a difficult Skill Check. Failing the Skill Check results in an additional **2%/3%/4%** loss of progress. Succeeding the Skill Check grants no progress, but prevents the Generator explosion. After Overcharge is applied to a generator, its regression speed increases from **85% of normal to 130% of normal** over the next **30 seconds**.
 
-![PatchNotesDividerSmolWhite.png](385-6-7-0-mid-chapter/07-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/f04e7bbdc4a97d60-patchnotesdividersmolwhite.png)
 
 ## Med-kit Update
 
@@ -149,7 +149,7 @@ We are removing Killer-specific light interactions.
 - **Abdominal Dressing:** **Increases** healing speed by **15%**. (was 25%) (Removed charges penalty) Changed to Very Rare rarity.
 - **Styptic Agent:** Press the Secondary Action button while healing with the Med-kit to use the Styptic Agent. When the Styptic Agent is used on an injured Survivor, they gain Endurance for **5 seconds**. (was 8 seconds) Consumes the Med-Kit on use.
 
-![PatchNotesDividerSmolWhite.png](385-6-7-0-mid-chapter/08-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ## Bloodweb Improvements
 
@@ -175,7 +175,7 @@ You asked for it for a long time, and it's finally here: using the Bloodweb has 
 - Fixed some interaction issues related to the new Bloodweb center node to purchase nodes automatically.
 - Fixed a softlock when collecting a node in the Bloodweb when starting a Matchmaking at the same time as a Killer.
 
-![PatchNotesDividerSmolWhite.png](385-6-7-0-mid-chapter/09-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ## Visual Terror Radius
 
@@ -184,7 +184,7 @@ You asked for it for a long time, and it's finally here: using the Bloodweb has 
 - Killer Lullabies will also be represented by a haze effect in your chest.
 - This feature can be combined with existing colourblindness settings to improve its visibility as needed.
 
-![PatchNotesDividerSmolWhite.png](385-6-7-0-mid-chapter/10-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ## Misc
 
@@ -193,7 +193,7 @@ You asked for it for a long time, and it's finally here: using the Bloodweb has 
 - Cinematic video files are now stored in Bink format.
 - The Undetectable effect now mutes the audio progressively in all cases, to mimic the Killer moving away. Previously there were some Add-Ons that were removing the Terror Radius instantly.
 
-![PatchNotesDivider.png](385-6-7-0-mid-chapter/11-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Changes from PTB to Live
 
@@ -234,7 +234,7 @@ You asked for it for a long time, and it's finally here: using the Bloodweb has 
 - **Anti-hemorrhagic Syringe:** Press the Secondary Action button while healing with the Med-Kit to use the Anti-Hemorrhagic Syringe. The affected Survivor will passively gain a health state **16 seconds** after use. (was 24 seconds) The time required is modified by perks, items and add-ons that affect Healing Speeds. This effect is canceled when the affected Survivor changes health state or is picked up. Consumes the Med-Kit on use.
 - **Refined Serum: Increases** your Movement speed by **+5% for 20 seconds**. (was 15 seconds) Creates a Blight trail behind the affected Survivor. Can be used on other Survivors or yourself. Consumes the Med-Kit on use.
 
-![PatchNotesDivider.png](385-6-7-0-mid-chapter/12-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 
@@ -339,7 +339,7 @@ You asked for it for a long time, and it's finally here: using the Bloodweb has 
 - Archive and Event cinematics should now be accessible in lobbies and be interruptable.
 - Inviting a player on PS5 to your lobby made on PS4, or vice-versa, should now work correctly, even if the invited player does not have the game running.
 
-![PatchNotesDivider.png](385-6-7-0-mid-chapter/13-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Known Issues
 

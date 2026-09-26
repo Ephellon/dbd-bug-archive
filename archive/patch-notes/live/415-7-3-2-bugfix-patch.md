@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/415-7-3-2-bugfix-p
 author: "Peanits"
 published: "2023-10-26T14:27:37+00:00"
 updated: "2023-10-26T14:53:57+00:00"
-archived: "2026-09-26T16:40:29Z"
+archived: "2026-09-26T17:08:44Z"
 ---
 
 <!-- summary -->
@@ -21,13 +21,13 @@ The Skull Merchant’s Low Power Mode add-on was overhauled, halting drone rotat
 
 # 7.3.2 | Bugfix Patch
 
-![PatchNotesBanner732.jpg](415-7-3-2-bugfix-patch/01-patchnotesbanner732.jpg)
+![PatchNotesBanner732.jpg](../../images/db2ef9e8990124cf-patchnotesbanner732.jpg)
 
 ## Release Schedule
 
 Update releases: 11a.m. ET
 
-![PatchNotesDivider.png](415-7-3-2-bugfix-patch/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Content
 
@@ -43,7 +43,7 @@ The maximum number of pallets spawned in the Shattered Square Map has been incre
 
 *Note: The map is not guaranteed to generate with this many pallets and will instead prematurely stop spawning pallets if the minimum pallet requirement has been reached and there are no more valid positions far enough from other pallets.*
 
-![PatchNotesDivider.png](415-7-3-2-bugfix-patch/03-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 

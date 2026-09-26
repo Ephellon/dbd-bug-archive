@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/414-7-3-1-bugfix-p
 author: "dance"
 published: "2023-10-18T14:23:58+00:00"
 updated: "2023-10-18T15:04:46+00:00"
-archived: "2026-09-26T16:40:29Z"
+archived: "2026-09-26T17:08:45Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The Trapper’s Bear Traps now spawn near generators at trial start, and the Sku
 
 # 7.3.1 | Bugfix Patch
 
-![dead-by-daylight-update-7-3-1-banner.jpg](414-7-3-1-bugfix-patch/01-dead-by-daylight-update-7-3-1-banner.jpg)
+![dead-by-daylight-update-7-3-1-banner.jpg](../../images/6ffc0c3dd11cedbf-dead-by-daylight-update-7-3-1-banner.jpg)
 
 ## Release Schedule
 
@@ -29,7 +29,7 @@ The Trapper’s Bear Traps now spawn near generators at trial start, and the Sku
 - "Haunted by Daylight" Halloween event starts: 2PM ET
 - "Haunted by Daylight" Halloween event tome opens: 2 PM ET
 
-![patchnotesdivider.png](414-7-3-1-bugfix-patch/02-patchnotesdivider.png)
+![patchnotesdivider.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Content
 
@@ -55,7 +55,7 @@ The Trapper’s Bear Traps now spawn near generators at trial start, and the Sku
 - Collection Milestone Rewards
   - Milestone Rewards are a set of rewards that you unlock simply by unlocking event collection rewards. Earn all event cosmetics to unlock them all!
 
-![patchnotesdivider.png](414-7-3-1-bugfix-patch/03-patchnotesdivider.png)
+![patchnotesdivider.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Bug Fixes
 
@@ -121,7 +121,7 @@ The Trapper’s Bear Traps now spawn near generators at trial start, and the Sku
 - Fixed an issue that caused missing a Brand New Part skill check to disable Generator passive regression.
 - Fixed older Event Cosmetics (such as Frosty Eyes) missing from players' inventories.
 
-![patchnotesdivider.png](414-7-3-1-bugfix-patch/04-patchnotesdivider.png)
+![patchnotesdivider.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Known Issue**s
 

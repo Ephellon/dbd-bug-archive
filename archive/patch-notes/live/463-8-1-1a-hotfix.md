@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/463-8-1-1a-hotfix"
 author: "Peanits"
 published: "2024-07-31T14:25:26+00:00"
 updated: "2024-07-31T14:25:26+00:00"
-archived: "2026-09-26T16:40:22Z"
+archived: "2026-09-26T17:08:38Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Version 8.1.1a introduces a hotfix that resolves a map-tile desynchronization is
 
 # 8.1.1a | Hotfix
 
-![FORUM.png](463-8-1-1a-hotfix/01-forum.png)
+![FORUM.png](../../images/8d8036bf3b13c4e4-forum.png)
 
 *This update will release as soon as it becomes available on each platform. Players on version 8.1.1a will be unable to matchmake or join parties with players on version 8.1.1.*
 

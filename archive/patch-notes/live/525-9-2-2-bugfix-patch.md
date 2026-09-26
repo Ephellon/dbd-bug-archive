@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/525-9-2-2-bugfix-p
 author: "ThatRyanB"
 published: "2025-10-07T14:30:02+00:00"
 updated: "2025-10-07T14:59:33+00:00"
-archived: "2026-09-26T16:40:11Z"
+archived: "2026-09-26T17:08:29Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The Krasue receives ability adjustments: leech fully removed on hook, head-form 
 
 # 9.2.2 | Bugfix Patch
 
-![922_PatchNotes_FORUM.png](525-9-2-2-bugfix-patch/01-922-patchnotes-forum.png)
+![922_PatchNotes_FORUM.png](../../images/c70a03d7d459e5b0-922-patchnotes-forum.png)
 
 ## Content
 
@@ -34,7 +34,7 @@ The Krasue receives ability adjustments: leech fully removed on hook, head-form 
 - Increased Regurgitate thrown cooldown duration to **1.3 seconds** *(was 1)*.
 - Increased Regurgitate cancelled cooldown duration to **1.3 seconds** *(was 0.1)*.
 
-![bar_white.png](525-9-2-2-bugfix-patch/02-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Survivor Perk Updates
 
@@ -44,7 +44,7 @@ The Krasue receives ability adjustments: leech fully removed on hook, head-form 
 
 *Dev note: The intention with this change is for the perk to help with tunneling that occurs within a reasonable timeframe of being unhooked, while reducing the possibility of using it aggressively more than 40 seconds after being saved from the hook.*
 
-![bar_red.png](525-9-2-2-bugfix-patch/03-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Bug Fixes
 
@@ -107,7 +107,7 @@ The Krasue receives ability adjustments: leech fully removed on hook, head-form 
 - Fixed an issue where points were not deducted from the Malicious Emblem when a Survivor was dropped by the Killer while wiggling.
 - Fixed an issue where The Shape's Mori while in Evil Incarnate Mode would not count towards the Evil Incarnate achievement/Trophy.
 
-![bar_red.png](525-9-2-2-bugfix-patch/04-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Known Issues
 

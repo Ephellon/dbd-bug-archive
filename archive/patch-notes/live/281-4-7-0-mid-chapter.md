@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/281-4-7-0-mid-chap
 author: "Peanits"
 published: "2021-05-04T14:27:04+00:00"
 updated: "2021-05-05T19:04:03+00:00"
-archived: "2026-09-26T16:40:52Z"
+archived: "2026-09-26T17:09:05Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Mid-Chapter 4.7 adds Tome VII to the Archives, replaces settings checkboxes with
 
 # 4.7.0 | Mid-Chapter
 
-![470Banner.png](281-4-7-0-mid-chapter/01-470banner.png)
+![470Banner.png](../../images/7c10acc490bee763-470banner.png)
 
 ## Content
 
@@ -50,7 +50,7 @@ Mid-Chapter 4.7 adds Tome VII to the Archives, replaces settings checkboxes with
 - Optimized Doctor VFX to improve performance.
 - Reduced the intensity of the glitch and madness screen effects.
 
-![PatchNotesDividerSmolWhite.png](281-4-7-0-mid-chapter/02-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 **The Twins Post-Release Update**
 
@@ -62,7 +62,7 @@ With this update, we've tried to widen the window for counterplay when attemptin
 - Silencing Cloth grants Undetectable for 20 seconds (was 12 seconds).
 - Iridescent Pendant inflicts Exposed for 30 seconds (was 12 seconds).
 
-![PatchNotesDividerSmolWhite.png](281-4-7-0-mid-chapter/03-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 **The Demogorgon Gameplay Update**
 
@@ -93,7 +93,7 @@ The Demogorgon's portals have been adjusted to be usable more frequently, traver
 - Leprose Lichen: Survivor auras remain for 3 seconds after emerging from a portal.
 - Red Moss: When traversing the Upside Down, The Demogorgon emerges from the target portal silently but more slowly.
 
-![PatchNotesDividerSmolWhite.png](281-4-7-0-mid-chapter/04-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 **The Nightmare Gameplay Update**
 
@@ -114,7 +114,7 @@ The Nightmare has been overperforming for some time, and his game slowdown addon
 - Outdoor Rope: While Survivors are in the Dream World, the sounds of their generator repairs can be heard from 8 meters further away.
 - Swing Chains: While Survivors are in the Dream World, the sounds of their footsteps are 50% louder.
 
-![PatchNotesDividerSmolWhite.png](281-4-7-0-mid-chapter/05-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 **The Huntress Addon Update**
 
@@ -133,7 +133,7 @@ The Huntress was among the last of the older killers with incorrect add-on rarit
 - Venomous Concoction: Inflicts Exhausted status for 5 seconds (was 90 seconds).
 - Iridescent Head: Prevents carrying more than one Hatchet.
 
-![PatchNotesDividerSmolWhite.png](281-4-7-0-mid-chapter/06-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 **More Live Design**
 
@@ -170,7 +170,7 @@ The new Object of Obsession design previewed on the dev stream has been complete
 
 - A new Tome and Rift will be added to the Archives in the next few days
 
-![PatchNotesDivider.png](281-4-7-0-mid-chapter/07-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 **Changes from PTB to Live**
 
@@ -192,7 +192,7 @@ The new Object of Obsession design previewed on the dev stream has been complete
 - Demogorgon Portal no longer audible by survivors until activated
 - The Hillbilly chainsaw will now rev continuously while in the charge state
 
-![PatchNotesDivider.png](281-4-7-0-mid-chapter/08-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 **Bug Fixes**
 

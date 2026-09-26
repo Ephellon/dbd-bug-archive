@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/507-developer-upda
 author: "ThatRyanB"
 published: "2025-05-26T12:58:23+00:00"
 updated: "2025-05-26T12:58:23+00:00"
-archived: "2026-09-26T16:42:48Z"
+archived: "2026-09-26T17:10:40Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ The Lich now starts with all spells, has lower cooldowns and faster Dispelling S
 
 # Developer Update | May 2025
 
-![PTB_DeveloperUpdate_May2025.png](507-developer-update-may-2025/01-ptb-developerupdate-may2025.png)
+![PTB_DeveloperUpdate_May2025.png](../images/ebe924a8fa1da31c-ptb-developerupdate-may2025.png)
 
 The 9.0.0 Update will be here before we know it, so it's time once again to take a look at the notable gameplay changes you can expect from tomorrow’s Public Test Build. As with last time, stay tuned for the PTB Patch Notes where we’ll share the precise values that are changing for each of the topics below!
 
@@ -31,7 +31,7 @@ Read on for all the details:
 
 ## NEW FEATURES
 
-![image-9c94a9fa5acaf-cd46.png](507-developer-update-may-2025/02-image-9c94a9fa5acaf-cd46.png)
+![image-9c94a9fa5acaf-cd46.png](../images/d9f23b2729ff13ec-image-9c94a9fa5acaf-cd46.png)
 
 - Added a system to identify whether a Survivor’s sacrifice is an intentional attempt at “going next”.
 - If a player is identified as intentionally “going next”, they will receive a Disconnection Penalty Point.
@@ -46,7 +46,7 @@ Read on for all the details:
 
 ***DEV NOTE**: We’ve made the above changes in order to tackle “going next” from two directions: penalizing repeat offenses and limiting exploitability of self-unhooks. By restricting early-match self-unhooks to specific perks and offerings, this still allows players to work it into their strategy while limiting cases where it’s used in bad faith.*
 
-![image-608587c81d8e2-013c.png](507-developer-update-may-2025/03-image-608587c81d8e2-013c.png)
+![image-608587c81d8e2-013c.png](../images/da96e3dcc3cbfd56-image-608587c81d8e2-013c.png)
 
 - Updated AFK detection system.
 - Reminder: If a player is considered AFK crows will gradually begin spawning above the Survivor, beginning with 1 and capping at 3.
@@ -54,15 +54,15 @@ Read on for all the details:
 
 ***DEV NOTE**: With this updated system, we’ve adjusted how the game identifies players who have stopped contributing to a match. While the crow system largely functions as before, an additional effect at 3 crows prevents Survivors from intentionally griefing teammates with body blocking, while also preventing the Killer from holding Survivors hostage.*
 
-![image-2fa1565808f67-ab2a.png](507-developer-update-may-2025/04-image-2fa1565808f67-ab2a.png)
+![image-2fa1565808f67-ab2a.png](../images/11446665973f81ee-image-2fa1565808f67-ab2a.png)
 
 - Added an Auto Bloodweb button which allows you to set how many levels you want to automatically progress through, Bloodpoints permitting.
 
 ***DEV NOTE**: It’s no secret this is one of the most common community requests, so we’re excited to put this in your hands! It’s what it says on the tin, so check out this GIF. Even better, we’ve removed some recurring pop-ups after you see them once to make your time in the Bloodweb even more snappy.*
 
-![BloodwebSpendingImprovements.gif](507-developer-update-may-2025/05-bloodwebspendingimprovements.gif)
+![BloodwebSpendingImprovements.gif](../images/3c6fdaa01b650f00-bloodwebspendingimprovements.gif)
 
-![image-f02c00ca8a2ed-f389.png](507-developer-update-may-2025/06-image-f02c00ca8a2ed-f389.png)
+![image-f02c00ca8a2ed-f389.png](../images/4977635234120181-image-f02c00ca8a2ed-f389.png)
 
 - Updated the Mori system so that it can now also be activated when 2 or more Survivors are dead, and the following occurs:
   - The second-last Survivor is Hooked and on Struggle Phase
@@ -70,7 +70,7 @@ Read on for all the details:
 
 ***DEV NOTE**: With this change, Killers will be able to activate their Mori earlier – so long as victory is assured – removing the need to wait for any hooked Survivors to be Sacrificed. This will let players on both sides get back into the action sooner.*
 
-![image-b406488fbcd478-216f.png](507-developer-update-may-2025/07-image-b406488fbcd478-216f.png)
+![image-b406488fbcd478-216f.png](../images/39e76f65af2a219a-image-b406488fbcd478-216f.png)
 
 - Map offerings grant a flat percentage chance of being sent to the associated Realm. This chance is no longer a guarantee.
 - Map offerings no longer stack their effects.
@@ -78,7 +78,7 @@ Read on for all the details:
 
 ***DEV NOTE**: By making map and gameplay-affecting offerings secret on loading screens, our intention is to preserve the element of surprise, preventing the opposing role from starting the match with knowledge of your strategy.*
 
-![image-af2845f11693a-5cf0.png](507-developer-update-may-2025/08-image-af2845f11693a-5cf0.png)
+![image-af2845f11693a-5cf0.png](../images/39a8b80f33b2811b-image-af2845f11693a-5cf0.png)
 
 - Adjusted the following spawn rules:
   - Survivors spawn as close together as possible
@@ -91,22 +91,22 @@ Read on for all the details:
 
 *We also know certain Shroud offerings have historically worked counter to what each role might want, so we’ve adjusted them to better line up with these expectations.*
 
-![image-29157d3c74de38-ae2d.png](507-developer-update-may-2025/09-image-29157d3c74de38-ae2d.png)
+![image-29157d3c74de38-ae2d.png](../images/20c51c4bbd161e3a-image-29157d3c74de38-ae2d.png)
 
 - Added a Video category to the Graphics Settings menu.
 - Added a Brightness setting to the Video category to adjust Gamma.
 
 ***DEV NOTE**: Dead by Daylight is a game that relies heavily on the play between light and dark, which can be difficult to strike a balance between when playing on console, given the more limited options available. To help alleviate this, we’ve added a setting for adjusting Gamma, which gives players more control over how light and dark elements are displayed.*
 
-![GammaSetting_Menu.png](507-developer-update-may-2025/10-gammasetting-menu.png) ![GammaSetting_Lowest.png](507-developer-update-may-2025/11-gammasetting-lowest.png)
+![GammaSetting_Menu.png](../images/f911f922e5ed3f3a-gammasetting-menu.png) ![GammaSetting_Lowest.png](../images/17ea70ec825325f7-gammasetting-lowest.png)
 
 *Lowest Setting*
 
-![GammaSetting_Highest.png](507-developer-update-may-2025/12-gammasetting-highest.png)
+![GammaSetting_Highest.png](../images/cd0c18ad2b6dddf5-gammasetting-highest.png)
 
 *Highest Setting*
 
-![image-046ff9f3ef2b08-b340.png](507-developer-update-may-2025/13-image-046ff9f3ef2b08-b340.png)
+![image-046ff9f3ef2b08-b340.png](../images/946f38713c574b7d-image-046ff9f3ef2b08-b340.png)
 
 - Increased spectator slots in Custom Game to 5.
 - Added hotkey inputs to Custom Game spectating to quickly switch the view to a specific character and cycle through character views one-by-one.
@@ -118,7 +118,7 @@ Read on for all the details:
 
 ## KILLER UPDATES
 
-![image-7f1ffc19f974d8-8287.png](507-developer-update-may-2025/14-image-7f1ffc19f974d8-8287.png)
+![image-7f1ffc19f974d8-8287.png](../images/3c46ca93946ff8da-image-7f1ffc19f974d8-8287.png)
 
 - Adjusted several Add-Ons.
 
@@ -126,7 +126,7 @@ Read on for all the details:
 
 *Stay tuned for the patch notes for specific details on these changes.*
 
-![image-cf1c030fd92c08-bcff.png](507-developer-update-may-2025/15-image-cf1c030fd92c08-bcff.png)
+![image-cf1c030fd92c08-bcff.png](../images/84485227d0b71f9d-image-cf1c030fd92c08-bcff.png)
 
 - All of The Lich’s Spells are available at the start of a Trial.
 - Reduced cooldowns of all Spells.
@@ -144,7 +144,7 @@ Read on for all the details:
 
 ## PERK UPDATES
 
-![image-69f3273105e198-2103.png](507-developer-update-may-2025/16-image-69f3273105e198-2103.png)
+![image-69f3273105e198-2103.png](../images/5fb4bf8bd1975d5e-image-69f3273105e198-2103.png)
 
 - Updated **Call of Brine**
 - Updated **Dark Devotion**
@@ -157,7 +157,7 @@ Read on for all the details:
 
 ***DEV NOTE**: We’ve adjusted values on the above perks which boasted lower pick and kill rates to introduce small buffs to increase their viability. Stay tuned for the patch notes for specific details on these value changes.*
 
-![image-9cf40afc56aaa-6d85.png](507-developer-update-may-2025/17-image-9cf40afc56aaa-6d85.png)
+![image-9cf40afc56aaa-6d85.png](../images/0aa600a1b5779ea2-image-9cf40afc56aaa-6d85.png)
 
 - Updated **Botany Knowledge**
 - Updated **Champion of Light**

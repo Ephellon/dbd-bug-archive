@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/439-7-6-1-bugfix-p
 author: "Peanits"
 published: "2024-03-25T14:27:25+00:00"
 updated: "2024-03-25T14:27:25+00:00"
-archived: "2026-09-26T16:40:25Z"
+archived: "2026-09-26T17:08:41Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Twins killer returns to live play, the Hag’s egg add-ons receive increased Pha
 
 # 7.6.1 | Bugfix Patch
 
-![CA_DBD_0224_Applepie_Patch_Notes_Assets_Bugfix01_FORUM.png](439-7-6-1-bugfix-patch/01-ca-dbd-0224-applepie-patch-notes-assets-bugfix01-forum.png)
+![CA_DBD_0224_Applepie_Patch_Notes_Assets_Bugfix01_FORUM.png](../../images/8ee761788a2fcbee-ca-dbd-0224-applepie-patch-notes-assets-bugfix01.png)
 
 ## Content
 
@@ -49,7 +49,7 @@ Twins killer returns to live play, the Hag’s egg add-ons receive increased Pha
 - Reaction time versus Powers now increases according to distance between Survivor Bot and Killer
 - Reaction time versus Powers now increases when Survivor Bot does not see the Killer
 
-![PatchNotesDivider.png](439-7-6-1-bugfix-patch/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 
@@ -96,7 +96,7 @@ Twins killer returns to live play, the Hag’s egg add-ons receive increased Pha
 
 - Fixed an issue that caused the Skull Merchant's Scarlet Vengeance outfit to be missing arms on Nintendo Switch.
 
-![PatchNotesDivider.png](439-7-6-1-bugfix-patch/03-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Known Issues
 

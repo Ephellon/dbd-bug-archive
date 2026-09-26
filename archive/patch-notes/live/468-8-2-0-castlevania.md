@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/468-8-2-0-castleva
 author: "Peanits"
 published: "2024-08-27T15:54:18+00:00"
 updated: "2024-08-27T15:54:19+00:00"
-archived: "2026-09-26T16:40:21Z"
+archived: "2026-09-26T17:08:37Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Trevor Belmont joins as a new survivor with three fresh perks, while The Dark Lo
 
 # 8.2.0 | Castlevania
 
-![CA_DBD_0524_Eclair_Patch_Notes_Assets_ReleaseFORUM.jpg](468-8-2-0-castlevania/01-ca-dbd-0524-eclair-patch-notes-assets-releaseforum.jpg)
+![CA_DBD_0524_Eclair_Patch_Notes_Assets_ReleaseFORUM.jpg](../../images/8797f87dd7bd245a-ca-dbd-0524-eclair-patch-notes-assets-releasefor.jpg)
 
 ## Content
 
@@ -40,7 +40,7 @@ Trevor Belmont joins as a new survivor with three fresh perks, while The Dark Lo
 - This Perk activates after you open or rummage through **2 chests**. When you become injured, you become broken. Automatically heal 1 health state after **80/70/60 seconds.** Then, this perk deactivates.  
   *This effect is cancelled if you enter the dying state.This perk will not activate if you are already suffering from the Broken status effect*.
 
-![PatchNotesDividerSmolWhite.png](468-8-2-0-castlevania/02-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### New Killer - The Dark Lord
 
@@ -68,7 +68,7 @@ The Dark Lord has access to three Forms and can freely change between them. Each
 
 - The first time each totem and each chest is interacted with by a Survivor, that totem or chest is blocked by the Entity for **4/6/8 seconds**. The auras of blocked totems and chests are revealed to you in white.
 
-![PatchNotesDividerSmolWhite.png](468-8-2-0-castlevania/03-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Killer Updates
 
@@ -121,7 +121,7 @@ The Dark Lord has access to three Forms and can freely change between them. Each
    Jailer: 25 seconds
 - Despawning a **patrolling** Guard by hitting them with a basic attack decreases the cooldown to 10 seconds *(NEW)*
 
-![PatchNotesDividerSmolWhite.png](468-8-2-0-castlevania/04-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Survivor Perk Updates
 
@@ -135,13 +135,13 @@ The Dark Lord has access to three Forms and can freely change between them. Each
 - **Mirrored Illusion** Activates after completing a total of 20% worth of repair progress on generators. *(was 50%)*
 - **Wiretap** Activates after completing a total of 40% worth of repair progress on generators. *(was 50%)*
 
-![PatchNotesDividerSmolWhite.png](468-8-2-0-castlevania/05-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### General Gameplay Updates
 
 - Increase hook stage drain timer to 70 seconds. *(was 60 seconds)*
 
-![PatchNotesDividerSmolWhite.png](468-8-2-0-castlevania/06-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Map Updates
 
@@ -155,14 +155,14 @@ Midwich Elementary School also benefited from a gameplay pass.
  The school has been revisited to find a better combination of obstacles and reduce the long line of sight of the school corridors.  
  A pass on both the interior (classrooms) and exterior tiles has also been done, updating the current gameplay and adding new exterior tiles for variation.
 
-![PatchNotesDividerSmolWhite.png](468-8-2-0-castlevania/07-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ## Events & Archives
 
 - **Modifier: Lights Out - Castlevania** begins September 12th at 11:00am Eastern.  
    This Modifier also features an event tome.
 
-![PatchNotesDivider.png](468-8-2-0-castlevania/08-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Features
 
@@ -170,13 +170,13 @@ Midwich Elementary School also benefited from a gameplay pass.
 
 - Added the support for Intel XeSS for PC
 
-![PatchNotesDividerSmolWhite.png](468-8-2-0-castlevania/09-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Live Data Reboot
 
 As part of our Live operations, we occasionally deploy updates to the game without needing an update of the game application itself. These updates includes kill switches and new cosmetics, amongst other data. Starting from this release, when a critical data update is required to be downloaded by the game, you may see a popup asking you to return to the splash screen.
 
-![PatchNotesDividerSmolWhite.png](468-8-2-0-castlevania/10-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### UX
 
@@ -198,14 +198,14 @@ As part of our Live operations, we occasionally deploy updates to the game witho
 
 - Disabled options are shown are greyed out, instead of having a black/transparent background.
 
-![PatchNotesDividerSmolWhite.png](468-8-2-0-castlevania/11-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Misc
 
 - The Prestige levels of other players is no longer visible within an Online Lobby (post-matchmaking).
 - Upgraded EasyAntiCheat to new version. **(PC only)**
 
-![PatchNotesDivider.png](468-8-2-0-castlevania/12-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 
@@ -268,7 +268,7 @@ As part of our Live operations, we occasionally deploy updates to the game witho
 - Fixed an issue where Bloodweb item names are no longer in uppercase.
 - Fixed an issue where the cursor is disabled during the offering screen in the custom game.
 
-![PatchNotesDivider.png](468-8-2-0-castlevania/13-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Public Test Build (PTB) Adjustments
 
@@ -304,7 +304,7 @@ As part of our Live operations, we occasionally deploy updates to the game witho
 - Quick as the Night: Changed blood point value to 600 (was 800)
 - Quick as the Night: Changed to 6.0 seconds (was 3.0 seconds)
 
-![PatchNotesDividerSmolWhite.png](468-8-2-0-castlevania/14-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Killer Perks
 
@@ -312,13 +312,13 @@ As part of our Live operations, we occasionally deploy updates to the game witho
 
 - Reduced cooldown from 80/70/60 to 60/45/30 seconds
 
-![PatchNotesDividerSmolWhite.png](468-8-2-0-castlevania/15-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Misc
 
 - There is now a limit of 4 million of any Item, Add-on or Offering, raised from the limit in PTB.
 
-![PatchNotesDividerSmolWhite.png](468-8-2-0-castlevania/16-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Bug Fixes
 

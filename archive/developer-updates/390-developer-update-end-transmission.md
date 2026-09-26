@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/390-developer-upda
 author: "Peanits"
 published: "2023-06-02T13:58:17+00:00"
 updated: "2023-06-02T13:58:17+00:00"
-archived: "2026-09-26T16:43:17Z"
+archived: "2026-09-26T17:10:52Z"
 ---
 
 <!-- summary -->
@@ -21,13 +21,13 @@ New killer The Singularity got EMP scarcity tweaks, clearer disabled Biopod visu
 
 # Developer Update | End Transmission
 
-![Developer update-1920x1080-TOTEM-idea copy.png](390-developer-update-end-transmission/01-developer-update-1920x1080-totem-idea-copy.png)
+![Developer update-1920x1080-TOTEM-idea copy.png](../images/8ea0631accef4a2a-developer-update-1920x1080-totem-idea-copy.png)
 
 Last week, the upcoming End Transmission Chapter hit the Public Test Build (PTB). Since then, we’ve been watching very closely to see what you have to say about it. While it’s been a pleasure seeing so many people enjoying the new content, we’ve also caught on to a few pain points which we plan to address before the Chapter goes live June 13th.
 
 In this post, we’d like to take a moment to share our findings as well as the changes you can expect to see when the update goes live.
 
-![Singularity.png](390-developer-update-end-transmission/02-singularity.png)
+![Singularity.png](../images/8bb99857469f7d48-singularity.png)
 
 ## The Singularity
 
@@ -44,11 +44,11 @@ Additionally, **Survivors who are currently holding an EMP will no longer see th
 
 Another piece of feedback we received is that it wasn’t very clear when Biopods were disabled. During the PTB, the only way to tell you were controlling a disabled Biopod was the colour of the targeting reticle. This isn’t immediately obvious if it’s your first time playing The Singularity, so we’ve revisited these visuals to make it more clear:
 
-![Disabled.png](390-developer-update-end-transmission/03-disabled.png)
+![Disabled.png](../images/deef7aa9ace6686a-disabled.png)
 
 Lastly, we’ve added a meter to the Power icon to represent Overclock duration. This will give you a better idea of how long it will last after teleporting so you can better plan your next move. At the same time, we’ve updated two Add-ons (Diagnostic Tool (Repair) and Nanomachine Gel) to be active during Overclock rather than ‘after teleporting’ in order to make it clearer when their effects are active.
 
-![PyramidHead.png](390-developer-update-end-transmission/04-pyramidhead.png)
+![PyramidHead.png](../images/6d6bc6fbb507f6ce-pyramidhead.png)
 
 ## The Executioner
 
@@ -56,7 +56,7 @@ During the PTB, we made a change which allowed The Executioner’s Punishment of
 
 While this absolutely had the intended effects of spreading more Torment, we’ve also read some concerns regarding how this could be used to more effectively camp & tunnel. Since Punishment of the Damned can hit multiple Survivors, an unhook leaves both Survivors ripe for unavoidable Torment. Since it’s not possible to take protection hits to prevent a Survivor from being sent to the cage, we felt it was safer to reverse this change for the time being.
 
-![Perks.png](390-developer-update-end-transmission/05-perks.png)
+![Perks.png](../images/e0b9bea7d13cb9ca-perks.png)
 
 ## Perks
 

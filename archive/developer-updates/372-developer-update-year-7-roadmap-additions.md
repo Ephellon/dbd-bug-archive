@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/372-developer-upda
 author: "Peanits"
 published: "2023-01-26T14:57:12+00:00"
 updated: "2023-01-26T14:57:12+00:00"
-archived: "2026-09-26T16:43:23Z"
+archived: "2026-09-26T17:10:54Z"
 ---
 
 <!-- summary -->
@@ -25,7 +25,7 @@ It’s hard to believe that it’s already been 8 months since our last Annivers
 
 But first, a look back at the roadmap itself.
 
-![AM-3129_DBD-Year6_Broadcast_Year7-Roadmap-Visual_V04 copy.png](372-developer-update-year-7-roadmap-additions/01-am-3129-dbd-year6-broadcast-year7-roadmap-visual-v04-copy.png)
+![AM-3129_DBD-Year6_Broadcast_Year7-Roadmap-Visual_V04 copy.png](../images/bacf9dca7974a4e9-am-3129-dbd-year6-broadcast-year7-roadmap-visual.png)
 
 Kicking things off in July, we released one of the largest updates to date. This update rebalanced around 40 perks and completely overhauled the game’s progression system. Further progression and balance changes would be made throughout the year. Matchmaking Incentives were also introduced to help alleviate long queue times and provide a new avenue to earn Bloodpoints.
 
@@ -37,7 +37,7 @@ Before we knew it, January was upon us. The wiggle system was officially taken o
 
 But the question is, what’s next? As always, we’ll share our plans for the next year during our anniversary, but there’s still a few months before then, so let’s dig into a few more exciting features you can expect in the coming months.
 
-![Bloodweb.png](372-developer-update-year-7-roadmap-additions/02-bloodweb.png)
+![Bloodweb.png](../images/118f54d69f00600d-bloodweb.png)
 
 ## Bloodweb Improvements
 
@@ -45,7 +45,7 @@ If you went back in time one year and told people that “too many Bloodpoints�
 
 Within the next few months, we’ll be making improvements to the Bloodweb to make it easier and faster to spend your Bloodpoints than ever before.
 
-![Matchmaking.png](372-developer-update-year-7-roadmap-additions/03-matchmaking.png)
+![Matchmaking.png](../images/79026b2c712e0b43-matchmaking.png)
 
 ## Survivor Bot Loadouts
 
@@ -53,7 +53,7 @@ Survivor bots received a very warm welcome when they debuted late last year. Tho
 
 The first version of Bots in Custom Matches was fairly simple, but we’ll be expanding on the feature shortly with loadouts, allowing you to introduce more variety in the Survivor bots you face. Please note that not all perks will be available to bots: Some perks will ultimately be too complicated for them to use effectively, and we’d hate to make them too smart and be the cause of the robot uprising.
 
-![Maps.png](372-developer-update-year-7-roadmap-additions/04-maps.png)
+![Maps.png](../images/37f15d1335ae0948-maps.png)
 
 ## Map Repeat Prevention
 
@@ -61,7 +61,7 @@ Variety is the spice of life and Dead by Daylight is no exception. With so many 
 
 Soon, we’ll introduce a new mechanic which guarantees that you won’t be sent to the same map twice in a row. The odds of being sent to the same map will also be decreased (yet still possible) for the next few matches.
 
-![TerrorRadius.png](372-developer-update-year-7-roadmap-additions/05-terrorradius.png)
+![TerrorRadius.png](../images/d7a7618cb214f4eb-generic.png)
 
 ## Visual Terror Radius
 
@@ -69,19 +69,19 @@ This past year, we’ve been working hard to make Dead by Daylight more accessib
 
 To remedy this, we’ll be introducing new accessibility options which, when enabled, will provide a visual representation of terror radius.
 
-![Visual.png](372-developer-update-year-7-roadmap-additions/06-visual.png)
+![Visual.png](../images/0f0d4dcb90ee11e2-visual.png)
 
 ## Visual Update
 
 The Realm Beyond continues! We’re in the process of visually updating one of our older realms. By now, you probably know what to expect, so we’ll save the teasers for when this update is a little closer. That said, there aren’t many realms left to update, so you’ve got a pretty good chance of guessing which one it is.
 
-![Perks.png](372-developer-update-year-7-roadmap-additions/07-perks.png)
+![Perks.png](../images/e0b9bea7d13cb9ca-perks.png)
 
 ## Perk Updates
 
 We’ve put a lot of focus on general improvements and quality of life features as of late, but we’re pleased to say that perk balancing is going to pick back up shortly. Like before, we’re hoping to include a small package of perk changes with each Mid-Chapter Update going forward. We’ll share more details as these perk changes are closer to release, but since we know what you’re about to ask, yes, one of the perks we’re looking into do rhyme with Shmeruption.
 
-![Store.png](372-developer-update-year-7-roadmap-additions/08-store.png)
+![Store.png](../images/0f9053b26a884d54-store.png)
 
 ## Limited Time Cosmetics
 

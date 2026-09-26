@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/527-9-3-0-ptb-patc
 author: "ThatRyanB"
 published: "2025-11-04T15:30:10+00:00"
 updated: "2025-11-04T15:30:10+00:00"
-archived: "2026-09-26T16:40:56Z"
+archived: "2026-09-26T17:09:08Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Unhook Protections now give survivors 30 s of 10 % Haste, Endurance, Elusive, si
 
 # 9.3.0 | PTB Patch Notes
 
-![930_PTB_Forum.jpg](527-9-3-0-ptb-patch-notes/01-930-ptb-forum.jpg)
+![930_PTB_Forum.jpg](../../images/f94a88d7e4e31303-930-ptb-forum.jpg)
 
 ## Important
 
@@ -32,7 +32,7 @@ Unhook Protections now give survivors 30 s of 10 % Haste, Endurance, Elusive, si
 - All offerings, items, and add-ons will be pre-loaded with 99 units available.
 - 12,500 Auric Cells and 1 million Bloodpoints will be given on each new PTB version, available to explore Outfits and Characters in the Store.
 
-![bar_red.png](527-9-3-0-ptb-patch-notes/02-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Features
 
@@ -73,7 +73,7 @@ The following perks have been updated. See the Perk Updates sections below for m
 - **Killer:** Furtive Chase
 - **Survivor:** Babysitter, Borrowed Time, Breakdown, Off the Record, Wicked
 
-![bar_white.png](527-9-3-0-ptb-patch-notes/03-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Slugging Reduction Update
 
@@ -99,7 +99,7 @@ The following perk has been updated. See the Perk Updates sections below for mor
 
 - **Survivor:** Tenacity
 
-![bar_white.png](527-9-3-0-ptb-patch-notes/04-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Hook Improvements
 
@@ -122,7 +122,7 @@ The following perk has been updated. See the Perk Updates sections below for mor
 
 *Dev note: To make the Anti-Facecamp mechanic fairer to both sides, we've reduced the base fill rate and added the time the Killer remains near the hook as a modifier. This gives Killers who are not camping more freedom to pass by a hook (particularly in cramped spaces like hallways) without worrying about the meter filling and giving the Survivor a free escape. This also means that Survivors who are being camped for extended periods gain the ability to unhook themselves slightly earlier.*
 
-![bar_white.png](527-9-3-0-ptb-patch-notes/05-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### AFK Crows
 
@@ -130,7 +130,7 @@ The following perk has been updated. See the Perk Updates sections below for mor
 
 *Dev note: Following the release of the updated AFK crow system, we increased the time it took to gain crows. This was much too generous, allowing for Survivors to avoid crows too easily. We're dialing back the values a little bit to a middle ground between the original values and the live values.*
 
-![bar_red.png](527-9-3-0-ptb-patch-notes/06-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Content
 
@@ -158,7 +158,7 @@ The following perk has been updated. See the Perk Updates sections below for mor
 
 *Dev note: Skull Merchant has dropped fairly significantly in terms of Kill Rate and lethality. These buffs aim to make her drones a bigger threat and bring up her a little bit. Additionally, we've decreased the cooldown to deploying drones, and consequently decreased the duration of Undetectable to keep some downtime between her Undetectable status effect. When standing underneath a Drone, Survivors would get instant Lock On, which felt like a bug whenever it happened. The gradual increase of Lock On will feel more natural and provide feedback to the Survivor that something bad is happening to them. Lastly, we reduced the Drone's sensitivity to their mistress, to make sure they are always ready to scan Survivors during chases in tight spaces and don't ascend unintentionally.*
 
-![bar_white.png](527-9-3-0-ptb-patch-notes/07-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Killer addon updates
 
@@ -170,7 +170,7 @@ The following perk has been updated. See the Perk Updates sections below for mor
 
 *Dev note: Both of these addons were notorious for their ability to disable the Endurance Status Effect Survivors get when they are Unhooked. These changes aim to remove this ability to bypass the protection post-Unhook.*
 
-![bar_white.png](527-9-3-0-ptb-patch-notes/08-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Killer perk updates
 
@@ -181,7 +181,7 @@ The following perk has been updated. See the Perk Updates sections below for mor
 
 *Dev note: With the Bloodlust bonus offered for Unique Hooks, the synergy with Furtive Chase was higher than we would have wanted. We've changed Furtive Chase to its previous iteration of affecting the Terror Radius, without the downsides that it had.*
 
-![bar_white.png](527-9-3-0-ptb-patch-notes/09-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Survivor perk updates
 
@@ -207,7 +207,7 @@ The following perk has been updated. See the Perk Updates sections below for mor
 - **Tenacity:**
   - Re-added the ability to recover while crawling.
 
-![bar_white.png](527-9-3-0-ptb-patch-notes/10-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Survivor item addon updates
 
@@ -222,7 +222,7 @@ The following perk has been updated. See the Perk Updates sections below for mor
 
 *Dev note: These med-kit addons have been very strong for a very long time, extending chases that would have ended much sooner. We're making these changes to dial back the strength of med-kits when paired with these addons.*
 
-![bar_white.png](527-9-3-0-ptb-patch-notes/11-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Killer Score Events
 
@@ -239,7 +239,7 @@ The following perk has been updated. See the Perk Updates sections below for mor
 
 *Dev note: With all the changes coming to the Killer role alongside the Tunneling Reduction and Slugging Reduction updates, we thought it was the right time to raise a few Score Events to encourage Killers to start chases and spread first Hooks at the start of a match.*
 
-![bar_white.png](527-9-3-0-ptb-patch-notes/12-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### UX
 
@@ -259,7 +259,7 @@ The following perk has been updated. See the Perk Updates sections below for mor
 - Match details were separated of Settings
   - Players can use the Tab key on PC, or View/Select button on controllers, to open the Match Details
 
-![bar_white.png](527-9-3-0-ptb-patch-notes/13-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Environment/Maps
 
@@ -278,7 +278,7 @@ The following perk has been updated. See the Perk Updates sections below for mor
 
 *Dev note: As mentioned on our recent Community Stream, this is an initial test to gather player feedback. Adjustments may be made based on the feedback received, so please be sure to test this out and let us know what you think.*
 
-![bar_red.png](527-9-3-0-ptb-patch-notes/14-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Bug Fixes
 
@@ -367,7 +367,7 @@ The following perk has been updated. See the Perk Updates sections below for mor
 - Fixed an issue where idle crows on top of lockers were using the wrong idle animation.
 - Fixed an issue where Fog Vials were misaligned in Survivors hands in the trial.
 
-![bar_red.png](527-9-3-0-ptb-patch-notes/15-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Known Issues
 

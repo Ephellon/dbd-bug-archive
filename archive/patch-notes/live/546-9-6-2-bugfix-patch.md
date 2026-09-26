@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/546-9-6-2-bugfix-p
 author: "ThatRyanB"
 published: "2026-05-12T14:30:01+00:00"
 updated: "2026-05-12T14:30:01+00:00"
-archived: "2026-09-26T16:40:07Z"
+archived: "2026-09-26T17:08:25Z"
 ---
 
 <!-- summary -->
@@ -21,13 +21,13 @@ The Pig's Amanda’s Letter add-on has been re-enabled, restoring its effect on 
 
 # 9.6.2 | Bugfix Patch
 
-![DbD_962_Patch Notes_FORUM.png](546-9-6-2-bugfix-patch/01-dbd-962-patch-notes-forum.png)
+![DbD_962_Patch Notes_FORUM.png](../../images/4bfa72e6b3847881-dbd-962-patch-notes-forum.png)
 
 ## Important
 
 - The Pig's Amanda's Letter add-on has been re-enabled.
 
-![bar_red.png](546-9-6-2-bugfix-patch/02-bar-red.png)
+![bar_red.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## Bug Fixes
 

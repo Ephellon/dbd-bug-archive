@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/337-developer-upda
 author: "Peanits"
 published: "2022-06-20T16:15:29+00:00"
 updated: "2022-06-22T17:16:26+00:00"
-archived: "2026-09-26T16:43:29Z"
+archived: "2026-09-26T17:10:56Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The June 2022 update introduces a complete overhaul of perk progression, tying p
 
 # Developer Update | June 2022
 
-![Announcement.png](337-developer-update-june-2022/01-announcement.png)
+![Announcement.png](../images/0cce4b78fac37f6b-announcement.png)
 
 During our 6th Anniversary Broadcast, we announced a new progression system and a meta-shifting perk overhaul. We’re thrilled to say that both initiatives will headline the upcoming Mid-Chapter.
 
@@ -29,7 +29,7 @@ From the onset, it was important for us to release these changes as a package. O
 
 In this post, we’ll be detailing the upcoming changes, all of which will be available for testing in the Public Test Build (PTB) next week.
 
-![Progression.png](337-developer-update-june-2022/02-progression.png)
+![Progression.png](../images/6af993243f26ce60-progression.png)
 
 ## Overhauled Progression System
 
@@ -67,7 +67,7 @@ Reaching prestige levels 4, 5 and 6 will now award that character’s bloody pre
 
 For the completionists, prestige levels 7, 8 and 9 will each grant one of that character’s unique perks as a charm. We also wanted to highlight your dedication to your favourite characters no matter how many times you’ve prestiged them. Once a trial is over, your prestige level will now be shown in the space previously occupied by grades. Those who spend millions of Bloodpoints stockpiling add-ons for your favourite characters will now have a way of showcasing your hard work to the world.
 
-![Teaser3.png](337-developer-update-june-2022/03-teaser3.png)
+![Teaser3.png](../images/e2de3f1ec48fd1df-teaser3.png)
 
 ### Shrine of Secrets
 
@@ -85,7 +85,7 @@ Those who reach prestige 3 before the update will receive a special prestige ico
 
 We’ll be hosting a livestream soon to show the updated system in action and answer any questions you might have ahead of the PTB.
 
-![Matchmaking.png](337-developer-update-june-2022/04-matchmaking.png)
+![Matchmaking.png](../images/79026b2c712e0b43-matchmaking.png)
 
 ## Matchmaking Incentives
 
@@ -105,7 +105,7 @@ Playing in a group can also net you a bonus if Survivors are needed at the time.
 
 **Heads up:** Matchmaking incentives will be disabled if cross-play is turned off. As most players play with crossplay on, the system would be highly susceptible to manipulation, and switching roles would have a negligible effect on matchmaking. If you’d like to take advantage of these incentives, we strongly recommend turning on cross-play through the settings menu.
 
-![GAMEPLAY.png](337-developer-update-june-2022/05-gameplay.png)
+![GAMEPLAY.png](../images/06ef90af8165707d-gameplay.png)
 
 ## Gameplay Updates
 
@@ -166,7 +166,7 @@ Both effects will be cancelled prematurely if the unhooked Survivor performs wha
 
 With these base changes, we hope Survivors can switch up their perk loadouts without fear that camping and tunneling will cut their next match short.
 
-![Perks.png](337-developer-update-june-2022/06-perks.png)
+![Perks.png](../images/6ff27d2eb3e56ab5-perks.png)
 
 ## Meta Perk Changes
 
@@ -182,15 +182,15 @@ For Survivors: **Dead Hard**, **Borrowed Time**, **Decisive Strike**, **Iron Wil
 
 We’d like to share these graphs showcasing the ten most frequently used perks for both roles. These charts alone do not explain why the meta exists – for that, we turn to community feedback – but hopefully they provide context for how heavily these perks are used.
 
-![perkusagebymmr-survivors-fullscreen.jpg](337-developer-update-june-2022/07-perkusagebymmr-survivors-fullscreen.jpg) ![perkusagebymmr-killers.jpg](337-developer-update-june-2022/08-perkusagebymmr-killers.jpg)
+![perkusagebymmr-survivors-fullscreen.jpg](../images/568789f1a08cc4a4-perkusagebymmr-survivors-fullscreen.jpg) ![perkusagebymmr-killers.jpg](../images/34e412281fcf808f-perkusagebymmr-killers.jpg)
 
 ### Killer Meta Perks
 
-![BBQ.png](337-developer-update-june-2022/09-bbq.png)
+![BBQ.png](../images/e7d35985483c15f9-bbq.png)
 
 **Barbecue and Chilli**
 
-Current effect: Upon hooking a Survivor, see the auras of distant Survivors for a short duration. Gain a stacking Bloodpoint bonus for each unique Survivor hooked.
+> Current effect: Upon hooking a Survivor, see the auras of distant Survivors for a short duration. Gain a stacking Bloodpoint bonus for each unique Survivor hooked.
 
 This perk is incredibly popular not because it’s particularly powerful, but because of the huge amount of Bloodpoints it provides. Choosing to go into a match without it massively slows your progression.
 
@@ -198,59 +198,59 @@ We do not want Bloodpoints to be the driving factor behind perk choices, so we w
 
 We believe this is a necessary step in making other aura reading perks more appealing, as Bloodpoint gain will no longer be the deciding factor.
 
-![Ruin.png](337-developer-update-june-2022/10-ruin.png)
+![Ruin.png](../images/8b21adb872afd491-ruin.png)
 
 **Hex: Ruin**
 
-*Current effect: Generators regress automatically at an increased rate whenever a Survivor is not working on them as long as the associated Hex totem is standing.*` `
+> *Current effect: Generators regress automatically at an increased rate whenever a Survivor is not working on them as long as the associated Hex totem is standing.*` `
 
 A massive part of Hex: Ruin’s appeal is not having to stop and kick generators, as well as the ability to passively regress them from a distance. These aspects make Ruin a unique slowdown perk, so we are not looking to change them.
 
 To bring Hex: Ruin in line with other perks, we are reducing the regression speed to 50/75/100% from 100/150/200%. This will reduce its power without destroying its primary appeal. After a Survivor is killed, Hex: Ruin will automatically deactivate.
 
-![PGTW.png](337-developer-update-june-2022/11-pgtw.png)
+![PGTW.png](../images/f70803f7ea5d4bb4-pgtw.png)
 
 **Pop Goes the Weasel**
 
-*Current effect: After hooking a Survivor, the next generator you kick within the time limit instantly loses 25% of its total progress.*
+> *Current effect: After hooking a Survivor, the next generator you kick within the time limit instantly loses 25% of its total progress.*
 
 Pop Goes the Weasel gives Killers a controlled way to remove significant progress from a generator of their choosing. Given that kicking a generator now removes 2.5% of its progress by default, we decided to tone down some numbers to compensate. This perk will now remove 20% of the generator’s *current* (not total) progress.
 
 This change will make Pop Goes the Weasel very effective against generators that are nearly done, but weaker against those with a small amount of progress.
 
-![CorruptIntervention.png](337-developer-update-june-2022/12-corruptintervention.png)
+![CorruptIntervention.png](../images/ba8856f6977783ff-corruptintervention.png)
 
 **Corrupt Intervention**
 
-*Current effect: At the start of the match, the three furthest generators are blocked for a while.*
+> *Current effect: At the start of the match, the three furthest generators are blocked for a while.*
 
 This perk makes the beginning of a match more manageable, forcing Survivors to extend deeper into the map before repairing a generator. We aren’t looking to change this aspect.
 
 Moving forward, the perk will deactivate once a Survivor enters the dying state. We believe this change will keep Corrupt Intervention effective in helping the Killer build early game pressure, while providing a limit to its power.
 
-![Tinkerer.png](337-developer-update-june-2022/13-tinkerer.png)
+![Tinkerer.png](../images/08ac579c30ed945d-tinkerer.png)
 
 **Tinkerer**
 
-*Current effect: When a generator reached 70% progress, receive a loud noise notification and become Undetectable for a short duration.*
+> *Current effect: When a generator reached 70% progress, receive a loud noise notification and become Undetectable for a short duration.*
 
 Tinkerer is a popular choice for the information it provides. Being able to prevent a generator from being powered is a game changer, particularly on Killers with high mobility. It can, however, become a little oppressive when paired with certain regression perks. Therefore, Tinkerer can now only activate once per generator – but with the base charges increased to 90, Killers will have extra time to approach.
 
-![NOED.png](337-developer-update-june-2022/14-noed.png)
+![NOED.png](../images/ec36d4d7f994d660-noed.png)
 
 **Hex: No One Escapes Death (Or NOED, for short)**
 
-*Current effect: When the exit gates are powered, all Survivors become exposed as long as the associated Hex totem is standing.*
+> *Current effect: When the exit gates are powered, all Survivors become exposed as long as the associated Hex totem is standing.*
 
 This perk makes for a very effective comeback tool, though it falls out of favour in high skill games. We like the way NOED encourages Survivors to pre-emptively cleanse Totems, so we are not looking to weaken its direct strength. Instead, Survivors will now see the Hex Totem’s aura within 4 meters upon activation. This range increases to 24m over the course of 30 seconds.
 
 We believe this change will keep NOED a strong choice for endgame builds, while encouraging Survivors to find the Totem and attempt that last second save.
 
-![PainResonance.png](337-developer-update-june-2022/15-painresonance.png)
+![PainResonance.png](../images/a3e3bb5f0ce57b78-painresonance.png)
 
 **Scourge Hook: Pain Resonance**
 
-*Current effect: Upon hooking a Survivor on a Scourge Hook, the generator with the most progress explodes, notifying the Killer and instantly loses a large chunk of progress.*
+> *Current effect: Upon hooking a Survivor on a Scourge Hook, the generator with the most progress explodes, notifying the Killer and instantly loses a large chunk of progress.*
 
 The most recent addition to the meta, Pain Resonance allows the Killer to remove a sizable chunk from the most progressed generator simply by hooking a Survivor. A loud noise notification also allows the Killer to disrupt the Survivors before they can continue repairing. A “jack of all trades” of sorts, granting both a powerful regression effect and crucial information.
 
@@ -258,11 +258,11 @@ With that in mind, we are removing the loud noise notification. Instead of explo
 
 ### Survivor Meta Perks
 
-![DeadHard.png](337-developer-update-june-2022/16-deadhard.png)
+![DeadHard.png](../images/14aa8fbf8f912770-deadhard.png)
 
 **Dead Hard**
 
-*Current effect: When activated, become immune to damage and dash a short distance.*
+> *Current effect: When activated, become immune to damage and dash a short distance.*
 
 Dead Hard is by far the most used perk by Survivors, and it’s easy to see why. In the right hands, it acts like a third health state, allowing a Survivor to escape a situation where they would otherwise go down.
 
@@ -270,11 +270,11 @@ There are two main ways Dead Hard is used: To dodge a hit and for distance (to g
 
 This will remove “Dead Harding for distance” and make it solely used to dodge hits, which Killers can anticipate and even bait accordingly.
 
-![DecisiveStrike.png](337-developer-update-june-2022/17-decisivestrike.png)
+![DecisiveStrike.png](../images/593441f33e207a46-decisivestrike.png)
 
 **Decisive Strike**
 
-*Current effect: After being unhooked, Decisive Strike activates for a long duration. When picked up, hit a special skill check to instantly wiggle free. Deactivates when used or when performing various actions.*
+> *Current effect: After being unhooked, Decisive Strike activates for a long duration. When picked up, hit a special skill check to instantly wiggle free. Deactivates when used or when performing various actions.*
 
 One of Decisive Strike's main appeals is its efficacy at preventing tunneling. In light of the upcoming base game changes, we expect Decisive Strike to drop in usage slightly.
 
@@ -282,11 +282,11 @@ For the most part, we find the perk to be healthy for the game, and easily avoid
 
 Moving forward, Decisive Strike will now deactivate once the Exit Gates are powered. In addition, the stun duration has been reduced from 5 seconds to 3 seconds. We’ll also be simplifying the description of the perk: Decisive Strike will now be cancelled by Conspicuous Actions.
 
-![BorrowedTime.png](337-developer-update-june-2022/18-borrowedtime.png)
+![BorrowedTime.png](../images/6132cefbe56d860a-borrowedtime.png)
 
 **Borrowed Time**
 
-*Current effect: Survivors you unhook gain the Endurance effect for a short duration, allowing them to ignore a hit that would otherwise put them in the dying state.*
+> *Current effect: Survivors you unhook gain the Endurance effect for a short duration, allowing them to ignore a hit that would otherwise put them in the dying state.*
 
 Much like Decisive Strike, this perk gets much of its popularity by granting counterplay against a camping Killer. Considering a lighter version of Borrowed Time’s effect has been added to the Survivor’s base kit, we need to update the perk accordingly.
 
@@ -294,29 +294,29 @@ Borrowed Time will now extend the duration of the Endurance effect of unhooked S
 
 While the overall duration with Borrowed Time is longer than before, we expect that having a lighter version in the base kit will cause the usage rates to drop.
 
-![IronWill.png](337-developer-update-june-2022/19-ironwill.png)
+![IronWill.png](../images/90f3eefdf333fbc0-ironwill.png)
 
 **Iron Will**
 
-*Current effect: Makes your grunts of pain silent.*
+> *Current effect: Makes your grunts of pain silent.*
 
 This perk allows skilled players to mind-game more effectively in many areas by silencing grunts of pain. To address its high usage rates, we are lowering the grunts of pain reduction to 25/50/75%. Additionally, Iron Will is no longer active when Exhausted – though it will not cause Exhaustion itself.
 
-![SelfCare.png](337-developer-update-june-2022/20-selfcare.png)
+![SelfCare.png](../images/54ffd7fe5386897f-selfcare.png)
 
 **Self-Care**
 
-*Current effect: Unlocks the ability to heal yourself without a Med-Kit at 50% speed.*
+> *Current effect: Unlocks the ability to heal yourself without a Med-Kit at 50% speed.*
 
 Though Self-Care has a divisive reputation among the community, we were surprised to find that its usage peaks in the highest skill matches. Having a consistent and reliable way to heal at will is a powerful tool in the right hands. On top of that, Self-Care increases the efficiency of Med-Kits, allowing Survivors to squeeze additional heals out of them.
 
 To reduce its strength, Self-Care's heal speed will be lowered to 25/30/35%, and the item efficiency bonus has been removed entirely.
 
-![SpineChill.png](337-developer-update-june-2022/21-spinechill.png)
+![SpineChill.png](../images/39e4bd9b78dcb775-spinechill.png)
 
 **Spine Chill**
 
-*Current effect: Activates when the Killer is nearby and looking in your direction, increasing action speeds and the chance for skill checks.*
+> *Current effect: Activates when the Killer is nearby and looking in your direction, increasing action speeds and the chance for skill checks.*
 
 This perk excels at alerting Survivors when a Killer is approaching, and in high skill lobbies, the vault speed increase becomes the primary draw. There are a few aspects of this perk we would like to clean up.
 
@@ -332,61 +332,61 @@ With so many meta perks being changed, we wanted to make sure that everyone had 
 
 ### Killer Perk Buffs
 
-![Overcharge.png](337-developer-update-june-2022/22-overcharge.png)
+![Overcharge.png](../images/e695d345ebf72d48-overcharge.png)
 
 **Overcharge**
 
 Along with its current effects, Overcharge will cause a kicked generator’s regression speed to grow from 100% to 400% over the course of 30 seconds. Survivors will want to stop this generator from regressing as soon as possible.
 
-![Eruption.png](337-developer-update-june-2022/23-eruption.png)
+![Eruption.png](../images/9b8e16507f4fb1ff-eruption.png)
 
 **Eruption**
 
 Eruption released with fairly safe numbers, but upon reflection, we’re comfortable with increasing them. We have upped the generator regression penalty to 10% and the duration of the incapacitated effect to 15/20/25 seconds.
 
-![KnockOut.png](337-developer-update-june-2022/24-knockout.png)
+![KnockOut.png](../images/44e50d136899e934-knockout.png)
 
 **Knock Out**
 
 Those of you who like to leave Survivors on the ground can have a little more peace of mind. In addition to its current effect, Knock Out will cause dying Survivors to crawl 50% slower for 15 seconds and reduce their recovery speed by 25%.
 
-![Coulrophobia.png](337-developer-update-june-2022/25-coulrophobia.png)
+![Coulrophobia.png](../images/02101a9948a859c9-coulrophobia.png)
 
 **Coulrophobia**
 
 To make healing in the Killer’s terror radius even more unappealing, Coulrophobia will now increase the speed of skill checks by 50% on top of its current effect.
 
-![DarkDevotion.png](337-developer-update-june-2022/26-darkdevotion.png)
+![DarkDevotion.png](../images/6f5393582ff06a97-darkdevotion.png)
 
 **Dark Devotion**
 
 This perk is great for confusing and sneaking up on Survivors, but the basic attack requirement makes it unappealing for certain Killers. Dark Devotion will now activate whenever the Obsession loses a health state.
 
-![Jolt.png](337-developer-update-june-2022/27-jolt.png)
+![Jolt.png](../images/deba0322921f9d07-jolt.png)
 
 **Jolt**
 
 Jolt allows the Killer to regress generators simply by downing a Survivor. To make it more consistent and punish careless Survivor plays, we have removed the cooldown.
 
-![LethalPursuer.png](337-developer-update-june-2022/28-lethalpursuer.png)
+![LethalPursuer.png](../images/adae8cecc4b7e67e-lethalpursuer.png)
 
 **Lethal Pursuer**
 
 So, you like aura reading, huh? On top of the existing effect, Lethal Pursuer will now extend the duration of all aura reading effects by 2 seconds.
 
-![GiftofPain.png](337-developer-update-june-2022/29-giftofpain.png)
+![GiftofPain.png](../images/da0779f51d2aeb6f-giftofpain.png)
 
 **Scourge Hook: Gift of Pain**
 
 This perk also shipped with safer numbers, so we’ll be increasing the action speed penalty to 10/13/16%.
 
-![Thanatophobia.png](337-developer-update-june-2022/30-thanatophobia.png)
+![Thanatophobia.png](../images/ca8e60cd542af23f-thanatophobia.png)
 
 **Thanatophobia**
 
 Another quick one: we are increasing the action speed penalty to 4.5/5/5.5% per Survivor, for a maximum of 18/20/22%.
 
-![MonstrousShrine.png](337-developer-update-june-2022/31-monstrousshrine.png)
+![MonstrousShrine.png](../images/46858f17607e907a-monstrousshrine.png)
 
 **Scourge Hook: Monstrous Shrine**
 
@@ -394,37 +394,37 @@ Long have we waited. Monstrous Shrine has received a rework. This perk will now 
 
 ### Survivor Perk Buffs
 
-![CalmSpirit.png](337-developer-update-june-2022/32-calmspirit.png)
+![CalmSpirit.png](../images/a1318603a59a6cf0-calmspirit.png)
 
 **Calm Spirit**
 
 In addition to Calm Spirit’s current effects, you can now open chests and cleanse and bless totems silently, albeit at 40/35/30% reduced speed.
 
-![Saboteur.png](337-developer-update-june-2022/33-saboteur.png)
+![Saboteur.png](../images/bac4a54fab6a88b8-saboteur.png)
 
 **Saboteur**
 
 After months of studying, Saboteurs can now identify Scourge Hooks. Their auras are shown in yellow when a Survivor is being carried. Use this information to your advantage to prevent Scourge Hook perks from being activated.
 
-![BotanyKnowledge.png](337-developer-update-june-2022/34-botanyknowledge.png)
+![BotanyKnowledge.png](../images/32ce7f1e1cc13048-botanyknowledge.png)
 
 **Botany Knowledge**
 
 Botany Knowledge now increases healing speed by 30/40/50%, up from 11/22/33%.
 
-![OffTheRecord.png](337-developer-update-june-2022/35-offtherecord.png)
+![OffTheRecord.png](../images/265ed22371ae7deb-offtherecord.png)
 
 **Off the Record**
 
 Upon being unhooked, gain the Endurance status effect for 60/70/80 seconds. The Endurance effect is lost upon performing a Conspicuous Action. While this is a lengthy Endurance effect, any game-progression action will cancel it prematurely, making it purely for evading the Killer after being unhooked.
 
-![LuckyBreak.png](337-developer-update-june-2022/36-luckybreak.png)
+![LuckyBreak.png](../images/8d89e439e6e45d43-luckybreak.png)
 
 **Lucky Break**
 
 This perk is great for escaping a chase, but the effect quickly runs out. We’re giving Survivors a way to recharge Lucky Break: Each second spent healing another Survivor increases Lucky Break’s duration by 1 second. (The total time cannot exceed the starting duration.)
 
-![Pharmacy.png](337-developer-update-june-2022/37-pharmacy.png)
+![Pharmacy.png](../images/c8eafdfb1801079c-pharmacy.png)
 
 **Pharmacy**
 
@@ -432,61 +432,61 @@ Pharmacy used to guarantee an Emergency Med-Kit the first time you searched a ch
 
 Now, Pharmacy will activate whenever you’re injured, guaranteeing an Emergency Med-Kit when you search a chest. This effect can happen multiple times in one trial. Good luck stealing my Med-Kit now, *Meg.*
 
-![SoleSurvivor.png](337-developer-update-june-2022/38-solesurvivor.png)
+![SoleSurvivor.png](../images/1441da8cff722ceb-solesurvivor.png)
 
 **Sole Survivor**
 
 In addition to hiding your aura, Sole Survivor will now increase your generator repair speed by 75% and your exit gate and hatch action speed by 50%. These effects are only active when you are the last Survivor standing.
 
-![Distortion.png](337-developer-update-june-2022/39-distortion.png)
+![Distortion.png](../images/dde392beeff4f752-distortion.png)
 
 **Distortion**
 
 For those who like to stay hidden, we’ve added a way to regain Distortion tokens. Gain 1 token for every 30 seconds spent within the Killer’s Terror Radius.
 
-![Lightweight.png](337-developer-update-june-2022/40-lightweight.png)
+![Lightweight.png](../images/1d7cfd5cced83664-lightweight.png)
 
 **Lightweight**
 
 In addition to Lightweight’s existing effects, your scratch marks will be more sporadic, making you harder to track. Your scratch marks will also fade 5/4/3 seconds sooner, up from 1/2/3.
 
-![DejaVu.png](337-developer-update-june-2022/41-dejavu.png)
+![DejaVu.png](../images/fc9cd6aa46775ece-dejavu.png)
 
 **Déjà Vu**
 
 To help Survivors power the three closest generators, Déjà Vu will now grant a 5% repair speed bonus to the revealed generators.
 
-![NoOneLeftBehind.png](337-developer-update-june-2022/42-nooneleftbehind.png)
+![NoOneLeftBehind.png](../images/45b487dac6fe3f9a-nooneleftbehind.png)
 
 **No One Left Behind**
 
 Beyond its current effects, No One Left Behind will grant a 7% movement speed bonus to any Survivors you unhook. Additionally, the perk now activates when the gates are powered rather than opened.
 
-![DarkSense.png](337-developer-update-june-2022/43-darksense.png)
+![DarkSense.png](../images/942d98563c8780d4-darksense.png)
 
 **Dark Sense**
 
 We’ve changed the way Dark Sense works: When a generator is powered, Dark Sense activates. The next time the Killer comes within 24m of you, their aura is revealed for 5/7/10 seconds. Dark Sense then deactivates.
 
-![Tenacity.png](337-developer-update-june-2022/44-tenacity.png)
+![Tenacity.png](../images/6b74da3aff5f0216-tenacity.png)
 
 **Tenacity**
 
 In addition to the current effects, Tenacity now reduces your grunts of pain by 75% when in the dying state. Combined with the increased crawling speed, this perk will now be much more effective in crawling away from the Killer.
 
-![Hope.png](337-developer-update-june-2022/45-hope.png)
+![Hope.png](../images/c4d04455c8ce3be6-hope.png)
 
 **Hope**
 
 Hope is great for those who like to make late game saves, but the limited duration can cause it to expire at an inconvenient time. Since this perk is only useful at the end of the match, we’ve removed the duration entirely.
 
-![Overzealous.png](337-developer-update-june-2022/46-overzealous.png)
+![Overzealous.png](../images/56153ada201982b1-overzealous.png)
 
 **Overzealous**
 
 In its current state, cleansing a totem grants you a repair speed bonus of **6%/7%/8%.** Now, that bonus doubles if you cleanse a Hex totem.
 
-![WGLF.png](337-developer-update-june-2022/47-wglf.png)
+![WGLF.png](../images/0aefe7628a8eb733-wglf.png)
 
 **We’re Gonna Live Forever**
 

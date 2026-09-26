@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/298-5-3-0-hour-of-
 author: "Peanits"
 published: "2021-10-19T14:24:36+00:00"
 updated: "2021-10-19T14:35:02+00:00"
-archived: "2026-09-26T16:40:49Z"
+archived: "2026-09-26T17:09:01Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Mikaela Reid joins as a new survivor and The Archives now support event content,
 
 # 5.3.0 | Hour of the Witch
 
-![530Banner.png](298-5-3-0-hour-of-the-witch/01-530banner.png)
+![530Banner.png](../../images/c5794fa687b0185f-530banner.png)
 
 ## Features
 
@@ -34,7 +34,7 @@ Mikaela Reid joins as a new survivor and The Archives now support event content,
 - "The Midnight Grove" Halloween limited-time event (starts Oct. 21st 11AM ET)
 - Tome IX of The Archives (starts Oct. 20th 11AM ET)
 
-![PatchNotesDivider.png](298-5-3-0-hour-of-the-witch/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## General
 
@@ -48,7 +48,7 @@ Mikaela Reid joins as a new survivor and The Archives now support event content,
 
 *Developer notes: The hatch change is effectively the much asked for Key nerf in disguise, preventing survivors from escaping a trial prematurely. It is also intended to reduce situations where survivors would camp the hatch, waiting for their teammates to die so they could escape.*
 
-![PatchNotesDividerSmolWhite.png](298-5-3-0-hour-of-the-witch/03-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ### The Trapper
 
@@ -72,7 +72,7 @@ Mikaela Reid joins as a new survivor and The Archives now support event content,
 
 *Developer notes: The Trapper is DbD’s oldest killer, and he needed some love to bring him up to our modern standard of play. Many of these changes are focused around bringing him into line with how the rest of our Killers behave. Traps have been balanced to provide more consistent game experiences, and his add-ons have been overhauled to give a greater variety of options.*
 
-![PatchNotesDividerSmolWhite.png](298-5-3-0-hour-of-the-witch/04-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ### The Wraith
 
@@ -81,7 +81,7 @@ Mikaela Reid joins as a new survivor and The Archives now support event content,
 
 *Developer notes: Recent buffs to The Wraith have made him a wee bit over powered, so these changes are intended to adjust two of the most obviously overpowered elements. We’ll continue monitoring how he performs, and potentially have more changes for him in the future.*
 
-![PatchNotesDividerSmolWhite.png](298-5-3-0-hour-of-the-witch/05-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ### The Hillbilly
 
@@ -94,7 +94,7 @@ Mikaela Reid joins as a new survivor and The Archives now support event content,
 
 *Developer notes: The engraving add-ons are very popular with players, but the increased charge time means he generates significantly more heat for a full charge with these add-ons than without. A heat reduction modifier has been added to keep the amount of heat produced for one full charge constant, and we’ve also improved some underperforming add-ons to make them more enticing.*
 
-![PatchNotesDividerSmolWhite.png](298-5-3-0-hour-of-the-witch/06-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ### The Nurse
 
@@ -102,7 +102,7 @@ Mikaela Reid joins as a new survivor and The Archives now support event content,
 
 *Developer notes: The line of sight restriction on Torn Book wasn’t terribly fun to play with, so we’ve replaced that a new downside which we feel is more in line with what players would expect.*
 
-![PatchNotesDividerSmolWhite.png](298-5-3-0-hour-of-the-witch/07-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ### The Shape
 
@@ -112,7 +112,7 @@ Mikaela Reid joins as a new survivor and The Archives now support event content,
 
 *Developer notes: The rarity change to Memorial Flower brings The Shape in line with all our other killers in terms of add-on rarity distribution. Additionally, we have removed the movement speed penalties that prevented two add-ons from realistically enabling their intended play styles. Our condolences to players who used these add-ons for comedic purposes.*
 
-![PatchNotesDividerSmolWhite.png](298-5-3-0-hour-of-the-witch/08-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ### The Hag
 
@@ -120,7 +120,7 @@ Mikaela Reid joins as a new survivor and The Archives now support event content,
 
 *Developer notes: Waterlogged Show was The Hag’s worst performing add-on, so we’ve given it a buff to help make it more viable. It will now make The Hag move at regular killer speed, 4.6m/s.*
 
-![PatchNotesDividerSmolWhite.png](298-5-3-0-hour-of-the-witch/09-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ### The Pig
 
@@ -140,7 +140,7 @@ Mikaela Reid joins as a new survivor and The Archives now support event content,
 
 *Developer notes: We are happy to announce The Pig is getting an add-on balance pass! We have replaced a number of underperforming or unpopular add-ons with new effects and increased the values on others to make them more effective. On the other end, Tampered Timer and Crate of Gears could sometimes be too strong (especially when combined) so their values have been reduced. The end result should be an add-on set that is overall stronger, more diverse, and more fun to play.*
 
-![PatchNotesDividerSmolWhite.png](298-5-3-0-hour-of-the-witch/10-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ### The Spirit
 
@@ -158,7 +158,7 @@ Mikaela Reid joins as a new survivor and The Archives now support event content,
 
 *Developer notes: The Spirit’s phase walking mind-games have evolved into something of a Kobayashi Maru. By adding some audio cues, it should give sharp survivors a chance to figure out what she’s doing and react accordingly. Along with this, we’ve replaced some of her more problematic / boring add-ons with new ones that should provide more varied options for potential playstyles.*
 
-![PatchNotesDividerSmolWhite.png](298-5-3-0-hour-of-the-witch/11-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ### The Plague
 
@@ -185,7 +185,7 @@ Mikaela Reid joins as a new survivor and The Archives now support event content,
 
 *Developer notes: These changes are intended to be a general buff and to enhance quality-of-life for The Plague. It was far too common for players to attempt a quick purge only to accidentally release the charge a fraction of a second too early and unintentionally end up in cooldown, so we’ve changed the behaviour of early releases to charge to a minimum threshold instead of going on cooldown. We have also buffed the options for focusing on infecting objects during the trial, with infected objects now increasing infection faster than non-infected ones.*
 
-![PatchNotesDividerSmolWhite.png](298-5-3-0-hour-of-the-witch/12-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ### The Deathslinger
 
@@ -203,7 +203,7 @@ Mikaela Reid joins as a new survivor and The Archives now support event content,
 
 *Developer notes: We were unhappy with how easy it was for players to “insta-scope” survivors, especially given how little counterplay this had for survivor players. To combat this, The Deathslinger now has minimum enter / exit times when aiming down sights before being able to shoot / attack normally. We have also adjusted the stun when survivors break free to be the same as a successful hit, giving players a choice to break the reel early in exchange for losing out on the damage / deep wound. Wanted Poster and Jaw Smasher are to account for his new base movement speed while aiming: When stacked The Deathslinger moves at ~3.9m/s, which is very close to Survivor move speed of 4.0 m/s.*
 
-![PatchNotesDividerSmolWhite.png](298-5-3-0-hour-of-the-witch/13-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ### The Ghost Face
 
@@ -214,7 +214,7 @@ Mikaela Reid joins as a new survivor and The Archives now support event content,
 
 *Developer notes: Player feedback about Ghost Face's add-ons was very clear: decreased recovery time was more appealing than any other option. In light of this, we have 'baked in' roughly half the effect of these add-ons to encourage a wider variety of selection.*
 
-![PatchNotesDividerSmolWhite.png](298-5-3-0-hour-of-the-witch/14-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ### The Blight
 
@@ -223,7 +223,7 @@ Mikaela Reid joins as a new survivor and The Archives now support event content,
 
 *Developer notes: The add-on Adrenaline Vial is supposed to enable an alternate "straight line dash" playstyle for players interested in novelty. While it's still unlikely to be stronger than baseline Blight play, increased movement speed and token recharge should make the alternate playstyle a bit more viable. Additionally, the values on Summoning Stone have been increased to better reflect the perk it is referencing (Hex: Blood Favor).*
 
-![PatchNotesDividerSmolWhite.png](298-5-3-0-hour-of-the-witch/15-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ### The Oni
 
@@ -231,7 +231,7 @@ Mikaela Reid joins as a new survivor and The Archives now support event content,
 
 *Developer notes: Easy one here, Scalped Topknot was over performing when used, so it needed an adjustment to bring it in line.*
 
-![PatchNotesDividerSmolWhite.png](298-5-3-0-hour-of-the-witch/16-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ### The Trickster
 
@@ -239,7 +239,7 @@ Mikaela Reid joins as a new survivor and The Archives now support event content,
 
 *Developer notes: There was an error that caused Ji-Woon's Autograph and Fizz-Spin Soda to bother reduce the blades required by 2, so we've reduced the power of the more common add-on.*
 
-![PatchNotesDividerSmolWhite.png](298-5-3-0-hour-of-the-witch/17-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ### Survivor Perks
 
@@ -265,7 +265,7 @@ Perk Balancing
 
 *Developer notes: All of these perks have a low usage rate, low success rate, or both. They have all seen buffs to make them more appealing and more effective.*
 
-![PatchNotesDividerSmolWhite.png](298-5-3-0-hour-of-the-witch/18-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ### Killer Perks
 
@@ -285,7 +285,7 @@ Perk Balancing
 
 *Developer notes: Hex: Retribution and Hex: Thrill of the Hunt have been adjusted to take the new Boon Totem perks into account. The other perks have been generally unpopular, so some buffs are warranted to increase viability.*
 
-![PatchNotesDivider.png](298-5-3-0-hour-of-the-witch/19-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 
@@ -358,7 +358,7 @@ Perk Balancing
 - Fixed an issue that could cause incorrect press detection on the Onboarding menu buttons.
 - Fixed an issue that prevented the Tutorial objectives keyboard prompt icons from increasing with the large text setting.
 
-![PatchNotesDivider.png](298-5-3-0-hour-of-the-witch/20-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Changes from PTB
 
@@ -388,7 +388,7 @@ Mikaela Reid
 
 *Dev notes: Blood Favor was changed to use healthstates instead of attacks to be more balanced for killers like Legion and Trickster, as well as recentering the trigger location on the survivor to prevent situations where a survivor was injured at a distance. Boon Totems were a bit too strong on the PTB, but these changes should bring them into line with our expectations. The Deathslinger add-ons were adjusted to account for his buffed base movement speed. Ji-Woon's Autograph had an error that caused it to have the same reduction as the rarer addon Fizz-Spin Soda.*
 
-![PatchNotesDivider.png](298-5-3-0-hour-of-the-witch/21-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Known Issues
 

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/440-developer-upda
 author: "Peanits"
 published: "2024-03-28T13:57:39+00:00"
 updated: "2024-03-28T13:57:39+00:00"
-archived: "2026-09-26T16:43:05Z"
+archived: "2026-09-26T17:10:48Z"
 ---
 
 <!-- summary -->
@@ -21,11 +21,11 @@ The Twins receive faster swaps—Charlotte now switches in 1.5 seconds, Victor u
 
 # Developer Update | March 2024
 
-![CA_DBD_0324_Bacon_Update_Overview_PTB_16_9.png](440-developer-update-march-2024/01-ca-dbd-0324-bacon-update-overview-ptb-16-9.png)
+![CA_DBD_0324_Bacon_Update_Overview_PTB_16_9.png](../images/103b63583d6615d3-ca-dbd-0324-bacon-update-overview-ptb-16-9.png)
 
 Spring has sprung, and so has a new Developer Update! In this post, we’ll share everything we’ve been working on for our next update. As always, these changes will first head to the Public Test Build on Steam. We encourage you to give them a try if you can and let us know what you think!
 
-![TheTwins.png](440-developer-update-march-2024/02-thetwins.png)
+![TheTwins.png](../images/119b968fd01fd86e-thetwins.png)
 
 - **`[CHANGE]`** Reduced the time it takes to switch back to Charlotte to 1.5 seconds (was 3 seconds)
 - **`[CHANGE]`** Reduced the time it takes to unbind Victor to 0.75 seconds (was 1 second).
@@ -37,7 +37,7 @@ Spring has sprung, and so has a new Developer Update! In this post, we’ll shar
 
 *\* Be warned: The anti-face camp meter will still fill if you’re too close!*
 
-![CharlotteSwitchV2_Min.gif](440-developer-update-march-2024/03-charlotteswitchv2-min.gif)
+![CharlotteSwitchV2_Min.gif](../images/dab2932fe08cb529-charlotteswitchv2-min.gif)
 
 - **`[CHANGE]`** Updated 7 Add-Ons.
 - **`[CHANGE]`** Victor’s Pounce no longer latches onto healthy Survivors.
@@ -50,20 +50,20 @@ Spring has sprung, and so has a new Developer Update! In this post, we’ll shar
 
 *We have flipped this around: Victor will now be much more effective at injuring multiple Survivors and instead assist Charlotte – who now moves faster while Victor is latched on – in picking up the Survivor. This makes it possible for Victor to both injure and down a Survivor without being forced to switch back to Charlotte in between.*
 
-![VictorDownV3_Min.gif](440-developer-update-march-2024/04-victordownv3-min.gif)
+![VictorDownV3_Min.gif](../images/d5b3550268bf0102-victordownv3-min.gif)
 
 - ***`[NEW]`*** The Visual Terror Radius accessibility setting will now include Victor’s grunts.
 - ***`[NEW]`*** Victor will now glow red whenever he is vulnerable to being crushed.
 
 *Dev note: We have updated the Visual Terror Radius to include Victor’s grunts to improve accessibility, and added a red glow to Victor whenever he is vulnerable to being crushed to improve visual feedback.*
 
-![CA_DBD_0324_Generic_Frame_Template_FOOTER_example.png](440-developer-update-march-2024/05-ca-dbd-0324-generic-frame-template-footer-example.png) ![TheBlight.png](440-developer-update-march-2024/06-theblight.png)
+![CA_DBD_0324_Generic_Frame_Template_FOOTER_example.png](../images/714c9c1a3929d607-ca-dbd-0324-generic-frame-template-footer-exampl.png) ![TheBlight.png](../images/f60a50533449ca30-theblight.png)
 
 - **`[CHANGE]`** Improved collision detection to reduce cases where The Blight slides off objects.
 
 *Dev note: It could be frustrating to slide off an object you were trying to bump into and end your Rush prematurely. We have improved the collision detection to make The Blight’s Rush more consistent. This also fixes an issue which allowed The Blight to incorrectly slide along obstacles and lunge around tighter corners than intended.*
 
-![CA_DBD_0324_Generic_Frame_Template_FOOTER_example.png](440-developer-update-march-2024/07-ca-dbd-0324-generic-frame-template-footer-example.png) ![Haddonfield.png](440-developer-update-march-2024/08-haddonfield.png)
+![CA_DBD_0324_Generic_Frame_Template_FOOTER_example.png](../images/714c9c1a3929d607-ca-dbd-0324-generic-frame-template-footer-exampl.png) ![Haddonfield.png](../images/bdf9acb8fbde911a-haddonfield.png)
 
 - **`[CHANGE]`** Updated map layout and reduced the overall size.
 - **`[CHANGE]`** Reduced the length of hedges and fences to create more openings.
@@ -75,7 +75,7 @@ Spring has sprung, and so has a new Developer Update! In this post, we’ll shar
 
 *Dev note: Many houses were closed off, making the map larger without any room for gameplay. We have reduced the number of houses that spawn, though each one that remains will now be open and playable. We’ve also reduced the strength of some of the strongest window loops to be fairer and more interesting to play.*
 
-![HaddonfieldHouse.png](440-developer-update-march-2024/09-haddonfieldhouse.png)
+![HaddonfieldHouse.png](../images/036233aa993490bc-haddonfieldhouse.png)
 
 - **`[NEW]`** Added pallets and lockers along the edge of the map.
 - **`[CHANGE]`** Updated street tiles to feature more pallet loops.
@@ -83,7 +83,7 @@ Spring has sprung, and so has a new Developer Update! In this post, we’ll shar
 
 *Dev note: The outdoor areas were fairly empty before, encouraging Survivors to make a run for the nearest house when they were chased. Since we’ve reduced the strength of houses, we have added some additional loops to the street & edges of the map to spread out chases and reduce deadzones.*
 
-![HaddonfieldStreet.png](440-developer-update-march-2024/10-haddonfieldstreet.png) ![CA_DBD_0324_Generic_Frame_Template_FOOTER_example.png](440-developer-update-march-2024/11-ca-dbd-0324-generic-frame-template-footer-example.png) ![DecisiveStrike.png](440-developer-update-march-2024/12-decisivestrike.png)
+![HaddonfieldStreet.png](../images/597102263cf89ccc-haddonfieldstreet.png) ![CA_DBD_0324_Generic_Frame_Template_FOOTER_example.png](../images/714c9c1a3929d607-ca-dbd-0324-generic-frame-template-footer-exampl.png) ![DecisiveStrike.png](../images/d62aa9f24d91b51c-decisivestrike.png)
 
 - **`[CHANGE]`** Increased stun duration to 5 seconds (was 3 seconds).
 - ***`[NEW]`*** Added a new stabbing animation when Decisive Strike is used successfully.
@@ -92,7 +92,7 @@ Spring has sprung, and so has a new Developer Update! In this post, we’ll shar
 
 *While we were at it, we added a new animation which plays when a Survivor successfully uses Decisive Strike to break free to give some visual flair to the Perk.*
 
-![CA_DBD_0324_Generic_Frame_Template_FOOTER_example.png](440-developer-update-march-2024/13-ca-dbd-0324-generic-frame-template-footer-example.png) ![Adrenaline.png](440-developer-update-march-2024/14-adrenaline.png)
+![CA_DBD_0324_Generic_Frame_Template_FOOTER_example.png](../images/714c9c1a3929d607-ca-dbd-0324-generic-frame-template-footer-exampl.png) ![Adrenaline.png](../images/aa92729f61e5f712-adrenaline.png)
 
 - **`[CHANGE]`** Adrenaline no longer activates if you are hooked when the gates are powered.
 - **`[CHANGE]`** Reduced speed boost duration to 3 seconds (was 5 seconds).
@@ -102,7 +102,7 @@ Spring has sprung, and so has a new Developer Update! In this post, we’ll shar
 
 *We’ve also removed the wake-up effect when facing The Nightmare to clean up the Perk as we’ve moved away from Perks that affect specific Killer Powers over the years.*
 
-![CA_DBD_0324_Generic_Frame_Template_FOOTER_example.png](440-developer-update-march-2024/15-ca-dbd-0324-generic-frame-template-footer-example.png) ![UltimateWeapon.png](440-developer-update-march-2024/16-ultimateweapon.png)
+![CA_DBD_0324_Generic_Frame_Template_FOOTER_example.png](../images/714c9c1a3929d607-ca-dbd-0324-generic-frame-template-footer-exampl.png) ![UltimateWeapon.png](../images/a380ababb697111d-ultimateweapon.png)
 
 - **`[CHANGE]`** Now reveals Survivors aura instead of causing them to scream.
 - **`[CHANGE]`** Reduced activation time to 15 seconds (was 30 seconds).
@@ -112,13 +112,13 @@ Spring has sprung, and so has a new Developer Update! In this post, we’ll shar
 
 *Since Ultimate Weapon is easy to activate, it was possible to keep its effect active throughout the entire match. We have increased the cooldown and decreased its activation window to ensure some downtime between uses.*
 
-![CA_DBD_0324_Generic_Frame_Template_FOOTER_example.png](440-developer-update-march-2024/17-ca-dbd-0324-generic-frame-template-footer-example.png) ![Emblems.png](440-developer-update-march-2024/18-emblems.png)
+![CA_DBD_0324_Generic_Frame_Template_FOOTER_example.png](../images/714c9c1a3929d607-ca-dbd-0324-generic-frame-template-footer-exampl.png) ![Emblems.png](../images/40cb49c64945444c-emblems.png)
 
 - **`[CHANGE]`** Removed the ability to lose a pip.
 
 *Dev note: With Emblems being used solely for monthly rewards these days, it felt needlessly punishing to lose a pip after a rough match. This quality-of-life change will make the Emblem system less stressful. This also applies to Modifiers – you can enjoy these limited time modes without worrying about your grade!*
 
-![CA_DBD_0324_Generic_Frame_Template_FOOTER_example.png](440-developer-update-march-2024/19-ca-dbd-0324-generic-frame-template-footer-example.png) ![Store.png](440-developer-update-march-2024/20-store.png)
+![CA_DBD_0324_Generic_Frame_Template_FOOTER_example.png](../images/714c9c1a3929d607-ca-dbd-0324-generic-frame-template-footer-exampl.png) ![Store.png](../images/7f681399251eb6da-store.png)
 
 - **`[CHANGE]`** Visual overhaul to the entire store menu.
 - **`[`*NEW*\]** Added “Specials” tab to highlight items that are on sale.
@@ -129,14 +129,14 @@ Spring has sprung, and so has a new Developer Update! In this post, we’ll shar
 
 *Dev note: The store hasn’t changed much since it was introduced in 2018. This update makes it easier to find what you’re looking for and allows us to bundle content together at a reduced price. For example, it’s now possible to purchase an entire DLC pack through the in-game store rather than purchasing each character separately.*
 
-![Store_Update_Collections.png](440-developer-update-march-2024/21-store-update-collections.png) ![Store_Update_Featured.png](440-developer-update-march-2024/22-store-update-featured.png) ![CA_DBD_0324_Generic_Frame_Template_FOOTER_example.png](440-developer-update-march-2024/23-ca-dbd-0324-generic-frame-template-footer-example.png) ![Archives.png](440-developer-update-march-2024/24-archives.png)
+![Store_Update_Collections.png](../images/1e7de1b188b1d430-store-update-collections.png) ![Store_Update_Featured.png](../images/f99c12eb0c6d3eb6-store-update-featured.png) ![CA_DBD_0324_Generic_Frame_Template_FOOTER_example.png](../images/714c9c1a3929d607-ca-dbd-0324-generic-frame-template-footer-exampl.png) ![Archives.png](../images/b1ebd8f2dea8e347-archives.png)
 
 - **`[CHANGE]`** New Tomes & their respective Rifts will now open at the same time as the update.
 - **`[`*NEW*\]** New Rift Bundle option, which grants the Premium Rift rewards & a 20 tier head start at a discounted price.
 
 *Dev note: Rifts have historically opened the day after our Mid-Chapter updates, but no more! You can now get cracking on those challenges right away. We have also introduced a new Rift bundle which includes the Premium Rift Pass and 20 Tiers at a discounted price. (The Premium Rift Pass can still be purchased separately if you prefer!)*
 
-![CA_DBD_0324_Generic_Frame_Template_FOOTER_example.png](440-developer-update-march-2024/25-ca-dbd-0324-generic-frame-template-footer-example.png)
+![CA_DBD_0324_Generic_Frame_Template_FOOTER_example.png](../images/714c9c1a3929d607-ca-dbd-0324-generic-frame-template-footer-exampl.png)
 
 Until next time…
 

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/94-3-1-0-mid-chapt
 author: "Peanits"
 published: "2020-02-28T20:14:44+00:00"
 updated: "2020-02-28T22:13:07+00:00"
-archived: "2026-09-26T16:42:02Z"
+archived: "2026-09-26T17:10:10Z"
 ---
 
 <!-- summary -->

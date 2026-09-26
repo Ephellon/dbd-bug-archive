@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/288-5-0-2-resident
 author: "DeathByGiggles"
 published: "2021-06-29T14:29:22+00:00"
 updated: "2021-06-29T14:43:40+00:00"
-archived: "2026-09-26T16:40:51Z"
+archived: "2026-09-26T17:09:03Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Performance on the Resident Evil chapter received a refresh: overall frame stabi
 
 # 5.0.2 | Resident Evil
 
-![PatchNotes_5.0.2.png](288-5-0-2-resident-evil/01-patchnotes-5-0-2.png)
+![PatchNotes_5.0.2.png](../../images/58bc2a5df30f0c72-patchnotes-5-0-2.png)
 
 ## Performance Issues
 
@@ -31,13 +31,13 @@ We're hoping this update will also help performance on the Raccoon City Police S
 
 Thank you for your patience as we continue to work on further improvements to the game’s performance!
 
-![PatchNotesDividerSmolWhite.png](288-5-0-2-resident-evil/02-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ## Switch Performance
 
 We have reduced the overall visual quality on Switch to help improve performance. The game may still crash when played on the Raccoon City Police Station map, but less frequently. Rest assured, we are still working on ensuring that the new map does not crash on this platform.
 
-![PatchNotesDivider.png](288-5-0-2-resident-evil/03-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/556-10-1-0-chorus-
 author: "Mandy"
 published: "2026-08-25T14:28:07+00:00"
 updated: "2026-08-25T14:32:19+00:00"
-archived: "2026-09-26T16:40:05Z"
+archived: "2026-09-26T17:08:23Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ The Judgment arrives as a new Killer with the Will of the Gods power, wielding c
 
 *This article was created from a* [*community discussion*](https://forums.bhvr.com/dead-by-daylight/discussion/471465/10-1-0-chorus-of-sin).
 
-![DbD_1010_PatchNotes_Release_16-9.png](556-10-1-0-chorus-of-sin/01-dbd-1010-patchnotes-release-16-9.png)
+![DbD_1010_PatchNotes_Release_16-9.png](../../images/1c76fbbdfe09ec96-dbd-1010-patchnotes-release-16-9.png)
 
 ## Content
 
@@ -101,7 +101,7 @@ The Judgment arrives as a new Killer with the Will of the Gods power, wielding c
 - **Lay Waste**
   - Whenever you damage a Generator, for each Charge it has, it regresses **2%** faster. **Cooldown: 55/50/45s**.
 
-![image.png](556-10-1-0-chorus-of-sin/02-image.png)
+![image.png](../../images/1722ff4e1b1423bf-image.png)
 
 ### New Survivor: Aurora
 
@@ -124,7 +124,7 @@ The Judgment arrives as a new Killer with the Will of the Gods power, wielding c
     - Survivors repair them **8/9/10%** faster.
   - Survivors within the Boon's range see the Auras of affected Generators.
 
-![image.png](556-10-1-0-chorus-of-sin/03-image.png)
+![image.png](../../images/1722ff4e1b1423bf-image.png)
 
 ### Base game updates
 
@@ -132,7 +132,7 @@ The Judgment arrives as a new Killer with the Will of the Gods power, wielding c
   - Anytime a Survivor is unhooked, they gain Endurance and 10% Haste for **10 seconds.** *(was 15 seconds)*
   - Anytime a Survivor is unhooked, they gain Elusive for **10 seconds**. *(NEW - This does not apply once all generators are powered)*
 
-![image.png](556-10-1-0-chorus-of-sin/04-image.png)
+![image.png](../../images/1722ff4e1b1423bf-image.png)
 
 ### Killer perk updates
 
@@ -160,7 +160,7 @@ The Judgment arrives as a new Killer with the Will of the Gods power, wielding c
 - **Nowhere to Hide:**
   - Whenever you damage a Generator, for **3/4/5s**, you see the Auras of Survivors within **24m** of the Generator. *(was revealing auras around the Killer position)*
 
-![image.png](556-10-1-0-chorus-of-sin/05-image.png)
+![image.png](../../images/1722ff4e1b1423bf-image.png)
 
 ### Survivor perk updates
 
@@ -203,7 +203,7 @@ The Judgment arrives as a new Killer with the Will of the Gods power, wielding c
     - The range of Generator repair noises is **16m** shorter. *(was 8 meters shorter)*
     - Whenever you miss a basic Skill Check, the Generator does not explode, but loses **4/3/2%** more progress. *(was 5/4/3%)*
 
-![bar_red.png](556-10-1-0-chorus-of-sin/06-bar-red.png)
+![bar_red.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## Features
 
@@ -227,7 +227,7 @@ The Judgment arrives as a new Killer with the Will of the Gods power, wielding c
 - MMR Update
   - The way MMR is calculated has now changed, it will no longer count only Kills and Escapes. Similar to Emblems it will now consider more actions within a trial.
 
-![bar_red.png](556-10-1-0-chorus-of-sin/07-bar-red.png)
+![bar_red.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## Bug Fixes
 
@@ -322,7 +322,7 @@ The Judgment arrives as a new Killer with the Will of the Gods power, wielding c
 - Fixed an issue where game would crash while leaving or joining a match
 - Fixed an issue where some Female Survivors had distorted facial animations
 
-![bar_red.png](556-10-1-0-chorus-of-sin/08-bar-red.png)
+![bar_red.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## Changes from PTB
 
@@ -390,7 +390,7 @@ The Judgment arrives as a new Killer with the Will of the Gods power, wielding c
     - Decreased the pause duration to 0.4s *(was 0.5s)*
     - *Dev note: While we still intend to keep this a chaotic and fun choice rather than it become the meta option, it could serve to be a little harder to react to as survivor*
 
-![bar_red.png](556-10-1-0-chorus-of-sin/09-bar-red.png)
+![bar_red.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## Known Issues
 

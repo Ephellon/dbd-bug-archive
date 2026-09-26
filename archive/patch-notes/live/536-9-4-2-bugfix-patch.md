@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/536-9-4-2-bugfix-p
 author: "ThatRyanB"
 published: "2026-02-10T15:30:03+00:00"
 updated: "2026-02-10T15:30:03+00:00"
-archived: "2026-09-26T16:40:09Z"
+archived: "2026-09-26T17:08:27Z"
 ---
 
 <!-- summary -->
@@ -21,13 +21,13 @@ The Good Guy arrives with faster Slice & Dice, longer attack duration and new vi
 
 # 9.4.2 | Bugfix Patch
 
-![942_PatchNotes_FORUM.png](536-9-4-2-bugfix-patch/01-942-patchnotes-forum.png)
+![942_PatchNotes_FORUM.png](../../images/5923815bae93e6b6-942-patchnotes-forum.png)
 
 ## 2v8
 
 - The 2v8 event returns Tuesday, February 10th at 11:00 AM Eastern.
 
-![bar_white.png](536-9-4-2-bugfix-patch/02-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### NEW KILLER
 
@@ -39,7 +39,7 @@ The Good Guy arrives with faster Slice & Dice, longer attack duration and new vi
 - The Good Guy can see Illusionary Footfalls around Survivors.
 - Increased Slice & Dice attack duration by **50%**.
 
-![bar_white.png](536-9-4-2-bugfix-patch/03-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### KILLER UPDATE
 
@@ -48,7 +48,7 @@ The Good Guy arrives with faster Slice & Dice, longer attack duration and new vi
 - Added 2 additional Zombies for a total of **4**.
 - Increased Zombie movement speed by **35%**.
 
-![bar_white.png](536-9-4-2-bugfix-patch/04-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### KILLER CLASS UPDATES
 
@@ -74,7 +74,7 @@ The Good Guy arrives with faster Slice & Dice, longer attack duration and new vi
 - Survivors with Enforcer’s Mark applied have their aura revealed for **1 second** every **8 seconds** while marked for **45 seconds**. Downing the Survivor consumes the mark and increases the Enforcer's lunge attack distance by **60%** for **15 seconds**.
 - **60 second** cooldown where the **Haste** bonus is not applied.
 
-![bar_white.png](536-9-4-2-bugfix-patch/05-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### NEW SURVIVOR CLASS: TORCHBEARER
 
@@ -95,7 +95,7 @@ The Good Guy arrives with faster Slice & Dice, longer attack duration and new vi
 
 - Grant **Endurance** to Survivors you pick up from the Dying State. Injured Survivors that unhook you gain **Endurance**.
 
-![bar_white.png](536-9-4-2-bugfix-patch/06-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### SURVIVOR CLASS UPDATE
 
@@ -104,14 +104,14 @@ The Good Guy arrives with faster Slice & Dice, longer attack duration and new vi
 - Increase your walking speed by **25%** and make no grunts of pain while injured.
 - Grants immunity to screaming.
 
-![bar_white.png](536-9-4-2-bugfix-patch/07-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### NEW MAPS
 
 - Groaning Storehouse
 - Rotten Field
 
-![bar_white.png](536-9-4-2-bugfix-patch/08-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### FEATURES
 
@@ -139,13 +139,13 @@ The Good Guy arrives with faster Slice & Dice, longer attack duration and new vi
 
 - Increased the number of Survivors able to simultaneously heal one another to 3 *(was 2)*.
 
-![bar_red_2.png](536-9-4-2-bugfix-patch/09-bar-red-2.png)
+![bar_red_2.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Content
 
 - **Increased the probability of Steve Harrington to use the original Scared Scream audio (Steagull) to 10%.**
 
-![bar_red_2.png](536-9-4-2-bugfix-patch/10-bar-red-2.png)
+![bar_red_2.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Bug Fixes
 

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/35-2-0-0-curtain-c
 author: "Peanits"
 published: "2020-02-28T17:53:22+00:00"
 updated: "2020-03-02T19:15:42+00:00"
-archived: "2026-09-26T16:41:37Z"
+archived: "2026-09-26T17:09:45Z"
 ---
 
 <!-- summary -->

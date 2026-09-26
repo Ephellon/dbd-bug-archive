@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/373-6-5-1-bugfix-p
 author: "Peanits"
 published: "2023-01-31T15:25:21+00:00"
 updated: "2023-01-31T15:25:22+00:00"
-archived: "2026-09-26T16:40:38Z"
+archived: "2026-09-26T17:08:51Z"
 ---
 
 <!-- summary -->
@@ -21,13 +21,13 @@ Survivor activity HUD now displays Generator progress, giving players clearer re
 
 # 6.5.1 | Bugfix Patch
 
-![651Banner.png](373-6-5-1-bugfix-patch/01-651banner.png)
+![651Banner.png](../../images/5767c0f5be0cdefe-651banner.png)
 
 ## Features
 
 - Survivor activity HUD now shows Generator progress.
 
-![PatchNotesDivider.png](373-6-5-1-bugfix-patch/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 
@@ -81,7 +81,7 @@ Survivor activity HUD now displays Generator progress, giving players clearer re
 - The Item of Obsession Achievement can now be unlocked as intended.
 - Survivors can no longer trap The Knight’s Guards inside lockers with a rushed exit.
 
-![PatchNotesDivider.png](373-6-5-1-bugfix-patch/03-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Known Issues
 

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/352-developer-upda
 author: "Peanits"
 published: "2022-09-22T14:51:31+00:00"
 updated: "2022-09-22T14:51:31+00:00"
-archived: "2026-09-26T16:43:26Z"
+archived: "2026-09-26T17:10:55Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Finishing Mori, a new system that triggers a killer’s execution animation when
 
 # Developer Update | Finishing Mori
 
-![Announcement.png](352-developer-update-finishing-mori/01-announcement.png)
+![Announcement.png](../images/0cce4b78fac37f6b-announcement.png)
 
 Bring the trial to a gruesome end with a Finishing Mori.
 

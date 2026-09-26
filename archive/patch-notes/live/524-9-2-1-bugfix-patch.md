@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/524-9-2-1-bugfix-p
 author: "ThatRyanB"
 published: "2025-09-30T14:29:38+00:00"
 updated: "2025-09-30T14:51:54+00:00"
-archived: "2026-09-26T16:40:12Z"
+archived: "2026-09-26T17:08:29Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The Krasue receives the only substantive changes: the initial Glowing Fungus cou
 
 # 9.2.1 | Bugfix Patch
 
-![921_PatchNotes_FORUM.png](524-9-2-1-bugfix-patch/01-921-patchnotes-forum.png)
+![921_PatchNotes_FORUM.png](../../images/891e6bd939710502-921-patchnotes-forum.png)
 
 ## Content Updates
 
@@ -32,7 +32,7 @@ The Krasue receives the only substantive changes: the initial Glowing Fungus cou
 - Increased the Head Form pallet vault time to **2 seconds** *(was 1.7)* and the Head Form window vault time to **1.8** **seconds** *(was 1.7)*.
 - Increased the Head Form pallet stun time to **2.5 seconds** *(was 2)*.
 
-![bar_red.png](524-9-2-1-bugfix-patch/02-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Bug Fixes
 

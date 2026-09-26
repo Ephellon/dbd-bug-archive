@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/552-10-0-2-bugfix-
 author: "ThatRyanB"
 published: "2026-07-06T14:30:06+00:00"
 updated: "2026-07-06T14:30:06+00:00"
-archived: "2026-09-26T16:40:06Z"
+archived: "2026-09-26T17:08:24Z"
 ---
 
 <!-- summary -->
@@ -21,13 +21,13 @@ The Doctor returns to the 10th Anniversary Event queue, and the Slasher’s Depu
 
 # 10.0.2 | Bugfix Patch
 
-![DbD_PatchNotes_1002_16-9.png](552-10-0-2-bugfix-patch/01-dbd-patchnotes-1002-16-9.png)
+![DbD_PatchNotes_1002_16-9.png](../../images/1c132c8bb5a869b8-dbd-patchnotes-1002-16-9.png)
 
 ## Important
 
 - The Doctor has been re-enabled in the 10th Anniversary Event queue.
 
-![bar_red.png](552-10-0-2-bugfix-patch/02-bar-red.png)
+![bar_red.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## Content
 
@@ -39,7 +39,7 @@ The Doctor returns to the 10th Anniversary Event queue, and the Slasher’s Depu
   - While in Omnipresent Evil, passing within 2m of a generator will cause it to explode. *(was 4m)*
   - No longer triggers on regressing Generators. *(Bug Fix)*
 
-![bar_red.png](552-10-0-2-bugfix-patch/03-bar-red.png)
+![bar_red.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## Bug Fixes
 

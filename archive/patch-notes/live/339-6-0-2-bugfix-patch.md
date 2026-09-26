@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/339-6-0-2-bugfix-p
 author: "dance"
 published: "2022-06-27T14:32:28+00:00"
 updated: "2022-06-27T14:38:02+00:00"
-archived: "2026-09-26T16:40:43Z"
+archived: "2026-09-26T17:08:56Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The Dredge’s Nightfall vision was tweaked, lowering its maximum visible range 
 
 # 6.0.2 | Bugfix Patch
 
-![PatchNotesBanner-6-0-2.png](339-6-0-2-bugfix-patch/01-patchnotesbanner-6-0-2.png)
+![PatchNotesBanner-6-0-2.png](../../images/ebfa906ccf213fc2-patchnotesbanner-6-0-2.png)
 
 **Features**
 

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/375-developer-upda
 author: "Peanits"
 published: "2023-02-10T14:55:50+00:00"
 updated: "2023-02-10T14:55:50+00:00"
-archived: "2026-09-26T16:43:22Z"
+archived: "2026-09-26T17:10:53Z"
 ---
 
 <!-- summary -->
@@ -21,11 +21,11 @@ Red Forest receives a visual overhaul, preserving its rainy feel and lore detail
 
 # Developer Update | February 2023
 
-![Announcement.png](375-developer-update-february-2023/01-announcement.png)
+![Announcement.png](../images/0cce4b78fac37f6b-announcement.png)
 
 It’s about that time for another Developer Update, the series of posts where we discuss upcoming changes making their way to Dead by Daylight. This time, we’ll go through some notable changes happening in the next update alongside a brand-new Chapter and beyond!
 
-![RedForest.png](375-developer-update-february-2023/02-redforest.png)
+![RedForest.png](../images/e831aa0a63c53564-redforest.png)
 
 ## Red Forest Visual Update
 
@@ -35,7 +35,7 @@ Home to both The Huntress and The Plague, the Red Forest debuted nearly six year
 
 They say a picture’s worth a thousand words, so rather than having you read a few thousand words, take a look at these previews!
 
-![MapCaptures_0002_Layer-5.png](375-developer-update-february-2023/03-mapcaptures-0002-layer-5.png) ![MapCaptures_0005_Layer-2.png](375-developer-update-february-2023/04-mapcaptures-0005-layer-2.png) ![MapCaptures_0004_Layer-3.png](375-developer-update-february-2023/05-mapcaptures-0004-layer-3.png) ![MapCaptures_0000_Layer-7.png](375-developer-update-february-2023/06-mapcaptures-0000-layer-7.png) ![Maps.png](375-developer-update-february-2023/07-maps.png)
+![MapCaptures_0002_Layer-5.png](../images/ac1c35e4b020e113-mapcaptures-0002-layer-5.png) ![MapCaptures_0005_Layer-2.png](../images/eb48cbbe6b098fbb-mapcaptures-0005-layer-2.png) ![MapCaptures_0004_Layer-3.png](../images/3c9b5a58f66e0aac-mapcaptures-0004-layer-3.png) ![MapCaptures_0000_Layer-7.png](../images/87881ae1177d34e5-mapcaptures-0000-layer-7.png) ![Maps.png](../images/37f15d1335ae0948-maps.png)
 
 ## Map Repeat Prevention
 
@@ -47,7 +47,7 @@ This new feature eliminates the possibility of playing the same map twice so lon
 
 We hope you enjoy seeing a wider variety of maps as you play!
 
-![Matchmaking.png](375-developer-update-february-2023/08-matchmaking.png)
+![Matchmaking.png](../images/79026b2c712e0b43-matchmaking.png)
 
 ## Bot Loadouts & Improvements
 
@@ -67,7 +67,7 @@ Second, we’ve made a large number of improvements to the Survivor AI. Some of 
 
 Bots are by no means meant to replace a real person, but we hope these improvements will make them a slightly more realistic practice buddy.
 
-![Perks.png](375-developer-update-february-2023/09-perks.png)
+![Perks.png](../images/e0b9bea7d13cb9ca-perks.png)
 
 ## Perk Changes
 
@@ -95,7 +95,7 @@ To give this perk a slight boost, we have removed its cooldown entirely. Survivo
 
 While Chapter releases like this one tend not to come with many balance changes, you can expect a larger package of perk changes in the following Mid-Chapter.
 
-![Cosmetics.png](375-developer-update-february-2023/10-cosmetics.png)
+![Cosmetics.png](../images/7844d12f72a0cb56-cosmetics.png)
 
 ## New Outfit Plans
 
@@ -109,13 +109,13 @@ But there’s good news on this front which we wanted to share today! We have re
 
 To illustrate with an example, here’s a look at how we’re planning content around one beloved Survivor, Haddie Kaur, in the upcoming releases:
 
-![Haddie_Cosmetic_Roadmap.png](375-developer-update-february-2023/11-haddie-cosmetic-roadmap.png)
+![Haddie_Cosmetic_Roadmap.png](../images/9c97b7e5633f72fd-haddie-cosmetic-roadmap.png)
 
 While the example above will not always be possible across all Killers and Survivors, it’s the type of release scope we’d like to see for the whole cast, especially newer ones who have joined the Fog.
 
 We are all looking forward to this increased output capacity in our Outfits, and will be happy to share more as we progress.
 
-![Cheating.png](375-developer-update-february-2023/12-cheating.png)
+![Cheating.png](../images/4d4b2592f193dc4b-cheating.png)
 
 ## An Update on Cheating
 

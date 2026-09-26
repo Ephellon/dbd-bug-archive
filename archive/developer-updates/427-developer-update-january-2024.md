@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/427-developer-upda
 author: "Peanits"
 published: "2024-01-08T14:55:52+00:00"
 updated: "2024-01-08T17:06:21+00:00"
-archived: "2026-09-26T16:43:09Z"
+archived: "2026-09-26T17:10:49Z"
 ---
 
 <!-- summary -->
@@ -23,11 +23,11 @@ All changes will be testable on the Public Test Build starting tomorrow, with th
 
 # Developer Update | January 2024
 
-![Developer-update-2024 (1).jpg](427-developer-update-january-2024/01-developer-update-2024-281-29.jpg)
+![Developer-update-2024 (1).jpg](../images/05543d43280e58b2-developer-update-2024-281-29.jpg)
 
 Happy new year! Our team is back in action, and we’ve got a doozie of a Developer Update in store for you today. In this edition, we’ll be covering everything coming to Dead by Daylight in our first major update of the year, from various Killer, Perk, and Map updates and more. We’ve been busy, so buckle up, it’s a long one.
 
-![Generators.jpg](427-developer-update-january-2024/02-generators.jpg)
+![Generators.jpg](../images/456007c8f7d885d1-generators.jpg)
 
 ## Generators
 
@@ -42,7 +42,7 @@ At the same time, we want to address a point of frustration for Killers as well:
 
 This will help ensure that the Killer always gets some value from kicking a Generator and encourage Survivors to think twice before attempting to stop the regression.
 
-![FOV.jpg](427-developer-update-january-2024/03-fov.jpg)
+![FOV.jpg](../images/d84557994fc795ef-fov.jpg)
 
 ## FOV Setting
 
@@ -54,7 +54,7 @@ Bear in mind this option only applies to first person field of view and therefor
 
 Initially this feature will be accessible through the Beta Tab in game.
 
-![Onryo.jpg](427-developer-update-january-2024/04-onryo.jpg)
+![Onryo.jpg](../images/3bb7119d2fbe6cf8-onryo.jpg)
 
 ## The Onryo
 
@@ -94,7 +94,7 @@ Additionally, many pointed out that one of The Onryo’s changed Add-Ons, Reiko�
 
 With all these changes in mind, we’ve reviewed a handful of The Onryo’s Add-Ons which either no longer have a purpose or promoted strongly disliked playstyles.
 
-![Hillbilly.jpg](427-developer-update-january-2024/05-hillbilly.jpg)
+![Hillbilly.jpg](../images/be1f803b237a928f-hillbilly.jpg)
 
 ## The Hillbilly
 
@@ -122,7 +122,7 @@ At the same time, we’ve made some general improvements to The Hillbilly’s ki
 
 Last but certainly not least, we have done a pass on The Hillbilly’s Add-Ons with these changes in mind. This blogpost is long enough as is, so keep an eye on the patch notes when the Public Test Build (PTB) goes live for more details!
 
-![Blight.jpg](427-developer-update-january-2024/06-blight.jpg)
+![Blight.jpg](../images/b2010fde1a3e483f-blight.jpg)
 
 ## The Blight’s Add-Ons
 
@@ -165,7 +165,7 @@ This Add-On can also be extremely powerful in the right hands. It also promotes 
 - Rush bonuses are capped after 3 consecutive rushes.
 - Blighted Corruption goes on cooldown for 20 seconds after a successful Lethal Rush attack.
 
-![Perks.jpg](427-developer-update-january-2024/07-perks.jpg)
+![Perks.jpg](../images/a21da834ab9b80a6-perks.jpg)
 
 ## Perk Updates
 
@@ -209,7 +209,7 @@ With the new FOV slider being introduced, Shadowborn is now obsolete and needs a
 
 Likewise, the FOV altering effects of Monitor & Abuse are now unnecessary considering the added FOV slider. Monitor & Abuse allows for some interesting niche playstyles as is, so we have simply **removed the FOV adjustments from this Perk** and left the Terror Radius effects unchanged.
 
-![Ormond (1).jpg](427-developer-update-january-2024/08-ormond-281-29.jpg)
+![Ormond (1).jpg](../images/db8658a120a4f746-ormond-281-29.jpg)
 
 ## Ormond Gameplay Update
 
@@ -217,11 +217,11 @@ The newly renovated Mount Ormond Resort is open for the season! This update cons
 
 The front of the lodge currently has a long row of rocks stretching across it. This can get in the way and make it difficult to traverse the map. Additionally, there’s no room in this portion of the map for any windows or pallets, essentially making it a big dead zone. We’ve given this portion of the map an overhaul to create more interesting gameplay.
 
-![Ormond.jpg](427-developer-update-january-2024/09-ormond.jpg)
+![Ormond.jpg](../images/aadbe5799abb8c74-ormond.jpg)
 
 The back of the lodge, meanwhile, is comprised of mostly picnic tables. Great for enjoying a meal in the freezing cold, but not very impactful when it comes to gameplay. Pallet loops around these tables are fairly short, making them incredibly unsafe. We have similarly adjusted this area to improve gameplay.
 
-![Ormond2.jpg](427-developer-update-january-2024/10-ormond2.jpg)
+![Ormond2.jpg](../images/9fbfd4fbcb743367-ormond2.jpg)
 
 ## Game Modifiers
 

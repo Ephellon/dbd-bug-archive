@@ -69,9 +69,12 @@ Only images inside the article body are saved — the in-body hero banner
 sections. The knowledge-base page banner above the title is site furniture
 rather than part of the post, and is not saved.
 
-Files are numbered in document order (`01-dbd-1012-patchnotes-hf2-16-9.png`,
-`02-bar-red.png`, …) and recorded in `manifest.json` with their source URL,
-byte size, and SHA-256.
+Images live in one shared `archive/images/` folder, named by the first 16 hex
+digits of their SHA-256 plus the original filename. Identity is the digest
+alone, so a file that appears on two hundred pages — the red and white divider
+bars, for instance — is stored once and referenced from each article. That
+takes the archive from 1906 files to 667. Every image is recorded in
+`manifest.json` with its source URL, byte size and full digest.
 
 ## Running the bot
 
@@ -83,6 +86,7 @@ python3 dbd_archive.py                      # archive everything
 python3 dbd_archive.py --section live       # one section (repeatable)
 python3 dbd_archive.py --dry-run            # fetch and convert, write nothing
 python3 dbd_archive.py --force              # redo everything from scratch
+python3 dbd_archive.py --rerender           # rewrite Markdown, reuse stored images
 python3 dbd_archive.py --delay 2.0          # be gentler on the server
 python3 dbd_archive.py --out some/dir       # write somewhere else
 ```

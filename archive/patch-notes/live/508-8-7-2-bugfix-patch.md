@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/508-8-7-2-bugfix-p
 author: "ThatRyanB"
 published: "2025-05-26T14:28:57+00:00"
 updated: "2025-06-02T15:04:03+00:00"
-archived: "2026-09-26T16:40:15Z"
+archived: "2026-09-26T17:08:32Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ An update to the Abandon option now records a survivor who flees while the remai
 
 # 8.7.2 | Bugfix Patch
 
-![872_PatchNotes_Forums.png](508-8-7-2-bugfix-patch/01-872-patchnotes-forums.png)
+![872_PatchNotes_Forums.png](../../images/03ca8be19126d843-872-patchnotes-forums.png)
 
 *EDIT: Today, June 2, 2025, we deployed a small bugfix patch (8.7.2a) to address the following issue:*
 
@@ -31,7 +31,7 @@ An update to the Abandon option now records a survivor who flees while the remai
 
 *Please note: This update is currently available on PC and Xbox platforms. Nintendo Switch and PlayStation owners will receive this fix as part of the next title update. Crossplay will continue to function as normal.*
 
-![bar_red.png](508-8-7-2-bugfix-patch/02-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Features
 
@@ -40,7 +40,7 @@ An update to the Abandon option now records a survivor who flees while the remai
 - Changed the match outcome for the following scenario to count as a loss for the Survivor (*was a draw*):
   - Survivor abandons the match while all remaining Survivors are in the Dying state.
 
-![bar_red.png](508-8-7-2-bugfix-patch/03-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Bug Fixes
 

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/445-7-7-0-mid-chap
 author: "Peanits"
 published: "2024-04-23T14:58:05+00:00"
 updated: "2024-04-23T15:22:28+00:00"
-archived: "2026-09-26T16:40:25Z"
+archived: "2026-09-26T17:08:41Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The update moves Dead by Daylight to Unreal Engine 5, trims about 18 GB from con
 
 # 7.7.0 | Mid-Chapter
 
-![CA_DBD_0324_Bacon_Patch_Notes_Assets_Release_FORUM.png](445-7-7-0-mid-chapter/01-ca-dbd-0324-bacon-patch-notes-assets-release-forum.png)
+![CA_DBD_0324_Bacon_Patch_Notes_Assets_Release_FORUM.png](../../images/979a1a651519bfa6-ca-dbd-0324-bacon-patch-notes-assets-release-for.png)
 
 ## Features
 
@@ -62,7 +62,7 @@ The update moves Dead by Daylight to Unreal Engine 5, trims about 18 GB from con
 - The Shrine was taken out of the Store and placed in the Characters' lobbies, to be closer to the loadout and Bloodweb.
 - The layout was updated to be easier to read and use, providing key information without the need to hover on any Perk option.
 
-![PatchNotesDividerSmolWhite.png](445-7-7-0-mid-chapter/02-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Match's Details** **Menu
 
@@ -70,7 +70,7 @@ The update moves Dead by Daylight to Unreal Engine 5, trims about 18 GB from con
 - During a match, when opening the Match Details window (Escape on computers), players can see their equipped Perks.
 - Hovering on Perks and Offerings allow players to see the tooltips and read their description.
 
-![PatchNotesDivider.png](445-7-7-0-mid-chapter/03-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Content
 
@@ -78,7 +78,7 @@ The update moves Dead by Daylight to Unreal Engine 5, trims about 18 GB from con
 
 - Tome 19 "SPLENDOR" - Level 1 opens April 23rd at 11:00:00 AM Eastern Time.
 
-![PatchNotesDividerSmolWhite.png](445-7-7-0-mid-chapter/04-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Killer Update - The Twins
 
@@ -106,7 +106,7 @@ The update moves Dead by Daylight to Unreal Engine 5, trims about 18 GB from con
 - Charlotte's Power icon updates to surface when recalling Victor is available.
 - Charlottes Power icon updates to surface the correct input when recalling Victor is available.
 
-![PatchNotesDividerSmolWhite.png](445-7-7-0-mid-chapter/05-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Killer Update - The Blight
 
@@ -127,7 +127,7 @@ The update moves Dead by Daylight to Unreal Engine 5, trims about 18 GB from con
 - Rush duration is now surfaced
 - Time to perform a new Rush is now surfaced
 
-![PatchNotesDividerSmolWhite.png](445-7-7-0-mid-chapter/06-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Perk Updates
 
@@ -147,7 +147,7 @@ The update moves Dead by Daylight to Unreal Engine 5, trims about 18 GB from con
 - Adrenaline no longer activates if you are hooked or carried when the Gates are powered.
 - Adrenaline no longer causes you to wake up when facing The Nightmare.
 
-![PatchNotesDividerSmolWhite.png](445-7-7-0-mid-chapter/07-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Environment/Maps
 
@@ -155,7 +155,7 @@ The update moves Dead by Daylight to Unreal Engine 5, trims about 18 GB from con
 
 The map has been difficult for the players to enjoy. We made the decision to update it, prioritizing gameplay quality. The length of the street was reduced, line of sight blockers have been added in the street, removed any closed houses, reduced the amount of tiles in the map, added gameplay and blockers on the border tiles. added openings in the main house to improve the navigation and the gameplay. and the park tiles have also been revisited.
 
-![PatchNotesDividerSmolWhite.png](445-7-7-0-mid-chapter/08-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Gameplay Mechanics
 
@@ -165,7 +165,7 @@ The map has been difficult for the players to enjoy. We made the decision to upd
 
 - It is no longer possible to lose a pip after a match.
 
-![PatchNotesDivider.png](445-7-7-0-mid-chapter/09-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 
@@ -226,7 +226,7 @@ The map has been difficult for the players to enjoy. We made the decision to upd
 - Fixed an issue that could cause Survivors to be unable to unhook after cancelling an unhook interaction.
 - Fixed an issue that could cause Survivors to become unhookable if they had previously unhooked themselves just before reaching the struggle stage.
 
-![PatchNotesDivider.png](445-7-7-0-mid-chapter/10-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Known Issues
 
@@ -236,7 +236,7 @@ The map has been difficult for the players to enjoy. We made the decision to upd
 - Victor can sometimes not be crushed by pallets.
 - Due to the internal engine changes, update download size is bigger than usual, since the game needs to be re-downloaded.
 
-![PatchNotesDivider.png](445-7-7-0-mid-chapter/11-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Public Test Build (PTB) Adjustments
 
@@ -244,7 +244,7 @@ The map has been difficult for the players to enjoy. We made the decision to upd
 
 - Reverted the unhook interaction to being cancellable.
 
-![PatchNotesDividerSmolWhite.png](445-7-7-0-mid-chapter/12-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Killer Updates - The Twins
 
@@ -262,7 +262,7 @@ The map has been difficult for the players to enjoy. We made the decision to upd
 - **Iridescent Pendant:**  
    Crushing Victor while he is dormant inflicts Exposed for 45 seconds. *(Reverted)*
 
-![PatchNotesDividerSmolWhite.png](445-7-7-0-mid-chapter/13-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Killer Updates - The Blight
 
@@ -271,7 +271,7 @@ The map has been difficult for the players to enjoy. We made the decision to upd
 - **Summoning Stone:** Increases the initial Rush duration by 0.5 second. *(was 1 second)*
 - **Soul Chemical:** Increases the initial Rush speed by 5%. *(was 10%)*
 
-![PatchNotesDividerSmolWhite.png](445-7-7-0-mid-chapter/14-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Perk Updates
 
@@ -279,7 +279,7 @@ The map has been difficult for the players to enjoy. We made the decision to upd
 
 - Removed the new stabbing animation.
 
-![PatchNotesDividerSmolWhite.png](445-7-7-0-mid-chapter/15-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Bug Fixes
 

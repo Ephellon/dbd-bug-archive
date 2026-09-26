@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/416-developer-upda
 author: "Peanits"
 published: "2023-11-02T13:55:34+00:00"
 updated: "2023-11-02T13:55:34+00:00"
-archived: "2026-09-26T16:43:11Z"
+archived: "2026-09-26T17:10:50Z"
 ---
 
 <!-- summary -->
@@ -21,17 +21,17 @@ Player Cards arrive as a new decorative banner and badge system, visible in menu
 
 # Developer Update | November 2023
 
-![Developer update-1920x1080-TOTEM-idea copy.png](416-developer-update-november-2023/01-developer-update-1920x1080-totem-idea-copy.png)
+![Developer update-1920x1080-TOTEM-idea copy.png](../images/7d31e43ecfe0d139-developer-update-1920x1080-totem-idea-copy.png)
 
 The end of the year is almost upon us, but we’ve still got news to share. In this Developer Update, we’ll cover some of the new features and balance changes making their way to the game in our next update, including a new customization option, a sizeable update to an existing Killer, and gameplay passes for two Realms.
 
-![Visual.png](416-developer-update-november-2023/02-visual.png)
+![Visual.png](../images/1204ffcc3e90d556-visual.png)
 
 ## Player Cards
 
 A new customization option has arrived! Player Cards are decorative banners and badges which appear in the top right corner of various menus. Your Player Card will also be featured in the post-match scoreboard so other players can see them as well.
 
-![02.png](416-developer-update-november-2023/03-02.png)
+![02.png](../images/da715d1de49dec21-02.png)
 
 Banners and badges can be mixed and matched as you please, and higher rarity ones will be more detailed with some even being animated. Like other cosmetics, you’ll be able to be earn them in various ways, such as events, the Rift, through login rewards or promocodes, and so on.
 
@@ -39,7 +39,7 @@ With this update, we’ve also cleaned up the menus and moved your player level 
 
 A small selection of Player Card options will be available starting with this update, but you can expect to see a wider range of choices appearing over time.
 
-![Trickster.png](416-developer-update-november-2023/04-trickster.png)
+![Trickster.png](../images/e3893b035ff99510-trickster.png)
 
 ## The Trickster
 
@@ -86,7 +86,7 @@ Lastly, we have reviewed the effects of a handful of his Add-ons:
 - **Waiting for You Watch:** Increases the duration of Main Event by 0.25 seconds for each Blade hit while it is active (was 0.4 seconds).
 - **Iridescent Photocard:** *New Effect -* For each consecutive Blade hit, gain a stackable 1% Haste effect, up to a maximum of 7%. This bonus is lost when missing a Blade or putting a Survivor into the dying state.
 
-![Perks.png](416-developer-update-november-2023/05-perks.png)
+![Perks.png](../images/e0b9bea7d13cb9ca-perks.png)
 
 ## Made For This
 
@@ -96,7 +96,7 @@ After healing another Survivor, gain the Endurance Status Effect for 6/8/10 seco
 
 With this change, the Killer can potentially prevent Made For This’ speed boost from activating entirely by avoiding inflicting Deep Wounds on that Survivor. This also ties both of Made For This’ effects together, granting a way to gain Deep Wounds in order to make use of the Haste effect.
 
-![GardenOfJoy.png](416-developer-update-november-2023/06-gardenofjoy.png)
+![GardenOfJoy.png](../images/5e881e8fe4571470-gardenofjoy.png)
 
 ## Garden of Joy
 
@@ -104,13 +104,13 @@ Joy for some, at least. We have gathered and reviewed feedback for the Garden of
 
 First, we turned our attention to the windows of the large house. Previously there were several strong windows which granted Survivors plenty of distance each time they were vaulted, making some chases drag on. We have reviewed the layouts of these windows & breakable walls to make chases in this building fairer.
 
-![GardenOfJoy1.png](416-developer-update-november-2023/07-gardenofjoy1.png)
+![GardenOfJoy1.png](../images/5f1b7c8448da3264-gardenofjoy1.png)
 
 Second, we have rebalanced several pallet loops to bring them closer to the sweet spot where they are both useful to Survivors and have the potential for Killers to play around them. We have also cleaned up certain loops and removed some small objects which players might bump into by mistake.
 
 Lastly, we have made a few art changes throughout the map to both improve visibility of objects which block your path and introduce small pieces of lore throughout the environment.
 
-![RedForest.png](416-developer-update-november-2023/08-redforest.png)
+![RedForest.png](../images/f4ba49c2d4ed1d58-redforest.png)
 
 ## Red Forest
 
@@ -118,11 +118,11 @@ The Red Forest is home to both Mother’s Dwelling and the Temple of Purgation. 
 
 First and foremost, size: These two maps are some of the largest in the game. This can cause some gameplay issues, costing the Killer a lot of time to cross from one end to the other in search of Survivors. We are reducing the size of both maps to bring them more in line with the rest of the Realms.
 
-![RedForest2.png](416-developer-update-november-2023/09-redforest2.png)
+![RedForest2.png](../images/df9c90bff960044f-redforest2.png)
 
 Second, we’ve reviewed various pallets loops and reduced the amount of vegetation surrounding them, making it easier to identify loops at a glance.
 
-![RedForest1.png](416-developer-update-november-2023/10-redforest1.png)
+![RedForest1.png](../images/369fb0e74d6eecf5-redforest1.png)
 
 With that, we’ve reached the end of this Developer Update. Everything mentioned in this post will be available to try in the Public Test Build, planned to start November 8, with the update going live on all platforms in the weeks following. We look forward to hearing what you think!
 

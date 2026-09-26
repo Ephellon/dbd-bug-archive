@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/271-4-4-1-bugfix-p
 author: "Peanits"
 published: "2020-12-08T15:26:43+00:00"
 updated: "2020-12-08T17:08:44+00:00"
-archived: "2026-09-26T16:41:34Z"
+archived: "2026-09-26T17:09:43Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Technical Flashlight rework restores normal accuracy, adds new VFX, animations a
 
 # 4.4.1 | Bugfix Patch
 
-![441UpdateBanner.png](271-4-4-1-bugfix-patch/01-441updatebanner.png)
+![441UpdateBanner.png](../../images/9994ca9db3225b8d-441updatebanner.png)
 
 ## 4.4.0 Patch Notes Addendum:
 
@@ -29,7 +29,7 @@ Technical Flashlight rework restores normal accuracy, adds new VFX, animations a
 - Updated Flashlight VFX and animations
 - Added audio feedback when using the Flashlight against Killers.
 
-![PatchNotesDivider.png](271-4-4-1-bugfix-patch/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/d693987990e49c09-patchnotesdivider-281-29.png)
 
 ## Features
 
@@ -38,14 +38,14 @@ Technical Flashlight rework restores normal accuracy, adds new VFX, animations a
 - Ebony and Ivory Memento Moris now require the targeted survivor to have reached the second hook phase
 - Victor can now search lockers, if a Survivor is found inside, the player will be send back to control Charlotte while Victor will block the Survivor in the locker for up to 10 sec.
 
-![PatchNotesDivider.png](271-4-4-1-bugfix-patch/03-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/d693987990e49c09-patchnotesdivider-281-29.png)
 
 ## Content
 
 - Hoarder: Increased the distance at which Survivor locations are revealed from 24/36/48 meters to 32/48/64 meters
 - Hoarder: Removed the stipulation that it decreases the rarity of items found in chests
 
-![PatchNotesDivider.png](271-4-4-1-bugfix-patch/04-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/d693987990e49c09-patchnotesdivider-281-29.png)
 
 ## Bug Fixes
 
@@ -82,7 +82,7 @@ Stadia only:
 
 - Fixed an issue that caused an extra 'block' option to appear after selecting an offline friend profile in the friends list
 
-![PatchNotesDivider.png](271-4-4-1-bugfix-patch/05-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/d693987990e49c09-patchnotesdivider-281-29.png)
 
 ## Known Issues
 

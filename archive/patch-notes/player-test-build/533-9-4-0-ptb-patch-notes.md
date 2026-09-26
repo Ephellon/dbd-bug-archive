@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/533-9-4-0-ptb-patc
 author: "ThatRyanB"
 published: "2026-01-06T15:30:09+00:00"
 updated: "2026-01-06T15:30:09+00:00"
-archived: "2026-09-26T16:40:56Z"
+archived: "2026-09-26T17:09:08Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The First killer arrives with Vine Attack and Upside Down/Undergate abilities, p
 
 # 9.4.0 | PTB Patch Notes
 
-![940_Patch_Notes_Assets_PTBFORUM.jpg](533-9-4-0-ptb-patch-notes/01-940-patch-notes-assets-ptbforum.jpg)
+![940_Patch_Notes_Assets_PTBFORUM.jpg](../../images/33c3b2d0812e3c43-940-patch-notes-assets-ptbforum.jpg)
 
 ## Important
 
@@ -34,7 +34,7 @@ The First killer arrives with Vine Attack and Upside Down/Undergate abilities, p
 - All offerings, items, and add-ons will be pre-loaded with 99 units available.
 - 12,500 Auric Cells and 1 million Bloodpoints will be given on each new PTB version, available to explore Outfits and Characters in the Store.
 
-![bar_red_2.png](533-9-4-0-ptb-patch-notes/02-bar-red-2.png)
+![bar_red_2.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## New Content
 
@@ -67,7 +67,7 @@ The First killer arrives with Vine Attack and Upside Down/Undergate abilities, p
   - Generators are highlighted; the intensity of generator auras reveals their repair progress.
   - When **1/1/1** generator remains, all remaining generators explode, lose **6/8/10%** progress and start regressing, and the Hex Totem becomes dull.
 
-![bar_white.png](533-9-4-0-ptb-patch-notes/03-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### New Survivor - Dustin Henderson
 
@@ -84,7 +84,7 @@ The First killer arrives with Vine Attack and Upside Down/Undergate abilities, p
   - For each other Survivor repairing a generator with you, the size of the Good Skill Check zone is increased by **15/20/25%**.
   - While repairing with at least 1 other Survivor, you repair **5/5/5%** faster.
 
-![bar_white.png](533-9-4-0-ptb-patch-notes/04-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### New Survivor - Eleven
 
@@ -101,7 +101,7 @@ The First killer arrives with Vine Attack and Upside Down/Undergate abilities, p
   - For each other Survivor repairing a generator with you, the range at which generator repair noise is heard is reduced by **15/20/25%**.
   - While repairing with at least 1 other Survivor, you repair **5/5/5%** faster.
 
-![bar_red_2.png](533-9-4-0-ptb-patch-notes/05-bar-red-2.png)
+![bar_red_2.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## Features
 
@@ -111,7 +111,7 @@ The First killer arrives with Vine Attack and Upside Down/Undergate abilities, p
   - Matches 3D heart behavior.
   - Has its own Lullaby version.
 
-![bar_red_2.png](533-9-4-0-ptb-patch-notes/06-bar-red-2.png)
+![bar_red_2.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## 2V8
 
@@ -127,7 +127,7 @@ The First killer arrives with Vine Attack and Upside Down/Undergate abilities, p
 - The Good Guy can see Illusionary Footfalls around Survivors.
 - Increased Slice & Dice attack duration by **50%**.
 
-![bar_white.png](533-9-4-0-ptb-patch-notes/07-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### KILLER UPDATE
 
@@ -136,7 +136,7 @@ The First killer arrives with Vine Attack and Upside Down/Undergate abilities, p
 - Added 2 additional Zombies for a total of **4**.
 - Increased Zombie movement speed by **35%**.
 
-![bar_white.png](533-9-4-0-ptb-patch-notes/08-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### KILLER CLASS UPDATES
 
@@ -162,7 +162,7 @@ The First killer arrives with Vine Attack and Upside Down/Undergate abilities, p
 - Survivors with Enforcer’s Mark applied have their aura revealed for **1 second** every **8 seconds** while marked for **45 seconds**. Downing the Survivor consumes the mark and increases the Enforcer's lunge attack distance by **60%** for **15 seconds**.
 - **60 second** cooldown where the **Haste** bonus is not applied.
 
-![bar_white.png](533-9-4-0-ptb-patch-notes/09-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### NEW SURVIVOR CLASS: TORCHBEARER
 
@@ -183,7 +183,7 @@ The First killer arrives with Vine Attack and Upside Down/Undergate abilities, p
 
 - Grant **Endurance** to Survivors you pick up from the Dying State. Injured Survivors that unhook you gain **Endurance**.
 
-![bar_white.png](533-9-4-0-ptb-patch-notes/10-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### SURVIVOR CLASS UPDATE
 
@@ -192,14 +192,14 @@ The First killer arrives with Vine Attack and Upside Down/Undergate abilities, p
 - Increase your walking speed by **25%** and make no grunts of pain while injured.
 - Grants immunity to screaming.
 
-![bar_white.png](533-9-4-0-ptb-patch-notes/11-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### NEW MAPS
 
 - Groaning Storehouse
 - Rotten Field
 
-![bar_white.png](533-9-4-0-ptb-patch-notes/12-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### FEATURES
 
@@ -223,7 +223,7 @@ The First killer arrives with Vine Attack and Upside Down/Undergate abilities, p
 
 - Increased the number of Survivors able to simultaneously heal one another to 3 *(was 2)*.
 
-![bar_red_2.png](533-9-4-0-ptb-patch-notes/13-bar-red-2.png)
+![bar_red_2.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Bug Fixes
 
@@ -286,7 +286,7 @@ The First killer arrives with Vine Attack and Upside Down/Undergate abilities, p
 - Fixed a crash that could occur during the game's initialization process.
 - Fixed a crash that could occur when closing the game while being in a lobby.
 
-![bar_red_2.png](533-9-4-0-ptb-patch-notes/14-bar-red-2.png)
+![bar_red_2.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Known Issues
 

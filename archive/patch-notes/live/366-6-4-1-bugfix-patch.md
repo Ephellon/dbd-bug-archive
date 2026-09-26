@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/366-6-4-1-bugfix-p
 author: "Mandy"
 published: "2022-11-30T15:29:54+00:00"
 updated: "2022-12-15T14:09:44+00:00"
-archived: "2026-09-26T16:40:39Z"
+archived: "2026-09-26T17:08:53Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Repressed Alliance’s description now clarifies it can’t activate while anoth
 
 # 6.4.1 | Bugfix Patch
 
-![MicrosoftTeams-image.png](366-6-4-1-bugfix-patch/01-microsoftteams-image.png)
+![MicrosoftTeams-image.png](../../images/5898588d19e62f9c-microsoftteams-image.png)
 
 ## Bug Fixes
 

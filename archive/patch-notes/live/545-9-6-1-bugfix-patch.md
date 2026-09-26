@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/545-9-6-1-bugfix-p
 author: "ThatRyanB"
 published: "2026-05-05T14:30:02+00:00"
 updated: "2026-05-05T14:30:02+00:00"
-archived: "2026-09-26T16:40:08Z"
+archived: "2026-09-26T17:08:25Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Doctor's Shock Therapy delay was shortened to 0.65 seconds and Ghost Face’s cr
 
 # 9.6.1 | Bugfix Patch
 
-![DbD_961_Patch Notes_FORUM.png](545-9-6-1-bugfix-patch/01-dbd-961-patch-notes-forum.png)
+![DbD_961_Patch Notes_FORUM.png](../../images/44b97f10ec744c75-dbd-961-patch-notes-forum.png)
 
 ## Features
 
@@ -30,13 +30,13 @@ Doctor's Shock Therapy delay was shortened to 0.65 seconds and Ghost Face’s cr
 - Diminishing Returns section in the Game Manual updated.
   - Now lists all Action Speeds and Modifiers affected by Diminishing Returns in a Trial.
 
-![bar_white.png](545-9-6-1-bugfix-patch/02-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Progress Bar Update
 
 - Adjusted the arrows animation on the progress bar to better reflect the speed of the bar filling.
 
-![bar_red.png](545-9-6-1-bugfix-patch/03-bar-red.png)
+![bar_red.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## Content
 
@@ -50,7 +50,7 @@ Doctor's Shock Therapy delay was shortened to 0.65 seconds and Ghost Face’s cr
 
 - Increased default Crouch movement speed to **4.0 m/s**. *(was 3.8 m/s)*
 
-![bar_white.png](545-9-6-1-bugfix-patch/04-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Killer Add-ons Updates
 
@@ -63,7 +63,7 @@ Doctor's Shock Therapy delay was shortened to 0.65 seconds and Ghost Face’s cr
 - "Discipline" - Carter's Notes (Very Rare)
   - Decreases the detonation delay of Shock Therapy by **0.1 seconds**. *(was 0.2 seconds)*
 
-![bar_white.png](545-9-6-1-bugfix-patch/05-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### 2v8
 
@@ -73,7 +73,7 @@ The core changes to Mastermind are now applied in 2v8. The time it takes to gain
 
 - Increases time to gain a Bound token by 0.5 seconds.
 
-![bar_red.png](545-9-6-1-bugfix-patch/06-bar-red.png)
+![bar_red.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## Bug Fixes
 

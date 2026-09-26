@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/557-10-1-1-bugfix-
 author: "ThatRyanB"
 published: "2026-09-01T14:30:04+00:00"
 updated: "2026-09-01T14:33:45+00:00"
-archived: "2026-09-26T16:40:04Z"
+archived: "2026-09-26T17:08:23Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The Judgment’s Divine Light curve window while Zealous is doubled to 0.6 secon
 
 # 10.1.1 Bugfix Patch
 
-![DbD_1011_PatchNotes_HF1_16-9.png](557-10-1-1-bugfix-patch/01-dbd-1011-patchnotes-hf1-16-9.png)
+![DbD_1011_PatchNotes_HF1_16-9.png](../../images/7aaa5f74eec27ce6-dbd-1011-patchnotes-hf1-16-9.png)
 
 ## Content
 
@@ -38,7 +38,7 @@ The Judgment’s Divine Light curve window while Zealous is doubled to 0.6 secon
   - If the resulting Guard Path is greater than **48m** the Guard will abandon the Hunt
 - Dropping a Pallet on a Guard now causes the Guard to move through the Pallet
 
-![image.png](557-10-1-1-bugfix-patch/02-image.png)
+![image.png](../../images/1722ff4e1b1423bf-image.png)
 
 ### Perk Updates
 
@@ -49,7 +49,7 @@ The Judgment’s Divine Light curve window while Zealous is doubled to 0.6 secon
    Lose Exhausted **20/25/30%** faster. *(was 30/35/40%)* After they leave your range, this ends after **15s**.  
   *Dev note: We have heard concerns that the lower value may be too low. We will be monitoring this change carefully to see if further adjustments are required.*
 
-![image.png](557-10-1-1-bugfix-patch/03-image.png)
+![image.png](../../images/1722ff4e1b1423bf-image.png)
 
 ## Bug Fixes
 

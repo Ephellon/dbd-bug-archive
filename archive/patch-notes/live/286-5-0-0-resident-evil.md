@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/286-5-0-0-resident
 author: "Peanits"
 published: "2021-06-15T14:26:44+00:00"
 updated: "2021-06-15T17:29:40+00:00"
-archived: "2026-09-26T16:40:52Z"
+archived: "2026-09-26T17:09:04Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ Balance is tweaked for Demogorgon add-ons, Franklin’s Demise, Lucky Break and 
 
 # 5.0.0 | Resident Evil
 
-![MicrosoftTeams-image (32).png](286-5-0-0-resident-evil/01-microsoftteams-image-2832-29.png)
+![MicrosoftTeams-image (32).png](../../images/4e7e3fe9323d85ef-microsoftteams-image-2832-29.png)
 
 ## Features
 
@@ -38,19 +38,19 @@ Balance is tweaked for Demogorgon add-ons, Franklin’s Demise, Lucky Break and 
 - Settings Menu Update - Settings are now grouped in separate category tabs to make them easier to find.
 - Some Legendary Outfits now display customized portraits in the HUD and names in the Lobby.
 
-![PatchNotesDivider.png](286-5-0-0-resident-evil/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Content
 
 - Trapper Visual Update: New Mesh and Textures for Circus Strongman Blast Furnace and Trapper Based outfits and their variants
 
-![PatchNotesDividerSmolWhite.png](286-5-0-0-resident-evil/03-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 - Support for 5th Anniversary Event (Live Date: July 1st 11AM ET - July 15th 11AM ET)
 - New Anniversary Event popup will trigger with the start of the event, summarizing what players can expect.
 - More details to come!
 
-![PatchNotesDivider.png](286-5-0-0-resident-evil/04-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Balance
 
@@ -63,7 +63,7 @@ Balance is tweaked for Demogorgon add-ons, Franklin’s Demise, Lucky Break and 
 - Increased the duration of the perk "Lucky Break" to 40/50/60 seconds (up from 35/40/45).
 - Readjusted maximum turn rate per frame during Blight’s rush at large look angles.
 
-![PatchNotesDivider.png](286-5-0-0-resident-evil/05-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 
@@ -146,7 +146,7 @@ Balance is tweaked for Demogorgon add-ons, Franklin’s Demise, Lucky Break and 
 
 - Fixed an issue with the information pop-up not showing up properly when Auric cells expired.
 
-![PatchNotesDivider.png](286-5-0-0-resident-evil/06-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Known Issues
 
@@ -154,7 +154,7 @@ Balance is tweaked for Demogorgon add-ons, Franklin’s Demise, Lucky Break and 
 
 - Onboarding menu buttons stop working if switching user accounts. If this situation happens, closing the game and relaunching it should resolve it.
 
-![PatchNotesDivider.png](286-5-0-0-resident-evil/07-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## CHANGES FROM PTB
 

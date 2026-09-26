@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/377-developer-upda
 author: "Peanits"
 published: "2023-02-23T14:58:45+00:00"
 updated: "2023-02-23T14:58:45+00:00"
-archived: "2026-09-26T16:43:20Z"
+archived: "2026-09-26T17:10:53Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The Skull Merchant receives PTB polish: deploying drones no longer triggers the 
 
 # Developer Update | Tools of Torment PTB
 
-![Announcement.png](377-developer-update-tools-of-torment-ptb/01-announcement.png)
+![Announcement.png](../images/0cce4b78fac37f6b-announcement.png)
 
 It’s been about a week since the Tools of Torment Public Test Build (PTB) went live, and we’ve been busy combing through your feedback in the days since. Today, we’d like to share a large package of polish and balance adjustments which we’ve prepared for the Chapter’s release on March 7th.
 
@@ -29,7 +29,7 @@ As always, we want to give our appreciation for everyone who took the time to sh
 
 Now, without further ado…
 
-![SkullMerchant.png](377-developer-update-tools-of-torment-ptb/02-skullmerchant.png)
+![SkullMerchant.png](../images/9d73995dfe59eb62-skullmerchant.png)
 
 ## The Skull Merchant
 
@@ -63,7 +63,7 @@ With all this in mind, Survivors will want to be much more wary when they come f
 
 Whether her drones are Locking On to Survivors or she’s tracking their every move, we hope you’ll find these changes make The Skull Merchant a much bigger threat when she releases March 7th.
 
-![Perks.png](377-developer-update-tools-of-torment-ptb/03-perks.png)
+![Perks.png](../images/e0b9bea7d13cb9ca-perks.png)
 
 ## Perks
 

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/412-developer-upda
 author: "Peanits"
 published: "2023-10-05T13:58:01+00:00"
 updated: "2023-10-05T13:58:01+00:00"
-archived: "2026-09-26T16:43:12Z"
+archived: "2026-09-26T17:10:50Z"
 ---
 
 <!-- summary -->
@@ -21,11 +21,11 @@ The Skull Merchant’s power is overhauled: drones can now toggle rotation direc
 
 # Developer Update | October 2023
 
-![Developer update Totem NEW.png](412-developer-update-october-2023/01-developer-update-totem-new.png)
+![Developer update Totem NEW.png](../images/1674caabd884b1c9-developer-update-totem-new.png)
 
 Greetings ghosts and ghouls! We’re back with another Developer Update, this time covering all the adjustments on the way following our last Public Test Build (PTB). We unveiled some major changes during this PTB, including the new Anti Face-Camping mechanic and an overhaul to The Skull Merchant’s Power. You’ve left us with plenty of feedback to go through, and we’d like to share a few tweaks we’ll be making when this update goes live (and a few more in the minor patches that follow)!
 
-![SkullMerchant.png](412-developer-update-october-2023/02-skullmerchant.png)
+![SkullMerchant.png](../images/9d73995dfe59eb62-skullmerchant.png)
 
 ## The Skull Merchant
 
@@ -57,7 +57,7 @@ Lastly, to give The Skull Merchant more control when deploying a drone, **the dr
 
 Combined, these changes will make The Skull Merchant feel better to play and more consistent now that her drones can’t be used to defend generators.
 
-![Hooks.png](412-developer-update-october-2023/03-hooks.png)
+![Hooks.png](../images/f5500e7679a048c3-hooks.png)
 
 ## Anti Face-camping
 
@@ -81,7 +81,7 @@ When this feature was tested on the PTB, it treated both horizontal and vertical
 
 In a later update, **the meter will be weighted more heavily toward horizontal distance than vertical**. This will make the meter a little more forgiving if the Killer passes by on another floor.
 
-![Perks.png](412-developer-update-october-2023/04-perks.png)
+![Perks.png](../images/e0b9bea7d13cb9ca-perks.png)
 
 ## Perk Updates
 
@@ -103,7 +103,7 @@ Therefore, **Background Player now causes you to sprint at 200% speed** (was 150
 
 This way, Background Player will allow you to cover more distance quicker than before, potentially allowing you to get into position in time to make the save.
 
-![Trapper.png](412-developer-update-october-2023/05-trapper.png)
+![Trapper.png](../images/b7180edf5ff3ecb9-trapper.png)
 
 ## The Trapper
 
@@ -113,13 +113,13 @@ We were delighted to see such a positive reaction to the adjustments we made to 
 
 Unfortunately, we weren’t able to squeeze this change into the initial release, but this will be a part of one of the smaller patches in the coming weeks!
 
-![ShatteredSquare.png](412-developer-update-october-2023/06-shatteredsquare.png)
+![ShatteredSquare.png](../images/5f76e4fa4446f336-shatteredsquare.png)
 
 ## Shattered Square
 
 Last but certainly not least, we have a few more adjustments on the way for the Shattered Square. We received some feedback regarding the strength of certain pallet loops and the number of pallets overall. For the update’s release, we have **reviewed the loops in question** and **slightly reduced the number of pallets which spawn**.
 
-![ShatteredSquare_Live.png](412-developer-update-october-2023/07-shatteredsquare-live.png)
+![ShatteredSquare_Live.png](../images/b31c1e4dd116da8b-shatteredsquare-live.png)
 
 And that brings us to the end of this Developer Update! We want to thank you as always for taking the time to test out the changes on the PTB. Nearly all the adjustments mentioned in this post will be available when the update releases, with the rest following in a minor patch shortly after. We look forward to hearing what you think!
 

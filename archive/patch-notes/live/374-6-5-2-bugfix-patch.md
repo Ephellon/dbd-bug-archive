@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/374-6-5-2-bugfix-p
 author: "Peanits"
 published: "2023-02-08T15:25:39+00:00"
 updated: "2023-02-08T15:25:40+00:00"
-archived: "2026-09-26T16:40:37Z"
+archived: "2026-09-26T17:08:51Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Merciless Killer’s Adept achievement now correctly registers four survivor kil
 
 # 6.5.2 | Bugfix Patch
 
-![652Banner.png](374-6-5-2-bugfix-patch/01-652banner.png)
+![652Banner.png](../../images/14b433d0a1963e78-652banner.png)
 
 ## Bug Fixes
 
@@ -31,7 +31,7 @@ We've applied a tentative fix that should resolve an issue surrounding Merciless
 
 However, we are still working on a consistent fix to an issue surrounding the Adept Achievements for Killer and Survivor, which are still not unlocking correctly in select situations.
 
-![PatchNotesDividerSmolWhite.png](374-6-5-2-bugfix-patch/02-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 **General**
 

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/368-6-4-3-bugfix-p
 author: "Peanits"
 published: "2022-12-15T15:27:41+00:00"
 updated: "2022-12-15T15:42:41+00:00"
-archived: "2026-09-26T16:40:38Z"
+archived: "2026-09-26T17:08:52Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The Knight’s chase entry no longer fails when a Guard is active, and Bone Chil
 
 # 6.4.3 | Bugfix Patch
 
-![1920x1080.png](368-6-4-3-bugfix-patch/01-1920x1080.png)
+![1920x1080.png](../../images/66fcbd170f15b2da-1920x1080.png)
 
 ## Bug Fixes
 
@@ -47,7 +47,7 @@ The Knight’s chase entry no longer fails when a Guard is active, and Bone Chil
 
 - Undetectable Killers no longer experience unintended Aura reveals.
 
-![PatchNotesDivider.png](368-6-4-3-bugfix-patch/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Known Issues
 

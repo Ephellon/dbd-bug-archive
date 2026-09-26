@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/537-9-5-0-ptb-patc
 author: "ThatRyanB"
 published: "2026-02-24T15:29:52+00:00"
 updated: "2026-02-24T15:29:52+00:00"
-archived: "2026-09-26T16:40:56Z"
+archived: "2026-09-26T17:09:07Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ All perk descriptions were rewritten for clearer language and new tooltip expans
 
 # 9.5.0 | PTB Patch Notes
 
-![DbD_950PTB_CH_SOCIAL_DEV_ASSET_OVERVIEW_16-9.jpg](537-9-5-0-ptb-patch-notes/01-dbd-950ptb-ch-social-dev-asset-overview-16-9.jpg)
+![DbD_950PTB_CH_SOCIAL_DEV_ASSET_OVERVIEW_16-9.jpg](../../images/bedbee4a8c20f67d-dbd-950ptb-ch-social-dev-asset-overview-16-9.jpg)
 
 ## Content
 
@@ -31,7 +31,7 @@ All perk descriptions were rewritten for clearer language and new tooltip expans
 
 - The Sleepless District will be the new Realm
 
-![bar_white.png](537-9-5-0-ptb-patch-notes/02-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### NEW SURVIVOR: KWON TAE-YOUNG
 
@@ -58,7 +58,7 @@ All perk descriptions were rewritten for clearer language and new tooltip expans
   - You drop Pallets **50**% faster.
   - Whenever you drop a Pallet, cooldown: **30/25/20**s.
 
-![bar_red_2.png](537-9-5-0-ptb-patch-notes/03-bar-red-2.png)
+![bar_red_2.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## Gameplay Features
 
@@ -208,7 +208,7 @@ All perk descriptions were rewritten for clearer language and new tooltip expans
 
 **\*\* Please note the Trick Blades add-on has been disabled.**
 
-![bar_white.png](537-9-5-0-ptb-patch-notes/04-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 #### The First
 
@@ -228,14 +228,14 @@ All perk descriptions were rewritten for clearer language and new tooltip expans
 - Pizza Goggles: Changed Very Rare Rarity to Rare Rarity. Reworked for The Undergate Attack's area of effect range is reduced by **90%**, and its cooldown time is shortened by **25 seconds**. Your exit cooldown time after executing the Undergate Attack is reduced by **80%**.
 - Chess Piece: Removed the negative aspect of increasing the Upside Down Ability cooldown and the two charges attack radius are now diminished by **40%**.
 
-![bar_white.png](537-9-5-0-ptb-patch-notes/05-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 **The Ghoul**
 
 - Adjusted Reticule stickiness on Survivor from 0.18 to 0.05 seconds when attempting a Kagune grabs.
 - Updated the automatic hit detection that occurs at the end of a Kagune Leap vault when a Survivor attempts to vault back toward the Killer to ensure greater consistency.
 
-![bar_white.png](537-9-5-0-ptb-patch-notes/06-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Killer Actions Update
 
@@ -339,7 +339,7 @@ All perk descriptions were rewritten for clearer language and new tooltip expans
   - Chemical Trap
   - Bada Bada Boom
 
-![bar_white.png](537-9-5-0-ptb-patch-notes/07-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Survivor Item Update
 
@@ -363,7 +363,7 @@ All perk descriptions were rewritten for clearer language and new tooltip expans
   - Increased Fog Cloud increased opacity bonus to 100% *(was 5%)*.
   - *Note: the increased bonus opacity is relative to the new Fog Cloud visual effect.*
 
-![bar_white.png](537-9-5-0-ptb-patch-notes/08-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Survivor Perk Updates
 
@@ -387,7 +387,7 @@ All perk descriptions were rewritten for clearer language and new tooltip expans
 - While downed, you recover 25/30/35% faster.
 - *Note:* *now only grants the Survivor the ability to recover when the Killer was specifically responsible for them entering the downed state.*
 
-![bar_white.png](537-9-5-0-ptb-patch-notes/09-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Killer Perk Updates
 
@@ -414,7 +414,7 @@ All perk descriptions were rewritten for clearer language and new tooltip expans
 
 - Updated to trigger earlier when Generators are completed to block healing abilities of Survivors occurring simultaneously.
 
-![bar_red_2.png](537-9-5-0-ptb-patch-notes/10-bar-red-2.png)
+![bar_red_2.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Features
 
@@ -431,7 +431,7 @@ All perk descriptions were rewritten for clearer language and new tooltip expans
   - Keybindings associated with a Perk's activated effect are now displayed in within Perk's text description.
   - Examples: Dead Hard, Come And Get Me!, Dramaturgy, etc
 
-![bar_white.png](537-9-5-0-ptb-patch-notes/11-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Auras Customization
 
@@ -446,7 +446,7 @@ All perk descriptions were rewritten for clearer language and new tooltip expans
   - Windows
 - Store: Players can use a "Clear all" button to remove active notifications
 
-![bar_white.png](537-9-5-0-ptb-patch-notes/12-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### New Prestige Menu & Rewards System
 
@@ -455,7 +455,7 @@ All perk descriptions were rewritten for clearer language and new tooltip expans
 - New rewards given at Prestige 25, 50, 75 & 100 per character
 - The Player Card Badge Menu now includes the option to select between variations on a single Badge (currently used for Prestige Badge Rewards).
 
-![bar_red_2.png](537-9-5-0-ptb-patch-notes/13-bar-red-2.png)
+![bar_red_2.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Bug Fixes
 
@@ -555,7 +555,7 @@ Refactor done in the Virulent Bound power. This specifically tackles the desync 
 - Fixed an issue where Survivors were unable to use Fog Vials near ledges.
 - Fixed an issue where the Potent Extract Fog Vial add-on had no effect on the duration.
 
-![bar_red_2.png](537-9-5-0-ptb-patch-notes/14-bar-red-2.png)
+![bar_red_2.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Known Issues
 

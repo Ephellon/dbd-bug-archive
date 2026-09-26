@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/311-5-5-0-mid-chap
 author: "Peanits"
 published: "2022-01-25T15:29:08+00:00"
 updated: "2022-01-25T18:05:15+00:00"
-archived: "2026-09-26T16:40:46Z"
+archived: "2026-09-26T17:08:59Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Interaction controls get a revamp: players can set interactions to Toggle, endin
 
 # 5.5.0 | Mid-Chapter
 
-![550Banner.png](311-5-5-0-mid-chapter/01-550banner.png)
+![550Banner.png](../../images/3f543a2a9b1287a5-550banner.png)
 
 **Important**
 
@@ -29,7 +29,7 @@ Due to an increase in file compression, this patch will require Steam players to
 
 This change is the first step in reducing future patch times, and we appreciate your understanding and patience as we progressively continue to improve patch times.
 
-![PatchNotesDivider.png](311-5-5-0-mid-chapter/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Features
 
@@ -50,7 +50,7 @@ This change is the first step in reducing future patch times, and we appreciate 
 
 *Dev Note: Holding buttons for extended interactions isn't always the most comfortable, so this feature aims to address that. When combined with the Run to Cancel, you can quickly disengage from fixing a generator once you spot Myers stalking you.*
 
-![PatchNotesDividerSmolWhite.png](311-5-5-0-mid-chapter/03-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ## Beta Features
 
@@ -72,7 +72,7 @@ A new tab is available in the Options menu: Beta!
 
 *Dev Note: We're excited to gather your feedback on the new Wiggle system, and we've put it in a Beta tab to allow console players to participate in the fun!*
 
-![PatchNotesDivider.png](311-5-5-0-mid-chapter/04-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Content
 
@@ -158,7 +158,7 @@ A new tab is available in the Options menu: Beta!
 
 *Dev Notes: Almost all of these add-on changes are "numbers only" tweaks, where we've adjusted numerical values and nothing else. The nerfed add-ons were all over-performing and influencing kill rates vs. their baseline kill rates more than we'd like, so they've been adjusted downwards slightly. Likewise, the buffed add-ons were all under-performing, so we hope to make them more appealing with larger effects.*
 
-![PatchNotesDividerSmolWhite.png](311-5-5-0-mid-chapter/05-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/3d25f160a87938f4-patchnotesdividersmolwhite.png)
 
 **Survivor Perks**
 
@@ -179,7 +179,7 @@ A new tab is available in the Options menu: Beta!
 
 *Dev Notes: We will continue to monitor the performance of Circle of Healing, and may adjust it again in the near future.*
 
-![PatchNotesDividerSmolWhite.png](311-5-5-0-mid-chapter/06-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 **Killer Perks**
 
@@ -196,7 +196,7 @@ A new tab is available in the Options menu: Beta!
 
 *Dev Notes: Gearhead was seeing very little use and was a bit too complicated to trigger reliably. The rework aims to make it simpler and more appealing in a wider variety of situations.*
 
-![PatchNotesDivider.png](311-5-5-0-mid-chapter/07-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 
@@ -229,7 +229,7 @@ A new tab is available in the Options menu: Beta!
 - Fixed an issue that caused the Cannibal's power to recharge superfluously after reaching the maximum number of charges.
 - Fixed an issue with the Loadout menu title appearing incorrectly as "Inventory".
 
-![PatchNotesDividerSmolWhite.png](311-5-5-0-mid-chapter/08-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 **The Nurse**
 
@@ -252,7 +252,7 @@ Several issues affected the Nurse's power that required a large part of the code
 - Fixed an issue that may cause the Nurse's hand not to appear for spectators cycling through spectated players during a blink.
 - Fixed an issue that caused a stutter during the Nurse's post blink animation when turning the camera.
 
-![PatchNotesDividerSmolWhite.png](311-5-5-0-mid-chapter/09-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 **Fixed from PTB**
 
@@ -267,7 +267,7 @@ Several issues affected the Nurse's power that required a large part of the code
 - Fixed an issue on Stadia in the Keybinding menu where the Xbox prompts are shown by default when opening the Options menu for the first time.
 - Fixed a systematic crash when closing the application.
 
-![PatchNotesDivider.png](311-5-5-0-mid-chapter/10-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Known Issues
 

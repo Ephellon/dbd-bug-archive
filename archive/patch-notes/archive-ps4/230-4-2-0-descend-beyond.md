@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/230-4-2-0-descend-
 author: "Peanits"
 published: "2020-09-08T14:27:23+00:00"
 updated: "2020-09-08T15:10:29+00:00"
-archived: "2026-09-26T16:41:52Z"
+archived: "2026-09-26T17:10:00Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The update introduces the new Killer The Blight and new Survivor Felix Richter, 
 
 # 4.2.0 | Descend Beyond
 
-![420UpdateBanner.png](230-4-2-0-descend-beyond/01-420updatebanner.png)
+![420UpdateBanner.png](../../images/2e62bbf2f4587595-420updatebanner.png)
 
 ## New Chapter
 
@@ -37,7 +37,7 @@ Plan your escape with Felix Richter, a successful architect who was torn away fr
 - Added a new Common Offering for Killers and Survivors - **Annotated Blueprint** - If the map has a Killer Shack, this offering increases the chance that the Hatch will spawn within it.
 - Added a new Common Offering for Killers and Survivors - **Vigo’s Blueprint** - If the map has a main building, this offering increases the chance that the Hatch will spawn within it.
 
-![User: "User: "PatchNotesDivider.png""](230-4-2-0-descend-beyond/02-patchnotesdivider.png)
+![User: "User: "PatchNotesDivider.png""](../../images/d693987990e49c09-patchnotesdivider-281-29.png)
 
 ## Features & Content
 
@@ -53,7 +53,7 @@ Many in-game objects in Dead By Daylight haven't been changed significantly sinc
   - **Yamaoka Estate** - Updated Family Residence and Sanctum of Wrath
 - Update aiming when using the flashlight. Up to 4.1.0, the flashlight would aim up and to the right of the center of the screen. In 4.1.0, the aiming animation was updated, which caused the flashlight to aim more towards right of center. Now, the aim should be squarely in the center.
 
-![User: "User: "PatchNotesDivider.png""](230-4-2-0-descend-beyond/03-patchnotesdivider.png)
+![User: "User: "PatchNotesDivider.png""](../../images/d693987990e49c09-patchnotesdivider-281-29.png)
 
 ## Bug Fixes
 

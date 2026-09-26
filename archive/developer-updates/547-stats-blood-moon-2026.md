@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/547-stats-blood-mo
 author: "ThatRyanB"
 published: "2026-05-25T17:00:16+00:00"
 updated: "2026-05-25T17:00:17+00:00"
-archived: "2026-09-26T16:42:29Z"
+archived: "2026-09-26T17:10:37Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ Blood Moon 2026 event stats revealed over 19 million trials and a massive accumu
 
 Warm greetings, Fog Dwellers. The time has come once more for stats, with a spotlight this time on our 2026 Blood Moon Event! Let’s dive right in.
 
-![BLOOD MOON 2026 STATS.png](547-stats-blood-moon-2026/01-blood-moon-2026-stats.png)
+![BLOOD MOON 2026 STATS.png](../images/7bbc7fab18488613-blood-moon-2026-stats.png)
 
 The Blood Moon rose, and you all rose to the occasion with it, entering more than a whopping 19 million trials and earning a… Well, a substantial amount of Bloodpoints.
 

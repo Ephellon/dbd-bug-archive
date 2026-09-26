@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/290-5-1-0-mid-chap
 author: "Peanits"
 published: "2021-07-27T14:28:47+00:00"
 updated: "2021-07-27T14:28:47+00:00"
-archived: "2026-09-26T16:40:50Z"
+archived: "2026-09-26T17:09:03Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Players can now toggle HUD elements in the Settings menu, new tutorials with too
 
 # 5.1.0 | Mid-Chapter
 
-![510Banner.png](290-5-1-0-mid-chapter/01-510banner.png)
+![510Banner.png](../../images/46329d69b5d382ae-510banner.png)
 
 ## Features & Content
 
@@ -30,7 +30,7 @@ Players can now toggle HUD elements in the Settings menu, new tutorials with too
 - Lobby - Added a new tooltip for the Store button when the Beginner Mode Tooltips are enabled.
 - Lighting and material improvements on Hospital Map
 
-![PatchNotesDivider.png](290-5-1-0-mid-chapter/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## The Trickster Gameplay Update
 
@@ -68,7 +68,7 @@ Players can now toggle HUD elements in the Settings menu, new tutorials with too
 - **When a Survivor interacts with an exit gate switch, you receive a loud noise notification.** The Entity then blocks both exit gate switches for **12 seconds**, plus an additional **6/9/12 seconds** for each token in your possession.
 - Hex: Crowd Control: Effect now lasts 14/17/20 seconds (was 10/12/14 seconds)
 
-![PatchNotesDivider.png](290-5-1-0-mid-chapter/03-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Technical Updates
 
@@ -78,7 +78,7 @@ Players can now toggle HUD elements in the Settings menu, new tutorials with too
 - Effects that improve a Killer's hearing, such as the perk "Stridor" or the add-on "Swing Chains," will only be heard from the Killer's perspective. Survivors will no longer hear themselves as louder when the Killer is running such effects.
 - Effects that modify sound are now multiplicative rather than additive. This means that sounds that are reduced to 0%, such as injured noises by the perk "Iron Will," will no longer be increased by perks such as "Stridor" and will instead remain at 0.
 
-![PatchNotesDivider.png](290-5-1-0-mid-chapter/04-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 **Tutorial Updates**
 
@@ -107,7 +107,7 @@ Players can now toggle HUD elements in the Settings menu, new tutorials with too
 
 - A new Tome and Rift will be added to the Archives in the next few days
 
-![PatchNotesDivider.png](290-5-1-0-mid-chapter/05-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 
@@ -187,7 +187,7 @@ Players can now toggle HUD elements in the Settings menu, new tutorials with too
 - Fixed a lot of Hitches when loading some Hud icons during Gameplay
 - Various crash fixes
 
-![PatchNotesDividerSmolWhite.png](290-5-1-0-mid-chapter/06-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 **PTB Bugfixes**
 
@@ -209,7 +209,7 @@ Switch only:
 
 - Screen capture feature was disabled in order to improve performance.
 
-![PatchNotesDivider.png](290-5-1-0-mid-chapter/07-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Known Issues
 

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/469-8-2-1-bugfix-p
 author: "Peanits"
 published: "2024-09-04T14:25:04+00:00"
 updated: "2024-09-04T14:25:04+00:00"
-archived: "2026-09-26T16:40:20Z"
+archived: "2026-09-26T17:08:37Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ The rest of the update is a broad bug-fix sweep covering audio glitches, charact
 
 # 8.2.1 | Bugfix Patch
 
-![FORUM.png](469-8-2-1-bugfix-patch/01-forum.png)
+![FORUM.png](../../images/326cb3697b9d35b8-forum.png)
 
 ## Content
 
@@ -40,7 +40,7 @@ The rest of the update is a broad bug-fix sweep covering audio glitches, charact
    This Modifier also features an event tome with exclusive rewards.
 - Chaos Shuffle returns September 24th at 11:00am Eastern.
 
-![PatchNotesDivider.png](469-8-2-1-bugfix-patch/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 
@@ -100,7 +100,7 @@ The rest of the update is a broad bug-fix sweep covering audio glitches, charact
 - Fixed an issue that caused Survivors affected by the Broken status effect to receive the Heal score events when using the Medkit's Anti-Hemorrhagic add-on
 - Fixed an issue that caused the inability to heal others and random skill checks appear when multiple injured Survivors repeatedly spam healed each other
 
-![PatchNotesDivider.png](469-8-2-1-bugfix-patch/03-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Known Issues
 

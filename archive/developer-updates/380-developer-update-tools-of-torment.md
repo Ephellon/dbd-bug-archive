@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/380-developer-upda
 author: "Peanits"
 published: "2023-03-17T13:55:25+00:00"
 updated: "2023-05-31T17:51:01+00:00"
-archived: "2026-09-26T16:43:20Z"
+archived: "2026-09-26T17:10:53Z"
 ---
 
 <!-- summary -->
@@ -23,11 +23,11 @@ These changes aim to improve chase risk, generator defense, and trap utility bas
 
 # Developer Update | Tools of Torment
 
-![Announcement.png](380-developer-update-tools-of-torment/01-announcement.png)
+![Announcement.png](../images/0cce4b78fac37f6b-announcement.png)
 
 Another special edition of the Developer Update! Next week’s update will feature changes for screams and the newest Killer, The Skull Merchant. We wanted to take this opportunity to share what’s on the way as well as the reasoning behind these changes.
 
-![SkullMerchant.png](380-developer-update-tools-of-torment/02-skullmerchant.png)
+![SkullMerchant.png](../images/9d73995dfe59eb62-skullmerchant.png)
 
 ## The Skull Merchant
 
@@ -89,7 +89,7 @@ Since this Add-on has been incorporated into the Killer’s base kit, it needed 
 
 *Adaptive Lighting now increases the length of the Undetectable effect by 50%* (was 20%).
 
-![Performance.png](380-developer-update-tools-of-torment/03-performance.png)
+![Performance.png](../images/440cc9e2d2246881-performance.png)
 
 ## Screams
 

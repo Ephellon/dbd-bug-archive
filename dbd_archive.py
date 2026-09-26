@@ -16,6 +16,7 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import glob
 import hashlib
 import html
 import json
@@ -44,6 +45,11 @@ SECTIONS = {
     "archive-stadia":          (19, "Archive: Stadia"),
     "developer-updates":       (29, "Developer Updates"),
 }
+
+# Every image is stored once, under its content hash, and referenced from each
+# article that uses it. The dividers alone repeat across hundreds of pages.
+IMAGE_DIR = "images"
+
 
 # Where each section's Markdown lands, relative to the output root.
 def section_dir(slug: str) -> str:
@@ -312,6 +318,12 @@ class MarkdownWriter:
         node_classes = classes(node)
         if "spoiler-buttonContainer" in node_classes:
             return []
+        if "blockquote" in node_classes:
+            inner = "\n\n".join(self.render(node, ""))
+            if not inner.strip():
+                return []
+            return ["\n".join(f"{indent}> {line}".rstrip()
+                               for line in inner.split("\n"))]
         if "spoiler" in node_classes:
             inner = "\n\n".join(self.render(node, ""))
             if not inner.strip():
@@ -426,15 +438,17 @@ def yaml_quote(value) -> str:
 
 class Archiver:
     def __init__(self, root: str, fetcher: Fetcher, dry_run: bool = False,
-                 force: bool = False):
+                 force: bool = False, rerender: bool = False):
         self.root = root
         self.fetcher = fetcher
         self.dry_run = dry_run
         self.force = force
+        self.rerender = rerender
         self.manifest_path = os.path.join(root, "manifest.json")
         self.manifest = self._load_manifest()
-        self.stats = {"articles": 0, "updated": 0, "skipped": 0,
-                      "images": 0, "image_bytes": 0, "reused": 0}
+        self.by_url = self._index_images()
+        self.stats = {"articles": 0, "updated": 0, "skipped": 0, "images": 0,
+                      "image_bytes": 0, "reused": 0, "deduped": 0}
         self.unknown_tags: set[str] = set()
 
     def _load_manifest(self) -> dict:
@@ -448,6 +462,16 @@ class Archiver:
         except (OSError, ValueError):
             return {"articles": {}}
 
+    def _index_images(self) -> dict:
+        """Map source URL to stored file, so a known image is never refetched."""
+        index = {}
+        for record in self.manifest["articles"].values():
+            for image in record.get("images", []):
+                stored = image.get("file")
+                if stored and os.path.exists(os.path.join(self.root, stored)):
+                    index[image["source"]] = image
+        return index
+
     def save_manifest(self) -> None:
         if self.dry_run:
             return
@@ -459,67 +483,77 @@ class Archiver:
 
     # -- images ------------------------------------------------------------- #
 
-    def _image_filename(self, src: str, index: int) -> str:
+    @staticmethod
+    def _image_name(src: str, digest: str) -> str:
         path = urllib.parse.urlparse(src).path
         ext = os.path.splitext(path)[1].lower()
         if ext not in (".png", ".jpg", ".jpeg", ".gif", ".webp", ".svg", ".bmp"):
             ext = ".png"
-        stem = slugify(os.path.splitext(os.path.basename(path))[0])[:60] or "image"
-        return f"{index:02d}-{stem}{ext}"
+        stem = slugify(os.path.splitext(os.path.basename(path))[0])[:48] or "image"
+        return f"{digest[:16]}-{stem}{ext}"
 
-    def download_image(self, src: str, dest_dir: str, index: int) -> tuple[str, dict]:
-        name = self._image_filename(src, index)
-        dest = os.path.join(dest_dir, name)
-        record = {"source": src, "file": name}
-        if os.path.exists(dest) and not self.force:
-            record["bytes"] = os.path.getsize(dest)
-            record["sha256"] = _sha256_file(dest)
+    def store_image(self, src: str) -> dict:
+        """Fetch an image unless it is already stored, and return its record."""
+        known = self.by_url.get(src)
+        if known and not self.force:
             self.stats["reused"] += 1
-            return name, record
+            return known
         if self.dry_run:
             self.stats["images"] += 1
-            return name, record
+            return {"source": src, "file": "", "bytes": 0, "sha256": ""}
+
         data = self.fetcher.get(src)
-        os.makedirs(dest_dir, exist_ok=True)
-        with open(dest, "wb") as fh:
-            fh.write(data)
-        record["bytes"] = len(data)
-        record["sha256"] = hashlib.sha256(data).hexdigest()
+        digest = hashlib.sha256(data).hexdigest()
+        # The same bytes can arrive under different URLs and filenames, so the
+        # digest alone decides identity; the name is only for readability.
+        existing = glob.glob(os.path.join(self.root, IMAGE_DIR, f"{digest[:16]}-*"))
+        if existing:
+            name = os.path.basename(existing[0])
+        else:
+            name = self._image_name(src, digest)
+        rel = f"{IMAGE_DIR}/{name}"
+        dest = os.path.join(self.root, IMAGE_DIR, name)
+        if not os.path.exists(dest):
+            os.makedirs(os.path.dirname(dest), exist_ok=True)
+            with open(dest, "wb") as fh:
+                fh.write(data)
+            self.stats["image_bytes"] += len(data)
+        else:
+            # Same bytes reached us under a second URL; one copy is enough.
+            self.stats["deduped"] += 1
+        record = {"source": src, "file": rel, "bytes": len(data), "sha256": digest}
+        self.by_url[src] = record
         self.stats["images"] += 1
-        self.stats["image_bytes"] += len(data)
-        return name, record
+        return record
 
     # -- articles ----------------------------------------------------------- #
 
-    def article_paths(self, section_slug: str, article: dict) -> tuple[str, str, str]:
-        rel_dir = section_dir(section_slug)
+    def article_paths(self, section_slug: str, article: dict) -> tuple[str, str]:
         base = article["slug"]
-        md_rel = os.path.join(rel_dir, f"{base}.md")
-        img_rel = os.path.join(rel_dir, base)
-        return md_rel, img_rel, base
+        return os.path.join(section_dir(section_slug), f"{base}.md"), base
 
     def archive_article(self, section_slug: str, stub: dict) -> dict | None:
         article_id = str(stub["articleID"])
         known = self.manifest["articles"].get(article_id)
-        md_rel, img_rel, _ = self.article_paths(section_slug, stub)
+        md_rel, _ = self.article_paths(section_slug, stub)
         md_abs = os.path.join(self.root, md_rel)
-        if (known and not self.force
+        if (known and not self.force and not self.rerender
                 and known.get("dateUpdated") == stub["dateUpdated"]
                 and os.path.exists(md_abs)):
             self.stats["skipped"] += 1
             return known
 
         article = self.fetcher.get_json(f"{API}/articles/{article_id}")
-        img_abs = os.path.join(self.root, img_rel)
+        here = os.path.dirname(md_rel)
         images: list[dict] = []
         seen: dict[str, str] = {}
 
         def on_image(src: str, _alt: str) -> str:
             if src in seen:
                 return seen[src]
-            name, record = self.download_image(src, img_abs, len(images) + 1)
+            record = self.store_image(src)
             images.append(record)
-            rel = f"{os.path.basename(img_rel)}/{name}"
+            rel = os.path.relpath(record["file"], here).replace(os.sep, "/")
             seen[src] = rel
             return rel
 
@@ -777,12 +811,15 @@ def main(argv: list[str] | None = None) -> int:
                         help="fetch and convert, but write nothing")
     parser.add_argument("--force", action="store_true",
                         help="re-download everything, ignoring the manifest")
+    parser.add_argument("--rerender", action="store_true",
+                        help="rewrite every article's Markdown, reusing stored images")
     parser.add_argument("--no-index", action="store_true", help="skip index.md")
     args = parser.parse_args(argv)
 
     root = os.path.abspath(args.out)
     fetcher = Fetcher(delay=args.delay)
-    archiver = Archiver(root, fetcher, dry_run=args.dry_run, force=args.force)
+    archiver = Archiver(root, fetcher, dry_run=args.dry_run, force=args.force,
+                        rerender=args.rerender)
     sections = args.section or list(SECTIONS)
 
     print(f"Archiving {len(sections)} section(s) into {root}"
@@ -803,8 +840,8 @@ def main(argv: list[str] | None = None) -> int:
     stats = archiver.stats
     print(f"\nArticles seen {stats['articles']}, written {stats['updated']}, "
           f"unchanged {stats['skipped']}")
-    print(f"Images downloaded {stats['images']} "
-          f"({stats['image_bytes'] / 1e6:.1f} MB), reused {stats['reused']}")
+    print(f"Images stored {stats['images']} ({stats['image_bytes'] / 1e6:.1f} MB), "
+          f"reused {stats['reused']}, duplicates skipped {stats['deduped']}")
     if archiver.unknown_tags:
         print(f"Unhandled tags (rendered inline): "
               f"{', '.join(sorted(archiver.unknown_tags))}", file=sys.stderr)

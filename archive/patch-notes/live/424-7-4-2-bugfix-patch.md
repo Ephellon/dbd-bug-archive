@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/424-7-4-2-bugfix-p
 author: "Coordi"
 published: "2023-12-13T15:31:14+00:00"
 updated: "2023-12-13T15:32:18+00:00"
-archived: "2026-09-26T16:40:27Z"
+archived: "2026-09-26T17:08:43Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Flashlight items and the perks Residual Manifest, Dramaturgy and Appraisal have 
 
 # 7.4.2 | Bugfix Patch
 
-![742asset.png](424-7-4-2-bugfix-patch/01-742asset.png)
+![742asset.png](../../images/b175895c79895b34-742asset.png)
 
 **Content**
 

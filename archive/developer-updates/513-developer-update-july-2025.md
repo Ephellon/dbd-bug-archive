@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/513-developer-upda
 author: "ThatRyanB"
 published: "2025-07-07T13:59:18+00:00"
 updated: "2025-07-07T18:52:38+00:00"
-archived: "2026-09-26T16:42:44Z"
+archived: "2026-09-26T17:10:39Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The new Survivors’ Fog Vial creates a fog cloud that hides scratch marks, muff
 
 # Developer Update | July 2025
 
-![910_DeveloperUpdate.jpg](513-developer-update-july-2025/01-910-developerupdate.jpg)
+![910_DeveloperUpdate.jpg](../images/8f587198a95dafd6-910-developerupdate.jpg)
 
 The 9.1.0 Update is approaching, so let’s dive into the notable gameplay changes you can expect from the upcoming Public Test Build. Plus, stay tuned for the PTB Patch Notes where we’ll share the precise values that are changing for each of the topics below!
 
@@ -29,7 +29,7 @@ Read on for all the details:
 
 ## NEW FEATURES
 
-![DevUpdate_NewSurvivorItemFogVial.png](513-developer-update-july-2025/02-devupdate-newsurvivoritemfogvial.png)
+![DevUpdate_NewSurvivorItemFogVial.png](../images/80c32ee6eb6f9c36-devupdate-newsurvivoritemfogvial.png)
 
 - Added a new equippable item for Survivors: the Fog Vial. Its effects include:
   - Using a Fog Vial causes a fog cloud to expand outward from the point where it was used, dissipating after a set time
@@ -43,9 +43,9 @@ Read on for all the details:
 
 *Stay tuned for patch notes for more information about Fog Vial rarities and add-ons.*
 
-![devupdate-frame.png](513-developer-update-july-2025/03-devupdate-frame.png)
+![devupdate-frame.png](../images/0bb14b82647860a5-devupdate-frame.png)
 
-![DevUpdate_SurvivorItemUpdateKeys.png](513-developer-update-july-2025/04-devupdate-survivoritemupdatekeys.png)
+![DevUpdate_SurvivorItemUpdateKeys.png](../images/a994b9bd40da72b6-devupdate-survivoritemupdatekeys.png)
 
 - Changed item “charges” to refer to individual uses of item, rather than the overall time it can be used for
 - Adjusted the uses for this item to cover the following:
@@ -62,9 +62,9 @@ Read on for all the details:
 
 *Stay tuned for the patch notes for details on Key and Map item rarities and add-ons.*
 
-![devupdate-frame.png](513-developer-update-july-2025/05-devupdate-frame.png)
+![devupdate-frame.png](../images/0bb14b82647860a5-devupdate-frame.png)
 
-![DevUpdate_SurvivorItemUpdateMaps.png](513-developer-update-july-2025/06-devupdate-survivoritemupdatemaps.png)
+![DevUpdate_SurvivorItemUpdateMaps.png](../images/fdb5cecc3592d16f-devupdate-survivoritemupdatemaps.png)
 
 - Changed item “charges” to refer to individual uses of item, rather than the overall time it can be used for
 - Adjusted the uses for this item to cover the following:
@@ -74,9 +74,9 @@ Read on for all the details:
 
 ***DEV NOTE**: Similar to Keys, Maps stood out as an underutilized item which didn’t fit into beginner or experienced player kits. With this change, Maps retain the spirit of giving players an awareness of their surroundings, making their effects more consistent, and extending some value to teammates. Now, there’s no need to “track” objects before they show up.*
 
-![devupdate-frame.png](513-developer-update-july-2025/07-devupdate-frame.png)
+![devupdate-frame.png](../images/0bb14b82647860a5-devupdate-frame.png)
 
-![DevUpdate_PresetImprovements.png](513-developer-update-july-2025/08-devupdate-presetimprovements.png)
+![DevUpdate_PresetImprovements.png](../images/cfb3642de0218957-devupdate-presetimprovements.png)
 
 - Increased total number of Character Customization presets to 7
 - Increased total number of Loadout presets to 7
@@ -84,9 +84,9 @@ Read on for all the details:
 
 ***DEV NOTE**: Whether it’s the pursuit of fashion or prepping perks for every situation, we wanted to make it easier to save your faves. Don’t worry, your existing presets will be ported into this updated system.*
 
-![DevUpdate_PresetImprovementsScreenshot.png](513-developer-update-july-2025/09-devupdate-presetimprovementsscreenshot.png) ![devupdate-frame.png](513-developer-update-july-2025/10-devupdate-frame.png)
+![DevUpdate_PresetImprovementsScreenshot.png](../images/6d5ea4ac4530efa1-devupdate-presetimprovementsscreenshot.png) ![devupdate-frame.png](../images/0bb14b82647860a5-devupdate-frame.png)
 
-![DevUpdate_KeyboardAndMouseOnConsoles.png](513-developer-update-july-2025/11-devupdate-keyboardandmouseonconsoles.png)
+![DevUpdate_KeyboardAndMouseOnConsoles.png](../images/88fa120854be2e72-devupdate-keyboardandmouseonconsoles.png)
 
 - Added mouse and keyboard support on the following console platforms:
   - PlayStation 4
@@ -98,9 +98,9 @@ Read on for all the details:
 
 ***DEV NOTE**: Quite self-explanatory, we’ve extended full mouse and keyboard support to a number of console platforms so that players have more choice in how they approach gameplay.*
 
-![devupdate-frame.png](513-developer-update-july-2025/12-devupdate-frame.png)
+![devupdate-frame.png](../images/0bb14b82647860a5-devupdate-frame.png)
 
-![DevUpdate_CustomMatchImprovements.png](513-developer-update-july-2025/13-devupdate-custommatchimprovements.png)
+![DevUpdate_CustomMatchImprovements.png](../images/e233ad6075386a61-devupdate-custommatchimprovements.png)
 
 - Added hotkey inputs to Custom Game spectating to switch to the Killer’s perspective.
 - Added spectators hotkeys representation next to players portraits, to improve usability
@@ -110,11 +110,11 @@ Read on for all the details:
 
 ***DEV NOTE**: Following up on last update’s changes to Custom Games, we’ve introduced more improvements to make view-switching and tournament casting even easier. This also ensures viewers have more information about what they’re seeing.*
 
-![devupdate-frame.png](513-developer-update-july-2025/14-devupdate-frame.png)
+![devupdate-frame.png](../images/0bb14b82647860a5-devupdate-frame.png)
 
 ## KILLER UPDATES
 
-![DevUpdate_TheExecutioner.png](513-developer-update-july-2025/15-devupdate-theexecutioner.png)
+![DevUpdate_TheExecutioner.png](../images/4de0fa9d46aac85d-devupdate-theexecutioner.png)
 
 - Increased Punishment of the Damned's range
 - Increased the duration of Rites of Judgment’s trail drawing and trail lifetime
@@ -129,9 +129,9 @@ Read on for all the details:
 
 *Outside of these changes (keep an eye out for the patch notes for add-on details!), we’ve made some quality-of-life adjustments and slightly reduced his zoning potential.*
 
-![devupdate-frame.png](513-developer-update-july-2025/16-devupdate-frame.png)
+![devupdate-frame.png](../images/0bb14b82647860a5-devupdate-frame.png)
 
-![DevUpdate_TheClown.png](513-developer-update-july-2025/17-devupdate-theclown.png)
+![DevUpdate_TheClown.png](../images/9aaf09c146585391-devupdate-theclown.png)
 
 - Increased movement speed while reloading bottle
 - Decreased bottle reload time
@@ -149,9 +149,9 @@ Read on for all the details:
 
 ***DEV NOTE**: When it comes to The Clown’s power, his purple bottles see much more use than his yellow ones across skill levels. To better incentivize their use, we’ve given the yellow bottles a quicker activation, greater speed boost and wider effective range, coupled with some base speed increases. To compensate, purple bottles have received a slight nerf, requiring a little more throw control to get their full value.*
 
-![devupdate-frame.png](513-developer-update-july-2025/18-devupdate-frame.png)
+![devupdate-frame.png](../images/0bb14b82647860a5-devupdate-frame.png)
 
-![DevUpdate_TheKnight.png](513-developer-update-july-2025/19-devupdate-theknight.png)
+![DevUpdate_TheKnight.png](../images/ddffbb5aaa34b7ec-devupdate-theknight.png)
 
 - Increased maximum patrol path length
 - Increased path drawing speed, acceleration, and strafe speed
@@ -163,9 +163,9 @@ Read on for all the details:
 
 ***DEV NOTE**: Drawing patrol paths is an important part of The Knight’s gameplay, so we’ve made it feel snappier and extended its range slightly, making Call to Arms partially basekit. We’ve also adjusted Standard spawn times for each Guard. In particular, the Standards for the two chase-focused Guards will spawn quicker to help give Survivors a little more counterplay during double team scenarios where they tend to be at their strongest.*
 
-![devupdate-frame.png](513-developer-update-july-2025/20-devupdate-frame.png)
+![devupdate-frame.png](../images/0bb14b82647860a5-devupdate-frame.png)
 
-![DevUpdate_ThePig.png](513-developer-update-july-2025/21-devupdate-thepig.png)
+![DevUpdate_ThePig.png](../images/90aad2bd896b3422-devupdate-thepig.png)
 
 - Increased crouched movement speed
 - Increased speed of crouching and un-crouching
@@ -178,11 +178,11 @@ Read on for all the details:
 
 ***DEV NOTE**: Yes, we know. We buffed Pig. Outside of her traps, her ability to surprise Survivors is an important part of her appeal. By increasing her speed and making her Terror Radius fade quicker while sneaking, she’ll have more chances to act on unprepared Survivors.*
 
-![devupdate-frame.png](513-developer-update-july-2025/22-devupdate-frame.png)
+![devupdate-frame.png](../images/0bb14b82647860a5-devupdate-frame.png)
 
 ## PERK UPDATES
 
-![DevUpdate_SurvivorPerks.png](513-developer-update-july-2025/23-devupdate-survivorperks.png)
+![DevUpdate_SurvivorPerks.png](../images/61641f6d86f58de0-devupdate-survivorperks.png)
 
 - Updated **Any Means Necessary**
 - Updated **Appraisal**
@@ -198,9 +198,9 @@ Read on for all the details:
 
 *Stay tuned for the patch notes for specific details on these value changes.*
 
-![devupdate-frame.png](513-developer-update-july-2025/24-devupdate-frame.png)
+![devupdate-frame.png](../images/0bb14b82647860a5-devupdate-frame.png)
 
-![DevUpdate_KillerPerks.png](513-developer-update-july-2025/25-devupdate-killerperks.png)
+![DevUpdate_KillerPerks.png](../images/d4c9ee01a0be8930-devupdate-killerperks.png)
 
 - Updated **Dragon’s Grip**
 - Updated **Franklin’s Demise**
@@ -211,7 +211,7 @@ Read on for all the details:
 
 ***DEV NOTE**: Similar to the above, we’ve buffed some perks which boasted lower pick rates and adjusted certain perks that affect items so they’re compatible with the recent changes.*
 
-![devupdate-frame.png](513-developer-update-july-2025/26-devupdate-frame.png)
+![devupdate-frame.png](../images/0bb14b82647860a5-devupdate-frame.png)
 
 Until next time...
 

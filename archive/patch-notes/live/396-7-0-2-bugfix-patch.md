@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/396-7-0-2-bugfix-p
 author: "Peanits"
 published: "2023-06-28T14:28:33+00:00"
 updated: "2023-06-28T14:28:33+00:00"
-archived: "2026-09-26T16:40:33Z"
+archived: "2026-09-26T17:08:48Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The Singularity’s add-ons receive multiple tweaks—Kid’s Ball Glove overclo
 
 # 7.0.2 | Bugfix Patch
 
-![702Banner.png](396-7-0-2-bugfix-patch/01-702banner.png)
+![702Banner.png](../../images/c540eef463095f9f-702banner.png)
 
 ## Release Schedule
 
@@ -29,7 +29,7 @@ Update releases: 11AM ET
 
 *Note: Update times may vary slightly per platform.*
 
-![PatchNotesDivider.png](396-7-0-2-bugfix-patch/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Content
 
@@ -49,7 +49,7 @@ Update releases: 11AM ET
 
 - Damaged Syringe - increases time it takes Survivors to use a Vaccine by 5 seconds (used to be 2 seconds, and increased Killer Instinct by 1.5 seconds)
 
-![PatchNotesDivider.png](396-7-0-2-bugfix-patch/03-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 
@@ -98,7 +98,7 @@ Update releases: 11AM ET
 - Added Lockers in Toba Landing
 - Fixed an issue where killer could get stuck on the Temple of Purgation map
 
-![PatchNotesDivider.png](396-7-0-2-bugfix-patch/04-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Known Issues
 

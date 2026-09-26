@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/451-developer-upda
 author: "Coordi"
 published: "2024-05-30T13:59:29+00:00"
 updated: "2024-06-03T13:06:22+00:00"
-archived: "2026-09-26T16:43:00Z"
+archived: "2026-09-26T17:10:46Z"
 ---
 
 <!-- summary -->
@@ -21,13 +21,13 @@ The Lich gets a faster spell cycle: cooldown down to 38 s, charge time 0.2 s, an
 
 # Developer Update | May 2024 PTB
 
-![CA_DBD_0424_Churros_Update_Overview_16_9_V3.png](451-developer-update-may-2024-ptb/01-ca-dbd-0424-churros-update-overview-16-9-v3.png)
+![CA_DBD_0424_Churros_Update_Overview_16_9_V3.png](../images/6582d4ead3dbbd4e-ca-dbd-0424-churros-update-overview-16-9-v3.png)
 
 As we roll into the 8.0.0 Update, we have made a series of changes since the Public Test Build (PTB).
 
 The Lich
 
-![TheLich.png](451-developer-update-may-2024-ptb/02-thelich.png)
+![TheLich.png](../images/a088f0f9c5a18e2b-thelich.png)
 
 The Lich
 
@@ -67,7 +67,7 @@ The Lich
 
 *Dev note: We have reduced the time the Killer’s aura is revealed by Magic Items so they act more as a warning than a mind-game prevention.*
 
-![CA-DBD_0524_churros_DevUpdate_Banners_PTB_FOOTER.png](451-developer-update-may-2024-ptb/03-ca-dbd-0524-churros-devupdate-banners-ptb-footer.png) ![TheBlight (1).png](451-developer-update-may-2024-ptb/04-theblight-281-29.png)
+![CA-DBD_0524_churros_DevUpdate_Banners_PTB_FOOTER.png](../images/6aa63fdd01f6efa9-ca-dbd-0524-churros-devupdate-banners-ptb-footer.png) ![TheBlight (1).png](../images/a32bc07a1d56ff77-theblight-281-29.png)
 
 The Blight
 
@@ -75,7 +75,7 @@ The Blight
 
 *Dev note: With the other effects of this Add-On toned down, we have increased the token limit to 5.*
 
-![CA-DBD_0524_churros_DevUpdate_Banners_PTB_FOOTER.png](451-developer-update-may-2024-ptb/05-ca-dbd-0524-churros-devupdate-banners-ptb-footer.png) ![BardicInspiration.png](451-developer-update-may-2024-ptb/06-bardicinspiration.png)
+![CA-DBD_0524_churros_DevUpdate_Banners_PTB_FOOTER.png](../images/6aa63fdd01f6efa9-ca-dbd-0524-churros-devupdate-banners-ptb-footer.png) ![BardicInspiration.png](../images/50299d78f78a49a0-bardicinspiration.png)
 
 Bardic inspiration
 
@@ -83,7 +83,7 @@ Bardic inspiration
 
 *Dev note: We have extended Bardic Inspiration’s duration to give the opportunity to gain more value from the Perk before it expires.*
 
-![CA-DBD_0524_churros_DevUpdate_Banners_PTB_FOOTER.png](451-developer-update-may-2024-ptb/07-ca-dbd-0524-churros-devupdate-banners-ptb-footer.png) ![StillSight.png](451-developer-update-may-2024-ptb/08-stillsight.png)
+![CA-DBD_0524_churros_DevUpdate_Banners_PTB_FOOTER.png](../images/6aa63fdd01f6efa9-ca-dbd-0524-churros-devupdate-banners-ptb-footer.png) ![StillSight.png](../images/28158e01731cbd73-stillsight.png)
 
 Still Sight
 
@@ -91,7 +91,7 @@ Still Sight
 
 *Dev note: Still Sight’s range was a little low, so we’ve extended it to 24m. This can be further increased with the Perk Open-Handed if you choose!*
 
-![CA-DBD_0524_churros_DevUpdate_Banners_PTB_FOOTER.png](451-developer-update-may-2024-ptb/09-ca-dbd-0524-churros-devupdate-banners-ptb-footer.png) ![WeaveAttunement.png](451-developer-update-may-2024-ptb/10-weaveattunement.png)
+![CA-DBD_0524_churros_DevUpdate_Banners_PTB_FOOTER.png](../images/6aa63fdd01f6efa9-ca-dbd-0524-churros-devupdate-banners-ptb-footer.png) ![WeaveAttunement.png](../images/2c25abdc6208c281-weaveattunement.png)
 
 Weave Attunement
 
@@ -99,7 +99,7 @@ Weave Attunement
 
 *Dev note: We have increased the range of the aura reveal to increase the coverage from dropped Items.*
 
-![CA-DBD_0524_churros_DevUpdate_Banners_PTB_FOOTER.png](451-developer-update-may-2024-ptb/11-ca-dbd-0524-churros-devupdate-banners-ptb-footer.png) ![DarkArrogance.png](451-developer-update-may-2024-ptb/12-darkarrogance.png)
+![CA-DBD_0524_churros_DevUpdate_Banners_PTB_FOOTER.png](../images/6aa63fdd01f6efa9-ca-dbd-0524-churros-devupdate-banners-ptb-footer.png) ![DarkArrogance.png](../images/6b0672aafdd47f0d-darkarrogance.png)
 
 Dark Arrogance
 
@@ -107,7 +107,7 @@ Dark Arrogance
 
 *Dev note: We have further increased the vault speed bonus to make Dark Arrogance a more compelling choice compared to other vault Perks.*
 
-![CA-DBD_0524_churros_DevUpdate_Banners_PTB_FOOTER.png](451-developer-update-may-2024-ptb/13-ca-dbd-0524-churros-devupdate-banners-ptb-footer.png)
+![CA-DBD_0524_churros_DevUpdate_Banners_PTB_FOOTER.png](../images/6aa63fdd01f6efa9-ca-dbd-0524-churros-devupdate-banners-ptb-footer.png)
 
 Until next time…
 

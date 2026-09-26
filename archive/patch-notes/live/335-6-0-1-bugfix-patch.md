@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/335-6-0-1-bugfix-p
 author: "Peanits"
 published: "2022-06-16T13:27:51+00:00"
 updated: "2022-06-16T13:27:51+00:00"
-archived: "2026-09-26T16:40:43Z"
+archived: "2026-09-26T17:08:56Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Twisted Masquerade’s 6th-Anniversary event has been pushed to start June 16 at
 
 # 6.0.1 | Bugfix Patch
 
-![601Banner.png](335-6-0-1-bugfix-patch/01-601banner.png)
+![601Banner.png](../../images/f7975461e494199a-601banner.png)
 
 ## Content
 
@@ -64,7 +64,7 @@ Twisted Masquerade’s 6th-Anniversary event has been pushed to start June 16 at
 - Fixed an issue that caused the Play With Your Food perk not to consume a token when injuring a Survivor using a Possessed Chain with the Cenobite's Engineer's Fang add-on.
 - Fixed an issue that caused the Overlap trophy description not to be translated in certain languages. (PS5 only)
 
-![PatchNotesDivider.png](335-6-0-1-bugfix-patch/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Known Issues
 

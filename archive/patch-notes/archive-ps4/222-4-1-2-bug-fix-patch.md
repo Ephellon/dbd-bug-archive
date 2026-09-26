@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/222-4-1-2-bug-fix-
 author: "PatBrutal"
 published: "2020-08-11T14:33:14+00:00"
 updated: "2020-08-11T14:33:15+00:00"
-archived: "2026-09-26T16:41:52Z"
+archived: "2026-09-26T17:10:00Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ The Hillbilly’s Overheat mechanic was tweaked, lowering the base heat dissipat
 
 *This article was created from a* [*community discussion*](https://forum.deadbydaylight.com/en/discussion/180986/ps4-bug-fix-patch-4-1-2)*.*
 
-![412Banner (1).png](222-4-1-2-bug-fix-patch/01-412banner-281-29.png)
+![412Banner (1).png](../../images/8768a5184bf84d5d-412banner-281-29.png)
 
 ## Balance
 
@@ -33,7 +33,7 @@ The Overheat mechanic was added to limit The Hillbilly's ability to always use h
 
 - Decreased the base heat dissipation rate from -5 charges/second to -3.5 charges/second
 
-![PatchNotesDivider (1).png](222-4-1-2-bug-fix-patch/02-patchnotesdivider-281-29.png)
+![PatchNotesDivider (1).png](../../images/d693987990e49c09-patchnotesdivider-281-29.png)
 
 ## Bug Fixes
 

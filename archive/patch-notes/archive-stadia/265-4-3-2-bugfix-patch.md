@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/265-4-3-2-bugfix-p
 author: "Peanits"
 published: "2020-11-03T15:32:22+00:00"
 updated: "2020-11-03T16:19:16+00:00"
-archived: "2026-09-26T16:42:28Z"
+archived: "2026-09-26T17:10:36Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Discordance’s detection range was extended to 64/96/128 meters and its post-ge
 
 # 4.3.2 | Bugfix Patch
 
-![432Banner.png](265-4-3-2-bugfix-patch/01-432banner.png)
+![432Banner.png](../../images/e25f9ecd5a27827e-432banner.png)
 
 ## Content
 

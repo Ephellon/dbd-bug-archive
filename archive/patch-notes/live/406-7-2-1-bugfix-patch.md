@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/406-7-2-1-bugfix-p
 author: "Peanits"
 published: "2023-09-05T14:28:19+00:00"
 updated: "2023-09-05T14:28:19+00:00"
-archived: "2026-09-26T16:40:30Z"
+archived: "2026-09-26T17:08:46Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The Xenomorph was patched to end tunnel animation stutter, stop tail attacks on 
 
 # 7.2.1 | Bugfix Patch
 
-![CA-546_DBD_0723_Chapter_Update_Assets_Forum_Bugfix_01 (1).png](406-7-2-1-bugfix-patch/01-ca-546-dbd-0723-chapter-update-assets-forum-bugfix-01-281-29.png)
+![CA-546_DBD_0723_Chapter_Update_Assets_Forum_Bugfix_01 (1).png](../../images/bacd0618aa57fa80-ca-546-dbd-0723-chapter-update-assets-forum-bugf.png)
 
 ## Release Time
 

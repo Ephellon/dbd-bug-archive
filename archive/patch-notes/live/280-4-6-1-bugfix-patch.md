@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/280-4-6-1-bugfix-p
 author: "Peanits"
 published: "2021-04-14T14:30:52+00:00"
 updated: "2021-04-14T14:30:52+00:00"
-archived: "2026-09-26T16:40:53Z"
+archived: "2026-09-26T17:09:05Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ The rest of the patch is a broad bug-fix pass covering pallet stun and Spirit Fu
 
 # 4.6.1 | Bugfix Patch
 
-![461Banner.png](280-4-6-1-bugfix-patch/01-461banner.png)
+![461Banner.png](../../images/be4eeaf1812e70b6-461banner.png)
 
 ## Content
 
@@ -46,7 +46,7 @@ The rest of the patch is a broad bug-fix pass covering pallet stun and Spirit Fu
 - Caged Heart Shoes from 0.13 m/s to 0.1 m/s
 - Iridescent Photocard will now injure survivors at maximum laceration
 
-![PatchNotesDivider.png](280-4-6-1-bugfix-patch/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 

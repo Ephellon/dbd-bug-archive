@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/529-9-3-0-mid-chap
 author: "ThatRyanB"
 published: "2025-11-25T15:31:06+00:00"
 updated: "2025-11-25T15:31:06+00:00"
-archived: "2026-09-26T16:40:11Z"
+archived: "2026-09-26T17:08:28Z"
 ---
 
 <!-- summary -->
@@ -21,14 +21,14 @@ The hook system got the biggest overhaul: Resolve Bar now shows to other Survivo
 
 # 9.3.0 | Mid-Chapter
 
-![930_PatchNotes_FORUM.png](529-9-3-0-mid-chapter/01-930-patchnotes-forum.png)
+![930_PatchNotes_FORUM.png](../../images/175faa01eaa11392-930-patchnotes-forum.png)
 
 ## Important
 
 - The Mindbreaker perk has been re-enabled.
 - The Breakdown and Wicked perks have been disabled.
 
-![bar_red_2.png](529-9-3-0-mid-chapter/02-bar-red-2.png)
+![bar_red_2.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Features
 
@@ -56,7 +56,7 @@ The hook system got the biggest overhaul: Resolve Bar now shows to other Survivo
 
 - Survivors gain 10% Haste and Endurance for 15 seconds after being unhooked *(was 10)*.
 
-![bar_white.png](529-9-3-0-mid-chapter/03-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### AFK Crows
 
@@ -64,7 +64,7 @@ The hook system got the biggest overhaul: Resolve Bar now shows to other Survivo
 
 *Dev note: Following the release of the updated AFK crow system, we increased the time it took to gain crows. This was much too generous, allowing for Survivors to avoid crows too easily. We're dialing back the values a little bit to a middle ground between the original values and the live values.*
 
-![bar_red_2.png](529-9-3-0-mid-chapter/04-bar-red-2.png)
+![bar_red_2.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Content
 
@@ -86,7 +86,7 @@ The hook system got the biggest overhaul: Resolve Bar now shows to other Survivo
 
 *Dev note: The Skull Merchant has dropped fairly significantly in terms of kill rate and lethality. These buffs aim to make her Drones a bigger threat and bring her up a little bit. Additionally, we've decreased the cooldown to deploying drones, and consequently decreased the duration of Undetectable to keep some downtime between her Undetectable status effect. When standing underneath a Drone, Survivors would get instant Lock On, which felt like a bug whenever it happened. The gradual increase of Lock On will feel more natural and provide feedback to the Survivor that something bad is happening to them. Lastly, we reduced the Drone's sensitivity to their mistress, to make sure they are always ready to scan Survivors during chases in tight spaces and don't ascend unintentionally.*
 
-![bar_white.png](529-9-3-0-mid-chapter/05-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Killer Add-on Updates
 
@@ -98,7 +98,7 @@ The hook system got the biggest overhaul: Resolve Bar now shows to other Survivo
 
 *Dev note: Both of these add-ons were notorious for their ability to disable the Endurance status effect Survivors get when they are unhooked. These changes aim to remove this ability to bypass the protection post-unhook.*
 
-![bar_white.png](529-9-3-0-mid-chapter/06-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Survivor Perk Updates
 
@@ -108,7 +108,7 @@ The hook system got the biggest overhaul: Resolve Bar now shows to other Survivo
   - Re-added the ability to recover while crawling.
   - Increased Haste effect to 30/40/50% *(was 15/20/25).*
 
-![bar_white.png](529-9-3-0-mid-chapter/07-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Survivor Item Add-on Updates
 
@@ -121,7 +121,7 @@ The hook system got the biggest overhaul: Resolve Bar now shows to other Survivo
   - No longer consumes the med-kit on Secondary Action use.
   - Increases the efficiency when healing yourself by 15% *(rework).*
 
-![bar_white.png](529-9-3-0-mid-chapter/08-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Killer Score Events
 
@@ -138,7 +138,7 @@ The hook system got the biggest overhaul: Resolve Bar now shows to other Survivo
 
 *Dev note: With the above changes to hook improvements, we thought it was the right time to raise a few Score Events to encourage Killers to spread first hooks earlier in the match.*
 
-![bar_white.png](529-9-3-0-mid-chapter/09-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Environment/Maps
 
@@ -163,7 +163,7 @@ The hook system got the biggest overhaul: Resolve Bar now shows to other Survivo
   - We've introduced a fog effect across the map.
   - We've reworked the overall lighting and adjusted the hue of the Realm to improve visual clarity.
 
-![bar_white.png](529-9-3-0-mid-chapter/10-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### UX
 
@@ -183,13 +183,13 @@ The hook system got the biggest overhaul: Resolve Bar now shows to other Survivo
 - Match details were separated from Settings:
   - Players can use the Tab key on PC, or View/Select button on controllers, to open the Match Details.
 
-![bar_white.png](529-9-3-0-mid-chapter/11-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### UI
 
 - A new icon has been created to replace the Player Profile's Stats submenu icon.
 
-![bar_red_2.png](529-9-3-0-mid-chapter/12-bar-red-2.png)
+![bar_red_2.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Bug Fixes
 
@@ -325,7 +325,7 @@ The hook system got the biggest overhaul: Resolve Bar now shows to other Survivo
 - Fixed an issue where idle crows on top of lockers were using the wrong idle animation.
 - Fixed an issue where Fog Vials were misaligned in Survivors' hands in the Trial.
 
-![bar_red_2.png](529-9-3-0-mid-chapter/13-bar-red-2.png)
+![bar_red_2.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## Changes from PTB
 
@@ -333,7 +333,7 @@ The hook system got the biggest overhaul: Resolve Bar now shows to other Survivo
 
 - Reverted the detection range on the Anti-Facecamp zone to 16 meters *(was 20)*.
 
-![bar_white.png](529-9-3-0-mid-chapter/14-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Tunneling Reduction Update
 
@@ -347,13 +347,13 @@ The hook system got the biggest overhaul: Resolve Bar now shows to other Survivo
 
 *Dev note: Breakdown and Wicked will be reverted in an upcoming bugfix patch.*
 
-![bar_white.png](529-9-3-0-mid-chapter/15-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Slugging Reduction Update
 
 - Reverted the Slugging changes.
 
-![bar_white.png](529-9-3-0-mid-chapter/16-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Killer Updates
 
@@ -361,13 +361,13 @@ The hook system got the biggest overhaul: Resolve Bar now shows to other Survivo
 
 - Reverted the change that prevented The Cenobite from binding chains to Survivors with Endurance.
 
-![bar_white.png](529-9-3-0-mid-chapter/17-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Autohaven Wreckers Realm
 
 - Adjusted the hue of the Autohaven Wreckers Realm.
 
-![bar_white.png](529-9-3-0-mid-chapter/18-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Bug Fixes
 

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/441-7-6-2-bugfix-p
 author: "Peanits"
 published: "2024-04-01T12:25:08+00:00"
 updated: "2024-04-01T12:25:08+00:00"
-archived: "2026-09-26T16:40:25Z"
+archived: "2026-09-26T17:08:41Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The Clown received reworked add-ons - Sticky Soda Bottle and Cheap Gin Bottle no
 
 # 7.6.2 | Bugfix Patch
 
-![CA_DBD_0224_Applepie_Patch_Notes_Assets_Bugfix02_FORUM.png](441-7-6-2-bugfix-patch/01-ca-dbd-0224-applepie-patch-notes-assets-bugfix02-forum.png)
+![CA_DBD_0224_Applepie_Patch_Notes_Assets_Bugfix02_FORUM.png](../../images/4eb6903ec2c2a976-ca-dbd-0224-applepie-patch-notes-assets-bugfix02.png)
 
 ## Content
 
@@ -41,7 +41,7 @@ The Clown received reworked add-ons - Sticky Soda Bottle and Cheap Gin Bottle no
 - **Leather Loop:** Hatchet hits grant 2% Haste for 5 seconds *(rework).*
 - **Infantry Belt:** Hatchet hits grant 3% Haste for 5 seconds *(rework).*
 
-![PatchNotesDivider.png](441-7-6-2-bugfix-patch/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 

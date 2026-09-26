@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/549-ptb-to-live-ch
 author: "ThatRyanB"
 published: "2026-06-10T17:01:49+00:00"
 updated: "2026-06-10T17:01:49+00:00"
-archived: "2026-09-26T16:42:29Z"
+archived: "2026-09-26T17:10:37Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Jason’s The Slasher chapter gets balance tweaks before going Live. Pinned resc
 
 # PTB To Live Changes: The Slasher
 
-![DbD_1000_PatchNotes_PTBtoLive_16-9.png](549-ptb-to-live-changes-the-slasher/01-dbd-1000-patchnotes-ptbtolive-16-9.png)
+![DbD_1000_PatchNotes_PTBtoLive_16-9.png](../images/9ae11af0d98dab91-dbd-1000-patchnotes-ptbtolive-16-9.png)
 
 In late May, we brought the much-anticipated Jason chapter to the Public Test Build (PTB). Since then, we’ve been keeping a close eye on what you, the community, have had to say about it. We’re glad to see people enjoying The Slasher as much as we enjoyed bringing him to the Fog, but we also want to address some pain points we’ve noticed.
 

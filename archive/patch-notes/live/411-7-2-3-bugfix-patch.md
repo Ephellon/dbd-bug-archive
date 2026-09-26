@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/411-7-2-3-bugfix-p
 author: "Peanits"
 published: "2023-09-20T14:28:20+00:00"
 updated: "2023-09-20T14:28:20+00:00"
-archived: "2026-09-26T16:40:30Z"
+archived: "2026-09-26T17:08:45Z"
 ---
 
 <!-- summary -->
@@ -21,13 +21,13 @@ Survivors can no longer slip through locker collisions and the missing animation
 
 # 7.2.3 | Bugfix Patch
 
-![723Forums.png](411-7-2-3-bugfix-patch/01-723forums.png)
+![723Forums.png](../../images/425de68d7d8a4dd9-723forums.png)
 
 ## Release Schedule
 
 Update releases: 11am ET
 
-![PatchNotesDivider.png](411-7-2-3-bugfix-patch/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 

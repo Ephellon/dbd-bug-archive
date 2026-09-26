@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/489-developer-upda
 author: "ThatRyanB"
 published: "2025-01-27T14:58:05+00:00"
 updated: "2025-01-27T16:27:15+00:00"
-archived: "2026-09-26T16:42:52Z"
+archived: "2026-09-26T17:10:42Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ Minor add-on adjustments (Jump Rope cooldown halved, Unicorn Block range halved)
 
 # Developer Update | January 2025 PTB
 
-![DevUpdate_January2025.png](489-developer-update-january-2025-ptb/01-devupdate-january2025.png)
+![DevUpdate_January2025.png](../images/d3a3f6c76aebaabb-devupdate-january.png)
 
 After delivering a major update to The Nightmare’s Power and Perks, we’ve been steadily unpacking all the feedback we’ve received post-PTB.
 
@@ -33,7 +33,7 @@ While it was a solid start, there was still work to be done. We’ve since made 
 
 ## CHANGES FROM PTB TO LIVE
 
-![DevUpdate_TheNightmare.png](489-developer-update-january-2025-ptb/02-devupdate-thenightmare.png)
+![DevUpdate_TheNightmare.png](../images/215a4ec78572427c-devupdate-the-nightmare.png)
 
 ### Dream Snares
 
@@ -75,29 +75,29 @@ We’ve made a few minor tweaks to some of The Nightmare’s Add-Ons, as a few w
 - **Unicorn Block**:
   - Decrease to **0.5 meters** *(was 1 meter)*
 
-![DevUpdate_Frame.png](489-developer-update-january-2025-ptb/03-devupdate-frame.png)
+![DevUpdate_Frame.png](../images/8d441060fccc2a6d-devupdate-frame.png)
 
 ## Perk Changes
 
 Following several initial Perk changes made in the PTB, we’ve since made a few small Tweaks to **Wake Up!**
 
-![WAKE UP PNG.png](489-developer-update-january-2025-ptb/04-wake-up-png.png)
+![WAKE UP PNG.png](../images/e7e2a9bff0bb475c-wake-up-png.png)
 
 - **\[OLD\]** Once all Generators are powered, Exit Gates are revealed to you. While opening the Exit Gates, reveal your Aura to all other Survivors. While Wake Up! is active, you open the Exit Gates **40/45/50%** faster.
 - **\[NEW\]** Once all Generators are powered, Exit Gates are revealed to you. While opening the Exit Gates, reveal your Aura to all other Survivors. For each Survivor still alive, you open the Exit Gates **8/10/12.5%** faster.
 
 ***Dev Note**: We wanted to make sure that the Perk had a clearer identity, and in its previous state it rode the line between self-centered and altruistic. The basic idea behind its design is to enhance your role as a beacon of endgame hope, ensuring your teammates remain alive to reap the Perk benefits.*
 
-![DevUpdate_Frame.png](489-developer-update-january-2025-ptb/05-devupdate-frame.png)
+![DevUpdate_Frame.png](../images/8d441060fccc2a6d-devupdate-frame.png)
 
 We’ve also tweaked the numbers of **Beast of Prey**. In its previous state, many players felt the benefits weren’t worth the time commitment, so we felt comfortable increasing the duration. Hopefully this new version can be useful during those longer high-stakes chases.
 
-![BEAST OF PREY PNG.png](489-developer-update-january-2025-ptb/06-beast-of-prey-png.png)
+![BEAST OF PREY PNG.png](../images/52b914eae66055d4-beast-of-prey-png.png)
 
 - **\[OLD\]** Upon gaining the Bloodlust Status Effect, Beast of Prey activates: Gain Undetectable for **15/20/25 seconds**.
 - **\[NEW\]** Upon gaining the Bloodlust Status Effect, Beast of Prey activates: Gain Undetectable for **30/35/40 seconds**.
 
-![DevUpdate_Frame.png](489-developer-update-january-2025-ptb/07-devupdate-frame.png)
+![DevUpdate_Frame.png](../images/8d441060fccc2a6d-devupdate-frame.png)
 
 That’s it for today’s Dev Update. We hope you enjoy the changes coming to Dead by Daylight and remember that we’re always listening to your feedback. Thank you for spending your time with us in The Fog!
 

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/510-9-0-0-five-nig
 author: "ThatRyanB"
 published: "2025-06-17T14:30:50+00:00"
 updated: "2025-06-17T16:12:48+00:00"
-archived: "2026-09-26T16:40:15Z"
+archived: "2026-09-26T17:08:32Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The Animatronic arrives as a new Killer with the Fire Axe power, Fazbear’s Fri
 
 # 9.0.0 | Five Nights at Freddy's
 
-![900_PatchNotes_Forum.jpg](510-9-0-0-five-nights-at-freddys/01-900-patchnotes-forum.jpg)
+![900_PatchNotes_Forum.jpg](../../images/c5da994cc40aa9d7-900-patchnotes-forum.jpg)
 
 ## Content
 
@@ -42,7 +42,7 @@ The Animatronic arrives as a new Killer with the Fire Axe power, Fazbear’s Fri
 - Using the Cameras and Doors too often will deplete the limited battery power available, forcing Survivors to wait until the system reboots. The Animatronic may travel between Security Doors with or without battery power.
 - If The Animatronic enters a Security Door, they may choose to exit from any other Door in the map. Moving to a Door already in use by a Survivor will cause The Animatronic to grab that Survivor.
 
-![bar_white.png](510-9-0-0-five-nights-at-freddys/02-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### New Killer Perks
 
@@ -61,13 +61,13 @@ The Animatronic arrives as a new Killer with the Fire Axe power, Fazbear’s Fri
 - Exit gates switches with at least 80% progress regress at a rate of **80/90/100%** of gate opening speed.
   - While they are regressing, Survivors see the exit gate lights flicker randomly.
 
-![bar_white.png](510-9-0-0-five-nights-at-freddys/03-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### N**ew Map - Freddy Fazbear's Pizza
 
 - The rotting brainchild of a sadistic murderer still stands over the grassy plains. A place of joy for some, and unspeakable terror for others. Do not let the bright colors and parlor tricks deceive you; many have died within these walls, and many more will die still.
 
-![bar_red.png](510-9-0-0-five-nights-at-freddys/04-bar-red.png)
+![bar_red.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## Quality of Life Improvements
 
@@ -154,7 +154,7 @@ The Animatronic arrives as a new Killer with the Fire Axe power, Fazbear’s Fri
 
 - Improved optimization at game launch to reduce instances of stuttering in-game.
 
-![bar_red.png](510-9-0-0-five-nights-at-freddys/05-bar-red.png)
+![bar_red.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## Gameplay Features
 
@@ -197,7 +197,7 @@ The Animatronic arrives as a new Killer with the Fire Axe power, Fazbear’s Fri
 
 - Victor is now able to trigger chases with Survivors.
 
-![bar_white.png](510-9-0-0-five-nights-at-freddys/06-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Killer Perks
 
@@ -253,7 +253,7 @@ The Animatronic arrives as a new Killer with the Fire Axe power, Fazbear’s Fri
 
 - Reduced Haste bonus after vaulting a window to 7% *(was 10%).*
 
-![bar_white.png](510-9-0-0-five-nights-at-freddys/07-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Survivor Perks
 
@@ -293,7 +293,7 @@ The Animatronic arrives as a new Killer with the Fire Axe power, Fazbear’s Fri
 
 - Decreased cooldown to 14/12/10 seconds *(was 28/24/20 seconds).*
 
-![bar_white.png](510-9-0-0-five-nights-at-freddys/08-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Emblem Updates
 
@@ -314,19 +314,19 @@ The Animatronic arrives as a new Killer with the Fire Axe power, Fazbear’s Fri
 - Increased Evader chase multiplier at 10 meters to 1x *(was 0.6x)*.
 - Decreased Evader chase multiplier at 6 meters to 1x *(was 1.2x)*.
 
-![bar_white.png](510-9-0-0-five-nights-at-freddys/09-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Quest Rewards
 
 - Increased Daily Quest Blood Point rewards (2500 → 5000)
 
-![bar_white.png](510-9-0-0-five-nights-at-freddys/10-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Map Showcase
 
 - Added new Map Game Mode that allows for players to queue up for a single, predetermined map.
 
-![bar_white.png](510-9-0-0-five-nights-at-freddys/11-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Hellraiser DLC Changes
 
@@ -342,7 +342,7 @@ The Animatronic arrives as a new Killer with the Fire Axe power, Fazbear’s Fri
   - Adept Cenobite is now Lost All Hope
     - Down a Survivor within the bounds of any Exit Gate.
 
-![bar_red.png](510-9-0-0-five-nights-at-freddys/12-bar-red.png)
+![bar_red.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## Bug Fixes
 
@@ -403,7 +403,7 @@ The Animatronic arrives as a new Killer with the Fire Axe power, Fazbear’s Fri
 - Fixed an issue where the input prompts did not initially match the input mode after switching from a keyboard & mouse to a controller.
 - Fixed issues with text formatting on the Main Menu play buttons.
 
-![bar_red.png](510-9-0-0-five-nights-at-freddys/13-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Changes from PTB
 
@@ -412,7 +412,7 @@ The Animatronic arrives as a new Killer with the Fire Axe power, Fazbear’s Fri
 - Survivor Bots no longer try to use disabled or occupied Security Doors.
 - Survivor Bots now try to remove the Animatronic's Axe during chase.
 
-![bar_white.png](510-9-0-0-five-nights-at-freddys/14-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### New Killer Perks
 
@@ -425,7 +425,7 @@ The Animatronic arrives as a new Killer with the Fire Axe power, Fazbear’s Fri
 - Increased minimum regression threshold to 80% *(was 50%)*.
 - Increased regression speed to 80/90/100% *(was 40/45/50%)*.
 
-![bar_white.png](510-9-0-0-five-nights-at-freddys/15-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Killer Updates
 
@@ -475,7 +475,7 @@ The Animatronic arrives as a new Killer with the Fire Axe power, Fazbear’s Fri
 
 - Reverted all add-on changes from the 9.0.0 PTB.
 
-![bar_white.png](510-9-0-0-five-nights-at-freddys/16-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Bug Fixes
 
@@ -539,7 +539,7 @@ The Animatronic arrives as a new Killer with the Fire Axe power, Fazbear’s Fri
 - Fixed an issue where the final level preview in the Bloodweb Bulk Spending popup was not accurate.
 - Fixed an issue where the Bloodweb Bulk Spending rewards popup would be missing for characters who were at max prestige level.
 
-![bar_red.png](510-9-0-0-five-nights-at-freddys/17-bar-red.png)
+![bar_red.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## Known Issues
 

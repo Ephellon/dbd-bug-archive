@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/57-3-0-2-hotfix"
 author: "Peanits"
 published: "2020-02-28T18:59:05+00:00"
 updated: "2020-03-02T19:52:16+00:00"
-archived: "2026-09-26T16:41:43Z"
+archived: "2026-09-26T17:09:52Z"
 ---
 
 <!-- summary -->

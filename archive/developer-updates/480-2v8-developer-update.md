@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/480-2v8-developer-
 author: "Mandy"
 published: "2024-11-11T14:56:33+00:00"
 updated: "2024-11-11T17:57:21+00:00"
-archived: "2026-09-26T16:42:54Z"
+archived: "2026-09-26T17:10:43Z"
 ---
 
 <!-- summary -->
@@ -23,13 +23,13 @@ The 2v8 mode returns with a redesign: survivors enter cages after being picked u
 
 *This article was created from a* [*community discussion*](https://forums.bhvr.com/dead-by-daylight/discussion/432412/2v8-developer-update).
 
-![DBD_2v8-V2_GameMode_Keyart_1080x1080_VF.png](480-2v8-developer-update/01-dbd-2v8-v2-gamemode-keyart-1080x1080-vf.png)
+![DBD_2v8-V2_GameMode_Keyart_1080x1080_VF.png](../images/b5cd188537582653-dbd-2v8-v2-gamemode-keyart-1080x1080-vf.png)
 
 The beloved 2v8 mode is returning! A lot has changed and since the first version – so much that we couldn’t squeeze it into our regular Developer Update – and we’re going to dive into all of it today.
 
 Before we get started, it’s important to note that everything below only applies to the 2v8 mode and will not affect regular matches.
 
-![CAGES PNG.png](480-2v8-developer-update/02-cages-png.png)
+![CAGES PNG.png](../images/1f973dd1a176c018-cages-png.png)
 
 Cages
 
@@ -41,7 +41,7 @@ Cages
 
 *To prevent Killers from camping a caged Survivor, the cage would normally disappear and reappear randomly elsewhere in the map. This created some frustrating moments where someone was about to make the save only for the cage to move. We have changed this so the cage no longer moves as long as a Survivor is nearby.*
 
-![GENERATORS PNG.png](480-2v8-developer-update/03-generators-png.png)
+![GENERATORS PNG.png](../images/7c5ad0298215ce23-generators-png.png)
 
 Generators
 
@@ -55,7 +55,7 @@ Generators
 
 *Dev note: With so many generators and Survivors running around, the number of auras being revealed can be overwhelming. These changes will reduce the number of auras shown at any given time and instead highlight important auras when they are necessary.*
 
-![MAPS PNG.png](480-2v8-developer-update/04-maps-png.png)
+![MAPS PNG.png](../images/691ee51886254738-maps-png.png)
 
 New Maps
 
@@ -67,7 +67,7 @@ New Maps
 
 *Dev note: We’ve added additional maps to house these chaotic trials. Like the original set of maps, these have been given the 2v8 treatment, making them larger than usual and featuring additional adjustments such as three exit gates.*
 
-![BLIGHT PNG.png](480-2v8-developer-update/05-blight-png.png)
+![BLIGHT PNG.png](../images/bdd97537ae4a0d14-blight-png.png)
 
 Killer Debut: The Blight
 
@@ -78,7 +78,7 @@ Killer Debut: The Blight
 
 *Dev note: The other killer can be bounced against.*
 
-![SPIRIT PNG.png](480-2v8-developer-update/06-spirit-png.png)
+![SPIRIT PNG.png](../images/7ea0c867d6c682a6-spirit-png.png)
 
 Killer Debut: The Spirit
 
@@ -89,7 +89,7 @@ Killer Debut: The Spirit
 
 *Dev note: The other killer is visible while phasing and cannot collide with The Spirit while phasing.*
 
-![DEATHSLINGER PNG.png](480-2v8-developer-update/07-deathslinger-png.png)
+![DEATHSLINGER PNG.png](../images/73ca670ee9dcb14a-deathslinger-png.png)
 
 Killer Debut: The Deathslinger
 
@@ -99,7 +99,7 @@ Killer Debut: The Deathslinger
 
 *Dev note: If the other Killer hits a chained Survivor, the chain will break.*
 
-![image.png](480-2v8-developer-update/08-image.png)
+![image.png](../images/91c2ffb067377bac-bar-red-2.png)
 
 ### Class Overhaul
 
@@ -108,7 +108,7 @@ Killer Debut: The Deathslinger
 
 *Dev note: In the next version of 2v8, we have overhauled the Class system from the ground up. Survivors now have powerful activatable abilities, some of which become available later in the match. Killer Classes, meanwhile, have been redesigned and can now be selected on any available Killer.*
 
-![image.png](480-2v8-developer-update/09-image.png)
+![image.png](../images/1722ff4e1b1423bf-image.png)
 
 ***Survivor Classes now have the following abilities:***
 
@@ -118,7 +118,7 @@ Killer Debut: The Deathslinger
 
 *Additionally, Survivors can use their Class Ability charge to pick themselves up from the dying state after recovering.*
 
-![image.png](480-2v8-developer-update/10-image.png)
+![image.png](../images/1722ff4e1b1423bf-image.png)
 
 ***Killer Classes have the following abilities:***
 
@@ -130,7 +130,7 @@ Killer Debut: The Deathslinger
 
 *Balancing & adjustments to specific Killers to ensure smooth gameplay in 2v8 still exist, though these are inherent to the Killer rather than their Class.*
 
-![image.png](480-2v8-developer-update/11-image.png)
+![image.png](../images/1722ff4e1b1423bf-image.png)
 
 ### Refresher: Base Killer Effects
 
@@ -140,43 +140,43 @@ Killer Debut: The Deathslinger
 
 *Dev note: Though Classes are changing, we wanted to preserve the integral aura reveal when chasing a Survivor from the first version of 2v8. We have also added an aura reveal effect to damaging generators to ensure the mode stays fast paced. These abilities are available to all Killers, regardless of their Class.*
 
-![image.png](480-2v8-developer-update/12-image.png)
+![image.png](../images/91c2ffb067377bac-bar-red-2.png)
 
 ### Killer Classes
 
-![SHADOWPNG.png](480-2v8-developer-update/13-shadowpng.png)
+![SHADOWPNG.png](../images/8e98d035306447ba-shadowpng.png)
 
 New Killer Class: Shadow
 
 - **Class Ability:** When within 32 meters of a teammate, you gain Undetectable. Injuring a Survivors transfers the Undetectable effect to your teammate instead. This ability has a cooldown of 30 seconds.
 - **Info Ability:** When your teammate initiates chase with a Survivor, reveal the Survivor for an additional 4 seconds.
 
-![BRUTE PNG.png](480-2v8-developer-update/14-brute-png.png)
+![BRUTE PNG.png](../images/486c87d7624f5fe1-brute-png.png)
 
 New Killer Class: Brute
 
 - **Class Ability:** Perform the break action 25% faster. Doing so grants a teammate within 32 meters 10% Haste for 8 seconds. This ability has a cooldown of 30 seconds.
 - **Info Ability:** When damaging a generator, reveal Survivors within an additional 8 meters.
 
-![ENFORCERPNG.png](480-2v8-developer-update/15-enforcerpng.png)
+![ENFORCERPNG.png](../images/d14860966c0ba2c0-enforcerpng.png)
 
 New Killer Class: Enforcer
 
 - **Class Ability:** Move 3% faster when chasing an injured Survivor. When a teammate within 32 meters hits a Survivor, they are marked and have their aura revealed to you for 12 seconds. Putting that Survivor into the dying state grants your teammate a 60% lunge increase for 15 seconds. This ability has a cooldown of 30 seconds.
 - **Info Ability:** When damaging a generator, reveal nearby Survivors for an additional 4 seconds.
 
-![FEARMONGERPNG.png](480-2v8-developer-update/16-fearmongerpng.png)
+![FEARMONGERPNG.png](../images/268c092de3dd8e84-fearmongerpng.png)
 
 New Killer Class: Fearmonger
 
 - **Class Ability:** While unseen, gain 5% Haste. When injuring a Survivor more than 16 meters from your teammate, they gain 10% Haste for 10 seconds instead. This ability has a cooldown of 30 seconds.
 - **Info Ability:** When a generator is completed, reveal the aura of Survivors with no cage states for an additional 4 seconds.
 
-![image.png](480-2v8-developer-update/17-image.png)
+![image.png](../images/91c2ffb067377bac-bar-red-2.png)
 
 ### Survivor Classes
 
-![MEDIC PNG.png](480-2v8-developer-update/18-medic-png.png)
+![MEDIC PNG.png](../images/138029742a506d84-medic-png.png)
 
 Survivor Class: Medic
 
@@ -184,7 +184,7 @@ Survivor Class: Medic
 - **Info Ability:** Reveal the aura of injured Survivors within 128 meters.
 - **Unlock Ability:** While injured, your scratch marks are suppressed, and your aura is revealed to all other Survivors.
 
-![SCOUTPSD.png](480-2v8-developer-update/19-scoutpsd.png)
+![SCOUTPSD.png](../images/1f8f69af2775c61a-scoutpsd.png)
 
 Survivor Class: Scout
 
@@ -192,7 +192,7 @@ Survivor Class: Scout
 - **Info Ability:** Reveal the aura of Killers performing the break action for 6 seconds.
 - **Unlock Ability:** Your walking speed is increased by 25% and you make no grunts of pain while injured.
 
-![GUIDEPNG.png](480-2v8-developer-update/20-guidepng.png)
+![GUIDEPNG.png](../images/76c2bfa199799534-guidepng.png)
 
 Survivor Class: Guide
 
@@ -200,7 +200,7 @@ Survivor Class: Guide
 - **Info Ability:** Reveal the aura of any unrepaired generator within 32 meters.
 - **Unlock Ability:** When completing a generator, gain a 5% charge per Survivor nearby. The next time you work on a generator, those charges are immediately applied to the generator.
 
-![ESCAPISTPNG.png](480-2v8-developer-update/21-escapistpng.png)
+![ESCAPISTPNG.png](../images/cf25f726512fb2ef-escapistpng.png)
 
 Survivor Class: Escapist
 
@@ -208,7 +208,7 @@ Survivor Class: Escapist
 - **Info Ability:** Reveal the aura of pallets and vaults within 16 meters.
 - **Unlock Ability:** Gain the ability to heal yourself without a Med-Kit at 70% of the normal healing speed.
 
-![image.png](480-2v8-developer-update/22-image.png)
+![image.png](../images/91c2ffb067377bac-bar-red-2.png)
 
 ### Killer Updates
 

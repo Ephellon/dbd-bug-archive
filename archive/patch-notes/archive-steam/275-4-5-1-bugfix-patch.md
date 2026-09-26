@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/275-4-5-1-bugfix-p
 author: "Peanits"
 published: "2021-02-16T15:24:53+00:00"
 updated: "2021-02-16T15:24:53+00:00"
-archived: "2026-09-26T16:41:35Z"
+archived: "2026-09-26T17:09:44Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Floating survivors in the lobby, missing Auris model in the Observer’s hand, M
 
 # 4.5.1 | Bugfix Patch
 
-![451Banner.png](275-4-5-1-bugfix-patch/01-451banner.png)
+![451Banner.png](../../images/f8c745c58280fa1c-451banner.png)
 
 ## Bug Fixes
 

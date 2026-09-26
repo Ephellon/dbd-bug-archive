@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/261-4-3-2-bugfix-p
 author: "Peanits"
 published: "2020-11-03T15:30:15+00:00"
 updated: "2020-11-03T16:18:26+00:00"
-archived: "2026-09-26T16:41:54Z"
+archived: "2026-09-26T17:10:02Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Discordance’s detection range was expanded to 64/96/128 m and its aura now fad
 
 # 4.3.2 | Bugfix Patch
 
-![432Banner.png](261-4-3-2-bugfix-patch/01-432banner.png)
+![432Banner.png](../../images/e25f9ecd5a27827e-432banner.png)
 
 ## Content
 

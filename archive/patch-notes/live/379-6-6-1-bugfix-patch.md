@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/379-6-6-1-bugfix-p
 author: "Peanits"
 published: "2023-03-14T14:25:26+00:00"
 updated: "2023-03-14T14:34:44+00:00"
-archived: "2026-09-26T16:40:36Z"
+archived: "2026-09-26T17:08:50Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The Skull Merchant’s power UI received a visual overhaul, correcting display a
 
 # 6.6.1 | Bugfix Patch
 
-![661Banner.png](379-6-6-1-bugfix-patch/01-661banner.png)
+![661Banner.png](../../images/e61be80f3c30a03b-661banner.png)
 
 ## Release Schedule
 
@@ -29,13 +29,13 @@ Update Releases: 11AM ET
 
 *Note: Times are an estimate and may vary from platform to platform.*
 
-![PatchNotesDivider.png](379-6-6-1-bugfix-patch/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Features
 
 - Updated UI for The Skull Merchant's Power.
 
-![PatchNotesDivider.png](379-6-6-1-bugfix-patch/03-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 

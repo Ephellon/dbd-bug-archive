@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/495-8-6-0-ptb-patc
 author: "ThatRyanB"
 published: "2025-03-11T15:00:01+00:00"
 updated: "2025-03-11T15:24:49+00:00"
-archived: "2026-09-26T16:40:58Z"
+archived: "2026-09-26T17:09:10Z"
 ---
 
 <!-- summary -->
@@ -21,14 +21,14 @@ The Ghoul introduces Kagune Leap and Enraged Mode with three new killer perks; F
 
 # 8.6.0 | PTB Patch Notes
 
-![860_PatchNotes_Forums_EN.jpg](495-8-6-0-ptb-patch-notes/01-860-patchnotes-forums-en.jpg)
+![860_PatchNotes_Forums_EN.jpg](../../images/f79bd9d8220b1413-860-patchnotes-forums-en.jpg)
 
 ## Important
 
 - Progress & save data information has been copied from the Live game to our PTB servers on ***March 4, 2025***. Please note that players will be able to progress for the duration of the PTB, but none of that progress will make it back to the Live version of the game.
 - Players will once again receive 12,500 Auric Cells on the PTB to explore Outfits and Characters in the Store. Both Auric Cells and purchases made on the PTB Build will not transfer to the Live Build.
 
-![bar_red.png](495-8-6-0-ptb-patch-notes/02-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Content
 
@@ -64,7 +64,7 @@ The Ghoul introduces Kagune Leap and Enraged Mode with three new killer perks; F
   - When you hook a Survivor for the first time, gain **1** token, up to **4**.
   - When all generators are completed, for each token, all windows and upright pallets are blocked for everyone for **12/14/16 seconds.**
 
-![bar_red.png](495-8-6-0-ptb-patch-notes/03-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Features
 
@@ -72,7 +72,7 @@ The Ghoul introduces Kagune Leap and Enraged Mode with three new killer perks; F
 
 - Made improvements to the Scratch Marks spawn logic. They should spawn on the ground more consistently.
 
-![bar_white.png](495-8-6-0-ptb-patch-notes/04-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Surrender Option
 
@@ -95,7 +95,7 @@ Survivor:
 - When all other remaining Survivors are bots
 - When all Survivors are in the Dying State
 
-![bar_white.png](495-8-6-0-ptb-patch-notes/05-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Map
 
@@ -112,7 +112,7 @@ Survivor:
 
 - Exit Gate notifications are visible for 12 seconds when they are powered *(was 7 seconds)*
 
-![bar_white.png](495-8-6-0-ptb-patch-notes/06-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Survivor Bloodpoint Balancing
 
@@ -138,14 +138,14 @@ The following score events have been moved to a different category:
 - Cleansing a Dull Totem now awards Survival points *(was Boldness)*
 - Cleansing a Hex Totem now awards Survival points *(was Boldness)*
 
-![bar_white.png](495-8-6-0-ptb-patch-notes/07-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Deep Wound
 
 - Decreased the time it takes to Mend your own Deep Wound to **10 seconds** *(was 12 seconds)*
 - Decreased the time it takes to Mend another Survivors' Deep Wound to **6 seconds** *(was 8 seconds)*
 
-![bar_white.png](495-8-6-0-ptb-patch-notes/08-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Killer Updates
 
@@ -187,14 +187,14 @@ The following score events have been moved to a different category:
 - Decreased Hidey-Ho cooldown to 12 seconds *(was 14)*
 - Decreased the time it takes to reach max speed at the start of Slice and Dice and after Scampering a window or pallet.
 
-![bar_white.png](495-8-6-0-ptb-patch-notes/09-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Terror Radius
 
 - Increased The Hillbilly and The Blight's Terror Radius to 40 meters *(was 32 meters)*
 - Decreased The Pig, The Ghost Face, and The Skull Merchant's Terror Radius to 24 meters *(was 32 meters)*
 
-![bar_white.png](495-8-6-0-ptb-patch-notes/10-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Killer Perks
 
@@ -220,7 +220,7 @@ The following score events have been moved to a different category:
 
 - Increased aura reveal duration to 8 seconds *(was 4 seconds)*
 
-![bar_white.png](495-8-6-0-ptb-patch-notes/11-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Survivor Perks
 
@@ -243,13 +243,13 @@ The following score events have been moved to a different category:
 - Decreased repair requirement to 1 second *(was 3 seconds)*
 - Decreased cooldown to 25/20/15 seconds *(was 30/25/20 seconds)*
 
-![bar_white.png](495-8-6-0-ptb-patch-notes/12-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Loadouts
 
 - Equipped elements now show units left counter.
 
-![bar_white.png](495-8-6-0-ptb-patch-notes/13-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Bot Improvements
 
@@ -257,7 +257,7 @@ The following score events have been moved to a different category:
 - Survivor bots are now less interested in Chests and won't try to steal the loot of another player.
 - Survivor bots no longer repeatedly enter lockers trying to craft a Flashbang.
 
-![bar_red.png](495-8-6-0-ptb-patch-notes/14-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Bug Fixes
 
@@ -387,7 +387,7 @@ The following score events have been moved to a different category:
 - Fixed an issue that caused the Death of Ignorance achievement/trophy not to progress when using the Artist's Silver Bell add-on.
 - Fixed an issue that caused a debug blue square to be visible when breaking a wall as a Killer.
 
-![bar_red.png](495-8-6-0-ptb-patch-notes/15-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Known Issues
 

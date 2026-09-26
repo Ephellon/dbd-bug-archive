@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/413-7-3-0-mid-chap
 author: "Peanits"
 published: "2023-10-10T14:25:26+00:00"
 updated: "2023-10-10T18:57:02+00:00"
-archived: "2026-09-26T16:40:29Z"
+archived: "2026-09-26T17:08:45Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The Skull Merchant receives an overhaul: starts with six drones, Eyes in the Sky
 
 # 7.3.0 | Mid-Chapter
 
-![PatchNotesBanner730.jpg](413-7-3-0-mid-chapter/01-patchnotesbanner730.jpg)
+![PatchNotesBanner730.jpg](../../images/44b7b55b1b008aec-patchnotesbanner730.jpg)
 
 ## Release Schedule
 
@@ -29,7 +29,7 @@ The Skull Merchant receives an overhaul: starts with six drones, Eyes in the Sky
 
 **Tome 17 opens**: October 11, 11a.m. ET
 
-![CA-635_DBD_0923_release_time_asset_02.png](413-7-3-0-mid-chapter/02-ca-635-dbd-0923-release-time-asset-02.png) ![PatchNotesDividerSmolWhite.png](413-7-3-0-mid-chapter/03-patchnotesdividersmolwhite.png)
+![CA-635_DBD_0923_release_time_asset_02.png](../../images/219058389d3c603b-ca-635-dbd-0923-release-time-asset-02.png) ![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ## Developer Updates
 
@@ -37,7 +37,7 @@ For more details on what has changed since the Public Test Build, see our Octobe
 
 [https://forums.bhvr.com/dead-by-daylight/kb/articles/412](https://forums.bhvr.com/dead-by-daylight/kb/articles/412)
 
-![PatchNotesDivider.png](413-7-3-0-mid-chapter/04-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Content
 
@@ -52,7 +52,7 @@ For more details on what has changed since the Public Test Build, see our Octobe
 - When the Killer picks-up another Survivor, Background Player activates for 10 seconds. When you start running, break into a sprint at 200% of your normal Running Movement speed for 5 seconds*. (was 150% for 4 seconds)*
 - This perk cannot be used while suffering from Exhaustion. This perk causes exhaustion for 60/50/40 seconds.
 
-![PatchNotesDividerSmolWhite.png](413-7-3-0-mid-chapter/05-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Updated Killer: The Skull Merchant
 
@@ -101,7 +101,7 @@ The Lock On meter fills when scanned by a Drone and when failing to disable a Dr
 
 Daily rituals, Achievements, Loading Tips, and Score Events have been updated accordingly.
 
-![PatchNotesDividerSmolWhite.png](413-7-3-0-mid-chapter/06-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Updated Killer: The Trapper
 
@@ -109,7 +109,7 @@ Daily rituals, Achievements, Loading Tips, and Score Events have been updated ac
   - The Coffee Grounds Addon has been updated to indicate it is an additional Haste effect.
 - When the Trial begins, 8 Bear-Traps spawn on the map *(was 6)*.
 
-![PatchNotesDividerSmolWhite.png](413-7-3-0-mid-chapter/07-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Other Killer Tweaks
 
@@ -137,7 +137,7 @@ Daily rituals, Achievements, Loading Tips, and Score Events have been updated ac
 
 - Reloading knives takes 3 seconds (was 4 seconds).
 
-![PatchNotesDividerSmolWhite.png](413-7-3-0-mid-chapter/08-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Anti Face-Camp Feature
 
@@ -149,7 +149,7 @@ This feature shuts off entirely once the Exit Gates are powered.
 
 As part of this system, The Cannibal can no longer hit a Survivor who has Endurance twice in the same 0.5 second timespan.
 
-![PatchNotesDividerSmolWhite.png](413-7-3-0-mid-chapter/09-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Events & Archives
 
@@ -165,7 +165,7 @@ As part of this system, The Cannibal can no longer hit a Survivor who has Endura
 - Collection Milestone Rewards
   - Milestone Rewards are a set of rewards that you unlock simply by unlocking event collection rewards. Earn all event cosmetics to unlock them all!
 
-![PatchNotesDividerSmolWhite.png](413-7-3-0-mid-chapter/10-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Map Updates
 
@@ -183,7 +183,7 @@ The size of the Map was large and we decided to reduce the size to encourage enc
 
 The Maps of the MacMillan Estate Realm have been in the game for about 7 years. The layouts and other information have been available within the community for a while, but The Entity reminded us to give players a chaotic experience. Therefore, we are adding new variations of the MacMillan Estate Realm maps to the existing pool.
 
-![PatchNotesDivider.png](413-7-3-0-mid-chapter/11-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Features
 
@@ -194,7 +194,7 @@ Reworked the Bots Skill Check system:
 - Success rates now correlate with Skill Check size.
 - Skill Check debuffs, such as The Doctor's Madness or Hex: Huntress Lullaby, reduce the odds of hitting the Skill Check.
 
-![PatchNotesDivider.png](413-7-3-0-mid-chapter/12-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 
@@ -262,7 +262,7 @@ Reworked the Bots Skill Check system:
 - Fixed an issue that caused the Flame Turret’s light to remain visible while vaulting.
 - EDITED: Fixed a bug that resulted in a different distance achieved between male and female Survivors during fast vaults.
 
-![PatchNotesDivider.png](413-7-3-0-mid-chapter/13-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Public Test Build (PTB) Adjustments
 

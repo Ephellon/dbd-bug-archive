@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/296-5-2-2-bugfix-p
 author: "Peanits"
 published: "2021-09-21T14:27:22+00:00"
 updated: "2021-09-21T14:35:45+00:00"
-archived: "2026-09-26T16:40:49Z"
+archived: "2026-09-26T17:09:02Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ Bug fixes cover a range of systems: scoring and bonus bloodpoints for the Cenobi
 
 # 5.2.2 | Bugfix Patch
 
-![522Banner.png](296-5-2-2-bugfix-patch/01-522banner.png)
+![522Banner.png](../../images/98fd6c59d231a384-522banner.png)
 
 ## Content
 

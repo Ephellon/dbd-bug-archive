@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/388-6-7-2-bugfix-p
 author: "Mandy"
 published: "2023-05-18T14:57:29+00:00"
 updated: "2023-05-18T14:57:29+00:00"
-archived: "2026-09-26T16:40:34Z"
+archived: "2026-09-26T17:08:49Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Two new outfits have been added to the in-game store along with a selection of A
 
 # 6.7.2 | Bugfix Patch
 
-![660_PTB_PatchNotes_Forumcopie.png](388-6-7-2-bugfix-patch/01-660-ptb-patchnotes-forumcopie.png)
+![660_PTB_PatchNotes_Forumcopie.png](../../images/7d6c720ddad6c36c-660-ptb-patchnotes-forumcopie.png)
 
 ## Release Schedule
 
@@ -29,7 +29,7 @@ Update releases: May 18 2023, 11AM ET
 
 *Please note that update times may vary slightly per platform.*
 
-![image.png](388-6-7-2-bugfix-patch/02-image.png)
+![image.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## CONTENT
 

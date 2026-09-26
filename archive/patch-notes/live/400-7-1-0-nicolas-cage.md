@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/400-7-1-0-nicolas-
 author: "Peanits"
 published: "2023-07-25T14:28:07+00:00"
 updated: "2023-07-25T14:44:59+00:00"
-archived: "2026-09-26T16:40:33Z"
+archived: "2026-09-26T17:08:48Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Nicolas Cage joins the survivor roster with three active abilities—Dramaturgy,
 
 # 7.1.0 | Nicolas Cage
 
-![710_PatchNotesThinBanner.png](400-7-1-0-nicolas-cage/01-710-patchnotesthinbanner.png)
+![710_PatchNotesThinBanner.png](../../images/5dab5e2fe01fbc9b-710-patchnotesthinbanner.png)
 
 ## Release Information
 
@@ -54,7 +54,7 @@ DLC releases: 12PM ET
 
 **Plot Twist:** activates when you are injured. Press the ability button 2 while crouched and motionless to silently enter the dying state. When using Plot Twist to enter the dying state, you leave no blood pools and you make no noise and you can fully recover from the dying state. When you recover by yourself using Plot Twist, you are fully healed instantly and you gain 50% Haste for 2/3/4 seconds. *This perk deactivates if you recover by yourself by any means. The perk re-activates when the exit gates are powered.*
 
-![PatchNotesDividerSmolWhite.png](400-7-1-0-nicolas-cage/02-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Updated Killer: The Onryo
 
@@ -84,13 +84,13 @@ Add-ons:
 - Cabin Sign: TV turn on time after a teleport is reduced by 4.5 seconds.
 - Well Stone: TV turn on time after receiving a tape is reduced by 7 seconds.
 
-![PatchNotesDividerSmolWhite.png](400-7-1-0-nicolas-cage/03-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Hook Grabs:
 
 Grabs from unhooking Survivors have been removed. This means that the awkward mindgame when unhooking has been eliminated, helping to improve the gameplay flow. You still aren't safe whilst unhooking however, as the Killer will still be able to hit you twice before you can escape.
 
-![PatchNotesDividerSmolWhite.png](400-7-1-0-nicolas-cage/04-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Toolbox Add-On Updates:
 
@@ -100,7 +100,7 @@ Grabs from unhooking Survivors have been removed. This means that the awkward mi
   - Upon succeeding the Skill Check, the generator's required charges are reduced by 10.
   - *This add-on is consumed after use*
 
-![PatchNotesDividerSmolWhite.png](400-7-1-0-nicolas-cage/05-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Perk Updates
 
@@ -143,7 +143,7 @@ Grabs from unhooking Survivors have been removed. This means that the awkward mi
 - **Spine Chill:**
 - Get notified when the Killer within a 36-meter range. If the Killer is within range and is looking at you with a clear line of sight, your speed while repairing, sabotaging, healing, unhooking, cleansing, blessing, opening exit gates and unlocking is increased by 2%/4%/6%. The effects of *Spine Chill* linger for 0.5 seconds after the Killer looks away or is out of range.
 
-![PatchNotesDividerSmolWhite.png](400-7-1-0-nicolas-cage/06-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Killer Tweaks
 
@@ -165,7 +165,7 @@ Grabs from unhooking Survivors have been removed. This means that the awkward mi
 - Mint Rag - the teleport cooldown has been reduced to 10 seconds.
 - Half Egg Shell and Cracked Turtle Egg - Half Egg Shell now increased Phantasm Trap duration by 45% (was 30%), and Cracked Turtle Egg now increases Phantasm Trap duration by 55% (was 35%).
 
-![PatchNotesDividerSmolWhite.png](400-7-1-0-nicolas-cage/07-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Events & Archives
 
@@ -173,7 +173,7 @@ Grabs from unhooking Survivors have been removed. This means that the awkward mi
 - **NEW EVENT:** Scorching BBQ begins August 3 at 11:00:00 AM Eastern Time.
   - Level 1 of the Scorching BBQ event tome opens at the start of the event.
 
-![PatchNotesDividerSmolWhite.png](400-7-1-0-nicolas-cage/08-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Maps - Fractured Cowshed and Rancid Abattoir
 
@@ -182,7 +182,7 @@ Grabs from unhooking Survivors have been removed. This means that the awkward mi
 - Different modifications were done on all the tiles, to make them consistent for the navigation and gameplay.
 - Moved Hooks that would spawn in loops with pallets away from the loops.
 
-![PatchNotesDivider.png](400-7-1-0-nicolas-cage/09-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Features
 
@@ -191,7 +191,7 @@ Grabs from unhooking Survivors have been removed. This means that the awkward mi
 - Replaced disconnected survivors with bots.
 - Bots can now use Dramaturgy and Plot Twist.
 
-![PatchNotesDividerSmolWhite.png](400-7-1-0-nicolas-cage/10-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Improved Player Reporting Feedback
 
@@ -200,7 +200,7 @@ Grabs from unhooking Survivors have been removed. This means that the awkward mi
 - Now players are going to receive feedback when their report helps to ban another player.
 - The information does not contain players' details, and displays the reason and date of the ban.
 
-![PatchNotesDividerSmolWhite.png](400-7-1-0-nicolas-cage/11-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Misc
 
@@ -212,7 +212,7 @@ Grabs from unhooking Survivors have been removed. This means that the awkward mi
 - Added new Character Portraits for Survivors and Killers.
 - New visuals for Store flags (limited time items) and New Items across all menus.
 
-![PatchNotesDivider.png](400-7-1-0-nicolas-cage/12-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 
@@ -295,7 +295,7 @@ Grabs from unhooking Survivors have been removed. This means that the awkward mi
 - The Drop Firecracker prompt no longer appears when the Survivor holds a Flash Grenade.
 - Pink Glyphs no longer fail to stare at Survivors performing interactions.
 
-![PatchNotesDivider.png](400-7-1-0-nicolas-cage/13-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Public Test Build (PTB) Adjustments
 

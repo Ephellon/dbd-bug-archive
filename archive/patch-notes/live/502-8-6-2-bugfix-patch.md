@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/502-8-6-2-bugfix-p
 author: "ThatRyanB"
 published: "2025-04-17T14:29:18+00:00"
 updated: "2025-04-17T14:29:18+00:00"
-archived: "2026-09-26T16:40:16Z"
+archived: "2026-09-26T17:08:33Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The Ghoul was rebalanced: tentacle range cut to 14 m, Enraged mode to 40 s (grab
 
 # 8.6.2 | Bugfix Patch
 
-![Patch_Notes_Assets_862_Forum.jpg](502-8-6-2-bugfix-patch/01-patch-notes-assets-862-forum.jpg)
+![Patch_Notes_Assets_862_Forum.jpg](../../images/f497a33c34d8ce8c-patch-notes-assets-862-forum.jpg)
 
 ## Content
 
@@ -40,7 +40,7 @@ The Ghoul was rebalanced: tentacle range cut to 14 m, Enraged mode to 40 s (grab
 - Add-on Taiyaki: Reduced the Enraged Mode countdown from **15 seconds** to **5 seconds** and changed rarity from Uncommon to Common.
 - Add-on Yamori's Mask: Added the activation requirement of "all Survivors further than 40m".
 
-![bar_white.png](502-8-6-2-bugfix-patch/02-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### New Killer: Perk Changes
 
@@ -49,7 +49,7 @@ The Ghoul was rebalanced: tentacle range cut to 14 m, Enraged mode to 40 s (grab
   - When all generators are completed, for each token, all windows and upright pallets are blocked for **12/14/16 seconds.**
   - *Removed the blocked "**for everyone**" clause.*
 
-![bar_red.png](502-8-6-2-bugfix-patch/03-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Bug Fixes
 
@@ -100,7 +100,7 @@ The Ghoul was rebalanced: tentacle range cut to 14 m, Enraged mode to 40 s (grab
 - Fixed an issue where Killer could load into a match with unowned cosmetics when viewing the mori preview with the selected cosmetic.
 - Fixed an issue where retired Offerings were not showing in player's inventory.
 
-![bar_red.png](502-8-6-2-bugfix-patch/04-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Known Issues
 

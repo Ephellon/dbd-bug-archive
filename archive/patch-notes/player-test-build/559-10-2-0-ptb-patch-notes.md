@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/559-10-2-0-ptb-pat
 author: "Mandy"
 published: "2026-09-15T15:05:25+00:00"
 updated: "2026-09-15T15:20:44+00:00"
-archived: "2026-09-26T16:40:54Z"
+archived: "2026-09-26T17:09:06Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ Alongside these features, dozens of Killer and Survivor perks receive balance tw
 
 # 10.2.0 PTB Patch Notes
 
-![1020PTB_PatchNotes_Assets16_9.png](559-10-2-0-ptb-patch-notes/01-1020ptb-patchnotes-assets16-9.png)
+![1020PTB_PatchNotes_Assets16_9.png](../../images/cf2e828a79d52c0f-1020ptb-patchnotes-assets16-9.png)
 
 ### Features
 
@@ -49,7 +49,7 @@ Alongside these features, dozens of Killer and Survivor perks receive balance tw
         
        (INITIALLY YOU WILL NEED TO SWITCH THIS FEATURE ON / OFF AT THE START OF EVERY TRIAL - WE ARE WORKING FOR A FIX FOR THIS ISSUE)
 
-![image.png](559-10-2-0-ptb-patch-notes/02-image.png)
+![image.png](../../images/1722ff4e1b1423bf-image.png)
 
 ### Abandon, Surrender, End Trial
 
@@ -74,7 +74,7 @@ Alongside these features, dozens of Killer and Survivor perks receive balance tw
 - *Remove problematic conditions that encourage negative gameplay behaviour*
 - *Lower the frequency of players leaving an ongoing match*
 
-![image.png](559-10-2-0-ptb-patch-notes/03-image.png)
+![image.png](../../images/1722ff4e1b1423bf-image.png)
 
 ## Content
 
@@ -461,7 +461,7 @@ Alongside these features, dozens of Killer and Survivor perks receive balance tw
 
 *Dev Note: Windows of Opportunity has long reigned as one of the most used perks for it's universal visibility on resources. We feel especially with the inclusion of other options it's a good opportunity to make it specialize in Windows. Players can still gain the old effects of Windows of Opportunity by using the new Dark Sense or combining Windows of Opportunity with Five Moves Ahead.*
 
-![image.png](559-10-2-0-ptb-patch-notes/04-image.png)
+![image.png](../../images/1722ff4e1b1423bf-image.png)
 
 ## Bug Fixes
 

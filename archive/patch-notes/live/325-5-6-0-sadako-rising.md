@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/325-5-6-0-sadako-r
 author: "Peanits"
 published: "2022-03-08T15:59:27+00:00"
 updated: "2022-03-08T22:43:12+00:00"
-archived: "2026-09-26T16:40:45Z"
+archived: "2026-09-26T17:08:58Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ The bulk of the patch is stability work—network-latency skill-check fixes, num
 
 # 5.6.0 | Sadako Rising
 
-![PatchNotesBanner560.png](325-5-6-0-sadako-rising/01-patchnotesbanner560.png)
+![PatchNotesBanner560.png](../../images/a3d9abd802f00156-patchnotesbanner560.png)
 
 ## Features
 
@@ -41,7 +41,7 @@ The bulk of the patch is stability work—network-latency skill-check fixes, num
 
 *Dev Note: The tracking system for Daily Rituals has been reworked, which requires all rituals to be reset with this patch*
 
-![MicrosoftTeams-image (1).png](325-5-6-0-sadako-rising/02-microsoftteams-image-281-29.png)
+![MicrosoftTeams-image (1).png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 
@@ -98,7 +98,7 @@ The bulk of the patch is stability work—network-latency skill-check fixes, num
 - Fixed an issue that caused the ink vfx to remain in the air when a hook in the Eyrie of Crows's map is sabotaged
 - Fixed an issue that caused hooked vfx to persist after being unhooked
 
-![PatchNotesDividerSmolWhite.png](325-5-6-0-sadako-rising/03-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ### Fixes from PTB
 
@@ -135,7 +135,7 @@ The bulk of the patch is stability work—network-latency skill-check fixes, num
 - Fixed an issue that caused the Well Stone add-on not to reduce the time for a turned-off television to turn back on.
 - Fixed an issue that caused The Onryō's Water Well Add-on to remain inactive after some interactions.
 
-![MicrosoftTeams-image (1).png](325-5-6-0-sadako-rising/04-microsoftteams-image-281-29.png)
+![MicrosoftTeams-image (1).png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Changes from PTB
 
@@ -163,7 +163,7 @@ The bulk of the patch is stability work—network-latency skill-check fixes, num
 
 *Dev Note: Corrective Actions already had this behavior, it just wasn't clearly stated in the description on the PTB.*
 
-![MicrosoftTeams-image (1).png](325-5-6-0-sadako-rising/05-microsoftteams-image-281-29.png)
+![MicrosoftTeams-image (1).png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Known Issues
 

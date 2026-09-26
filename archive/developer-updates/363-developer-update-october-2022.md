@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/363-developer-upda
 author: "Omnia"
 published: "2022-10-28T14:00:59+00:00"
 updated: "2022-10-28T15:49:42+00:00"
-archived: "2026-09-26T16:43:26Z"
+archived: "2026-09-26T17:10:54Z"
 ---
 
 <!-- summary -->
@@ -21,11 +21,11 @@ Survivor bots are coming to custom matches, letting hosts add AI teammates via a
 
 # Developer Update | October 2022
 
-![Announcement.png](363-developer-update-october-2022/01-announcement.png)
+![Announcement.png](../images/0cce4b78fac37f6b-announcement.png)
 
 The final Developer Update of the year is here. In this series of posts, we discuss the biggest upcoming changes and provide updates on ongoing processes. This time, we’ll cover the various features and improvements coming with next month’s 6.4.0 Update.
 
-![LonelySurvivor.png](363-developer-update-october-2022/02-lonelysurvivor.png)
+![LonelySurvivor.png](../images/386a8c35a1ca71a9-lonelysurvivor.png)
 
 ## Bots in Custom Matches
 
@@ -33,25 +33,25 @@ Kicking things off, we have a much-anticipated feature that was first announced 
 
 Starting in 6.4.0, the host of a custom game can click the ‘+’ icon to add a random Survivor bot to the lobby. Don’t like the way that bot looked at you? The host can click their name and remove the bot at their discretion. You can face off against an entire lobby of robot Survivors, fill empty slots when playing with friends, or ignore them entirely and play with a partial lobby of human friends like before (but our future Robot Overlords *will* remember this).
 
-![AddBot.png](363-developer-update-october-2022/03-addbot.png)
+![AddBot.png](../images/302927cc1630ca1c-addbot.png)
 
 While the first version of the feature focuses on Survivor bots, **we plan to include Killer bots in a future update** so you can practice *against* each Killer as well. This will take some time, however, since the AI needs to be trained to use each Killer’s power first.
 
 Additionally, we have a few other improvements in store for this feature in the future, including the ability to select which characters you want by your side and their loadouts (though not all perks, items, and add-ons will be available to bots). If there’s something else that you really want to see, as always, let us know!
 
-![Visual.png](363-developer-update-october-2022/04-visual.png)
+![Visual.png](../images/1204ffcc3e90d556-visual.png)
 
 ## Visual Improvements
 
 Continuing our ongoing efforts to improve the graphics of Dead by Daylight, we have updated the visuals for breakable objects (pallets & breakable walls). Rather than making you read all about them, we figured we would show you. Take a look!
 
-![BreakableWall.png](363-developer-update-october-2022/05-breakablewall.png) ![Pallet.png](363-developer-update-october-2022/06-pallet.png)
+![BreakableWall.png](../images/0ebf13ef284910b1-breakablewall.png) ![Pallet.png](../images/788f012d50dd6d21-pallet.png)
 
 That’s not all the visual improvements we have in store. Check out the new basement! (Please excuse the mess, we weren’t expecting company.)
 
-![Basement1.png](363-developer-update-october-2022/07-basement1.png) ![Basement2.png](363-developer-update-october-2022/08-basement2.png) ![Basement3.png](363-developer-update-october-2022/09-basement3.png)
+![Basement1.png](../images/b8c2ddec6b70cc1f-basement1.png) ![Basement2.png](../images/6b3d663458e0c713-basement2.png) ![Basement3.png](../images/85d79c7da726ef73-basement3.png)
 
-![Flashlight.png](363-developer-update-october-2022/10-flashlight.png)
+![Flashlight.png](../images/8af3573415fa0e91-flashlight.png)
 
 ## Flashlight Adjustments
 
@@ -69,7 +69,7 @@ A flashlight save can be a game changer, but they’re a little tricky to pull o
 
 *To address this, we are adding a short (0.25 second) buffer to the end of a Killer’s pickup animation.* If they are blinded during this window, they will be stunned and drop the Survivor as soon as the animation finishes.
 
-![Matchmaking.png](363-developer-update-october-2022/11-matchmaking.png)
+![Matchmaking.png](../images/79026b2c712e0b43-matchmaking.png)
 
 ## Matchmaking Improvements
 
@@ -85,7 +85,7 @@ If you’re just coming back from an extended break, contending with rust on top
 
 Both changes will be a part of the 6.4.0 Update, coming next month. Keep an eye out for a matchmaking blogpost for more details!
 
-![Performance.png](363-developer-update-october-2022/12-performance.png)
+![Performance.png](../images/440cc9e2d2246881-performance.png)
 
 ## An Update on Cheating
 

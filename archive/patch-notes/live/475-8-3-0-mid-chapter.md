@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/475-8-3-0-mid-chap
 author: "Peanits"
 published: "2024-10-08T14:25:07+00:00"
 updated: "2024-10-08T15:11:19+00:00"
-archived: "2026-09-26T16:40:20Z"
+archived: "2026-09-26T17:08:36Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ The update also bundles a bug-fix sweep covering archive challenges, audio cues,
 
 # 8.3.0 | Mid-Chapter
 
-![FUDGE_PTB_RELEASEFORUM.jpg](475-8-3-0-mid-chapter/01-fudge-ptb-releaseforum.jpg)
+![FUDGE_PTB_RELEASEFORUM.jpg](../../images/d936eaefdf9a6647-fudge-ptb-releaseforum.jpg)
 
 ## Content
 
@@ -54,7 +54,7 @@ The update also bundles a bug-fix sweep covering archive challenges, audio cues,
    Survivors within **24 meters** scream, revealing their location for **3/4/5 seconds** *(was 28/30/32 meters, and 4 seconds)* When hooking a Survivor, regain **1** token *(NEW)*
 - **Zanshin Tactics:** Reveal the aura of pallets and windows within **32 meters.** *(removed breakable walls)* Survivors who drop pallets are revealed to you for **6/7/8 seconds**. *(NEW)*
 
-![PatchNotesDividerSmolWhite.png](475-8-3-0-mid-chapter/02-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Survivor Perk Updates
 
@@ -81,7 +81,7 @@ The update also bundles a bug-fix sweep covering archive challenges, audio cues,
    This effect does not stack.
 - **We're Gonna Live Forever:** When healing another Survivor in the dying state, your healing speed is increased by **150%.** *(was 100%)* When completing the heal action, grant them the **Endurance Status Effect** for **6/8/10 seconds**. This effect has a **30-second** cooldown. *(Removed the list of conditions required to trigger this effect)*
 
-![PatchNotesDividerSmolWhite.png](475-8-3-0-mid-chapter/03-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Killer Updates
 
@@ -147,19 +147,19 @@ The update also bundles a bug-fix sweep covering archive challenges, audio cues,
    Survivors who complete generators become Weakened against UVX  
    Increase Hallucination spawn time by 80% *(NEW)*
 
-![PatchNotesDividerSmolWhite.png](475-8-3-0-mid-chapter/04-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Events & Archives
 
 - Level 1 of Tome 21 - DOMINUS opens October 8, 11:00am Eastern.
 
-![PatchNotesDividerSmolWhite.png](475-8-3-0-mid-chapter/05-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Map Updates
 
 - **Springwood** Added a window in the dead end generator room as a new escape option for Survivors.
 
-![PatchNotesDivider.png](475-8-3-0-mid-chapter/06-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Features
 
@@ -168,7 +168,7 @@ The update also bundles a bug-fix sweep covering archive challenges, audio cues,
 - Match Details screen now shows the connection status of the Killer player as well as the normal Survivor players.
 - Players can Preview Moris at the Rift Pass
 
-![PatchNotesDivider.png](475-8-3-0-mid-chapter/07-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 
@@ -263,7 +263,7 @@ The update also bundles a bug-fix sweep covering archive challenges, audio cues,
 - Fixed a crash that could occur when the Killer disconnected from a Trial.
 - Fixed an issue that caused the White Ward Survivor Offering not to protect add-on when the Survivor dies with an upgraded item.
 
-![PatchNotesDivider.png](475-8-3-0-mid-chapter/08-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Public Test Build (PTB) Adjustments
 
@@ -323,7 +323,7 @@ Ivory and Ebony Memento Mori Offerings have been reverted back to their former g
 - Fixed an issue that caused the external perk icon for the Hex: Face the Darkness perk to appear when failing a skill check while affected by the Corrective Action perk
 - Fixed an issue that caused the Skull Merchant's Drone scan lines to remain visible after the drones despawn when hooking a Survivor nearby
 
-![PatchNotesDivider.png](475-8-3-0-mid-chapter/09-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Known Issues
 

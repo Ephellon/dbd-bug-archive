@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/522-9-2-0-ptb-patc
 author: "ThatRyanB"
 published: "2025-09-03T15:00:39+00:00"
 updated: "2025-09-03T15:36:55+00:00"
-archived: "2026-09-26T16:40:57Z"
+archived: "2026-09-26T17:09:08Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ The patch also delivers extensive bug fixes—audio glitches, bot movement, char
 
 # 9.2.0 | PTB Patch Notes
 
-![920_PatchNotes_PTB_Forums.jpg](522-9-2-0-ptb-patch-notes/01-920-patchnotes-ptb-forums.jpg)
+![920_PatchNotes_PTB_Forums.jpg](../../images/226f7be331cc2163-920-patchnotes-ptb-forums.jpg)
 
 ## Important
 
@@ -36,7 +36,7 @@ The patch also delivers extensive bug fixes—audio glitches, bot movement, char
   - All offerings, items, and add-ons will be pre-loaded with 99 units available.
   - 12,500 Auric Cells and 1 million Bloodpoints will be given on each new PTB version, available to explore Outfits and Characters in the Store.
 
-![bar_red.png](522-9-2-0-ptb-patch-notes/02-bar-red.png)
+![bar_red.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## New Content
 
@@ -90,7 +90,7 @@ The patch also delivers extensive bug fixes—audio glitches, bot movement, char
   - When a Survivor repairs the cursed generator for **5/5/5 seconds**, you gain **Undetectable** and your Terror Radius is applied to the generator for **20/25/30 seconds**.
   - When the cursed generator is repaired, the next farthest generator is cursed.
 
-![bar_white.png](522-9-2-0-ptb-patch-notes/03-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### New Survivor - Vee Boonyasak
 
@@ -108,7 +108,7 @@ The patch also delivers extensive bug fixes—audio glitches, bot movement, char
   - While you have **Exhausted**, your scratch marks disappear **50/50/50%** faster.
   - You recover **5/7.5/10%** faster from **Exhausted**.
 
-![bar_red.png](522-9-2-0-ptb-patch-notes/04-bar-red.png)
+![bar_red.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## Features
 
@@ -169,7 +169,7 @@ The following perks have been updated. See the Perk Updates sections below for m
 - **Killer:** Barbecue & Chili, Eruption, Pop Goes the Weasel, Scourge Hook: Pain Resonance
 - **Survivor:** Babysitter, Borrowed Time, Off the Record
 
-![bar_white.png](522-9-2-0-ptb-patch-notes/05-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Slugging Reduction Update
 
@@ -197,14 +197,14 @@ The following perks have been updated. See the Perk Updates sections below for m
 - **Survivor:** Tenacity, No Mither, Plot Twist
 - **Killer:** Deerstalker, A Nurse's Calling
 
-![bar_white.png](522-9-2-0-ptb-patch-notes/06-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Pallet Density Quality of Life Update
 
 - Updated various Realms to adjust the quantity and distribution of pallets, reducing the presence of "dead zones".
   - Affected Realms: The MacMillan Estate, Autohaven Wreckers, Coldwind Farm, Crotus Prenn Asylum, Haddonfield, Backwater Swamp, Red Forest, Yamaoka Estate, Ormond, The Decimated Borgo
 
-![bar_red.png](522-9-2-0-ptb-patch-notes/07-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Content Updates
 
@@ -300,7 +300,7 @@ The following perks have been updated. See the Perk Updates sections below for m
 - Fragrant Tuft of Hair *(Rework)*:
   - Survivors become **Exposed** while Evil Incarnate is active. Your lunge range is increased by **50%** while in Evil Incarnate mode. You can no longer use Slaughtering Strike.
 
-![bar_white.png](522-9-2-0-ptb-patch-notes/08-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Killer Updates
 
@@ -380,7 +380,7 @@ The following perks have been updated. See the Perk Updates sections below for m
 
 - Increased the number of Blood Orbs that spawn when hooking a Survivor to **5** (*was 2*).
 
-![bar_white.png](522-9-2-0-ptb-patch-notes/09-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Survivor Perk Updates
 
@@ -423,7 +423,7 @@ The following perks have been updated. See the Perk Updates sections below for m
 - **Vigil:**
   - Survivors can now only benefit from one Vigil perk's effect at a time (*previously stacked with other versions of itself*).
 
-![bar_white.png](522-9-2-0-ptb-patch-notes/10-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Killer Perk Updates
 
@@ -462,7 +462,7 @@ The following perks have been updated. See the Perk Updates sections below for m
   - Increased range when opening a locker to **40 meters** (*was 32 meters*).
   - Reduced cooldown to **55/50/45 seconds** (*was 80/70/60 seconds*).
 
-![bar_red.png](522-9-2-0-ptb-patch-notes/11-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Bug Fixes
 
@@ -545,7 +545,7 @@ The following perks have been updated. See the Perk Updates sections below for m
 - Fixed an issue where Fog Vial VFX would display incorrectly when falling after use.
 - Fixed an issue where some users could not unlock the Lost All Hope achievement.
 
-![bar_red.png](522-9-2-0-ptb-patch-notes/12-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Known Issues
 

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/446-7-7-0a-bugfix-
 author: "dance"
 published: "2024-04-26T21:42:07+00:00"
 updated: "2024-05-01T16:03:31+00:00"
-archived: "2026-09-26T16:40:24Z"
+archived: "2026-09-26T17:08:40Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ A tentative fix for the strobing / flashing white lights issue was deployed acro
 
 *This article was created from a* [*community discussion*](https://forums.bhvr.com/dead-by-daylight/discussion/412335/7-7-0a-bugfix-pc-patch-tentative-strobing-fix).
 
-![CA_DBD_0324_Bacon_Patch_Notes_Assets_A_FORUM.png](446-7-7-0a-bugfix-patch-tentative-strobing-fix/01-ca-dbd-0324-bacon-patch-notes-assets-a-forum.png)
+![CA_DBD_0324_Bacon_Patch_Notes_Assets_A_FORUM.png](../../images/83b1c0fe88ea3c00-ca-dbd-0324-bacon-patch-notes-assets-a-forum.png)
 
 **UPDATE (5/1/24):**
 

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/343-6-1-1-bugfix-p
 author: "Peanits"
 published: "2022-07-26T14:24:54+00:00"
 updated: "2022-07-26T14:24:54+00:00"
-archived: "2026-09-26T16:40:42Z"
+archived: "2026-09-26T17:08:55Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Added a new score event that logs when a perk or effect is disabled by a conspic
 
 # 6.1.1 | Bugfix Patch
 
-![611Banner.png](343-6-1-1-bugfix-patch/01-611banner.png)
+![611Banner.png](../../images/ce567ec94d5ef5ce-611banner.png)
 
 ## Features
 

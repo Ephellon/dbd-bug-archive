@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/492-8-5-2-bugfix-p
 author: "ThatRyanB"
 published: "2025-02-12T15:29:08+00:00"
 updated: "2025-02-12T15:29:28+00:00"
-archived: "2026-09-26T16:40:17Z"
+archived: "2026-09-26T17:08:34Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The Survivor's Herb interaction snap time has been reduced, and a series of stab
 
 # 8.5.2 | Bugfix Patch
 
-![852_PatchNotes_FORUM.jpg](492-8-5-2-bugfix-patch/01-852-patchnotes-forum.jpg)
+![852_PatchNotes_FORUM.jpg](../../images/28f14ac9587a02fc-852-patchnotes-forum.jpg)
 
 ## Bug Fixes
 
@@ -34,7 +34,7 @@ The Survivor's Herb interaction snap time has been reduced, and a series of stab
 - Fixed an issue in Raccoon City Police Station where killers and Survivors could land on top of crates in the main hall.
 - Fixed an issue that caused the Event Entry Screen Overview tab to incorrectly refer to the Raccoon City Police Station as the Raccoon City Police Department.
 
-![bar_white.png](492-8-5-2-bugfix-patch/02-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Audio
 
@@ -44,7 +44,7 @@ The Survivor's Herb interaction snap time has been reduced, and a series of stab
 - Fixed an issue that caused the Spirit's Husk SFX to be heard while phase walking.
 - Fixed an issue that caused the Legion's grunt to play twice at the end of Feral Frenzy.
 
-![bar_white.png](492-8-5-2-bugfix-patch/03-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Characters
 
@@ -61,7 +61,7 @@ The Survivor's Herb interaction snap time has been reduced, and a series of stab
 - Fixed an issue that caused the Mastermind's Iridescent Uroboros Vial add-on to increase Survivors infection very rapidly at the start of the match.
 - Fixed an issue that caused Survivors window vault animation to stutter.
 
-![bar_white.png](492-8-5-2-bugfix-patch/04-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Environment/Maps
 
@@ -72,7 +72,7 @@ The Survivor's Herb interaction snap time has been reduced, and a series of stab
 - Fixed an issue in the realm of Decimated Borgo where a pallet was missing from a Maze Tile.
 - Fixed an issue in Treatment Theatre where the Dream Snare of the Nightmare would not go through walls.
 
-![bar_white.png](492-8-5-2-bugfix-patch/05-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### UI
 

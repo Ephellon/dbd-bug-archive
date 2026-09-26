@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/432-7-5-1-bugfix-p
 author: "Peanits"
 published: "2024-02-08T15:36:37+00:00"
 updated: "2024-02-08T15:44:42+00:00"
-archived: "2026-09-26T16:40:26Z"
+archived: "2026-09-26T17:08:42Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ The patch also fixes numerous bugs across archives, achievements, audio, bots, c
 
 # 7.5.1 | Bugfix Patch
 
-![CA_DBD_1223_Zodiac_Patch_Notes_Assets_Hotfix_01_FORUM.png](432-7-5-1-bugfix-patch/01-ca-dbd-1223-zodiac-patch-notes-assets-hotfix-01-forum.png)
+![CA_DBD_1223_Zodiac_Patch_Notes_Assets_Hotfix_01_FORUM.png](../../images/f9b702fb4228434f-ca-dbd-1223-zodiac-patch-notes-assets-hotfix-01-.png)
 
 **Update Releases:** 11 AM ET
 
@@ -43,7 +43,7 @@ The patch also fixes numerous bugs across archives, achievements, audio, bots, c
 - Increases Rush turn rate by 33% *(slightly adjusted functionality)*
 - Increases Rush duration by 33% *(new functionality)*
 
-![PatchNotesDividerSmolWhite.png](432-7-5-1-bugfix-patch/02-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ## Killer Adjustments - The Hillbilly
 
@@ -56,7 +56,7 @@ The patch also fixes numerous bugs across archives, achievements, audio, bots, c
 - Decreases recovery time after using the Chainsaw by 12%
 - This effect does not apply while in Overdrive *(new functionality)*
 
-![PatchNotesDividerSmolWhite.png](432-7-5-1-bugfix-patch/03-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ## Killer Adjustments - The Onryo
 
@@ -67,14 +67,14 @@ The patch also fixes numerous bugs across archives, achievements, audio, bots, c
 - Increased the Projection movement speed boost duration to 2 seconds *(was 1.5)*
 - Increased movement speed while Manifesting to 4 m/s *(was 3.68)*
 
-![PatchNotesDividerSmolWhite.png](432-7-5-1-bugfix-patch/04-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ## Events
 
 - **Modifier: Lights Out** will be active from February 7, 2024 11:00am ET to February 14, 2024 11:00am ET.
   - A **Modifier: Lights Out** event Tome will also open while the Modifier is active.
 
-![PatchNotesDivider.png](432-7-5-1-bugfix-patch/05-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 

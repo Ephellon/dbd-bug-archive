@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/506-8-7-1-bugfix-p
 author: "ThatRyanB"
 published: "2025-05-15T14:28:21+00:00"
 updated: "2025-05-15T14:28:21+00:00"
-archived: "2026-09-26T16:40:15Z"
+archived: "2026-09-26T17:08:32Z"
 ---
 
 <!-- summary -->
@@ -21,13 +21,13 @@ The Nemesis killer returns, and the 2V8 game mode is reinstated on May 15 with G
 
 # 8.7.1 | Bugfix Patch
 
-![871_PatchNotes_Forums.png](506-8-7-1-bugfix-patch/01-871-patchnotes-forums.png)
+![871_PatchNotes_Forums.png](../../images/1d2c5ed3b2f53a9f-871-patchnotes-forums.png)
 
 ## Content
 
 - The Nemesis Killer has been re-enabled.
 
-![bar_white.png](506-8-7-1-bugfix-patch/02-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Quests & Events
 
@@ -35,7 +35,7 @@ The Nemesis killer returns, and the 2V8 game mode is reinstated on May 15 with G
   - This iteration introduces The Ghost Face and The Oni into the fray.
   - Game Mode: 2V8 features a set of limited time Quests to unlock The Ghost Face related customizations.
 
-![bar_white.png](506-8-7-1-bugfix-patch/03-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Bot improvements
 
@@ -45,7 +45,7 @@ The Nemesis killer returns, and the 2V8 game mode is reinstated on May 15 with G
 - Survivor Bots will look for another hatch when a Player Survivor is nearby.
 - Killer Bots no longer focus and attack a Survivor that has just been unhooked.
 
-![bar_red.png](506-8-7-1-bugfix-patch/04-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Bug Fixes
 

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/532-stats-2025-yea
 author: "ThatRyanB"
 published: "2025-12-18T15:00:11+00:00"
 updated: "2025-12-18T15:00:11+00:00"
-archived: "2026-09-26T16:42:31Z"
+archived: "2026-09-26T17:10:38Z"
 ---
 
 <!-- summary -->
@@ -23,15 +23,15 @@ The 2025 Year in Review highlighted the Stats system, summarizing player activit
 
 With one year coming to a close and another approaching, we wanted to look back at the last year and marvel at some of your accomplishments in The Fog. From brutality to boldness, Killer and Survivor, thanks for making this a year to remember!
 
-![DBD_Stats_December_KillerStats_v2.png](532-stats-2025-year-in-review/01-dbd-stats-december-killerstats-v2.png)
+![DBD_Stats_December_KillerStats_v2.png](../images/de594e18befe144a-dbd-stats-december-killerstats-v2.png)
 
 Starting with Killers, your passion for destruction this past year was unmatched. Pallets *hated* to see you coming! And Survivors? They could run, but they sure couldn’t hide if those chase totals are anything to go off.
 
-![DBD_Stats_December_SurvivorStats_v2.png](532-stats-2025-year-in-review/02-dbd-stats-december-survivorstats-v2.png)
+![DBD_Stats_December_SurvivorStats_v2.png](../images/507937c4ab22abfe-dbd-stats-december-survivorstats-v2.png)
 
 On the other hand, all of you Survivors sure did keep busy! Whether you were zeroing in on repair duty or creating an unholy mess for The Entity to pick up after, you definitely made your mark on your Trials.
 
-![DBD_Stats_December_GeneralStats.png](532-stats-2025-year-in-review/03-dbd-stats-december-generalstats.png)
+![DBD_Stats_December_GeneralStats.png](../images/544b3ba29f63c3ac-dbd-stats-december-generalstats.png)
 
 All this said, we’ve had a blast watching you react and adapt to every new twist and turn this year. Thanks for joining us on this journey and here’s to another stellar year of Dead by Daylight!
 

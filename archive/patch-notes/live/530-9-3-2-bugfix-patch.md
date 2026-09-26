@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/530-9-3-2-bugfix-p
 author: "ThatRyanB"
 published: "2025-12-09T15:30:26+00:00"
 updated: "2025-12-09T15:30:26+00:00"
-archived: "2026-09-26T16:40:10Z"
+archived: "2026-09-26T17:08:28Z"
 ---
 
 <!-- summary -->
@@ -21,13 +21,13 @@ The Skull Merchant’s Undetectable now lasts eight seconds and is granted when 
 
 # 9.3.2 | Bugfix Patch
 
-![932_PatchNotes_FORUM.png](530-9-3-2-bugfix-patch/01-932-patchnotes-forum.png)
+![932_PatchNotes_FORUM.png](../../images/0b91257ab385ea1a-932-patchnotes-forum.png)
 
 ## Important
 
 - The Breakdown and Wicked perks have been re-enabled.
 
-![bar_red_2.png](530-9-3-2-bugfix-patch/02-bar-red-2.png)
+![bar_red_2.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Content
 
@@ -39,7 +39,7 @@ The Skull Merchant’s Undetectable now lasts eight seconds and is granted when 
 - Decoupled the Undetectable status effect from Deploying a Drone.
   - Gain Undetectable when Recalling a Drone instead.
 
-![bar_white.png](530-9-3-2-bugfix-patch/03-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Survivor Perk Updates
 
@@ -49,13 +49,13 @@ The Skull Merchant’s Undetectable now lasts eight seconds and is granted when 
   - Your self-unhook attempts in the basement always succeed.
   - When you are unhooked or unhook yourself, you see the Killer's aura for 16/18/20 seconds *(Reverted to this version).*
 
-![bar_white.png](530-9-3-2-bugfix-patch/04-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Archives and Events
 
 - The "Bone Chill" event returns Tuesday, December 9th at 11:00 AM Eastern.
 
-![bar_white.png](530-9-3-2-bugfix-patch/05-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Environment / Maps
 
@@ -68,7 +68,7 @@ The Skull Merchant’s Undetectable now lasts eight seconds and is granted when 
 
 *Dev note: We've done another pass on pallet tiles and loops in order to find a middle ground between the last two updates. We will be closely monitoring the impact of these changes as we collect data and continue to adjust to find a sweet spot that feels great for both roles!*
 
-![bar_red_2.png](530-9-3-2-bugfix-patch/06-bar-red-2.png)
+![bar_red_2.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Bug Fixes
 

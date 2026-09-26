@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/263-4-3-2-bugfix-p
 author: "Peanits"
 published: "2020-11-03T15:31:27+00:00"
 updated: "2020-11-03T16:18:52+00:00"
-archived: "2026-09-26T16:42:19Z"
+archived: "2026-09-26T17:10:27Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Discordance received a range boost to 64/96/128 meters and its aura after leavin
 
 # 4.3.2 | Bugfix Patch
 
-![432Banner.png](263-4-3-2-bugfix-patch/01-432banner.png)
+![432Banner.png](../../images/e25f9ecd5a27827e-432banner.png)
 
 ## Content
 

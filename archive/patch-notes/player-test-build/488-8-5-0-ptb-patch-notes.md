@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/488-8-5-0-ptb-patc
 author: "ThatRyanB"
 published: "2025-01-08T15:28:14+00:00"
 updated: "2025-01-08T15:28:14+00:00"
-archived: "2026-09-26T16:40:59Z"
+archived: "2026-09-26T17:09:10Z"
 ---
 
 <!-- summary -->
@@ -21,14 +21,14 @@ The Nightmare is reworked: Dream Snares and Dream Pallets become base abilities 
 
 # 8.5.0 | PTB Patch Notes
 
-![HOTDOG_PTB_FORUMs.jpg](488-8-5-0-ptb-patch-notes/01-hotdog-ptb-forums.jpg)
+![HOTDOG_PTB_FORUMs.jpg](../../images/0e1c065d7d3334bb-hotdog-ptb-forums.jpg)
 
 ## Important
 
 - Progress & save data information has been copied from the Live game to our PTB servers on ***January 6, 2025***. Please note that players will be able to progress for the duration of the PTB, but none of that progress will make it back to the Live version of the game.
 - Players will once again receive 12,500 Auric Cells on the PTB to explore Outfits and Characters in the Store. Both Auric Cells and purchases made on the PTB Build will not transfer to the Live Build.
 
-![bar.png](488-8-5-0-ptb-patch-notes/02-bar.png)
+![bar.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Content
 
@@ -141,7 +141,7 @@ The Nightmare is reworked: Dream Snares and Dream Pallets become base abilities 
 - **Black Box:**
   - Exit Gates are blocked for Sleeping Survivors for 15 seconds after they are opened *(was applicable when recently opened. This update also makes it trigger when they fall asleep after the Exit Gates have been opened.)*
 
-![bar1.png](488-8-5-0-ptb-patch-notes/03-bar1.png)
+![bar1.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Perk Updates
 
@@ -163,7 +163,7 @@ The Nightmare is reworked: Dream Snares and Dream Pallets become base abilities 
 - **Wake Up!:**
   - Increases the speed at which you open Exit Gates by 40/45/50% *(was 15/20/25%)*
 
-![bar.png](488-8-5-0-ptb-patch-notes/04-bar.png)
+![bar.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Features
 
@@ -185,7 +185,7 @@ The Nightmare is reworked: Dream Snares and Dream Pallets become base abilities 
 - Smoke effect added to the Play Mori button of visceral rarity cosmetics.
 - The colour of a completed generator was updated to better differentiate them from yellow highlighted generators
 
-![bar.png](488-8-5-0-ptb-patch-notes/05-bar.png)
+![bar.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Bug Fixes
 

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/542-9-6-0-ptb-patc
 author: "ThatRyanB"
 published: "2026-04-07T14:30:07+00:00"
 updated: "2026-04-07T14:30:07+00:00"
-archived: "2026-09-26T16:40:55Z"
+archived: "2026-09-26T17:09:07Z"
 ---
 
 <!-- summary -->
@@ -21,13 +21,13 @@ Diminishing Returns now caps stacked positive and negative modifiers in trials, 
 
 # 9.6.0 | PTB Patch Notes
 
-![DbD_960_PTB Patch Notes_FORUM.png](542-9-6-0-ptb-patch-notes/01-dbd-960-ptb-patch-notes-forum.png)
+![DbD_960_PTB Patch Notes_FORUM.png](../../images/c3c1addf22be09d4-dbd-960-ptb-patch-notes-forum.png)
 
 ## Important
 
 - As a result of engine updates, the download file size for this update will be larger than normal.
 
-![image-a064018df7faf-a25d.png](542-9-6-0-ptb-patch-notes/02-image-a064018df7faf-a25d.png)
+![image-a064018df7faf-a25d.png](../../images/ffbd82b55761892a-image-5467e83d19c718-33d7.png)
 
 ## Features
 
@@ -50,7 +50,7 @@ Diminishing Returns now caps stacked positive and negative modifiers in trials, 
 
 *We will be closely monitoring this change during the PTB and look forward to the feedback!*
 
-![bar_white.png](542-9-6-0-ptb-patch-notes/03-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Progress Bar Update
 
@@ -58,7 +58,7 @@ Diminishing Returns now caps stacked positive and negative modifiers in trials, 
 - The color has been updated so it represents the speed of the interaction, becoming yellow if faster than normal, and red if slower than normal.
   - Previously, the color was dependent on the individual contributor. Ie. a player could see the bar red even when going faster.
 
-![bar_white.png](542-9-6-0-ptb-patch-notes/04-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Visible Team Perks
 
@@ -69,7 +69,7 @@ Diminishing Returns now caps stacked positive and negative modifiers in trials, 
 - Elements can be hovered to display their descriptions.
 - The loadout of the opposite team is not displayed until the match is over, following the final Score screen behavior.
 
-![bar_white.png](542-9-6-0-ptb-patch-notes/05-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Spectator Mode
 
@@ -80,7 +80,7 @@ Diminishing Returns now caps stacked positive and negative modifiers in trials, 
   - Goals
   - Status Effects
 
-![bar_white.png](542-9-6-0-ptb-patch-notes/06-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Auras Customization
 
@@ -91,7 +91,7 @@ Diminishing Returns now caps stacked positive and negative modifiers in trials, 
   - Killer objects (e.g. The Hag's traps, The Singularity's Biopods).
   - Breakable walls.
 
-![image-5467e83d19c718-33d7.png](542-9-6-0-ptb-patch-notes/07-image-5467e83d19c718-33d7.png)
+![image-5467e83d19c718-33d7.png](../../images/ffbd82b55761892a-image-5467e83d19c718-33d7.png)
 
 ## Content
 
@@ -150,7 +150,7 @@ Diminishing Returns now caps stacked positive and negative modifiers in trials, 
 - Decreased battery consumption upon Survivor teleport to **12%** *(was 15%)*.
 - Key binding for Grab Axe button updated to use Power input *(was Attack input)*.
 
-![bar_white.png](542-9-6-0-ptb-patch-notes/08-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Killer Add-on Updates
 
@@ -178,7 +178,7 @@ Diminishing Returns now caps stacked positive and negative modifiers in trials, 
 - Access Panel (Very Rare)
   - While aiming the Fire Axe, reveals survivors within **6 meters** of Security Doors with Killer Instinct *(was 4 meters)*.
 
-![bar_white.png](542-9-6-0-ptb-patch-notes/09-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Survivor Perk Updates
 
@@ -187,7 +187,7 @@ Diminishing Returns now caps stacked positive and negative modifiers in trials, 
 - Whenever another Survivor is hooked, you earn 1/2/3 Token(s), up to 9/9/9.
 - While repairing, whenever you hit a great basic Skill Check, spend all Tokens. For each Token spent, the Generator gains **1/1/1%** permanent progress *(was 2%).*
 
-![image-c3b26d10e7f26-d9a5.png](542-9-6-0-ptb-patch-notes/10-image-c3b26d10e7f26-d9a5.png)
+![image-c3b26d10e7f26-d9a5.png](../../images/c1a4d8b62ce6e4e1-image-ac91514ce36ad-07c7.png)
 
 ## Bug Fixes
 
@@ -235,7 +235,7 @@ Diminishing Returns now caps stacked positive and negative modifiers in trials, 
 - Fixed a crash that occurs when completing the onboarding Matches.
 - Fixed an issue where using the Self-Unhook feature right before the skill check popped up caused the UI and VFX to appear after Self-Unhooking.
 
-![image-ac91514ce36ad-07c7.png](542-9-6-0-ptb-patch-notes/11-image-ac91514ce36ad-07c7.png)
+![image-ac91514ce36ad-07c7.png](../../images/c1a4d8b62ce6e4e1-image-ac91514ce36ad-07c7.png)
 
 ## Known Issues
 

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/278-4-6-0-all-kill
 author: "Peanits"
 published: "2021-03-30T14:25:04+00:00"
 updated: "2021-03-30T14:32:03+00:00"
-archived: "2026-09-26T16:40:53Z"
+archived: "2026-09-26T17:09:05Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ The remainder centers on stability: Blight animation and camera tweaks, Wraith s
 
 # 4.6.0 | All-Kill
 
-![460Banner.png](278-4-6-0-all-kill/01-460banner.png)
+![460Banner.png](../../images/e778e077a935aa81-460banner.png)
 
 ## Features
 

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/382-developer-upda
 author: "Omnia"
 published: "2023-03-24T13:57:46+00:00"
 updated: "2023-03-27T14:37:05+00:00"
-archived: "2026-09-26T16:43:19Z"
+archived: "2026-09-26T17:10:52Z"
 ---
 
 <!-- summary -->
@@ -21,11 +21,11 @@ The March 2023 Developer Update introduces Bloodweb quality-of-life tools - a ch
 
 # Developer Update | March 2023
 
-![271201640_4700475550000980_8828790767346394243_n.jpg](382-developer-update-march-2023/01-271201640-4700475550000980-8828790767346394243-n.jpg)
+![271201640_4700475550000980_8828790767346394243_n.jpg](../images/1767eb12b2bbe968-271201640-4700475550000980-8828790767346394243-n.jpg)
 
 The Tools of Torment Mid-Chapter Update is quickly approaching, so that can only mean one thing: It’s time for another Developer Update! In this series of posts, we cover some of the biggest changes and additions making their way to the game. In this edition, we’ll dive into various quality of life and accessibility improvements as well as an extensive list of balance adjustments. Without further ado, let’s kick things off with a highly requested feature.
 
-![Bloodweb.png](382-developer-update-march-2023/02-bloodweb.png)
+![Bloodweb.png](../images/f688cff5f6bad096-bloodweb.png)
 
 ### Bloodweb Improvements
 
@@ -45,13 +45,13 @@ This can also be used on partially completed bloodwebs, allowing you to grab any
 
 To ensure that players familiarize themselves with the contents in a Bloodweb, this button will only appear once the character has been prestiged for the first time.
 
-![BloodwebIcon.png](382-developer-update-march-2023/03-bloodwebicon.png)
+![BloodwebIcon.png](../images/69fe12b9302291af-bloodwebicon.png)
 
 **Press to Buy**
 
 Ever wanted to watch the Bloodpoints fly from your pockets at an alarming rate? The new default interaction only requires you to press a node to purchase it, instead of having to hold it. This can be used in conjunction with the other options mentioned above to further speed up the spending process. The interaction can be toggled if you would rather use Hold instead.
 
-![TerrorRadiusBanner.png](382-developer-update-march-2023/04-terrorradiusbanner.png)
+![TerrorRadiusBanner.png](../images/4c6db372963afcda-terrorradiusbanner.png)
 
 ### Visual Terror Radius
 
@@ -59,17 +59,17 @@ The terror radius is an integral part of the game, both warning Survivors about 
 
 But we have some good news: A visual terror radius option is here!
 
-![TerrorRadius.png](382-developer-update-march-2023/05-terrorradius.png)
+![TerrorRadius.png](../images/ae9940d99e5b5a41-terrorradius.png)
 
 When enabled in the Accessibility Options, a heart will appear in your Survivor’s chest whenever the Killer’s terror radius can be heard. Lullabies will also appear as a haze in their chest. This heart will become more vibrant and beat more intensely the closer the Killer comes. If your character is ever offscreen, an indicator will appear if the Terror Radius is heard signaling that you should look at your character to see the current state of the Terror Radius visual feedback.
 
 For those who may need it, this heart will also be affected by colorblindness settings to ensure that it is adequately visible.
 
-![TerrorRadiusColorblind.png](382-developer-update-march-2023/06-terrorradiuscolorblind.png)
+![TerrorRadiusColorblind.png](../images/17ef8a517e9cdb5b-terrorradiuscolorblind.png)
 
 This option will *not* provide a competitive advantage compared to the usual audio terror radius and will respect any terror radius Perks, Add-ons, and Powers.
 
-![Autohaven.png](382-developer-update-march-2023/07-autohaven.png)
+![Autohaven.png](../images/e700b3f4f90fe3a9-autohaven.png)
 
 ### Autohaven Wreckers Map Updates
 
@@ -81,7 +81,7 @@ Blood Lodge can be a bit of a mixed bag: Depending on how the map generates, the
 
 To remedy this, we are making significant layout changes to this map. The Blood Lodge itself will now appear closer to the center of the map, breaking up line of sight and separating some of these safer loops. The maze tiles have also been separated from one another, making it more difficult to combine them together.
 
-![BloodLodge.png](382-developer-update-march-2023/08-bloodlodge.png)
+![BloodLodge.png](../images/a48f9913612df690-bloodlodge.png)
 
 **Gas Heaven**
 
@@ -89,7 +89,7 @@ Gas Heaven features unique car piles which stretch several tiles long. These spe
 
 Going forward, these car piles will be broken up into smaller single-tile chunks. These car piles will also feature potential spawn locations for pallets, helping reduce the potential for deadzones to appear.
 
-![GasHeaven.png](382-developer-update-march-2023/09-gasheaven.png)
+![GasHeaven.png](../images/b0816f689ed872ce-gasheaven.png)
 
 The Gas Heaven gas station itself has also been moved closer to the center of the map. Since this makes this building much easier to get to from anywhere on the map, we’ve reviewed its spawning rules to prevent strong combinations of windows from spawning and adjusted its pallet spawn locations.
 
@@ -97,7 +97,7 @@ The Gas Heaven gas station itself has also been moved closer to the center of th
 
 Some of these changes will spill over into the remaining Autohaven Wreckers maps, including new edge tiles (small tiles that run along the map’s boundaries), some of which include new gameplay such as possible pallet spawn locations.
 
-![Healing.png](382-developer-update-march-2023/10-healing.png)
+![Healing.png](../images/9970e375941aa21a-healing.png)
 
 ### Healing
 
@@ -130,7 +130,7 @@ Second, **we have rebalanced Med-kits across the board**. All Med-kits will now 
 
 Lastly, **we have done a pass on Med-kit Add-ons**, bringing those which were overperforming in line with the rest. Add-ons which add more charges to your Med-kit have also been reviewed with the new healing time in mind, though it is now impossible for a Med-kit to fully heal a Survivor more than twice in a match.
 
-![Perks.png](382-developer-update-march-2023/11-perks.png)
+![Perks.png](../images/e0b9bea7d13cb9ca-perks.png)
 
 ### Perk Updates
 
@@ -180,7 +180,7 @@ This perk has become the ‘jack of all trades’ of healing perks. Not only doe
 
 Going forward, **Boon: Circle of Healing will no longer allow Survivors to heal without a Med-Kit**. Instead, **it will provide a 40/45/50% healing speed bonus to healing others.** This bonus will not apply to healing done with a Med-Kit. Additionally, **the auras of injured Survivors with the Boon’s range will be revealed to all other Survivors.**
 
-![Killers.png](382-developer-update-march-2023/12-killers.png)
+![Killers.png](../images/fdcbac5b29ef8ba6-killers.png)
 
 ### Killer Updates
 
@@ -218,7 +218,7 @@ The Redhead’s Pinky Finger Add-on can be incredibly powerful, allowing The Clo
 
 **Going forward, this Add-on will reduce the maximum held bottles by 3 (was 2)**.
 
-![Flashlight.png](382-developer-update-march-2023/13-flashlight.png)
+![Flashlight.png](../images/3323dc6643e6efb4-flashlight.png)
 
 ### Bright Light Interactions Removal
 
@@ -246,7 +246,7 @@ To ensure that this doesn’t make The Hag too oppressive, we are adding the abi
 
 While this will allow *all* Survivors to clear traps, it will now be much more difficult and time consuming to do so. Additionally, this prevents a Survivor with a Flashlight from destroying The Hag’s traps mid-chase.
 
-![Archives.png](382-developer-update-march-2023/14-archives.png)
+![Archives.png](../images/47ab2d3968ff216d-archives.png)
 
 ### The Deep Rift and Beyond
 

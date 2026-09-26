@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/255-4-3-1-bugfix-p
 author: "Peanits"
 published: "2020-10-28T14:26:35+00:00"
 updated: "2020-10-28T14:26:35+00:00"
-archived: "2026-09-26T16:41:54Z"
+archived: "2026-09-26T17:10:02Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Bugfixes target a range of killers, survivors and systems. The Nightmare’s fin
 
 # 4.3.1 | Bugfix Patch
 
-![431Banner.png](255-4-3-1-bugfix-patch/01-431banner.png)
+![431Banner.png](../../images/ab058f3ec6cb4b4b-431banner.png)
 
 ## Bug Fixes
 

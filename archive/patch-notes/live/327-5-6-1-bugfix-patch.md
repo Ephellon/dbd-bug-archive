@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/327-5-6-1-bugfix-p
 author: "Omnia"
 published: "2022-03-15T14:30:00+00:00"
 updated: "2022-03-15T15:08:09+00:00"
-archived: "2026-09-26T16:40:45Z"
+archived: "2026-09-26T17:08:58Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Wake Up and Object of Obsession perks have been restored across all platforms af
 
 # 5.6.1 | Bugfix Patch
 
-![PatchNotesBannerTemplate-KeplerRelease.jpg](327-5-6-1-bugfix-patch/01-patchnotesbannertemplate-keplerrelease.jpg)
+![PatchNotesBannerTemplate-KeplerRelease.jpg](../../images/ca112d04cadc84dc-patchnotesbannertemplate-keplerrelease.jpg)
 
 ## Features
 
@@ -30,7 +30,7 @@ Wake Up and Object of Obsession perks have been restored across all platforms af
 
 *Please note that these perks will be re-enabled only after the update is available on* ***all*** *platforms.*
 
-![MicrosoftTeams-image (1).png](327-5-6-1-bugfix-patch/02-microsoftteams-image-281-29.png)
+![MicrosoftTeams-image (1).png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 
@@ -60,7 +60,7 @@ Wake Up and Object of Obsession perks have been restored across all platforms af
 - Fixed an issue that caused missing breakable walls in Badham Preschool.
 - Fixed an issue that caused broken tiles in Yamaoka Estate maps.
 
-![MicrosoftTeams-image (1).png](327-5-6-1-bugfix-patch/03-microsoftteams-image-281-29.png)
+![MicrosoftTeams-image (1).png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Known Issues
 

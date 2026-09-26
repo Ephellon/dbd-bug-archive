@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/387-6-7-1-bugfix-p
 author: "Peanits"
 published: "2023-05-03T14:25:51+00:00"
 updated: "2023-05-03T15:00:15+00:00"
-archived: "2026-09-26T16:40:35Z"
+archived: "2026-09-26T17:08:49Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Bot interactions for The Mastermind’s Uroboros Infection and The Dredge locker
 
 # 6.7.1 | Bugfix Patch
 
-![671_PatchNotes_Forum copie.png](387-6-7-1-bugfix-patch/01-671-patchnotes-forum-copie.png)
+![671_PatchNotes_Forum copie.png](../../images/67f25915550dd098-671-patchnotes-forum-copie.png)
 
 ## Release Schedule
 
@@ -29,7 +29,7 @@ Update releases: May 3 2023, 11AM ET
 
 *Please note that update times may vary slightly per platform.*
 
-![PatchNotesDivider.png](387-6-7-1-bugfix-patch/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 
@@ -155,7 +155,7 @@ Update releases: May 3 2023, 11AM ET
 - The Bloodweb is once again buying nodes as per the priority written in its description: nodes closest to the center, of lowest rarity first.
 - Fixed the error 8007 for players on the Windows Store.
 
-![PatchNotesDivider.png](387-6-7-1-bugfix-patch/03-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 **Known Issues**
 

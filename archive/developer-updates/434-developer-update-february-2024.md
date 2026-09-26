@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/434-developer-upda
 author: "Peanits"
 published: "2024-02-19T14:55:43+00:00"
 updated: "2024-02-19T14:55:43+00:00"
-archived: "2026-09-26T16:43:07Z"
+archived: "2026-09-26T17:10:48Z"
 ---
 
 <!-- summary -->
@@ -21,11 +21,11 @@ The February 2024 developer update rebalances several killers—The Pig, The Hag
 
 # Developer Update | February 2024
 
-![Developer update Totem NEW.png](434-developer-update-february-2024/01-developer-update-totem-new.png)
+![Developer update Totem NEW.png](../images/6dff5870c001e53f-developer-update-totem-new.png)
 
 It’s time for another Developer Update! In this post, we’ll cover all the balance changes & improvements making their way to the game the next major update.
 
-![Killers.png](434-developer-update-february-2024/02-killers.png)
+![Killers.png](../images/fdcbac5b29ef8ba6-killers.png)
 
 ## Killer Tweaks
 
@@ -123,7 +123,7 @@ Lastly, we wanted to fine tune a Blight Add-On which was changed in one of our r
 
 - Compound Thirty-Three now limits The Blight’s Rushes to 3 (was 2)
 
-![Generic.png](434-developer-update-february-2024/03-generic.png)
+![Generic.png](../images/d7a7618cb214f4eb-generic.png)
 
 ## Mangled
 
@@ -131,7 +131,7 @@ Mangled currently provides a lot of value throughout the match by slowing down S
 
 The Mangled Status Effect will now have a limited duration, with the exact duration depending on the source and ranging between 60 and 90 seconds. This maintains Mangled’s effectiveness at slowing down healing while forcing Survivors to make a choice: Do they spend more time to heal now, or risk staying injured until the effect expires?
 
-![Bloodweb.png](434-developer-update-february-2024/04-bloodweb.png)
+![Bloodweb.png](../images/118f54d69f00600d-bloodweb.png)
 
 ## Bloodweb Improvement
 

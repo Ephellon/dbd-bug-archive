@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/211-4-1-0-mid-chap
 author: "Peanits"
 published: "2020-07-28T14:29:30+00:00"
 updated: "2020-07-28T14:29:30+00:00"
-archived: "2026-09-26T16:42:24Z"
+archived: "2026-09-26T17:10:32Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Aura system was technically refactored, changing its visuals, a promo-code store
 
 # 4.1.0 | Mid-Chapter
 
-![410UpdateBanner.png](211-4-1-0-mid-chapter/01-410updatebanner.png)
+![410UpdateBanner.png](../../images/8028006ba8a9eb6a-410updatebanner.png)
 
 ## FEATURES
 
@@ -29,7 +29,7 @@ Aura system was technically refactored, changing its visuals, a promo-code store
 - Added a Promo Code System to the Store - Keep your eyes on our forums / social media for promotional codes that you can use in-game in the future.
 - Killer Selection - Killers can no longer change characters while searching for a match / in a lobby (excluding custom matches). This will soon be used by the new matchmaking system to provide better match balance based on your skill with each killer individually, instead of a global killer rating.
 
-![PatchNotesDivider.png](211-4-1-0-mid-chapter/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/d693987990e49c09-patchnotesdivider-281-29.png)
 
 ## BALANCE
 
@@ -183,7 +183,7 @@ New effect: Hitting a Survivor with the Chainsaw replenishes its charges.
 
 </details>
 
-![PatchNotesDividerSmolWhite.png](211-4-1-0-mid-chapter/03-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/3e51648d555c8a4c-patchnotesdividersmolwhite.png)
 
 ### THE HILLBILLY
 
@@ -334,7 +334,7 @@ New effect: After maintaining a chainsaw sprint for 5 seconds, gain the Undetect
 
 </details>
 
-![User: "PatchNotesDividerSmolWhite.png"](211-4-1-0-mid-chapter/03-patchnotesdividersmolwhite.png)
+![User: "PatchNotesDividerSmolWhite.png"](../../images/3e51648d555c8a4c-patchnotesdividersmolwhite.png)
 
 ### Perk Updates
 
@@ -362,7 +362,7 @@ Tinkerer has a useful effect but it was hard to get the full benefit of it due t
 
 - Tinkerer: Now triggers at **70/70/70%** (down from 85%) and grants the **Undetectable** status effect for **12/14/16** seconds (up from 8/10/12)
 
-![PatchNotesDivider.png](211-4-1-0-mid-chapter/04-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/d693987990e49c09-patchnotesdivider-281-29.png)
 
 ## BUG FIXES
 
@@ -377,7 +377,7 @@ Tinkerer has a useful effect but it was hard to get the full benefit of it due t
 - The Plague: Fixed an issue that activated Corruption mode instantly after a Survivor cleanses with the last Pool of Devotion instead of 5 seconds after a Survivor cleanses with the last Pool of Devotion.
 - The Plague: Fixed an issue that caused the Plague to briefly stagger and not return smoothly to her idle animation after falling from high ground.
 
-![User: "PatchNotesDividerSmolWhite.png"](211-4-1-0-mid-chapter/03-patchnotesdividersmolwhite.png)
+![User: "PatchNotesDividerSmolWhite.png"](../../images/3e51648d555c8a4c-patchnotesdividersmolwhite.png)
 
 ### SURVIVOR
 
@@ -391,7 +391,7 @@ Tinkerer has a useful effect but it was hard to get the full benefit of it due t
 - Fixed an issue that sometimes caused survivors to stand up and puke when being interrupted when cleansing themselves at a Pool of Devotion.
 - Fixed an issue that could cause a Survivor to get stuck after interacting with a Pool of Devotion that spawned on dirt mounds.
 
-![User: "PatchNotesDividerSmolWhite.png"](211-4-1-0-mid-chapter/03-patchnotesdividersmolwhite.png)
+![User: "PatchNotesDividerSmolWhite.png"](../../images/3e51648d555c8a4c-patchnotesdividersmolwhite.png)
 
 ### PERK
 
@@ -402,7 +402,7 @@ Tinkerer has a useful effect but it was hard to get the full benefit of it due t
 - Kindred: Fixed an issue that displayed the Killer's aura outline even if there are no obstacles.
 - Wake Up: Fixed the aura outline which remained displayed on the Exit Gates even if there are no obstacles.
 
-![User: "PatchNotesDividerSmolWhite.png"](211-4-1-0-mid-chapter/03-patchnotesdividersmolwhite.png)
+![User: "PatchNotesDividerSmolWhite.png"](../../images/3e51648d555c8a4c-patchnotesdividersmolwhite.png)
 
 ### MAPS
 
@@ -424,14 +424,14 @@ Tinkerer has a useful effect but it was hard to get the full benefit of it due t
 - Sanctum of Wrath: Fixed an issue that prevented blinking on the stone steps with the Nurse.
 - The Underground Complex: Fixed an issue that allowed climbing on a specific box.
 
-![User: "PatchNotesDividerSmolWhite.png"](211-4-1-0-mid-chapter/03-patchnotesdividersmolwhite.png)
+![User: "PatchNotesDividerSmolWhite.png"](../../images/3e51648d555c8a4c-patchnotesdividersmolwhite.png)
 
 ### UI
 
 - Reverted the UI Scale back to the pre-4.0.0 size for players playing in 1440p and below as this was adversely affecting players in 1440p. The increased UI Scale now only affects players using 4k resolutions.
 - Added more feedback information on some error messages.
 
-![PatchNotesDivider.png](211-4-1-0-mid-chapter/05-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/d693987990e49c09-patchnotesdivider-281-29.png)
 
 ## CHANGES FROM PTB
 

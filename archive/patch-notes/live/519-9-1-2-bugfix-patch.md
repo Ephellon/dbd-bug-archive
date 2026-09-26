@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/519-9-1-2-bugfix-p
 author: "ThatRyanB"
 published: "2025-08-14T14:29:01+00:00"
 updated: "2025-08-14T14:29:01+00:00"
-archived: "2026-09-26T16:40:13Z"
+archived: "2026-09-26T17:08:30Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The 2V8 event returns on August 19 with a new “Play While You Wait” option t
 
 # 9.1.2 | Bugfix Patch
 
-![912_PatchNotes.jpg](519-9-1-2-bugfix-patch/01-912-patchnotes.jpg)
+![912_PatchNotes.jpg](../../images/edb1563935b96a95-912-patchnotes.jpg)
 
 ## 2V8
 
@@ -74,7 +74,7 @@ The 2V8 event returns on August 19 with a new “Play While You Wait” option t
 - The Shattered Square
 - Greenville Square
 
-![bar_red.png](519-9-1-2-bugfix-patch/02-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Content
 
@@ -86,7 +86,7 @@ The 2V8 event returns on August 19 with a new “Play While You Wait” option t
 - Fog Vials now have a maximum of 2 charges.
 - Added the ability for The Singularity to teleport to Survivors he can see within the Fog Vial's fog.
 
-![bar_red.png](519-9-1-2-bugfix-patch/03-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Bug Fixes
 

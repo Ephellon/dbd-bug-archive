@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/308-5-4-2-bugfix-p
 author: "Peanits"
 published: "2021-12-15T15:26:39+00:00"
 updated: "2021-12-15T15:26:39+00:00"
-archived: "2026-09-26T16:40:47Z"
+archived: "2026-09-26T17:08:59Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The Artist’s performance was optimized when using all Dire Crows, and the patc
 
 # 5.4.2 | Bugfix Patch
 
-![542Banner.png](308-5-4-2-bugfix-patch/01-542banner.png)
+![542Banner.png](../../images/fc5c4c4af30b8f5d-542banner.png)
 
 ## Optimization
 

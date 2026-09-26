@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/476-8-3-1-bugfix-p
 author: "Peanits"
 published: "2024-10-16T14:25:38+00:00"
 updated: "2024-10-16T19:12:49+00:00"
-archived: "2026-09-26T16:40:19Z"
+archived: "2026-09-26T17:08:36Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Haunted By Daylight launches on October 17 at 11 am ET, opening its event Tome t
 
 # 8.3.1 | Bugfix Patch
 
-![FUDGE_831FORUM.jpg](476-8-3-1-bugfix-patch/01-fudge-831forum.jpg)
+![FUDGE_831FORUM.jpg](../../images/971c7a76fab0c4bb-fudge-831forum.jpg)
 
 ## Content
 
@@ -30,7 +30,7 @@ Haunted By Daylight launches on October 17 at 11 am ET, opening its event Tome t
 - The Haunted By Daylight event begins October 17th at 11:00 am ET.
 - The Haunted By Daylight event Tome also opens October 17th at 11:00 am ET.
 
-![PatchNotesDivider.png](476-8-3-1-bugfix-patch/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 
@@ -92,7 +92,7 @@ Haunted By Daylight launches on October 17 at 11 am ET, opening its event Tome t
 - Fixed an issue that caused the game to crash when the Lich cast any spell when the game ends and left the tally screen before all other users after a match.
 - Fixed an issue that prevented players from bringing Event Items into Custom Games.
 
-![PatchNotesDivider.png](476-8-3-1-bugfix-patch/03-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Known Issues
 

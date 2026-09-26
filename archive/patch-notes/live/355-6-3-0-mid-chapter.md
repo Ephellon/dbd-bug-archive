@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/355-6-3-0-mid-chap
 author: "Mandy"
 published: "2022-10-11T10:51:47+00:00"
 updated: "2022-10-11T15:31:15+00:00"
-archived: "2026-09-26T16:40:41Z"
+archived: "2026-09-26T17:08:54Z"
 ---
 
 <!-- summary -->

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/433-developer-upda
 author: "Peanits"
 published: "2024-02-15T13:55:28+00:00"
 updated: "2024-02-15T13:55:28+00:00"
-archived: "2026-09-26T16:43:08Z"
+archived: "2026-09-26T17:10:49Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Developers shared an expanded stats roundup, adding the 10 most-used Perks for e
 
 # Developer Update | Stats!
 
-![Developer update Totem NEW.png](433-developer-update-stats/01-developer-update-totem-new.png)
+![Developer update Totem NEW.png](../images/014605b4a01484ed-developer-update-totem-new.png)
 
 Since we’ve started regularly sharing stats last year, we’ve received various requests for different kinds of data you would like to see. On top of the usual statistics we share, we’ve selected a few of the most requested topics to share with you today.
 
@@ -31,13 +31,13 @@ Before we dive in, we would like to remind everyone that while data may be fun t
 
 Starting things off, here’s an update to the 10 most popular Perks for each role! The percentage listed next to each Perk indicates their usage rate- in other words, the likelihood that someone will have it in their loadout. Arrows indicate if the Perk has moved up or down the list since we last shared stats, while a line shows that they remained in the same spot.
 
-![SURVIVOR_PERKS.png](433-developer-update-stats/02-survivor-perks.png) ![KILLER_PERKS.png](433-developer-update-stats/03-killer-perks.png)
+![SURVIVOR_PERKS.png](../images/b750824e4a2a9aaf-survivor-perks.png) ![KILLER_PERKS.png](../images/39eb08b0c26e8513-killer-perks.png)
 
 ## Popular Killers
 
 Like Perks, we’ve also tallied up the 10 most popular Killers over the past month. The number below represent the percentage of all matches where that given Killer was played, with the arrows and lines again indicating how they have changed in popularity since we last shared this data.
 
-![CA-642_DBD_0923_Evergreen_Killer_Rankings_Zodiac.png](433-developer-update-stats/04-ca-642-dbd-0923-evergreen-killer-rankings-zodiac.png)
+![CA-642_DBD_0923_Evergreen_Killer_Rankings_Zodiac.png](../images/8d1f06c498227f18-ca-642-dbd-0923-evergreen-killer-rankings-zodiac.png)
 
 Beyond the top 10, the pick rates are as follows (in descending popularity). For the sake of simplicity, we have rounded these numbers to the nearest whole percent.
 
@@ -73,7 +73,7 @@ We’d like to remind you again that this data covers millions of matches across
 
 Kill rates *do not* include matches where a disconnect takes place.
 
-![CA-642_DBD_0923_Evergreen_Deadliest_Killers.png](433-developer-update-stats/05-ca-642-dbd-0923-evergreen-deadliest-killers.png)
+![CA-642_DBD_0923_Evergreen_Deadliest_Killers.png](../images/16f1d35732c1c314-ca-642-dbd-0923-evergreen-deadliest-killers.png)
 
 Beyond the top 10, the standing look like this:
 
@@ -108,7 +108,7 @@ Last but certainly not least, many of you were curious about a Survivor’s odds
 
 One last time, we’d like to remind you that these numbers do not paint a full picture. For instance, a group of friends may be more coordinated, but they might also be more willing to sacrifice themselves in an attempt to save their friends.
 
-![DBD_SWF_Stats_Jan_2024.png](433-developer-update-stats/06-dbd-swf-stats-jan-2024.png)
+![DBD_SWF_Stats_Jan_2024.png](../images/7bc9a21ee83fccd2-dbd-swf-stats-jan-2024.png)
 
 That’s all for this time! We’d like to continue sharing statistics like these with you in the future. If there’s something else that you’re curious about, be sure to let us know!
 

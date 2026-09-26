@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/539-9-5-1-bugfix-p
 author: "ThatRyanB"
 published: "2026-03-24T14:30:07+00:00"
 updated: "2026-03-24T14:30:07+00:00"
-archived: "2026-09-26T16:40:08Z"
+archived: "2026-09-26T17:08:26Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The Trickster's S-Rank now pauses Laceration Meter decay, and its power descript
 
 # 9.5.1 | Bugfix Patch
 
-![DbD_951_PatchNotes_FORUM.png](539-9-5-1-bugfix-patch/01-dbd-951-patchnotes-forum.png)
+![DbD_951_PatchNotes_FORUM.png](../../images/d50d1d560276f452-dbd-951-patchnotes-forum.png)
 
 ## Gameplay Features
 
@@ -31,7 +31,7 @@ The Trickster's S-Rank now pauses Laceration Meter decay, and its power descript
   - Includes Laceration Stacks applied before The Trickster achieves S-Rank, and those received while in S-Rank.
 - Power description updated.
 
-![bar_red.png](539-9-5-1-bugfix-patch/02-bar-red.png)
+![bar_red.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 Blood Moon begins March 26*th*!
 
@@ -53,7 +53,7 @@ Blood Moon begins March 26*th*!
 
 - Score Event for completing a Blood Generator is shared among all Survivors
 
-![bar_red.png](539-9-5-1-bugfix-patch/03-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Bug Fixes
 
@@ -131,7 +131,7 @@ Blood Moon begins March 26*th*!
 - Fixed an issue where Trickster's S-rank UI sometimes blinked and remained after S-rank had ended.
 - Fixed an issue where Survivor Portraits were inconsistent when showing the Survivor interaction while facing The Lich.
 
-![bar_red.png](539-9-5-1-bugfix-patch/04-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Known Issues
 

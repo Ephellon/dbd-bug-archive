@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/471-8-2-2-bugfix-p
 author: "Peanits"
 published: "2024-09-11T14:25:43+00:00"
 updated: "2024-09-11T14:25:44+00:00"
-archived: "2026-09-26T16:40:20Z"
+archived: "2026-09-26T17:08:37Z"
 ---
 
 <!-- summary -->
@@ -21,14 +21,14 @@ Eight original characters—including Ace Visconti, Feng Min, Kate Denson, Adam 
 
 # 8.2.2 | Bugfix Patch
 
-![822_Bugfix_Forum.jpg](471-8-2-2-bugfix-patch/01-822-bugfix-forum.jpg)
+![822_Bugfix_Forum.jpg](../../images/2c516dcf6b8ce269-822-bugfix-forum.jpg)
 
 ## Important
 
 - From September 12th the pricing of eight of our Original Characters will be reduced, Ace Visconti, Feng Min, Kate Denson, Adam Francis, The Hag, The Doctor, The Clown and The Spirit. These characters will now cost 125 AC/$1.25 USD.
 - As a result we will also reduce the price of our Maddening Darkness DLC Pack to $9.99 USD.
 
-![PatchNotesDivider.png](471-8-2-2-bugfix-patch/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Content
 
@@ -47,7 +47,7 @@ Eight original characters—including Ace Visconti, Feng Min, Kate Denson, Adam 
 - Shapeshift cooldown changed to 2.5 seconds (was 5.0 seconds)
 - Addon Magical Ticket: Reduced to 10% to compensate for increased teleport speed (was 25%)
 
-![PatchNotesDivider.png](471-8-2-2-bugfix-patch/03-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 

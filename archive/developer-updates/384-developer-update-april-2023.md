@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/384-developer-upda
 author: "Omnia"
 published: "2023-04-05T14:59:46+00:00"
 updated: "2023-04-17T15:08:25+00:00"
-archived: "2026-09-26T16:43:18Z"
+archived: "2026-09-26T17:10:52Z"
 ---
 
 <!-- summary -->
@@ -21,13 +21,13 @@ The live Tools of Torment Mid-Chapter reverts the PTB’s 24-second base healing
 
 # Developer Update | April 2023
 
-![271201640_4700475550000980_8828790767346394243_n.jpg](384-developer-update-april-2023/01-271201640-4700475550000980-8828790767346394243-n.jpg)
+![271201640_4700475550000980_8828790767346394243_n.jpg](../images/1767eb12b2bbe968-271201640-4700475550000980-8828790767346394243-n.jpg)
 
 It’s been a little over a week since the Tools of Torment Mid-Chapter hit the Public Test Build (PTB), the server where we test out and fine tune upcoming changes before pushing them live. As always, our team has been combing through your feedback and identifying room for improvement before the update debuts on live servers.
 
 We want to start by giving a huge thank you to everyone who took the time to leave detailed and constructive feedback. Thank you! Your feedback has helped shape this update’s release. In this month’s Developer Update, we’ll reveal all of the changes we’ve made to the Mid-Chapter between the PTB and live releases.
 
-![téléchargement.png](384-developer-update-april-2023/02-t-c3-a9l-c3-a9chargement.png)
+![téléchargement.png](../images/de12c9813866d935-t-c3-a9l-c3-a9chargement.png)
 
 ### Healing
 
@@ -74,7 +74,7 @@ Last but not least, in light of the tweaks above, we’ve made some adjustments 
 
 We hope these changes will tone down Med-Kits when used for self healing while making them more appealing for altruistic heals.
 
-![téléchargement (1).png](384-developer-update-april-2023/03-t-c3-a9l-c3-a9chargement-281-29.png)
+![téléchargement (1).png](../images/df6b285785cf5b5d-t-c3-a9l-c3-a9chargement-281-29.png)
 
 ### The Hillbilly
 
@@ -84,7 +84,7 @@ For the release, **we have reverted the changes to the Death Engravings and Doom
 
 We have kept the tweaks to the overheat mechanic to make it less limiting than before, making The Hillbilly feel better to play.
 
-![téléchargement (2).png](384-developer-update-april-2023/04-t-c3-a9l-c3-a9chargement-282-29.png)
+![téléchargement (2).png](../images/f6ce35fb5d2ed20d-t-c3-a9l-c3-a9chargement-282-29.png)
 
 ### Perks
 
@@ -118,7 +118,7 @@ While this won’t make setting up or running to the Boon the optimal choice in 
 
 Last but not least, we managed to sneak one more change into the Autohaven Wreckers map updates. A while back, we added some new tiles to the realm. One of these new tiles- which featured a window and pallet- ended up being fairly unsafe. We rebalanced this tile, but it unfortunately didn’t make it into the PTB in time. However, an updated version of this tile will be available upon release. Take a look!
 
-![MicrosoftTeams-image (2).png](384-developer-update-april-2023/05-microsoftteams-image-282-29.png)
+![MicrosoftTeams-image (2).png](../images/ab165f22e7902650-microsoftteams-image-282-29.png)
 
 With that, we’ve reached the end of the Developer Update. We want to once again thank everyone who gave the changes a try and left detailed and constructive feedback. Our team will continue to keep a close eye on things once the update goes live to ensure that everything goes smoothly.
 

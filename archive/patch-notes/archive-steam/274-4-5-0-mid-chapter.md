@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/274-4-5-0-mid-chap
 author: "Peanits"
 published: "2021-02-09T15:26:36+00:00"
 updated: "2021-02-09T15:26:36+00:00"
-archived: "2026-09-26T16:41:35Z"
+archived: "2026-09-26T17:09:44Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ Balance changes give The Clown separate Tonic and Antidote bottles with a faster
 
 # 4.5.0 | Mid-Chapter
 
-![450Banner.png](274-4-5-0-mid-chapter/01-450banner.png)
+![450Banner.png](../../images/d88369cf906c6df4-450banner.png)
 
 ## Content
 
@@ -53,7 +53,7 @@ Balance changes give The Clown separate Tonic and Antidote bottles with a faster
 
 - The Settings menu has been updated with two new slider settings that allow players to adjust the size of their UI. Players may adjust the size of the menus and HUD separately. This replaces the previous maximum scale value used in previous releases.
 
-![PatchNotesDividerSmolWhite.png](274-4-5-0-mid-chapter/02-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/3e51648d555c8a4c-patchnotesdividersmolwhite.png)
 
 **Visual Update:**
 
@@ -61,7 +61,7 @@ Balance changes give The Clown separate Tonic and Antidote bottles with a faster
 - Updated model and textures on 4 Nurse outfits.
 - Update model, texture on the Clown base outfit and updated his VFX.
 
-![PatchNotesDividerSmolWhite.png](274-4-5-0-mid-chapter/03-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/3e51648d555c8a4c-patchnotesdividersmolwhite.png)
 
 **Updated Survivor Locomotion**
 
@@ -78,7 +78,7 @@ Balance changes give The Clown separate Tonic and Antidote bottles with a faster
 - Updated Self-Heal fail animation.
 - Slightly raised the camera when crawling.
 
-![PatchNotesDivider.png](274-4-5-0-mid-chapter/04-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/d693987990e49c09-patchnotesdivider-281-29.png)
 
 ## Balance
 
@@ -120,14 +120,14 @@ Audio:
 
 - The Clown now has his own Terror Radius & Chase music.
 
-![PatchNotesDividerSmolWhite.png](274-4-5-0-mid-chapter/05-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/3e51648d555c8a4c-patchnotesdividersmolwhite.png)
 
 **The Trapper:**
 
 - Escaping from a Bear Trap now has a 1/6 (16.6%) chance of succeeding on each attempt, but is capped at a maximum of 6 attempts
 - Addons that reduce the chance of escape increase the maximum number of attempts as well as reducing the chance per attempt
 
-![PatchNotesDividerSmolWhite.png](274-4-5-0-mid-chapter/06-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/3e51648d555c8a4c-patchnotesdividersmolwhite.png)
 
 **The Wraith:**
 
@@ -164,7 +164,7 @@ Audio:
 - Begrimed Head: Removed repair speed debuff, added Hemorrhage status effect
 - Rusty Attachments: Only applies Mangled to injured Survivors
 
-![PatchNotesDivider.png](274-4-5-0-mid-chapter/07-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/d693987990e49c09-patchnotesdivider-281-29.png)
 
 ## Bug Fixes
 
@@ -228,7 +228,7 @@ Audio:
 - Fixed an issue where character would "T" stance when infected by the Plague and interacting with the exit gate
 - Fixed an issue where character would "T" stance when interacting with fountains.
 
-![PatchNotesDivider.png](274-4-5-0-mid-chapter/08-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/d693987990e49c09-patchnotesdivider-281-29.png)
 
 ## Known Issues
 

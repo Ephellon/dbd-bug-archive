@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/482-8-4-0-doomed-c
 author: "ThatRyanB"
 published: "2024-11-28T15:57:01+00:00"
 updated: "2024-11-28T15:57:02+00:00"
-archived: "2026-09-26T16:40:18Z"
+archived: "2026-09-26T17:08:35Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The Houndmaster arrives as a new Killer with the Scent of Blood power, adding Ch
 
 # 8.4.0 | Doomed Course
 
-![8-4-0_PatchNotesFORUM.jpg](482-8-4-0-doomed-course/01-gelato-patchnotesforum.jpg)
+![8-4-0_PatchNotesFORUM.jpg](../../images/db435176abcb9ae3-gelato-patchnotesforum.jpg)
 
 ## Content
 
@@ -56,7 +56,7 @@ Healthy Survivors affected by Houndsense receive Deep Wounds when Injured. Injur
   - When a Survivor reaches **75/75/75%** of a self-heal, they are faced with continuous skill checks.
   - If one of these skill checks is missed or the heal is interrupted, the Survivor becomes broken for **20/25/30 seconds**.
 
-![bar1.png](482-8-4-0-doomed-course/02-bar1.png)
+![bar1.png](../../images/58945c20a5542241-bar-white.png)
 
 ### New Survivor - Taurie Cain
 
@@ -77,13 +77,13 @@ Healthy Survivors affected by Houndsense receive Deep Wounds when Injured. Injur
   - Once per trial, as long as you are not on death hook, press the ability button 2 in front of a hooked Survivor to unhook them.
   - When they are unhooked, they lose 1 hook state and you gain 1 hook state. You also scream and become Exposed for **60/50/40 seconds**.
 
-![bar1.png](482-8-4-0-doomed-course/03-bar1.png)
+![bar1.png](../../images/58945c20a5542241-bar-white.png)
 
 ### General Updates
 
 - Decreased the Sacrificial Ward Offering rarity to Common. *(was Rare)*
 
-![bar1.png](482-8-4-0-doomed-course/04-bar1.png)
+![bar1.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Killer Updates
 
@@ -182,7 +182,7 @@ Healthy Survivors affected by Houndsense receive Deep Wounds when Injured. Injur
 - **Scratched Mirror:**
   - Decreases Evil Within I movement speed to 4.2 m/s *(NEW)*
 
-![bar1.png](482-8-4-0-doomed-course/05-bar1.png)
+![bar1.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Killer Perk Updates
 
@@ -207,7 +207,7 @@ Healthy Survivors affected by Houndsense receive Deep Wounds when Injured. Injur
   - Affected Survivors see the item's aura. *(NEW)*
   - When a Survivor picks up a Survivor item, they suffer the Oblivious status effect for 20/25/30 seconds.
 
-![bar1.png](482-8-4-0-doomed-course/06-bar1.png)
+![bar1.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Survivor Updates
 
@@ -215,7 +215,7 @@ Healthy Survivors affected by Houndsense receive Deep Wounds when Injured. Injur
 
 - Decreased the time it takes to unlock chests to 8 seconds *(10 seconds)*
 
-![bar1.png](482-8-4-0-doomed-course/07-bar1.png)
+![bar1.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Survivor Perk Updates
 
@@ -247,14 +247,14 @@ Healthy Survivors affected by Houndsense receive Deep Wounds when Injured. Injur
   - There is a chance you will scream again, if you do, you will see the Killer's aura for an additional 2 seconds.
   - Scene Partner then goes on cool-down for 40 seconds. *(was 60 seconds)*
 
-![bar1.png](482-8-4-0-doomed-course/08-bar1.png)
+![bar1.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Events & Archives
 
 - "Bone Chill" seasonal event begins December 12 at 11:00am Eastern.
   - This seasonal event also features an event tome opening at the same time.
 
-![bar.png](482-8-4-0-doomed-course/09-bar.png)
+![bar.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Features
 
@@ -292,7 +292,7 @@ Healthy Survivors affected by Houndsense receive Deep Wounds when Injured. Injur
 - Auto-Deletion:
   - News and messages are automatically removed after expiration.
 
-![bar.png](482-8-4-0-doomed-course/10-bar.png)
+![bar.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Bug Fixes
 
@@ -356,7 +356,7 @@ Healthy Survivors affected by Houndsense receive Deep Wounds when Injured. Injur
 - Fixed an issue that caused Killers to be able to spam the Mori interaction.
 - Fixed an issue that could sometimes cause the screen to flash bright when getting unhooked after being hooked in the Void during the Halloween Event.
 
-![bar.png](482-8-4-0-doomed-course/11-bar.png)
+![bar.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Public Test Build (PTB) Adjustments
 
@@ -379,14 +379,14 @@ Healthy Survivors affected by Houndsense receive Deep Wounds when Injured. Injur
 
 - Knotted Rope: Basic attack cooldown against grabbed Survivors reduced to 10% *(was 40%)*
 
-![bar1.png](482-8-4-0-doomed-course/12-bar1.png)
+![bar1.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Survivor Perks
 
 - **Shoulder the Burden:**
   - Increased Exposed duration from 30/25/20 to 60/50/40 seconds,
 
-![bar1.png](482-8-4-0-doomed-course/13-bar1.png)
+![bar1.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Bug Fixes
 

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/393-developer-upda
 author: "Peanits"
 published: "2023-06-20T13:58:37+00:00"
 updated: "2023-06-20T13:58:37+00:00"
-archived: "2026-09-26T16:43:16Z"
+archived: "2026-09-26T17:10:51Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The Singularity’s Biopods and EMP mechanics received balance tweaks after the 
 
 # Developer Update | End Transmission Release
 
-![Developer update-1920x1080-TOTEM-idea copy.png](393-developer-update-end-transmission-release/01-developer-update-1920x1080-totem-idea-copy.png)
+![Developer update-1920x1080-TOTEM-idea copy.png](../images/8ea0631accef4a2a-developer-update-1920x1080-totem-idea-copy.png)
 
 It’s been almost a week since the debut of the End Transmission Chapter. We’ve been keeping a close eye out for feedback since the launch, and we are already preparing a few balance changes for an upcoming update. Today, we’ll take a moment to run through each of the adjustments we have made and give some explanation as to why we are making them.
 

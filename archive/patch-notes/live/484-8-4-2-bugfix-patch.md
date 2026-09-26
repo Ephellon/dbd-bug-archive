@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/484-8-4-2-bugfix-p
 author: "ThatRyanB"
 published: "2024-12-12T15:28:28+00:00"
 updated: "2024-12-12T16:07:40+00:00"
-archived: "2026-09-26T16:40:18Z"
+archived: "2026-09-26T17:08:35Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The Houndmaster receives a suite of balance adjustments: Chase Command cooldown 
 
 # 8.4.2 | Bugfix Patch
 
-![PatchNotes_842_FORUM.jpg](484-8-4-2-bugfix-patch/01-patchnotes-842-forum.jpg)
+![PatchNotes_842_FORUM.jpg](../../images/d1284c153228c279-patchnotes-842-forum.jpg)
 
 ## Content
 
@@ -44,7 +44,7 @@ The Houndmaster receives a suite of balance adjustments: Chase Command cooldown 
 
 - Knotted Rope: Basic attack cooldown against grabbed Survivors reduced to 2% *(was 10%)*
 
-![bar1.png](484-8-4-2-bugfix-patch/02-bar1.png)
+![bar1.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Killer Perk Updates
 
@@ -52,14 +52,14 @@ The Houndmaster receives a suite of balance adjustments: Chase Command cooldown 
   - For each Dull and Hex Totem remaining on the map, gain a Token.
   - Survivors' Cleansing and Blessing speed is reduced by 8/10/12% for each Token. *(was 10/12/14%)*
 
-![bar1.png](484-8-4-2-bugfix-patch/03-bar1.png)
+![bar1.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Archives & Events
 
 - Chaos Shuffle returns January 16, 2025 at 11:00am Eastern.
   - This event includes an event tome featuring **Dungeons & Dragons** themed rewards.
 
-![bar.png](484-8-4-2-bugfix-patch/04-bar.png)
+![bar.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Bug Fixes
 

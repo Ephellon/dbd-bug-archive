@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/512-9-0-2-bugfix-p
 author: "Mandy"
 published: "2025-07-02T14:30:01+00:00"
 updated: "2025-07-02T14:30:01+00:00"
-archived: "2026-09-26T16:40:14Z"
+archived: "2026-09-26T17:08:31Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Animatronic add-ons were rebalanced: Security Guard’s Badge now reduces effect
 
 # 9.0.2 | Bugfix Patch
 
-![Ketchup_PatchNotes_HF2_169.jpg](512-9-0-2-bugfix-patch/01-ketchup-patchnotes-hf2-169.jpg)
+![Ketchup_PatchNotes_HF2_169.jpg](../../images/6c266511d18b8aa4-ketchup-patchnotes-hf2-169.jpg)
 
 ## Content
 
@@ -34,7 +34,7 @@ Animatronic add-ons were rebalanced: Security Guard’s Badge now reduces effect
 - **Foxy’s Hook** Increased duration to 6 seconds *(was 3s)*
 - **Endo CPU** Increased break speeds to 40% *(was 25%)*
 
-![image.png](512-9-0-2-bugfix-patch/02-image.png)
+![image.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Bug Fixes
 
@@ -102,7 +102,7 @@ Animatronic add-ons were rebalanced: Security Guard’s Badge now reduces effect
 - Fixed an issue that caused Rift Pass / Week6 / Be Chased FOR 200 SECONDS to be unable to complete
 - Fixed an issue that caused Challenge 'I want it, I got it' in Tome 15 to be unable to complete.
 
-![image.png](512-9-0-2-bugfix-patch/03-image.png)
+![image.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 **Known Issues**
 

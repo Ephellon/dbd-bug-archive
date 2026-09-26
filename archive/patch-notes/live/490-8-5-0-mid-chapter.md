@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/490-8-5-0-mid-chap
 author: "ThatRyanB"
 published: "2025-01-28T15:28:03+00:00"
 updated: "2025-01-28T15:28:04+00:00"
-archived: "2026-09-26T16:40:17Z"
+archived: "2026-09-26T17:08:34Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ The rest of the update focuses on stability, delivering audio, bot, character, m
 
 # 8.5.0 | Mid-Chapter
 
-![PatchNotes_850_FORUMS.jpg](490-8-5-0-mid-chapter/01-patchnotes-850-forums.jpg)
+![PatchNotes_850_FORUMS.jpg](../../images/50661523c537c005-patchnotes-850-forums.jpg)
 
 ## Content
 
@@ -141,7 +141,7 @@ The rest of the update focuses on stability, delivering audio, bot, character, m
 - **Black Box**:
   - Exit Gates are blocked for Sleeping Survivors for 15 seconds after they are opened *(was applicable when recently opened. This update also makes it trigger when they fall asleep after the Exit Gates have been opened)*
 
-![bar1.png](490-8-5-0-mid-chapter/02-bar1.png)
+![bar1.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Features
 
@@ -163,7 +163,7 @@ The rest of the update focuses on stability, delivering audio, bot, character, m
   - Shoulder the Burden can now be searched with "STB"
   - Bite the Bullet can now be searched with "BTB".
 
-![bar1.png](490-8-5-0-mid-chapter/03-bar1.png)
+![bar1.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Perk Updates
 
@@ -186,13 +186,13 @@ The rest of the update focuses on stability, delivering audio, bot, character, m
 - **Wake Up!**:
   - For each Survivor still alive, increase the speed at which you open Exit Gates by **8/10/12.5%** *(NEW)*
 
-![bar1.png](490-8-5-0-mid-chapter/04-bar1.png)
+![bar1.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Archives & Events
 
 - Tome 22 ANGUISH - Level 1 opens January 28th at 11:00am Eastern
 
-![bar.png](490-8-5-0-mid-chapter/05-bar.png)
+![bar.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Bug Fixes
 
@@ -310,7 +310,7 @@ The rest of the update focuses on stability, delivering audio, bot, character, m
 - Fixed an issue that caused the Unhooking and Self-Unhooking animations to be interrupted by a Killers basic attack.
 - Fixed an issue that allowed players to reach areas which they were not supposed to by changing an in-game setting
 
-![bar.png](490-8-5-0-mid-chapter/06-bar.png)
+![bar.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Public Test Build (PTB) Adjustments
 
@@ -358,7 +358,7 @@ The rest of the update focuses on stability, delivering audio, bot, character, m
 - **Beast of Prey**:
   - When you gain Bloodlust for the first time, gain Undetectable for **30/35/40 seconds** *(*was 10/15/20 sec*)*
 
-![bar1.png](490-8-5-0-mid-chapter/07-bar1.png)
+![bar1.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Bug Fixes
 
@@ -380,7 +380,7 @@ The rest of the update focuses on stability, delivering audio, bot, character, m
 - Fixed an issue that prevented the Nurse from performing a lunge attack after Blinking.
 - Lucky Star's grunts suppression remains active until entering another locker if grabbed out of the locker by the Killer.
 
-![bar.png](490-8-5-0-mid-chapter/08-bar.png)
+![bar.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Known Issues
 

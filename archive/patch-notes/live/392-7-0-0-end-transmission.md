@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/392-7-0-0-end-tran
 author: "Peanits"
 published: "2023-06-13T14:25:52+00:00"
 updated: "2023-06-13T14:25:52+00:00"
-archived: "2026-09-26T16:40:34Z"
+archived: "2026-09-26T17:08:49Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ Most of the patch is dedicated to extensive bug fixes - audio issues, visual gli
 
 # 7.0.0 | End Transmission
 
-![700_Releaseinfo_wide copie.png](392-7-0-0-end-transmission/01-700-releaseinfo-wide-copie.png)
+![700_Releaseinfo_wide copie.png](../../images/2c493dc626dcb955-700-releaseinfo-wide-copie.png)
 
 ## Release Information
 
@@ -33,7 +33,7 @@ DLC release: 12PM ET, June 13
 
 *Times are estimates and may vary from platform to platform.*
 
-![PatchNotesDivider.png](392-7-0-0-end-transmission/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Content
 
@@ -73,7 +73,7 @@ The Singularity can shoot and spawn Biopods around the map; these Biopods can at
 
 **The Landing was a promise for** humanity to rebuild on a new planet. The climate resources were ideal to start anew, until all went wrong, and a new lifeform takes over and it has no connection to humanity. The environment his split in two distinct biomes. A rocky and bare area that will give players a more open space to explore. A destroyed vehicle incased on spiky rocks serves as a testament of a fierce battle and can now serves as a landmark. On the opposite side of the map a lush and busy jungle will give the players a claustrophobic feeling even outside. The vegetation although menacing can be used by the survivors to hide and wait for the real threat to pass by.Between the two biomes the Toba Landing, now a desolate remnant of what was once a second chance of life is now a carcass of advance technology. Players will be able to explore every level from underneath, all the way to the top of the structure.This planet looks wild and untouched, but the more you look around, it is possible to notice a civilization once thrived and left evidence of its presence on some familiar elements, such as the shack and the exit gate.Wild life is present in the environment and a good guide to help players find their way around. Enigmatic blue flowers seem to feed on the energy of the entity and light up when source of energy like generators and exit gates are around.
 
-![PatchNotesDividerSmolWhite.png](392-7-0-0-end-transmission/03-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/99a38c0fbf668e81-patchnotesdividersmolwhite.png)
 
 ## Killer Tweaks
 
@@ -104,7 +104,7 @@ The Singularity can shoot and spawn Biopods around the map; these Biopods can at
   - Night Vision Monocular
     - A Survivor that reveals The Ghost Face is inflicted with Exhausted for 10 seconds (was 5 seconds).
 
-![PatchNotesDividerSmolWhite.png](392-7-0-0-end-transmission/04-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ## Perk Updates
 
@@ -115,14 +115,14 @@ The Singularity can shoot and spawn Biopods around the map; these Biopods can at
 - Flashbang
   - After completing 70%/60%/50% progress on any generator, Flashbang activates. Enter a locker and press the Active Ability Button 1 to craft a flash grenade. (No longer requires being empty-handed)
 
-![PatchNotesDividerSmolWhite.png](392-7-0-0-end-transmission/05-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ## Events
 
 - The 7th Anniversary "Twisted Masquerade" event begins June 21, 2023 at 11:00:00 ET
 - Level 1 of the "Twisted Masquerade" event tome opens June 21, 2023 at 11:00:00 ET
 
-![PatchNotesDivider.png](392-7-0-0-end-transmission/06-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Features
 
@@ -140,7 +140,7 @@ The following text parts can be searched for:
 - The Item that an Add-on attaches to
 - For teachable Perks, the name of the character that unlocks it
 
-![PatchNotesDividerSmolWhite.png](392-7-0-0-end-transmission/07-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Item Rules Rework
 
@@ -155,7 +155,7 @@ The following text parts can be searched for:
     - Items that do not return to a player's inventory at the end of a match
     - e.g. the White Glyph's Pocket Mirror, Flashbang
 
-![PatchNotesDividerSmolWhite.png](392-7-0-0-end-transmission/08-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Misc
 
@@ -163,7 +163,7 @@ The following text parts can be searched for:
 - Added protection against hackers using characters they do not own.
 - Error messages produced by a disconnection, a timeout from the server, or a kick are now distinct and clearer.
 
-![PatchNotesDivider.png](392-7-0-0-end-transmission/09-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 
@@ -305,7 +305,7 @@ The following text parts can be searched for:
 - Regular items are no longer lost when escaping with a special item
 - The camera no longer jitters when picking up a survivor from a locker
 
-![PatchNotesDivider.png](392-7-0-0-end-transmission/10-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Public Test Build (PTB) Adjustments
 

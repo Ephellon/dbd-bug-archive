@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/500-developer-upda
 author: "ThatRyanB"
 published: "2025-04-10T13:58:16+00:00"
 updated: "2025-04-10T13:58:17+00:00"
-archived: "2026-09-26T16:42:49Z"
+archived: "2026-09-26T17:10:41Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ April 2025’s Developer Update previews the 8.7 PTB, centering on a unified Que
 
 # Developer Update | April 2025
 
-![PTB_DeveloperUpdate_April2025.png](500-developer-update-april-2025/01-ptb-developerupdate-april2025.png)
+![PTB_DeveloperUpdate_April2025.png](../images/93a7bd0bcf55bc79-ptb-developerupdate-april2025.png)
 
 The 8.7.0 Update will be here before you know it, so let’s take a look at the notable gameplay changes you can expect from next week’s Public Test Build, including improvements we recently shared as part of our [Quality-of-Life initiative](https://x.com/DeadbyDaylight/status/1891521453041782861).
 
@@ -31,7 +31,7 @@ Read on for all the details:
 
 ## NEW FEATURES
 
-![New Quests System.png](500-developer-update-april-2025/02-new-quests-system.png)
+![New Quests System.png](../images/56d579295a91efda-new-quests-system.png)
 
 - **\[NEW\]** Added a Quests menu to centralize all quest-related content in one place.
   - This replaces the Daily Ritual, Tome Challenge, and Event Tome systems.
@@ -47,9 +47,9 @@ Read on for all the details:
 
 *Our intention behind this system is that – win or lose – we want Trials to feel even more rewarding for players, making in-game tasks and rewards easier to engage with. What this means for you is that you can complete multiple quests per Trial, you can pin quests to easily reference them in-game, and rewards are unlocked automatically to minimizing the amount of time you spend in menus, among other things. Checking things off your to-do list should feel snappy and rewarding, and that’s the feeling we’re aiming for here!*
 
-![devupdate-frame.png](500-developer-update-april-2025/03-devupdate-frame.png)
+![devupdate-frame.png](../images/0bb14b82647860a5-devupdate-frame.png)
 
-![Archives, Tome and Rift Changes.png](500-developer-update-april-2025/04-archives-2c-tome-and-rift-changes.png)
+![Archives, Tome and Rift Changes.png](../images/eb3e10753feb8b34-archives-2c-tome-and-rift-changes.png)
 
 - **\[NEW\]** Extended the number of levels in the Deep Rift and increased the number of available outfit variants within it.
 - **\[NEW\]** Updated the final Rift tier – following the Deep Rift – to act as a repeatable source of Bloodpoints.
@@ -61,9 +61,9 @@ Read on for all the details:
 
 *While the Archives and Compendium will remain accessible in-game, Rift progression moving forward will be handled through the Quests menu, so you’ll likely see less of these legacy spaces. As a fitting way to show our respect for them, previous Tomes and their challenges will remain available for you to work through, and all lore is unlocked to let you walk down memory lane.*
 
-![devupdate-frame.png](500-developer-update-april-2025/05-devupdate-frame.png)
+![devupdate-frame.png](../images/0bb14b82647860a5-devupdate-frame.png)
 
-![Perks Preview In Lobby.png](500-developer-update-april-2025/06-perks-preview-in-lobby.png)
+![Perks Preview In Lobby.png](../images/085115f9764d7c05-perks-preview-in-lobby.png)
 
 - **\[NEW\]** Added a widget highlighting a player’s own Perks in the pre-game Lobby.
 - **\[NEW\]** Newly unlocked Survivors and Killers come pre-equipped with a Perk in their first slot.
@@ -72,9 +72,9 @@ Read on for all the details:
 
 *Pre-equipping a Perk for newly unlocked characters also helps ease players into the game, ensuring they won’t be at a disadvantage in their first Trial if they miss the Perks menu.*
 
-![devupdate-frame.png](500-developer-update-april-2025/07-devupdate-frame.png)
+![devupdate-frame.png](../images/0bb14b82647860a5-devupdate-frame.png)
 
-![Pre-Equipped Items and Add-Ons.png](500-developer-update-april-2025/08-pre-equipped-items-and-add-ons.png)
+![Pre-Equipped Items and Add-Ons.png](../images/b91910663ce4fc12-pre-equipped-items-and-add-ons.png)
 
 - **\[NEW\]** Newly unlocked Survivors come pre-equipped with a small set of items and add-ons, as well as some extras in their inventory.
 - **\[NEW\]** Newly unlocked Killers come pre-equipped with a small set of add-ons, as well as some extras in their inventory.
@@ -83,9 +83,9 @@ Read on for all the details:
 
 *Giving these items and add-ons to newly unlocked characters allows us to highlight the basics of a character’s kit, giving players something to use in their first few Trials.*
 
-![devupdate-frame.png](500-developer-update-april-2025/09-devupdate-frame.png)
+![devupdate-frame.png](../images/0bb14b82647860a5-devupdate-frame.png)
 
-![Unhook Spam Prevention.png](500-developer-update-april-2025/10-unhook-spam-prevention.png)
+![Unhook Spam Prevention.png](../images/3748cd05d884db24-unhook-spam-prevention.png)
 
 - **\[NEW\]** Each Survivor can attempt to unhook another Survivor 3 times. On the next attempt, they cannot cancel this interaction.
 - **\[NEW\]** Each Survivor's individual unhook attempt count resets when the hooked Survivor exits the hooked state.
@@ -94,19 +94,19 @@ Read on for all the details:
 
 *By setting a limit on this action before it becomes uninterruptable, our goal is to ensure well-meaning players have the flexibility to change their tactics on the fly, while also preventing others from using this action for griefing purposes.*
 
-![devupdate-frame.png](500-developer-update-april-2025/11-devupdate-frame.png)
+![devupdate-frame.png](../images/0bb14b82647860a5-devupdate-frame.png)
 
-![Improved Skill Check Safety Net.png](500-developer-update-april-2025/12-improved-skill-check-safety-net.png)
+![Improved Skill Check Safety Net.png](../images/f5628d551eb81fee-improved-skill-check-safety-net.png)
 
 - **\[NEW\]** Added an additional window of time in which a skill check will be nullified when letting go of an action as the skill check pops up.
 
 ***DEV NOTE**: We’ve all been there. You get off a generator just a fraction too late and BOOM, you trigger a failed skill check. As a result of your feedback, we’ve added a slightly extended grace period for letting go of generators and healing actions. This should help reduce the frustration of a rogue skill check alerting the Killer, without being so generous that you can be careless with your actions.*
 
-![devupdate-frame.png](500-developer-update-april-2025/13-devupdate-frame.png)
+![devupdate-frame.png](../images/0bb14b82647860a5-devupdate-frame.png)
 
 ## KILLER UPDATES
 
-![The Houndmaster.png](500-developer-update-april-2025/14-the-houndmaster.png)
+![The Houndmaster.png](../images/b8a7226cfc0d1b5d-the-houndmaster.png)
 
 - **\[CHANGE\]** Decreased Dog Chase Command vault speed.
 - **\[CHANGE\]** Increased Bloodpoint rewards for all Deviousness scoring events.
@@ -115,11 +115,11 @@ Read on for all the details:
 
 *We’ve also seen your feedback that the Houndmaster’s Bloodpoint rewards need a little buff. We’ve doubled the reward values of all her Deviousness scoring events to help bring this in line.*
 
-![devupdate-frame.png](500-developer-update-april-2025/15-devupdate-frame.png)
+![devupdate-frame.png](../images/0bb14b82647860a5-devupdate-frame.png)
 
 ## STATUS EFFECT UPDATES
 
-![Haste and Hindered Stacking.png](500-developer-update-april-2025/16-haste-and-hindered-stacking.png)
+![Haste and Hindered Stacking.png](../images/f0d73fdca628c0fe-haste-and-hindered-stacking.png)
 
 - **\[CHANGE\]** Haste no longer stacks with other Haste effects.
 - **\[CHANGE\]** Hindered no longer stacks with other Hindered effects.
@@ -133,11 +133,11 @@ Read on for all the details:
 
 *Stay tuned for the PTB Patch Notes, for an overview of the Perks that will be receiving small buffs to account for the removal of this stacking.*
 
-![devupdate-frame.png](500-developer-update-april-2025/17-devupdate-frame.png)
+![devupdate-frame.png](../images/0bb14b82647860a5-devupdate-frame.png)
 
 ## PERK UPDATES
 
-![Hex Pentimento.png](500-developer-update-april-2025/18-hex-pentimento.png)
+![Hex Pentimento.png](../images/97a2d4e16dbc61d7-hex-pentimento.png)
 
 - **\[CHANGE\]** When a Totem is Rekindled, Survivors’ healing and repair speeds are reduced. This effect is increased for each additional Rekindled Totem. If all five totems are Rekindled simultaneously, all Totems are permanently blocked by The Entity.
 - **\[CHANGE\]** Survivors cursed by this Perk see Rekindled Totems’ auras within a small radius.
@@ -147,7 +147,7 @@ Read on for all the details:
 
 *As for aura reading, our goal is to help support solo players who don’t have the benefit of teammates to help with Totem callouts.*
 
-![devupdate-frame.png](500-developer-update-april-2025/19-devupdate-frame.png)
+![devupdate-frame.png](../images/0bb14b82647860a5-devupdate-frame.png)
 
 Until next time...
 

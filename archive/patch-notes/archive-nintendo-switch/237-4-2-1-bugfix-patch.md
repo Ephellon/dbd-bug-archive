@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/237-4-2-1-bugfix-p
 author: "Peanits"
 published: "2020-09-17T14:52:31+00:00"
 updated: "2020-09-17T14:52:31+00:00"
-archived: "2026-09-26T16:42:18Z"
+archived: "2026-09-26T17:10:25Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The Switch build restores the survivor heartbeat volume in the terror radius, co
 
 # 4.2.1 | Bugfix Patch
 
-![421Banner.png](237-4-2-1-bugfix-patch/01-421banner.png)
+![421Banner.png](../../images/036e111bb69cf97f-421banner.png)
 
 ## Bug Fixes
 

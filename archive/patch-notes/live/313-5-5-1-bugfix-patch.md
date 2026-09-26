@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/313-5-5-1-bugfix-p
 author: "Peanits"
 published: "2022-02-02T15:28:48+00:00"
 updated: "2022-02-02T15:28:49+00:00"
-archived: "2026-09-26T16:40:46Z"
+archived: "2026-09-26T17:08:59Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Wiggle progress now stays steady during both new and old interactions. The Coldw
 
 # 5.5.1 | Bugfix Patch
 
-![551Banner.png](313-5-5-1-bugfix-patch/01-551banner.png)
+![551Banner.png](../../images/6b44d08ef2f5bf41-551banner.png)
 
 ## Features
 
@@ -34,7 +34,7 @@ Wiggle progress now stays steady during both new and old interactions. The Coldw
 - The Coldwind Farm - Fractured Cowshed map has been re-enabled.
 - The Crotus Prenn Asylum - Father Campbell's Chapel has been re-enabled.
 
-![PatchNotesDivider.png](313-5-5-1-bugfix-patch/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 
@@ -64,7 +64,7 @@ Wiggle progress now stays steady during both new and old interactions. The Coldw
 - Tentatively fixed an issue that caused Meg's Deathgarden head cosmetic to not be available anymore.
 - Tentatively fixed an issue that caused Jane's Twitch shirt cosmetic to be available for all players.
 
-![PatchNotesDivider.png](313-5-5-1-bugfix-patch/03-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Known Issues
 

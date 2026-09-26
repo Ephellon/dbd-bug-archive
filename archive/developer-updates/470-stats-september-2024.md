@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/470-stats-septembe
 author: "Peanits"
 published: "2024-09-09T13:54:24+00:00"
 updated: "2024-09-09T13:54:25+00:00"
-archived: "2026-09-26T16:42:56Z"
+archived: "2026-09-26T17:10:44Z"
 ---
 
 <!-- summary -->
@@ -21,15 +21,15 @@ The September 2024 developer update released extensive statistical insight into 
 
 # Stats | September 2024
 
-![THE LICH.png](470-stats-september-2024/01-the-lich.png)
+![THE LICH.png](../images/e54bcfd02c0829e9-the-lich.png)
 
 *Poor misguided wanderers* may have come face to face with The Lich in his debut month. We gathered data on how often each of his four Powers are used in an average match.
 
-![DICE ROLL.png](470-stats-september-2024/02-dice-roll.png)
+![DICE ROLL.png](../images/517e7d74e231b8c9-dice-roll.png)
 
 Let’s roll! We also pulled data on the average results of dice rolls when facing The Lich. Are you luckier than this, or have you become very familiar with mimics?
 
-![TOTEMS.png](470-stats-september-2024/03-totems.png)
+![TOTEMS.png](../images/9bb112d75263ecea-totems.png)
 
 If it glows, it goes. We tracked down how often totems are cleansed and blessed, as well as which maps see the most and least cleansing.
 

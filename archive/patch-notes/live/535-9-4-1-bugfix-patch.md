@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/535-9-4-1-bugfix-p
 author: "ThatRyanB"
 published: "2026-02-03T15:30:48+00:00"
 updated: "2026-02-03T15:30:48+00:00"
-archived: "2026-09-26T16:40:10Z"
+archived: "2026-09-26T17:08:27Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The First, The Deathslinger, The Xenomorph and other killers got numerous visual
 
 # 9.4.1 | Bugfix Patch
 
-![941_PatchNotes_STEAM.png](535-9-4-1-bugfix-patch/01-941-patchnotes-steam.png)
+![941_PatchNotes_STEAM.png](../../images/0796b585a1ba8dd0-941-patchnotes-steam.png)
 
 ## Bug Fixes
 
@@ -33,13 +33,13 @@ The First, The Deathslinger, The Xenomorph and other killers got numerous visual
 - Fixed an issue where the scream SFX is missing during The Xenomorph's Mori.
 - Added a Curse hit feedback stinger in The First's Default Mode.
 
-![bar_white.png](535-9-4-1-bugfix-patch/02-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Bot Improvements
 
 - Fixed an issue causing Survivor Bots to be difficult to heal when under the radius of a Drone.
 
-![bar_white.png](535-9-4-1-bugfix-patch/03-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Characters
 
@@ -61,13 +61,13 @@ The First, The Deathslinger, The Xenomorph and other killers got numerous visual
 - Fixed an issue where Survivors would jitter when being picked up by The First.
 - Fixed an issue where The First's camera could be locked looking down when canceling the break interaction as the Clock runs out.
 
-![bar_white.png](535-9-4-1-bugfix-patch/04-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Environment / Maps
 
 - Fixed an issue in the Underground Complex where the Survivor could see through the ventilation ducts: a collision has been added to the fan to prevent the camera from entering it.
 
-![bar_white.png](535-9-4-1-bugfix-patch/05-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Perks
 
@@ -92,7 +92,7 @@ The First, The Deathslinger, The Xenomorph and other killers got numerous visual
 - Fixed an issue where Hardened did not trigger when The First used a vine attack.
 - Fixed an issue where aura could remain indefinitely on a survivor who used Bardic Inspiration.
 
-![bar_white.png](535-9-4-1-bugfix-patch/06-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Misc
 

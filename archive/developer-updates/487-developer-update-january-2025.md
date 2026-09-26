@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/487-developer-upda
 author: "ThatRyanB"
 published: "2025-01-07T14:58:03+00:00"
 updated: "2025-01-07T14:58:03+00:00"
-archived: "2026-09-26T16:42:53Z"
+archived: "2026-09-26T17:10:42Z"
 ---
 
 <!-- summary -->
@@ -21,11 +21,11 @@ The Nightmare (Freddy Krueger) receives a major rework: players can now press th
 
 # Developer Update | January 2025
 
-![DevUpdate_January.png](487-developer-update-january-2025/01-devupdate-january.png)
+![DevUpdate_January.png](../images/d3a3f6c76aebaabb-devupdate-january.png)
 
 We’re back with another Developer Update, and some might say it’s pure *nightmare fuel*. That’s right – Freddy Krueger is getting a rework, and we’ve got you covered with everything to know about what’s coming.
 
-![DevUpdate_THE NIGHTMARE.png](487-developer-update-january-2025/02-devupdate-the-nightmare.png)
+![DevUpdate_THE NIGHTMARE.png](../images/215a4ec78572427c-devupdate-the-nightmare.png)
 
 The Nightmare – Freddy Krueger himself – is one of horror’s most iconic slashers. While he has proven himself to be a formidable foe for newer players, he’s begun to feel a little left behind in Dead by Daylight’s current landscape. We’re excited to help players rediscover the macabre joy of donning into the signature sweater and wreaking havoc like only Freddy can.
 
@@ -83,13 +83,13 @@ Rounding out this rework is a substantial pass to all The Nightmare’s Add-Ons,
 
 Keep an eye out for the full list once the update goes live, but rest assured that the Dream Demon will have plenty of terrifying tools to work with moving forward.
 
-![DevUpdate_Frame.png](487-developer-update-january-2025/03-devupdate-frame.png) ![DevUpdate_RRP.png](487-developer-update-january-2025/04-devupdate-rrp.png)
+![DevUpdate_Frame.png](../images/8d441060fccc2a6d-devupdate-frame.png) ![DevUpdate_RRP.png](../images/d6b0a603cb924fb3-devupdate-rrp.png)
 
 To decrease Realm repetition, we’re implementing a Realm Prevention System, which will replace the existing Map Repeat Prevention System.
 
 If you’re not familiar, there is a distinction between Realms and Maps. A Realm is a unique world, generally drawn from the memories of a character and contorted into a nightmarish landscape by The Entity. Some examples are the MacMillian Estate, Coldwind Farm, and the Red Forest. Maps are a variety of different locations drawn from within each Realm, and while they are different from one another, this new system will ensure that you’ll never be sent to the same Realm for back-to-back Trials. Note that using Map Offerings will override the system.
 
-![DevUpdate_Frame.png](487-developer-update-january-2025/05-devupdate-frame.png)
+![DevUpdate_Frame.png](../images/8d441060fccc2a6d-devupdate-frame.png)
 
 ## Deep Wound Update
 
@@ -99,7 +99,7 @@ To help clarify things, we’ve implemented a visual update similar to the Anti-
 
 We’ve also reduced the blood spatter and darkening effects that appear whenever you’re in the Deep Wound State. Several subtle visual updates will now be added to the bar, highlighting the dire nature of the status. Check out a screenshot below:
 
-![DevUpdate_Mend.jpg](487-developer-update-january-2025/06-devupdate-mend.jpg) ![DevUpdate_Frame.png](487-developer-update-january-2025/07-devupdate-frame.png) ![DevUpdate_FCR.png](487-developer-update-january-2025/08-devupdate-fcr.png)
+![DevUpdate_Mend.jpg](../images/7037c151d9979e91-devupdate-mend.jpg) ![DevUpdate_Frame.png](../images/8d441060fccc2a6d-devupdate-frame.png) ![DevUpdate_FCR.png](../images/d76b585f0649b022-devupdate-fcr.png)
 
 Dead by Daylight features a massive – *and growing* – roster of characters. To make matters even more complex, each character brings 3 unique Perks into the game, with Killers having an additional Power to learn and master.
 
@@ -109,7 +109,7 @@ We’re excited to be launching a new system that will allow you to use specific
 
 While this will be for a limited time, with restricted access to the Bloodweb, it will allow players to really get a feel for a new character and even complete character-specific challenges.
 
-![DevUpdate_Frame.png](487-developer-update-january-2025/09-devupdate-frame.png)
+![DevUpdate_Frame.png](../images/8d441060fccc2a6d-devupdate-frame.png)
 
 That’s it for today’s Dev Update! Thanks for sticking with us, and we can’t wait to see you trying out The Nightmare in our upcoming PTB.
 

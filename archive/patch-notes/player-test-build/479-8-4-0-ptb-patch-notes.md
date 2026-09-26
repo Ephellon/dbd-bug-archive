@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/479-8-4-0-ptb-patc
 author: "Mandy"
 published: "2024-11-07T15:59:38+00:00"
 updated: "2024-11-09T00:04:32+00:00"
-archived: "2026-09-26T16:40:59Z"
+archived: "2026-09-26T17:09:10Z"
 ---
 
 <!-- summary -->
@@ -25,7 +25,7 @@ The update also tweaks numerous killer basekits and addons—Dark Lord, Demogorg
 
 *This article was created from a* [*community discussion*](https://forums.bhvr.com/dead-by-daylight/discussion/431740/8-4-0-ptb-patch-notes).
 
-![image.png](479-8-4-0-ptb-patch-notes/01-image.png)
+![image.png](../../images/a843f3baa0a566d3-image.png)
 
 ## Important
 
@@ -33,7 +33,7 @@ The update also tweaks numerous killer basekits and addons—Dark Lord, Demogorg
 
 - Players will once again receive 12,500 Auric Cells on the PTB to explore Outfits and Characters in the Store. Both Auric Cells and purchases made on the PTB Build will not transfer to the Live Build.
 
-![image.png](479-8-4-0-ptb-patch-notes/02-image.png)
+![image.png](../../images/1722ff4e1b1423bf-image.png)
 
 ## Content
 
@@ -72,7 +72,7 @@ Healthy Survivors affected by Houndsense receive Deep Wounds when Injured. Injur
 - When a Survivor reaches 75/75/75% of a self-heal, they are faced with continuous skill checks.
 - If one of these skill checks is missed or the heal is interrupted, the Survivor becomes broken for 20/25/30 seconds.
 
-![image.png](479-8-4-0-ptb-patch-notes/03-image.png)
+![image.png](../../images/1722ff4e1b1423bf-image.png)
 
 ## New Survivor - Taurie Cain
 
@@ -95,13 +95,13 @@ Healthy Survivors affected by Houndsense receive Deep Wounds when Injured. Injur
 
 - Once per trial, as long as you are not on death hook, press the ability button 2 in front of a hooked Survivor to unhook them. When they are unhooked, they lose 1 hook state and you gain 1 hook state. You also scream and become Exposed for 30/25/20 seconds.
 
-![image.png](479-8-4-0-ptb-patch-notes/04-image.png)
+![image.png](../../images/1722ff4e1b1423bf-image.png)
 
 ## New Map
 
 - A new map on the other side of Mount Ormond is here for testing on the PTB only! Explore The Ormond Lake Mine. (this map will not be part of the Chapter release)
 
-![image.png](479-8-4-0-ptb-patch-notes/05-image.png) **Features**
+![image.png](../../images/1722ff4e1b1423bf-image.png) **Features**
 
 Survivor Activity HUD Improvements
 
@@ -123,7 +123,7 @@ Store
 - Featured Page main carousel can also display Bundles.
 - Featured Page bundle widget is now a carousel that shows Bundles and Collections.
 
-![image.png](479-8-4-0-ptb-patch-notes/06-image.png)
+![image.png](../../images/1722ff4e1b1423bf-image.png)
 
 ## Killer Updates
 
@@ -220,7 +220,7 @@ Store
 - Scratched Mirror:  
    Decreases Evil Within I movement speed to 4.2 m/s *(NEW)*
 
-![image.png](479-8-4-0-ptb-patch-notes/07-image.png)
+![image.png](../../images/1722ff4e1b1423bf-image.png)
 
 ## Killer Perk Updates
 
@@ -238,7 +238,7 @@ Store
    Affected Survivors see the item's aura. *(NEW)*  
    When a Survivor picks up a Survivor item, they suffer the Oblivious status effect for 20/25/30 seconds.
 
-![image.png](479-8-4-0-ptb-patch-notes/08-image.png)
+![image.png](../../images/1722ff4e1b1423bf-image.png)
 
 ## Survivor Updates
 
@@ -246,7 +246,7 @@ Store
 
 - Decreased the time it takes to unlock chests to 8 seconds *(10 seconds)*
 
-![image.png](479-8-4-0-ptb-patch-notes/09-image.png)
+![image.png](../../images/1722ff4e1b1423bf-image.png)
 
 ## Survivor Perk Updates
 
@@ -271,7 +271,7 @@ Store
    Whenever you look at the Killer, scream, then see the Killer's aura for 4/5/6 seconds. *(was 3/4/5 seconds)*  
    There is a chance you will scream again, if you do, you will see the Killer's aura for an additional 2 seconds. *Scene Partner* then goes on cool-down for 40 seconds. *(was 60 seconds)*
 
-![image.png](479-8-4-0-ptb-patch-notes/10-image.png)
+![image.png](../../images/1722ff4e1b1423bf-image.png)
 
 ## Bug Fixes
 
@@ -322,7 +322,7 @@ Store
 - The Wraith is now correctly able to move and attack after doing certain interactions when using the "The Serpent - Soot" Add-on
 - Fixed an issue that caused Killers to be able to spam the Mori interaction.
 
-![image.png](479-8-4-0-ptb-patch-notes/11-image.png)
+![image.png](../../images/1722ff4e1b1423bf-image.png)
 
 ## Known Issues
 

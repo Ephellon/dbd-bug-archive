@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/330-5-7-0-mid-chap
 author: "Omnia"
 published: "2022-04-27T14:29:56+00:00"
 updated: "2022-04-27T14:40:40+00:00"
-archived: "2026-09-26T16:40:36Z"
+archived: "2026-09-26T17:08:50Z"
 ---
 
 <!-- summary -->
@@ -21,13 +21,13 @@ The update adds a UI indicator to the Searching for Friends popup, revamps Haddo
 
 # 5.7.0 | Mid-Chapter
 
-![570ptbbanner.jpg](330-5-7-0-mid-chapter/01-570ptbbanner.jpg)
+![570ptbbanner.jpg](../../images/92fa132b673e76f3-570ptbbanner.jpg)
 
 ## Features
 
 UI Update - Added an indicator to the Searching for Friends popup when loading data.
 
-![MicrosoftTeams-image (1).png](330-5-7-0-mid-chapter/02-microsoftteams-image-281-29.png)
+![MicrosoftTeams-image (1).png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Content
 
@@ -53,7 +53,7 @@ UI Update - Added an indicator to the Searching for Friends popup when loading d
 
 *Dev Note: Hemorrhage has had a reputation of being a "useless" status effect, so we reworked it to have a more meaningful impact on the core mechanic of survivor healing.*
 
-![MicrosoftTeams-image.png](330-5-7-0-mid-chapter/03-microsoftteams-image.png)
+![MicrosoftTeams-image.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 **Perks**
 
@@ -201,7 +201,7 @@ UI Update - Added an indicator to the Searching for Friends popup when loading d
 - Removed the loss of power gauge on successful basic attacks
 - The following Add-ons have been adjusted from the PTB: Frank's Mixtape, Julie's Mixtape, Stolen Sketchbook, Stab Wounds Study, BFFs, and Etched Ruler
 
-![MicrosoftTeams-image.png](330-5-7-0-mid-chapter/04-microsoftteams-image.png)
+![MicrosoftTeams-image.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 **The Archives**
 
@@ -214,7 +214,7 @@ UI Update - Added an indicator to the Searching for Friends popup when loading d
 
 - We continued to improve our patching process in an attempt to reduce download size during an update. However, due to an engine update, expect a bigger than usual download this time.
 
-![MicrosoftTeams-image (1).png](330-5-7-0-mid-chapter/05-microsoftteams-image-281-29.png)
+![MicrosoftTeams-image (1).png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 
@@ -301,7 +301,7 @@ UI Update - Added an indicator to the Searching for Friends popup when loading d
 - Fixed an issue that caused dark lighting inside the houses in Haddonfield map.
 - Fixed an issue that caused confusion on vaultable windows on the second floors in Haddonfield map.
 
-![MicrosoftTeams-image.png](330-5-7-0-mid-chapter/06-microsoftteams-image.png)
+![MicrosoftTeams-image.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 **Fixes from PTB**
 
@@ -317,7 +317,7 @@ UI Update - Added an indicator to the Searching for Friends popup when loading d
 - Fixed an issue that caused the Hemorrhage effect applied by the Sloppy Butcher perk to regress healing at a lower rate than intended.
 - Fixed an issue that caused the progress bar animation to be missing when affected by the Hemorrhage perk and depleting a medkit while healing self.
 
-![MicrosoftTeams-image (1).png](330-5-7-0-mid-chapter/07-microsoftteams-image-281-29.png)
+![MicrosoftTeams-image (1).png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Known Issues
 

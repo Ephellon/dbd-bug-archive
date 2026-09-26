@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/365-6-4-0-forged-i
 author: "Peanits"
 published: "2022-11-22T14:57:22+00:00"
 updated: "2022-11-22T18:13:31+00:00"
-archived: "2026-09-26T16:40:40Z"
+archived: "2026-09-26T17:08:53Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ The update also refines guard behavior, rebalances several add-ons and perk time
 
 # 6.4.0 | Forged in Fog
 
-![1920x1080_PN.png](365-6-4-0-forged-in-fog/01-1920x1080-pn.png)
+![1920x1080_PN.png](../../images/4dfb07f1060024e8-1920x1080-pn.png)
 
 ## Features
 
@@ -50,7 +50,7 @@ The update also refines guard behavior, rebalances several add-ons and perk time
 - (PS5 Only!) Added Haptic Feedback & a pop-up informing players.
 - Rancor Perk - updated the conditions on which the obsession becomes exposed to include closing the hatch
 
-![PatchNotesDividerSmolWhite.png](365-6-4-0-forged-in-fog/02-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ## Content
 
@@ -59,7 +59,7 @@ The update also refines guard behavior, rebalances several add-ons and perk time
   - Wider stairs to address body-blocking issues
 - Updated visuals for Pallets and Breakable doors
 
-![PatchNotesDivider.png](365-6-4-0-forged-in-fog/03-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Changes From PTB
 
@@ -81,7 +81,7 @@ The update also refines guard behavior, rebalances several add-ons and perk time
 - The pallet textures and hooks on The Shattered Square have been modified to improve visibility.
 - When a survivor picks up a flag, there is now a VFX for the duration of the bonus effect.
 
-![PatchNotesDivider.png](365-6-4-0-forged-in-fog/04-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 
@@ -110,7 +110,7 @@ The update also refines guard behavior, rebalances several add-ons and perk time
 - Fixed an issue that caused kills and sacrifices not being properly tracked in emblems, challenges and achievements.
 - Fixed an issue that caused female Survivors to not grunt when falling from heights.
 
-![PatchNotesDividerSmolWhite.png](365-6-4-0-forged-in-fog/05-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ## Bug Fixes From PTB
 
@@ -173,7 +173,7 @@ The update also refines guard behavior, rebalances several add-ons and perk time
 - Fixed an issue that caused survivors to get stuck inside a locker if The Dredge teleports away during the animation where the survivor gets pulled inside the locker.
 - Fixed an issue that caused spamming any gesture while screaming to cause the screaming animation to repeat constantly.
 
-![PatchNotesDivider.png](365-6-4-0-forged-in-fog/06-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Known Issues
 

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/450-stats-april-20
 author: "Peanits"
 published: "2024-05-17T13:56:14+00:00"
 updated: "2024-05-17T14:06:06+00:00"
-archived: "2026-09-26T16:43:01Z"
+archived: "2026-09-26T17:10:46Z"
 ---
 
 <!-- summary -->
@@ -21,17 +21,17 @@ The Unknown posted a 64 % kill rate and 10 % usage in its debut month, topping t
 
 # Stats | April 2024
 
-![UNKNOWN.png](450-stats-april-2024/01-unknown.png)
+![UNKNOWN.png](../images/69a79d868e4fc992-unknown.png)
 
 What is that? It’s The Unknown(‘s data). In its debut month, The Unknown climbed to a 64% kill rate and a 10% usage rate.
 
 An average of 5.76 hallucinations were dispelled per match. If you’re having a hard time facing The Unknown, be sure to dispel those hallucinations! Dispelling hallucinations prevents The Unknown from teleporting to them.
 
-![CA-642_DBD_0923_Evergreen_Killer_Rankings_Bacon.png](450-stats-april-2024/02-ca-642-dbd-0923-evergreen-killer-rankings-bacon.png)
+![CA-642_DBD_0923_Evergreen_Killer_Rankings_Bacon.png](../images/f66d491a3c8152ff-ca-642-dbd-0923-evergreen-killer-rankings-bacon.png)
 
 As with any new Killer, The Unknown shot to the top of the most popular Killers list. The Hillbilly, meanwhile, has now settled at a respectable 4% usage following his recent update.
 
-![GENERATORS (1).png](450-stats-april-2024/03-generators-281-29.png)
+![GENERATORS (1).png](../images/a65d7bc225882a8b-generators-281-29.png)
 
 After the introduction of the generator regression limit, we kept a close eye on the system to see how it affected both 3 gen (defending 3 generators for extended periods) and regular matches.
 
@@ -39,7 +39,7 @@ With this system in place, the amount of 3 gen matches fell from 10% of all matc
 
 As for regular matches, it appears this mechanic rarely comes into play. Only around 1.4% of matches see at least one generator blocked, with an average of 3.5 kicks per match.
 
-![NEMESIS ZOMBIES.png](450-stats-april-2024/04-nemesis-zombies.png)
+![NEMESIS ZOMBIES.png](../images/efbc98ffcad4b001-nemesis-zombies.png)
 
 Who’s the best zombie killing machine – Survivors, or The Nemesis? The answer is not even close: The Nemesis has punched and whipped near ten times more zombies than Survivors.
 

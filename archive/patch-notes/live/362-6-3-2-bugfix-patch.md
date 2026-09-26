@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/362-6-3-2-bugfix-p
 author: "Mandy"
 published: "2022-10-26T14:30:44+00:00"
 updated: "2022-10-26T18:48:33+00:00"
-archived: "2026-09-26T16:40:40Z"
+archived: "2026-09-26T17:08:53Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Key fixes in 6.3.2 target several killers, survivors and maps: the Oni’s ‘Bu
 
 # 6.3.2 | Bugfix Patch
 
-![patchnotesasset.png](362-6-3-2-bugfix-patch/01-patchnotesasset.png)
+![patchnotesasset.png](../../images/3f23de992c7e609f-patchnotesasset.png)
 
 *Update will include 6.3.2a for all platforms excluding Stadia and Switch, crossplay is not affected*
 

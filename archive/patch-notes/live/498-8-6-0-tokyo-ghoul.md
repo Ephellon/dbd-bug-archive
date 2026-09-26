@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/498-8-6-0-tokyo-gh
 author: "ThatRyanB"
 published: "2025-04-02T15:59:03+00:00"
 updated: "2025-04-02T15:59:04+00:00"
-archived: "2026-09-26T16:40:17Z"
+archived: "2026-09-26T17:08:33Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The Ghoul arrives as a new killer, wielding Kagune Leap and Enraged Mode, plus t
 
 # 8.6.0 | Tokyo Ghoul
 
-![860_PatchNotes_Release_ForumsEN.png](498-8-6-0-tokyo-ghoul/01-860-patchnotes-release-forumsen.png)
+![860_PatchNotes_Release_ForumsEN.png](../../images/420f19dade4a83f0-860-patchnotes-release-forumsen.png)
 
 ## Content
 
@@ -41,7 +41,7 @@ If The Ghoul's second consecutive leap targets a Survivor, they will perform a g
 
 Performing a grab-attack also triggers Enraged Mode.
 
-![bar_white.png](498-8-6-0-tokyo-ghoul/02-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 **SPECIAL ABILITY: Enraged Mode**
 
@@ -53,7 +53,7 @@ The Ghoul cannot grab-attack marked Survivors.
 
 Once no marked Survivors remain, a Countdown begins. When the Countdown depletes, Enraged Mode ends. A perfectly timed grab-attack - tapping the attack button when the attack icon is displayed - will add extra time to the Countdown. The Countdown is paused while carrying Survivors.
 
-![bar_white.png](498-8-6-0-tokyo-ghoul/03-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 **NEW KILLER PERKS**
 
@@ -73,7 +73,7 @@ Once no marked Survivors remain, a Countdown begins. When the Countdown depletes
 - When you hook a Survivor for the first time, gain **1** token, up to **4**.
 - When all generators are completed, for each token, all windows and upright pallets are blocked for everyone for **12/14/16 seconds.**
 
-![bar1 1.png](498-8-6-0-tokyo-ghoul/04-bar1-1.png)
+![bar1 1.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Archives and Events
 
@@ -81,7 +81,7 @@ Once no marked Survivors remain, a Countdown begins. When the Countdown depletes
   - This event also includes an event tome that opens at the same time
 - Another Chaos Shuffle event begins April 29th at 1:00 PM Eastern
 
-![bar_red.png](498-8-6-0-tokyo-ghoul/05-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Features
 
@@ -146,7 +146,7 @@ The following score events have been moved to a different category:
   - A line is added when people have left the tally, so players don't need to check others' pings to know if they are still at the tally
   - Improved UI to make the chat easier to understand and read.
 
-![bar_red.png](498-8-6-0-tokyo-ghoul/06-bar-red.png)
+![bar_red.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## Killer Updates
 
@@ -191,21 +191,21 @@ The following score events have been moved to a different category:
 - Increased the Demon Strike Attack angle limit to 180 degrees *(was 90 degrees)*
   - *Note: This applies to Keyboard & Mouse and Controllers*
 
-![bar_white.png](498-8-6-0-tokyo-ghoul/07-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Terror Radius
 
 - Increased The Hillbilly and The Blight's Terror Radius to 40 meters *(was 32 meters)*
 - Decreased The Pig, The Ghost Face, and The Skull Merchant's Terror Radius to 24 meters *(was 32 meters)*
 
-![bar_white.png](498-8-6-0-tokyo-ghoul/08-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Deep Wound
 
 - Decreased the time it takes to Mend your own Deep Wound to **10 seconds** *(was 12 seconds)*
 - Decreased the time it takes to Mend another Survivors' Deep Wound to **6 seconds** *(was 8 seconds)*
 
-![bar_white.png](498-8-6-0-tokyo-ghoul/09-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Killer Perks
 
@@ -231,7 +231,7 @@ The following score events have been moved to a different category:
 
 - Increased aura reveal duration to 8 seconds *(was 4 seconds)*
 
-![bar_red.png](498-8-6-0-tokyo-ghoul/10-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Survivor Perks
 
@@ -254,7 +254,7 @@ The following score events have been moved to a different category:
 - Decreased repair requirement to 1 second *(was 3 seconds)*
 - Decreased cooldown to 25/20/15 seconds *(was 30/25/20 seconds)*
 
-![bar_red.png](498-8-6-0-tokyo-ghoul/11-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Map
 
@@ -271,7 +271,7 @@ The following score events have been moved to a different category:
 
 - Exit Gate notifications are visible for 12 seconds when they are powered *(was 7 seconds)*
 
-![bar_red.png](498-8-6-0-tokyo-ghoul/12-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Bug Fixes
 
@@ -489,7 +489,7 @@ The following score events have been moved to a different category:
 - Fixed an issue that caused a debug blue square to be visible when breaking a wall as a Killer.
 - The Achievement Unforgettable Getaway can now be obtained in Mount Ormond Resort 3.
 
-![bar_red.png](498-8-6-0-tokyo-ghoul/13-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Public Test Build (PTB) Adjustments
 
@@ -518,7 +518,7 @@ The following score events have been moved to a different category:
 - Reverted changes to heat dissipation rate.
 - Reverted changes to heat dissipation delay.
 
-![bar_white.png](498-8-6-0-tokyo-ghoul/14-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ## Bug Fixes
 

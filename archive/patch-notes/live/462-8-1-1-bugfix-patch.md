@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/462-8-1-1-bugfix-p
 author: "Peanits"
 published: "2024-07-24T14:25:39+00:00"
 updated: "2024-07-24T14:25:39+00:00"
-archived: "2026-09-26T16:40:22Z"
+archived: "2026-09-26T17:08:38Z"
 ---
 
 <!-- summary -->
@@ -21,14 +21,14 @@ Mount Ormond Resort receives its third map variation and Backwater Swamp maps re
 
 # 8.1.1 | Bugfix Patch
 
-![811_Forums.jpg](462-8-1-1-bugfix-patch/01-811-forums.jpg)
+![811_Forums.jpg](../../images/09b173fbe98b752f-811-forums.jpg)
 
 ## Content
 
 - The third Mount Ormond Resort Map variation has been enabled.
 - The Backwater Swamp maps have been re-enabled.
 
-![PatchNotesDividerSmolWhite.png](462-8-1-1-bugfix-patch/02-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Killer Perk Updates
 
@@ -37,7 +37,7 @@ Mount Ormond Resort receives its third map variation and Backwater Swamp maps re
    Increased regular breathing to 15/20/25%. *(was 0/0/25%)*  
    The bonuses granted by the perk are additive. *(was multiplicative)*
 
-![PatchNotesDividerSmolWhite.png](462-8-1-1-bugfix-patch/03-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Killer Updates
 
@@ -46,7 +46,7 @@ Mount Ormond Resort receives its third map variation and Backwater Swamp maps re
 - Holding the Ability button when taking control of a Biopod will cause it to automatically aim at the nearest Survivor. Tapping the button will take control normally.
 - Reduced the time it takes to destroy a Biopod to 0.75 seconds (was 1.5 seconds).
 
-![PatchNotesDividerSmolWhite.png](462-8-1-1-bugfix-patch/04-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 #### Events & Archives
 
@@ -62,7 +62,7 @@ Mount Ormond Resort receives its third map variation and Backwater Swamp maps re
    Mother's Dwelling
 - Game Mode: 2V8 also features an event Tome, opening at the same time.
 
-![PatchNotesDivider.png](462-8-1-1-bugfix-patch/05-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Features
 
@@ -74,7 +74,7 @@ Mount Ormond Resort receives its third map variation and Backwater Swamp maps re
 - "Owned" tags disabled.
 - Removed notifications on characters & customizations
 
-![PatchNotesDivider.png](462-8-1-1-bugfix-patch/06-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 
@@ -126,7 +126,7 @@ Mount Ormond Resort receives its third map variation and Backwater Swamp maps re
 - Fixed an Issue where the Generator count would decrease when a Survivor left the Tally screen of an ongoing Trial
 - Fixed Gamepad input conflict between the Lobby MatchMaking button (Play or Cancel) and the Lobby Customizations menu when trying to buy an item with Auric Cells.
 
-![PatchNotesDivider.png](462-8-1-1-bugfix-patch/07-patchnotesdivider.png) **Known Issues**
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png) **Known Issues**
 
 - Performance issues with FPS drops in 2v8 mode on Switch. *Dev Note: We would like our Switch players to have the opportunity to play 2v8, but we are aware that the performance is not where we would like it to be unfortunately, due to the technical limitations of running a 10 player game.*
 - Holding an item while crafting a Flash grenade from the Flashbang perk will result in the equipped item being lost.

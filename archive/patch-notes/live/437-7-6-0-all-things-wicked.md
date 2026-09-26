@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/437-7-6-0-all-thin
 author: "Peanits"
 published: "2024-03-12T15:55:20+00:00"
 updated: "2024-03-13T12:06:25+00:00"
-archived: "2026-09-26T16:40:26Z"
+archived: "2026-09-26T17:08:42Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The Unknown arrives as a new Killer with Hallucinations and teleportation, while
 
 # 7.6.0 | All Things Wicked
 
-![CA_DBD_0224_Applepie_Patch_Notes_Assets_Release_FORUM.png](437-7-6-0-all-things-wicked/01-ca-dbd-0224-applepie-patch-notes-assets-release-forum.png)
+![CA_DBD_0224_Applepie_Patch_Notes_Assets_Release_FORUM.png](../../images/373c23b9c6ca0c0f-ca-dbd-0224-applepie-patch-notes-assets-release-.png)
 
 ## Content
 
@@ -77,7 +77,7 @@ The Unknown can teleport to Hallucinations, leaving behind a temporary Decoy. Su
 
 A new section of the Withered Isle has opened up to the players. The Greenville Square is a very different environment from what was previously seen from that Realm. It features a brand new set of tiles, including a new main building, The Theater. Make sure to explore all its layers! Look out for the Statue where two familiar friends would meet up and leave their mark. What does it mean and where will it bring us next? *No one ever came back to tell us.*
 
-![PatchNotesDividerSmolWhite.png](437-7-6-0-all-things-wicked/02-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Mangled Update
 
@@ -116,7 +116,7 @@ Mangled up until now has required Survivors to heal in order to remove the effec
 - Z Block (Nightmare)
 - Crimson Ceremony Block (Executioner)
 
-![PatchNotesDividerSmolWhite.png](437-7-6-0-all-things-wicked/03-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Killer Updates
 
@@ -248,7 +248,7 @@ Mangled up until now has required Survivors to heal in order to remove the effec
 - The **Blood Moon** event begins March 18th at 11:00 am ET.
 - The **Blood Moon** event tome also opens March 18th at 11:00 am ET.
 
-![PatchNotesDivider.png](437-7-6-0-all-things-wicked/04-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Features
 
@@ -269,7 +269,7 @@ Mangled up until now has required Survivors to heal in order to remove the effec
 
 For outfits that cannot have its pieces purchased individually, a discount tag will no longer be shown for buying the entire set.
 
-![PatchNotesDivider.png](437-7-6-0-all-things-wicked/05-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 
@@ -348,7 +348,7 @@ For outfits that cannot have its pieces purchased individually, a discount tag w
 - Survivor loadouts now save correctly if the game is closed after completing a Challenge.
 - Fixed an issue that caused Survivors to be able to continue repairing a Generator if that Generator exploded while the last Generator required to escape the match was repaired.
 
-![PatchNotesDivider.png](437-7-6-0-all-things-wicked/06-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Known Issues
 
@@ -356,7 +356,7 @@ For outfits that cannot have its pieces purchased individually, a discount tag w
 - Due to an issue causing Charlotte to be hindered in her navigation, The Twins will be kill switched until a future update.
 - The percentages for Scourge Hook: Gift of Pain are incorrect.
 
-![PatchNotesDivider.png](437-7-6-0-all-things-wicked/07-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Public Test Build (PTB) Adjustments
 
@@ -399,7 +399,7 @@ Increased Blindness duration for the Add-On to 60 seconds *(was 45 seconds)*.
 
 - The Redhead's Pinkie Finger Add-On now reduces the maximum carried bottles to 1 (previous reduced capacity by 3).
 
-![PatchNotesDivider.png](437-7-6-0-all-things-wicked/08-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## PTB Bug Fixes
 

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/430-7-5-0-alan-wak
 author: "Peanits"
 published: "2024-01-30T16:58:26+00:00"
 updated: "2024-01-30T16:58:26+00:00"
-archived: "2026-09-26T16:40:27Z"
+archived: "2026-09-26T17:08:43Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Players now have a beta Field-of-View slider to reduce motion-sickness, and the 
 
 # 7.5.0 | Alan Wake
 
-![CA_DBD_1223_Zodiac_Patch_Notes_Assets_Release_FORUM.png](430-7-5-0-alan-wake/01-ca-dbd-1223-zodiac-patch-notes-assets-release-forum.png)
+![CA_DBD_1223_Zodiac_Patch_Notes_Assets_Release_FORUM.png](../../images/73503f026fff358f-ca-dbd-1223-zodiac-patch-notes-assets-release-fo.png)
 
 ## Features
 
@@ -36,7 +36,7 @@ There is a new settings option in DbD! Players now have the ability to adjust th
 - **Monitor and Abuse**
 - While in a chase, your Terror Radius is increased by 8 meters. Otherwise, your Terror Radius is decreased by 8 meters *(FoV clause was removed)*
 
-![PatchNotesDividerSmolWhite.png](430-7-5-0-alan-wake/02-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/99a38c0fbf668e81-patchnotesdividersmolwhite.png)
 
 ### Generators System Update
 
@@ -62,14 +62,14 @@ The 3-gen strategy (identifying the closest 3 Generators and defending only them
 - **Overcharge**
 - *Only the initiating kick counts as a regression event.*
 
-![PatchNotesDivider.png](430-7-5-0-alan-wake/03-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Content
 
 - Re-enabled the Nowhere to Hide Perk.
 - Re-enabled The Knight Killer.
 
-![PatchNotesDividerSmolWhite.png](430-7-5-0-alan-wake/04-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### New Survivor - Alan Wake
 
@@ -84,7 +84,7 @@ Dead by Daylight welcomes a new famous Survivor into The Fog - Alan Wake!
 - **Deadline**
 - This Perk activates when you are injured. Skill Checks appear 6/8/10% more frequently when repairing or healing and appear in random places. The penalty for missing Skill Checks is reduced by 50%.
 
-![PatchNotesDividerSmolWhite.png](430-7-5-0-alan-wake/05-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Killer Update - The Hillbilly
 
@@ -166,7 +166,7 @@ While in Overdrive, the Chainsaw is enhanced. Chainsaw Charge and Sprint speeds 
   - Sprinter: When performing a Chainsaw Sprint that is 4 seconds or longer.
   - Sprint Hit: When hitting a Survivor with the Chainsaw after travelling more than 32 meters.
 
-![PatchNotesDividerSmolWhite.png](430-7-5-0-alan-wake/06-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Killer Update - The Onryo
 
@@ -217,7 +217,7 @@ While in Overdrive, the Chainsaw is enhanced. Chainsaw Charge and Sprint speeds 
 - Projection does not turn off TVs, and does not apply Condemned *(new functionality).*
 - TVs turned off by Survivors take 20% longer to turn back on *(new functionality).*
 
-![PatchNotesDividerSmolWhite.png](430-7-5-0-alan-wake/07-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Killer Addon Updates - The Blight
 
@@ -240,7 +240,7 @@ While in Overdrive, the Chainsaw is enhanced. Chainsaw Charge and Sprint speeds 
 - Blighted Corruption goes on cooldown for 20 seconds after a Lethal Rush attack, missing a Slam, or breaking a Pallet with Blighted Corruption.
 - *(new functionality)*
 
-![PatchNotesDividerSmolWhite.png](430-7-5-0-alan-wake/08-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Perk Updates
 
@@ -258,14 +258,14 @@ While in Overdrive, the Chainsaw is enhanced. Chainsaw Charge and Sprint speeds 
 - Upon reaching 4 Tokens, when you leave a 16 meter range of that hook, The Entity instead blocks all Generators for 40 seconds. The Obsession's aura is revealed to you for 6 seconds. *(Increased times, added proximity clause)*
 - Then, this Perk deactivates.
 
-![PatchNotesDividerSmolWhite.png](430-7-5-0-alan-wake/09-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Events
 
 - **Modifier: Lights Out** will be active from February 7, 2024 11:00am ET to February 14, 2024 11:00am ET.
   - A **Modifier: Lights Out** event Tome will also open while the Modifier is active.
 
-![PatchNotesDividerSmolWhite.png](430-7-5-0-alan-wake/10-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Maps
 
@@ -275,7 +275,7 @@ We made some changes to Mount Ormond. The layout and main building are staying t
 
 In the back of the building we had a couple of tiles that were simple loops, but that didn't have interesting gameplay. We updated this and improved the quality there as well.
 
-![PatchNotesDivider.png](430-7-5-0-alan-wake/11-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 
@@ -349,7 +349,7 @@ In the back of the building we had a couple of tiles that were simple loops, but
 
 - Fixed an issue where players could be stuck in a loop loading when attempting to start a Trial in a Custom Game with 6 players.
 
-![PatchNotesDivider.png](430-7-5-0-alan-wake/12-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Fixes from PTB
 

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/394-7-0-1-bugfix-p
 author: "Peanits"
 published: "2023-06-21T14:28:23+00:00"
 updated: "2023-06-21T14:59:16+00:00"
-archived: "2026-09-26T16:40:33Z"
+archived: "2026-09-26T17:08:48Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The Singularity got extensive balance tweaks: EMP crates per map cut to four, ge
 
 # 7.0.1 | Bugfix Patch
 
-![700_UpdateAssets_Forums.png](394-7-0-1-bugfix-patch/01-700-updateassets-forums.png)
+![700_UpdateAssets_Forums.png](../../images/5c3a688945b3af7d-700-updateassets-forums.png)
 
 ## Release Information
 

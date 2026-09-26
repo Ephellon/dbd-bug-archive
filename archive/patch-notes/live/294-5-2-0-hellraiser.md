@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/294-5-2-0-hellrais
 author: "Peanits"
 published: "2021-09-07T14:28:29+00:00"
 updated: "2021-09-07T14:56:02+00:00"
-archived: "2026-09-26T16:40:50Z"
+archived: "2026-09-26T17:09:02Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ The bulk of the patch is performance and stability work—fixes for audio cues, 
 
 # 5.2.0 | Hellraiser
 
-![520Banner.png](294-5-2-0-hellraiser/01-520banner.png)
+![520Banner.png](../../images/3482bc772d5ed462-520banner.png)
 
 ## Features
 
@@ -61,7 +61,7 @@ The bulk of the patch is performance and stability work—fixes for audio cues, 
 
 *Dev note: The Nemesis came out in a good state, but has been underperforming slightly in higher skill brackets. These players tend to hit Mutation Rate 3 more often, so a buff here should give him a slight boost at that level of play. Additionally, we have buffed two addons that were underperforming to make them more viable, and made the associated ritual less of a pain to complete.*
 
-![PatchNotesDivider.png](294-5-2-0-hellraiser/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 
@@ -98,7 +98,7 @@ The bulk of the patch is performance and stability work—fixes for audio cues, 
 - Fixed an issue that caused the color of the pallet to be less vibrant
 - Fixed an issue that caused loss of progress. Additional issues are still under active investigation.
 
-![PatchNotesDivider.png](294-5-2-0-hellraiser/03-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Known Issues
 
@@ -111,7 +111,7 @@ The bulk of the patch is performance and stability work—fixes for audio cues, 
 - Upcoming Boon Totem description is displayed in the Tutorials page.
 - Larger text setting does not save after restarting the application (Consoles only).
 
-![PatchNotesDivider.png](294-5-2-0-hellraiser/04-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Changes from PTB
 
@@ -136,7 +136,7 @@ The bulk of the patch is performance and stability work—fixes for audio cues, 
 
 - Changed pallet hit boxes to prevent the killer from getting stunned when on the same side as the survivor dropping the pallet.
 
-![PatchNotesDivider.png](294-5-2-0-hellraiser/05-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug fixes
 

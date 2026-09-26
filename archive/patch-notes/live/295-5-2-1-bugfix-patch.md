@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/295-5-2-1-bugfix-p
 author: "DeathByGiggles"
 published: "2021-09-14T14:29:10+00:00"
 updated: "2021-09-20T18:58:28+00:00"
-archived: "2026-09-26T16:40:49Z"
+archived: "2026-09-26T17:09:02Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ The update primarily addresses a wide range of bugs, restoring Steam Family Shar
 
 # 5.2.1 | Bugfix Patch
 
-![PatchNotesBannerTemplate-BugFix-CH21.png](295-5-2-1-bugfix-patch/01-patchnotesbannertemplate-bugfix-ch21.png)
+![PatchNotesBannerTemplate-BugFix-CH21.png](../../images/50ec0107beb090e5-patchnotesbannertemplate-bugfix-ch21.png)
 
 ## Content
 
@@ -36,7 +36,7 @@ The update primarily addresses a wide range of bugs, restoring Steam Family Shar
 
 - The Dead Dawg Saloon and Raccoon City Police Station maps have been re-enabled.
 
-![PatchNotesDivider (1).png](295-5-2-1-bugfix-patch/02-patchnotesdivider-281-29.png)
+![PatchNotesDivider (1).png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 
@@ -82,7 +82,7 @@ The update primarily addresses a wide range of bugs, restoring Steam Family Shar
 - Fixed an issue where the chase music stops abruptly when killer interrupts survivor fixing a generator.
 - Fixed an issue where a drop item sound was playing incorrectly in the killer tutorial.
 
-![PatchNotesDivider (1).png](295-5-2-1-bugfix-patch/03-patchnotesdivider-281-29.png)
+![PatchNotesDivider (1).png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Known Issues
 

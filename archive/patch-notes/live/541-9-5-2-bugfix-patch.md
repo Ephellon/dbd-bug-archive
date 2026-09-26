@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/541-9-5-2-bugfix-p
 author: "ThatRyanB"
 published: "2026-03-31T14:30:22+00:00"
 updated: "2026-03-31T14:30:22+00:00"
-archived: "2026-09-26T16:40:08Z"
+archived: "2026-09-26T17:08:26Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ The patch mostly consists of a wide-range bug-fix sweep, addressing audio anomal
 
 # 9.5.2 | Bugfix Patch
 
-![DbD_952_PatchNotes_FORUM.png](541-9-5-2-bugfix-patch/01-dbd-952-patchnotes-forum.png)
+![DbD_952_PatchNotes_FORUM.png](../../images/aee3a6cde2136028-dbd-952-patchnotes-forum.png)
 
 ## Gameplay Features
 
@@ -63,7 +63,7 @@ The patch mostly consists of a wide-range bug-fix sweep, addressing audio anomal
 - Rare – On Target Single
   - Increases the duration of Main Event by 0.5 seconds for each Blade hit while in S-Rank, up to a maximum of 20 seconds.
 
-![bar_red.png](541-9-5-2-bugfix-patch/02-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Bug Fixes
 
@@ -120,7 +120,7 @@ The patch mostly consists of a wide-range bug-fix sweep, addressing audio anomal
 
 - Fixed an issue blocking rotation of Survivors and Killers in the Lobby.
 
-![bar_red.png](541-9-5-2-bugfix-patch/03-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Known Issues
 

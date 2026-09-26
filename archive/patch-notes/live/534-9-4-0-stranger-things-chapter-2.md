@@ -6,15 +6,13 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/534-9-4-0-stranger
 author: "ThatRyanB"
 published: "2026-01-27T16:00:56+00:00"
 updated: "2026-01-27T16:00:56+00:00"
-archived: "2026-09-26T16:40:10Z"
+archived: "2026-09-26T17:08:27Z"
 ---
 
 <!-- summary -->
 ## AI TL;DR
 
-The First" killer joins Stranger Things Chapter 2 with a Vine Attack and Upside-Down travel that generate Worldbreaker tokens and later deal damage, plus three new killer perks. New survivors Dustin Henderson and Eleven arrive, each with three perks focused on window traps, toolbox-to-medkit conversion, aura detection and team vision. The patch also adds a terror-radius heart, Jump-Start Rift quests, and removes or renames Halloween DLC outfits, perks and the Lampkin Lane map.
-
-The rest is mainly bug fixes: audio glitches and missing voice lines, bot AI tweaks, character animation and interaction fixes, map clipping and trap placement issues, perk icon and UI bugs, plus several crash fixes; PTB changes tighten The First’s cooldowns and clarify addon text.
+The First arrives as the new killer, wielding a chargeable Vine Attack and an Upside-Down/Undergate ability that generate Worldbreaker tokens and damage during the Worldbreaker phase, plus three new perks. New survivors Dustin Henderson and Eleven join with their own perk lines, while the Visual Terror Radius heart is now animated, Jump-Start quests double Rift Fragments, and Halloween DLC items are removed and many perks re-named as General perks. The patch also delivers extensive bug-fixes across audio, bot behavior, character animations, map navigation, UI and crashes, and refines The First’s cooldowns and addon descriptions from PTB.
 <!-- /summary -->
 
 <!-- nav -->
@@ -23,7 +21,7 @@ The rest is mainly bug fixes: audio glitches and missing voice lines, bot AI twe
 
 # 9.4.0 | Stranger Things Chapter 2
 
-![940_PatchNotes_FORUM.png](534-9-4-0-stranger-things-chapter-2/01-940-patchnotes-forum.png)
+![940_PatchNotes_FORUM.png](../../images/ce46ed90435018d0-940-patchnotes-forum.png)
 
 ## New Content
 
@@ -55,7 +53,7 @@ The rest is mainly bug fixes: audio glitches and missing voice lines, bot AI twe
   - Generators are highlighted; the intensity of generator auras reveals their repair progress.
   - When **1/1/1** generator remains, all remaining generators explode, lose **6/8/10%** progress and start regressing, and the Hex Totem becomes dull.
 
-![bar_white.png](534-9-4-0-stranger-things-chapter-2/02-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### NEW SURVIVOR - DUSTIN HENDERSON
 
@@ -72,7 +70,7 @@ The rest is mainly bug fixes: audio glitches and missing voice lines, bot AI twe
   - For each other Survivor repairing a generator with you, the size of the Good Skill Check zone is increased by **15/20/25%**.
   - While repairing with at least 1 other Survivor, you repair **5/5/5%** faster.
 
-![bar_white.png](534-9-4-0-stranger-things-chapter-2/03-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### NEW SURVIVOR - ELEVEN
 
@@ -89,7 +87,7 @@ The rest is mainly bug fixes: audio glitches and missing voice lines, bot AI twe
   - For each other Survivor repairing a generator with you, the range at which generator repair noise is heard is reduced by **15/20/25%**.
   - While repairing with at least 1 other Survivor, you repair **5/5/5%** faster.
 
-![bar_red_2.png](534-9-4-0-stranger-things-chapter-2/04-bar-red-2.png)
+![bar_red_2.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## Gameplay Features
 
@@ -99,13 +97,13 @@ The rest is mainly bug fixes: audio glitches and missing voice lines, bot AI twe
   - Matches 3D heart behavior.
   - Has its own Lullaby version.
 
-![bar_white.png](534-9-4-0-stranger-things-chapter-2/05-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Jump Start Quests
 
 - Quest set in the Rift Pass Quests that offers double the Rift Fragments. Available at the start of a new Rift, for the duration of the whole Rift.
 
-![bar_white.png](534-9-4-0-stranger-things-chapter-2/06-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Halloween DLC Changes
 
@@ -131,7 +129,7 @@ The rest is mainly bug fixes: audio glitches and missing voice lines, bot AI twe
   - House of Pain is now Working Overtime
     - As a Survivor, repair generators for at least 300 seconds in a single match.
 
-![bar_red_2.png](534-9-4-0-stranger-things-chapter-2/07-bar-red-2.png)
+![bar_red_2.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Bug Fixes
 
@@ -267,7 +265,7 @@ The rest is mainly bug fixes: audio glitches and missing voice lines, bot AI twe
 - Fixed an issue where Survivors were unable to interact with an occupied locker.
 - Fixed an issue where a Survivor's footsteps SFX remained suppressed after leaving the Fog Vial's cloud.
 
-![bar_red_2.png](534-9-4-0-stranger-things-chapter-2/08-bar-red-2.png)
+![bar_red_2.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Changes from PTB
 
@@ -277,7 +275,7 @@ The rest is mainly bug fixes: audio glitches and missing voice lines, bot AI twe
 - The Vine Attack cancel cooldown has been increased from `1.25 seconds to 1.5 seconds` to minimize zoning potential.
 - Updated the Addon Chess Piece text description to reflect the actual value of the attack radius reduction, changing from 35% to 50%. Also adjusted the unmentioned explosion activation delay from 0.65 to 0.6 seconds to align with the default Vine Attack timing.
 
-![bar_red_2.png](534-9-4-0-stranger-things-chapter-2/09-bar-red-2.png)
+![bar_red_2.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Known Issues
 

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/408-7-2-2-bugfix-p
 author: "Peanits"
 published: "2023-09-13T14:28:13+00:00"
 updated: "2023-09-13T14:28:13+00:00"
-archived: "2026-09-26T16:40:30Z"
+archived: "2026-09-26T17:08:46Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The Xenomorph received revised turret placement logic, a slower tail-attack cool
 
 # 7.2.2 | Bugfix Patch
 
-![CA-546_DBD_0723_Chapter_Update_Assets_Forum_Bugfix_02 (1).png](408-7-2-2-bugfix-patch/01-ca-546-dbd-0723-chapter-update-assets-forum-bugfix-02-281-29.png)
+![CA-546_DBD_0723_Chapter_Update_Assets_Forum_Bugfix_02 (1).png](../../images/6161130e20215d01-ca-546-dbd-0723-chapter-update-assets-forum-bugf.png)
 
 ## Content
 
@@ -35,7 +35,7 @@ The Xenomorph received revised turret placement logic, a slower tail-attack cool
 - Adjusted the descriptions of Blast Mine, Chemical Trap, and Wiretap for consistency
 - Added a VFX for when the Chemical Trap disappears by itself
 
-![PatchNotesDivider.png](408-7-2-2-bugfix-patch/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 
@@ -76,7 +76,7 @@ The Xenomorph received revised turret placement logic, a slower tail-attack cool
 - Fixed an issue in RPD where players could climb Wesker's supply crate
 - Fixed one sided collisions on the Nostromo Wreckage
 
-![PatchNotesDivider.png](408-7-2-2-bugfix-patch/03-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Known Issues
 

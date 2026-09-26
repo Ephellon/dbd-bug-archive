@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/459-8-1-0-tomb-rai
 author: "Peanits"
 published: "2024-07-16T15:25:06+00:00"
 updated: "2024-07-16T15:25:07+00:00"
-archived: "2026-09-26T16:40:22Z"
+archived: "2026-09-26T17:08:39Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ The rest of the patch is mainly audio, bot, environment and UI bug fixes, plus P
 
 # 8.1.0 | Tomb Raider
 
-![CA_DBD_0524_Donut_Patch_Notes_Assets_Release_Forum.jpg](459-8-1-0-tomb-raider/01-ca-dbd-0524-donut-patch-notes-assets-release-forum.jpg)
+![CA_DBD_0524_Donut_Patch_Notes_Assets_Release_Forum.jpg](../../images/fdb028a7c5026abd-ca-dbd-0524-donut-patch-notes-assets-release-for.jpg)
 
 ## Content
 
@@ -44,7 +44,7 @@ The rest of the patch is mainly audio, bot, environment and UI bug fixes, plus P
 
 - Each time you open or rummage through a chest, gain 1 token, up to 6/6/6. When you hit a great skill check on a generator, consume all tokens. Then for each token consumed, reduce the maximum required generator progress by 2/3/4.
 
-![PatchNotesDividerSmolWhite.png](459-8-1-0-tomb-raider/02-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Killer Perk Updates
 
@@ -99,7 +99,7 @@ The rest of the patch is mainly audio, bot, environment and UI bug fixes, plus P
 - Increased the Haste bonus to 10%. (was 7%)
 - Increased the duration to 20/25/30 seconds. (was 4/6/8 seconds)
 
-![PatchNotesDividerSmolWhite.png](459-8-1-0-tomb-raider/03-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Killer Updates
 
@@ -197,7 +197,7 @@ The rest of the patch is mainly audio, bot, environment and UI bug fixes, plus P
 - The Exit Gates are blocked by the Entity Spikes for the Hunted Survivor.
 - All Windows vaulted by the Hunted Survivor are blocked for all Survivors for the remained of the Hunt.
 
-![PatchNotesDividerSmolWhite.png](459-8-1-0-tomb-raider/04-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### The Singularity
 
@@ -224,14 +224,14 @@ The rest of the patch is mainly audio, bot, environment and UI bug fixes, plus P
 - No longer forced to pick up EMPs after opening Supply Cases
 - Perks: Blast Mine and Head-on now both apply the Overheat effect when affected by a stun during Overclock.
 
-![PatchNotesDividerSmolWhite.png](459-8-1-0-tomb-raider/05-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### The Good Guy
 
 - Hidey-Ho Mode cooldown now starts at the end of a Slice & Dice.
 - Hidey-Ho Mode cooldown reduced to 10 seconds (was 12 seconds)
 
-![PatchNotesDividerSmolWhite.png](459-8-1-0-tomb-raider/06-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Map Updates
 
@@ -244,13 +244,13 @@ The rest of the patch is mainly audio, bot, environment and UI bug fixes, plus P
 - Updated the placement of the Exit Gates
 - Updated new maze tile safety from the feedback collected during the PTB
 
-![PatchNotesDividerSmolWhite.png](459-8-1-0-tomb-raider/07-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Events & Archives
 
 - Tome 20 - Mystic level 1 opens July 16 at 11:00:00 Eastern
 
-![PatchNotesDivider.png](459-8-1-0-tomb-raider/08-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Features
 
@@ -258,13 +258,13 @@ The rest of the patch is mainly audio, bot, environment and UI bug fixes, plus P
 
 - Hooks broken by a Sacrifice will now respawn after 60 seconds.
 
-![PatchNotesDividerSmolWhite.png](459-8-1-0-tomb-raider/09-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### UX - Knight Guard's Chase
 
 - Added a visual feedback when you have successfully distracted a guard by passing near a Window or downed Pallet.
 
-![PatchNotesDividerSmolWhite.png](459-8-1-0-tomb-raider/10-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### UX - Lobby Update
 
@@ -277,7 +277,7 @@ The rest of the patch is mainly audio, bot, environment and UI bug fixes, plus P
 - Following PTB feedback, we've adjusted the Cosmetics and Character selection back to 4 columns for a smoother browsing & selection  
    (note that these changes will not be present on Switch but will be coming in a Hotfix).
 
-![PatchNotesDividerSmolWhite.png](459-8-1-0-tomb-raider/11-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### UX - Singularity's Podding and Controlling
 
@@ -288,7 +288,7 @@ The rest of the patch is mainly audio, bot, environment and UI bug fixes, plus P
    Red state: Destroying Biopod, Disabled Biopod
 - Biopods will now indicate to Survivors when they are about to be reactivated
 
-![PatchNotesDivider.png](459-8-1-0-tomb-raider/12-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 
@@ -342,7 +342,7 @@ The rest of the patch is mainly audio, bot, environment and UI bug fixes, plus P
 
 - Fixed an issue that could soft-lock loading into a Trial due to a player's loadout bringing an invalid Item.
 
-![PatchNotesDivider.png](459-8-1-0-tomb-raider/13-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Public Test Build (PTB) Adjustments
 
@@ -364,13 +364,13 @@ The rest of the patch is mainly audio, bot, environment and UI bug fixes, plus P
 - The Hardened now correctly triggers from several abilities and perks such as The Doctor’s power, the Nurse’s Anxious Grasp Add-On, and the Make Your Choice and Hex: Face the Darkness Perks.
 - Generators now complete if the progress granted by the Specialist Perk brings them to full charge.
 
-![PatchNotesDividerSmolWhite.png](459-8-1-0-tomb-raider/14-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Disconnect Bots Changes
 
 - In PTB, we have enabled Disconnect Bots during loading. This is now once again disabled. Disconnect Bots continue to work as always in Live, only appearing when a Survivor disconnects after the game has started.
 
-![PatchNotesDividerSmolWhite.png](459-8-1-0-tomb-raider/15-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Killer Updates
 
@@ -387,7 +387,7 @@ The rest of the patch is mainly audio, bot, environment and UI bug fixes, plus P
 - The Guard distraction effect on vault points now plays correctly when used several times on the same vault point.
 - Survivors standing on the Banner when it spawns now correctly ends the Hunt.
 
-![PatchNotesDividerSmolWhite.png](459-8-1-0-tomb-raider/16-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 **The Singularity - Basekit**
 
@@ -401,7 +401,7 @@ The rest of the patch is mainly audio, bot, environment and UI bug fixes, plus P
 - The body and the collision of the Singularity now correctly appear at the same place for survivors after teleporting.
 - Teleporting to a survivor no longer takes longer to complete than previously.
 
-![PatchNotesDividerSmolWhite.png](459-8-1-0-tomb-raider/17-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Bug Fixes
 
@@ -416,7 +416,7 @@ The rest of the patch is mainly audio, bot, environment and UI bug fixes, plus P
 - Survivor animations are now correctly playing when performing various interactions.
 - The anti-camp system now correctly fills up when the Killer is standing on top of the Basement.
 
-![PatchNotesDivider.png](459-8-1-0-tomb-raider/18-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Known Issues
 

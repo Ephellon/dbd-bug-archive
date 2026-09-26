@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/409-developer-upda
 author: "Peanits"
 published: "2023-09-18T13:55:22+00:00"
 updated: "2023-09-18T13:55:22+00:00"
-archived: "2026-09-26T16:43:14Z"
+archived: "2026-09-26T17:10:50Z"
 ---
 
 <!-- summary -->
@@ -21,11 +21,11 @@ An anti-face-camping meter now appears on hooked Survivors, letting them unhook 
 
 # Developer Update | September 2023
 
-![Developer update Totem NEW.png](409-developer-update-september-2023/01-developer-update-totem-new.png)
+![Developer update Totem NEW.png](../images/f52bb3cf054f2595-developer-update-totem-new.png)
 
 Spooky season is officially underway, and we’re getting in the spirit with a hefty Developer Update covering everything coming to the game within the next month. This time, we have news to share about new features, Killer updates, and various Perk & map changes.
 
-![Hooks.png](409-developer-update-september-2023/02-hooks.png)
+![Hooks.png](../images/f5500e7679a048c3-hooks.png)
 
 ## Anti Face-Camping
 
@@ -33,13 +33,13 @@ You probably don’t want to find yourself on the hook in the first place, but i
 
 Going forward, you’ll notice a new meter appears whenever you are on the hook. This meter will gradually fill whenever the Killer is near you. The closer the Killer is, the faster the meter will build. Once it is full, you’ll gain the ability to unhook yourself with a 100% chance of success, even during the second hook phase. Unhooking yourself in this way will grant you all the usual benefits such as Endurance and Haste.
 
-![Anticamp.png](409-developer-update-september-2023/03-anticamp.png)
+![Anticamp.png](../images/79d45d48a98a46c4-anticamp.png)
 
 To ensure that this cannot be abused by aggressive Survivors, the rate at which the meter fills will decrease – or potentially even stop entirely – when other Survivors are nearby. Additionally, once the exit gates are powered, this feature is disabled entirely. This is because at this point in the match, the Killer needs to do whatever they can to secure one last kill, so we can’t expect them to graciously leave the hook.
 
 This new mechanic is intended to address the most egregious camping scenarios, discouraging Killers from standing too close to a hooked Survivor for an extended period and creating opportunities for the other Survivors to make the save.
 
-![SkullMerchant.png](409-developer-update-september-2023/04-skullmerchant.png)
+![SkullMerchant.png](../images/9d73995dfe59eb62-skullmerchant.png)
 
 ## The Skull Merchant
 
@@ -97,13 +97,13 @@ We have also made many adjustments across many aspects of The Skull Merchant to 
 
 Combined, these changes push The Skull Merchant’s drones in a more chase-oriented direction, giving them more immediate consequences when they are triggered rather than slowly building over time. At the same time, her ability to defend generators for excessive lengths of time has also been reduced substantially. We will be keeping a close eye on these changes and making further adjustments as needed.
 
-![ShatteredSquare.png](409-developer-update-september-2023/05-shatteredsquare.png)
+![ShatteredSquare.png](../images/5f76e4fa4446f336-shatteredsquare.png)
 
 ## The Shattered Square
 
 This update will feature a gameplay update to the Shattered Square map. When reviewing feedback for this map, we identified a few points of feedback we wanted to address.
 
-![SS_Wide_1.png](409-developer-update-september-2023/06-ss-wide-1.png)
+![SS_Wide_1.png](../images/9474cb3c134b3506-ss-wide-1.png)
 
 **Low Obstacles**
 
@@ -123,7 +123,7 @@ Most obstacles in the map tended to be fairly low, making it quite easy for Kill
 
 Last but not least, we have made various changes to make the map easier to navigate. This includes making it clearer which objects can be walked on and which will block your path.
 
-![SS_Wide_2.png](409-developer-update-september-2023/07-ss-wide-2.png) ![MacMillanEstate.png](409-developer-update-september-2023/08-macmillanestate.png)
+![SS_Wide_2.png](../images/8eefc5e1b0ff0356-ss-wide-2.png) ![MacMillanEstate.png](../images/8964cbf2bb0a00b7-macmillanestate.png)
 
 ## The MacMillan Estate
 
@@ -133,7 +133,7 @@ Our work on maps doesn’t stop there, the entire MacMillan Estate Realm is bein
 
 The goal with these variants is to add more variety to existing maps without changing the unique properties that sets them apart, such as their size, a bottleneck or chokepoint that separates either side of the map, and so on.
 
-![Perks.png](409-developer-update-september-2023/09-perks.png)
+![Perks.png](../images/e0b9bea7d13cb9ca-perks.png)
 
 ## Perks
 
@@ -147,7 +147,7 @@ Furtive Chase is one of the lesser used Killer Perks, providing a way to switch 
 
 This Perk allows you to sprint very quickly when the Killer picks up another Survivor, creating an opportunity to get into position for a save. Not only is this Perk highly situational, but it leaves you Exhausted, which could hinder you if you’re chased shortly after. To make sure this Perk is meaningful when it activates, **we are increasing the duration of the speed boost to 5 seconds** (was 4 seconds).
 
-![Killers.png](409-developer-update-september-2023/10-killers.png)
+![Killers.png](../images/fdcbac5b29ef8ba6-killers.png)
 
 ## Killer Tweaks
 

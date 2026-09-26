@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/228-4-2-0-descend-
 author: "Peanits"
 published: "2020-09-08T14:25:32+00:00"
 updated: "2020-09-08T15:09:59+00:00"
-archived: "2026-09-26T16:41:31Z"
+archived: "2026-09-26T17:09:41Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ A broad set of fixes addresses lingering issues for many killers (Deathslinger s
 
 # 4.2.0 | Descend Beyond
 
-![420UpdateBanner.png](228-4-2-0-descend-beyond/01-420updatebanner.png)
+![420UpdateBanner.png](../../images/2e62bbf2f4587595-420updatebanner.png)
 
 ## New Chapter
 
@@ -39,7 +39,7 @@ Plan your escape with Felix Richter, a successful architect who was torn away fr
 - Added a new Common Offering for Killers and Survivors - **Annotated Blueprint** - If the map has a Killer Shack, this offering increases the chance that the Hatch will spawn within it.
 - Added a new Common Offering for Killers and Survivors - **Vigo’s Blueprint** - If the map has a main building, this offering increases the chance that the Hatch will spawn within it.
 
-![PatchNotesDivider.png](228-4-2-0-descend-beyond/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/d693987990e49c09-patchnotesdivider-281-29.png)
 
 ## Features & Content
 
@@ -55,7 +55,7 @@ Many in-game objects in Dead By Daylight haven't been changed significantly sinc
   - **Yamaoka Estate** - Updated Family Residence and Sanctum of Wrath
 - Update aiming when using the flashlight. Up to 4.1.0, the flashlight would aim up and to the right of the center of the screen. In 4.1.0, the aiming animation was updated, which caused the flashlight to aim more towards right of center. Now, the aim should be squarely in the center.
 
-![PatchNotesDivider.png](228-4-2-0-descend-beyond/03-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/d693987990e49c09-patchnotesdivider-281-29.png)
 
 ## Bug Fixes
 
@@ -87,7 +87,7 @@ Many in-game objects in Dead By Daylight haven't been changed significantly sinc
 - Reduced rank update errors.
 - HTML markup in player names during social notifications (toast invites) are now handled properly.
 
-![PatchNotesDivider.png](228-4-2-0-descend-beyond/04-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/d693987990e49c09-patchnotesdivider-281-29.png)
 
 ## Changes From PTB
 
@@ -214,7 +214,7 @@ Unchanged from PTB
 
 </details>
 
-![PatchNotesDividerSmolWhite.png](228-4-2-0-descend-beyond/05-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/3e51648d555c8a4c-patchnotesdividersmolwhite.png)
 
 ### PTB Bug Fixes
 

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/499-8-6-1-bugfix-p
 author: "ThatRyanB"
 published: "2025-04-09T14:29:21+00:00"
 updated: "2025-04-09T14:29:21+00:00"
-archived: "2026-09-26T16:40:16Z"
+archived: "2026-09-26T17:08:33Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Loadout UI now displays remaining units on equipped items and the search bar acc
 
 # 8.6.1 | Bugfix Patch
 
-![Patch_Notes_Assets_861_Forum.jpg](499-8-6-1-bugfix-patch/01-patch-notes-assets-861-forum.jpg)
+![Patch_Notes_Assets_861_Forum.jpg](../../images/469cf570e8cf75cb-patch-notes-assets-861-forum.jpg)
 
 ## Features
 
@@ -30,7 +30,7 @@ Loadout UI now displays remaining units on equipped items and the search bar acc
 - Equipped elements now show units left counter
 - Search bar now accepts direct input, removing old pop up
 
-![bar_red.png](499-8-6-1-bugfix-patch/02-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Content
 
@@ -38,7 +38,7 @@ Loadout UI now displays remaining units on equipped items and the search bar acc
 
 - Allow community goal Bloodpoint bonus to apply to both event and regular queue
 
-![bar_red.png](499-8-6-1-bugfix-patch/03-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Bug Fixes
 

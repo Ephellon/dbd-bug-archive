@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/79-2-3-0-mid-chapt
 author: "Peanits"
 published: "2020-02-28T19:58:14+00:00"
 updated: "2020-02-28T22:00:26+00:00"
-archived: "2026-09-26T16:41:57Z"
+archived: "2026-09-26T17:10:05Z"
 ---
 
 <!-- summary -->

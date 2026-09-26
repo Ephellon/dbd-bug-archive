@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/260-4-3-2-bugfix-p
 author: "Peanits"
 published: "2020-11-03T15:29:47+00:00"
 updated: "2020-11-03T16:18:15+00:00"
-archived: "2026-09-26T16:41:33Z"
+archived: "2026-09-26T17:09:42Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Discordance now reaches 64/96/128 meters and its aura after survivors leave a ge
 
 # 4.3.2 | Bugfix Patch
 
-![432Banner.png](260-4-3-2-bugfix-patch/01-432banner.png)
+![432Banner.png](../../images/e25f9ecd5a27827e-432banner.png)
 
 ## Content
 

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/349-6-2-0-resident
 author: "Peanits"
 published: "2022-08-30T14:57:55+00:00"
 updated: "2022-08-30T16:48:59+00:00"
-archived: "2026-09-26T16:40:42Z"
+archived: "2026-09-26T17:08:55Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ The remainder of the patch is a sweep of bug fixes covering matchmaking, cosmeti
 
 # 6.2.0 | Resident Evil: PROJECT W
 
-![620Banner.png](349-6-2-0-resident-evil-project-w/01-620banner.png)
+![620Banner.png](../../images/62af938b79909430-620banner.png)
 
 ## Features
 
@@ -73,7 +73,7 @@ The remainder of the patch is a sweep of bug fixes covering matchmaking, cosmeti
 - Matchmaking Incentives will be active.
 - A photosensitivity warning has been added to the boot sequence of the game
 
-![PatchNotesDividerSmolWhite.png](349-6-2-0-resident-evil-project-w/02-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/b79326c33bdb246a-patchnotesdividersmolwhite.png)
 
 ### Perks
 
@@ -85,7 +85,7 @@ The remainder of the patch is a sweep of bug fixes covering matchmaking, cosmeti
   - Changed the behaviour when a placed mine times out
     - If the mine times out without being triggered, the entire perk deactivates and the Survivor will need to repair a generator to re-earn the mine (previously, a timed out mine would be allow the Survivor to immediately place another one)
 
-![PatchNotesDividerSmolWhite.png](349-6-2-0-resident-evil-project-w/03-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ## Content
 
@@ -95,7 +95,7 @@ The remainder of the patch is a sweep of bug fixes covering matchmaking, cosmeti
 - Increased the strength of the Haste effect after a Survivor is unhooked to 10% (from 7%).
 - Reduced the cost of Bloodweb nodes by about 33%.
 
-![PatchNotesDivider.png](349-6-2-0-resident-evil-project-w/04-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 
@@ -150,7 +150,7 @@ The remainder of the patch is a sweep of bug fixes covering matchmaking, cosmeti
 - Fixed an issue that caused an invisible collision when going up with the outside stair in the Main house of Mother's Dwelling map.
 - Fixed an issue that enabled survivors to be able to climb onto inaccessible areas on the Racoon City Police Station map whilst cleansing or blessing a totem.
 
-![PatchNotesDivider.png](349-6-2-0-resident-evil-project-w/05-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ### Changes from PTB
 
@@ -181,7 +181,7 @@ The remainder of the patch is a sweep of bug fixes covering matchmaking, cosmeti
   - Reactive Healing
     - Increased healing values to 40%/45%/50% (was 25%/30%/35%)
 
-![PatchNotesDivider.png](349-6-2-0-resident-evil-project-w/06-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ### Fixes from PTB
 
@@ -231,7 +231,7 @@ The remainder of the patch is a sweep of bug fixes covering matchmaking, cosmeti
 - Fixed an issue that caused traps on all generators to be destroyed when the killer damages any single generator.
 - Fixed an issue that caused the Rite of the Mastermind not to gain progress.
 
-![PatchNotesDivider.png](349-6-2-0-resident-evil-project-w/07-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Known Issues
 

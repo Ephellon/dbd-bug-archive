@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/551-10-0-1-bugfix-
 author: "Mandy"
 published: "2026-06-23T14:30:07+00:00"
 updated: "2026-06-23T17:40:51+00:00"
-archived: "2026-09-26T16:40:06Z"
+archived: "2026-09-26T17:08:24Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Shane Wiigwas arrives as a new survivor with three perks—Wide Open Throttle (a
 
 # 10.0.1 | Bugfix Patch 
 
-![DbD_Sushi_PatchNotes_1001_16-9.png](551-10-0-1-bugfix-patch/01-dbd-sushi-patchnotes-1001-16-9.png)
+![DbD_Sushi_PatchNotes_1001_16-9.png](../../images/db7adfcba3f96d5f-dbd-sushi-patchnotes-1001-16-9.png)
 
 ## Content
 
@@ -42,7 +42,7 @@ Shane Wiigwas arrives as a new survivor with three perks—Wide Open Throttle (a
     - *While in the Killer's Terror Radius and not being chased by the Killer, the Killer leaves Light Marks that lasts for* ***10s*** *that you can see. While on the Killer's Light Marks, you gain* ***Elusive**. This ends after* ***3/4/5s**.*
       - *Added the "not being chased by the Killer" to perk conditions*
 
-![image.png](551-10-0-1-bugfix-patch/02-image.png)
+![image.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ### Killer Add-on Updates
 
@@ -81,7 +81,7 @@ The 3 Menu of the Day with their themes are:
 
 See the in-game Gameplay Details for more information.
 
-![image.png](551-10-0-1-bugfix-patch/03-image.png)
+![image.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Bug Fixes
 
@@ -100,7 +100,7 @@ See the in-game Gameplay Details for more information.
 - Fixed an issue where The Dark Lord’s Terror Radius lingered before ending after shapeshifting to Bat Form.
 - Fixed an issue where The Slasher’s teleport mist played break audio when aimed at a dropped pallet.
 
-![image.png](551-10-0-1-bugfix-patch/04-image.png)
+![image.png](../../images/1722ff4e1b1423bf-image.png)
 
 **Characters**
 
@@ -118,7 +118,7 @@ See the in-game Gameplay Details for more information.
 - Fixed an issue where The Deathslinger performing a basic attack while a Survivor was affected by their power could crash the application.
 - Fixed an issue where The Slasher’s Mini Mori animation was misaligned on downed impaled Survivors.
 
-![image.png](551-10-0-1-bugfix-patch/05-image.png)
+![image.png](../../images/1722ff4e1b1423bf-image.png)
 
 **Environment/Maps**
 
@@ -144,7 +144,7 @@ See the in-game Gameplay Details for more information.
 - Fixed an issue where The Lich’s Hand of Vecna failed to teleport Survivors in RPD West lockers.
 - Fixed an issue where The Lich’s Hand of Vecna failed to teleport Survivors in Treatment Theatre lockers.
 
-![image.png](551-10-0-1-bugfix-patch/06-image.png)
+![image.png](../../images/1722ff4e1b1423bf-image.png)
 
 **Perks**
 
@@ -156,7 +156,7 @@ See the in-game Gameplay Details for more information.
 - Fixed an issue where A Nurse’s Calling incorrectly revealed the auras of Survivors being healed from the dying state.
 - Fixed an issue where Wide Open Throttle did not go on cooldown when triggering Dissolution.
 
-![image.png](551-10-0-1-bugfix-patch/07-image.png)
+![image.png](../../images/1722ff4e1b1423bf-image.png)
 
 **UI**
 
@@ -167,7 +167,7 @@ See the in-game Gameplay Details for more information.
 - Fixed an issue where Omnipresent Evil red mist was incorrectly visible on other Survivors in spectator view.
 - Fixed an issue where Spine Chill duration indicator would flicker when the Survivor stood at the edge of the Killer's line of sight.
 
-![image.png](551-10-0-1-bugfix-patch/08-image.png)
+![image.png](../../images/1722ff4e1b1423bf-image.png)
 
 **Misc**
 
@@ -175,7 +175,7 @@ See the in-game Gameplay Details for more information.
 - Fixed an issue causing player controller inputs to register when using the mouse & keyboard.
 - Fixed an issue where confetti VFX were missing from two Event Med-Kits.
 
-![image.png](551-10-0-1-bugfix-patch/09-image.png)
+![image.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Changes from Release
 

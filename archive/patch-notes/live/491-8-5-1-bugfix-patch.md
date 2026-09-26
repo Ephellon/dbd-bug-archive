@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/491-8-5-1-bugfix-p
 author: "ThatRyanB"
 published: "2025-02-04T15:28:39+00:00"
 updated: "2025-02-04T15:28:39+00:00"
-archived: "2026-09-26T16:40:17Z"
+archived: "2026-09-26T17:08:34Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The Nightmare receives a rework: new teleport VFX and Black Box addon changes ex
 
 # 8.5.1 | Bugfix Patch
 
-![PatchNotes_851_Forum.jpg](491-8-5-1-bugfix-patch/01-patchnotes-851-forum.jpg)
+![PatchNotes_851_Forum.jpg](../../images/1e4a5bd48fbd1ad9-patchnotes-851-forum.jpg)
 
 ## Content
 
@@ -37,14 +37,14 @@ The Nightmare receives a rework: new teleport VFX and Black Box addon changes ex
   - Exit Gates are blocked for Sleeping Survivors for 15 seconds after they are opened.
   - This effect lingers for 3 seconds after they Wake Up. *(NEW)*
 
-![bar1.png](491-8-5-1-bugfix-patch/02-bar1.png)
+![bar1.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Archives & Events
 
 - Game Mode: 2V8 returns February 10th at 11:00am Eastern.
   - This two-week event features an event tome with new **Resident Evil**-themed rewards.
 
-![bar1.png](491-8-5-1-bugfix-patch/03-bar1.png)
+![bar1.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Features
 
@@ -53,7 +53,7 @@ The Nightmare receives a rework: new teleport VFX and Black Box addon changes ex
   - Included in English and French, with other languages to be updated later.
 - General Perks can now be searched for using "Generic", "Universal", "General", and "Global".
 
-![bar.png](491-8-5-1-bugfix-patch/04-bar.png)
+![bar.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Bug Fixes
 

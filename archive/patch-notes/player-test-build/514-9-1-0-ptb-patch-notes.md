@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/514-9-1-0-ptb-patc
 author: "ThatRyanB"
 published: "2025-07-08T15:37:49+00:00"
 updated: "2025-07-08T15:37:49+00:00"
-archived: "2026-09-26T16:40:57Z"
+archived: "2026-09-26T17:09:09Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ Rick Grimes and Michonne Grimes join the roster, each bringing three new survivo
 
 *This article was created from a* [*community discussion*](https://forums.bhvr.com/dead-by-daylight/discussion/450412/9-1-0-ptb-patch-notes).
 
-![910_PatchNotes_PTB_Forums.jpg](514-9-1-0-ptb-patch-notes/01-910-patchnotes-ptb-forums.jpg)
+![910_PatchNotes_PTB_Forums.jpg](../../images/6b104afd3adb32c3-910-patchnotes-ptb-forums.jpg)
 
 ## Important
 
@@ -31,7 +31,7 @@ Rick Grimes and Michonne Grimes join the roster, each bringing three new survivo
 - Progress & save data information has been copied from the Live game to our PTB servers on ***July 1, 2025***. Please note that players will be able to progress for the duration of the PTB, but none of that progress will make it back to the Live version of the game.
 - Players will once again receive 12,500 Auric Cells on the PTB to explore Outfits and Characters in the Store. Both Auric Cells and purchases made on the PTB Build will not transfer to the Live Build.
 
-![bar_red.png](514-9-1-0-ptb-patch-notes/02-bar-red.png)
+![bar_red.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## Content
 
@@ -52,7 +52,7 @@ Rick Grimes and Michonne Grimes join the roster, each bringing three new survivo
 
 - When another Survivor pallet-stuns or blinds the Killer while you are injured and within **24/24/24 meters**, your grunts of pain, scratch marks and pools of blood are reduced by **100/100/100%** for **20/25/30 seconds**.
 
-![bar_white.png](514-9-1-0-ptb-patch-notes/03-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### NEW SURVIVOR: Michonne Grimes
 
@@ -70,7 +70,7 @@ Rick Grimes and Michonne Grimes join the roster, each bringing three new survivo
 
 - When you pallet-stun or blind the Killer, other injured Survivors within **24/24/24 meters** gain Endurance and see the Killer's aura for **6/8/10 seconds**.
 
-![bar_white.png](514-9-1-0-ptb-patch-notes/04-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### KILLER UPDATES
 
@@ -165,7 +165,7 @@ Rick Grimes and Michonne Grimes join the roster, each bringing three new survivo
 
 - Increased the Demon Strike turn rate limit during the open phase of the attack to **540 degrees** *(was disabled)*.
 
-![bar_white.png](514-9-1-0-ptb-patch-notes/05-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### NEW SURVIVOR ITEM: FOG VIAL
 
@@ -203,7 +203,7 @@ Rick Grimes and Michonne Grimes join the roster, each bringing three new survivo
 - **Potent Extract (Visceral):**
   - Decreases visibility and sounds within the fog cloud.
 
-![bar_white.png](514-9-1-0-ptb-patch-notes/06-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### SURVIVOR ITEM REWORK: KEY
 
@@ -250,7 +250,7 @@ Rick Grimes and Michonne Grimes join the roster, each bringing three new survivo
   - Reduces aura reveal time by **6 seconds**.
   - Reduces number of charges by 2.
 
-![bar_white.png](514-9-1-0-ptb-patch-notes/07-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### SURVIVOR ITEM REWORK: MAP
 
@@ -291,7 +291,7 @@ Rick Grimes and Michonne Grimes join the roster, each bringing three new survivo
   - Reduces beam of light duration by **10 seconds**.
   - Reduces number of charges by 2.
 
-![bar_white.png](514-9-1-0-ptb-patch-notes/08-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### RETIRED KEY & MAP ADD-ONS
 
@@ -308,7 +308,7 @@ Rick Grimes and Michonne Grimes join the roster, each bringing three new survivo
     - Crystal Bead (Very Rare)
 - These add-ons can no longer be equipped to their corresponding items, but will remain visible in each Survivor's respective inventories.
 
-![bar_white.png](514-9-1-0-ptb-patch-notes/09-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### KILLER PERKS
 
@@ -326,7 +326,7 @@ Rick Grimes and Michonne Grimes join the roster, each bringing three new survivo
 - **Franklin's Demise:**
   - Increased aura reading range to **32/48/64 meters** *(was 32/32/32)*. No longer causes dropped items to lose charges over time.
 
-![bar_white.png](514-9-1-0-ptb-patch-notes/10-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### SURVIVOR PERKS
 
@@ -349,13 +349,13 @@ Rick Grimes and Michonne Grimes join the roster, each bringing three new survivo
 - **Déjà Vu:**
   - Maps no longer track revealed generators.
 
-![bar_white.png](514-9-1-0-ptb-patch-notes/11-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Hooks
 
 - When only two Survivors remain, letting two struggle skill checks pass without any input will immediately skip to the sacrifice sequence.
 
-![bar_white.png](514-9-1-0-ptb-patch-notes/12-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Presets
 
@@ -365,7 +365,7 @@ Rick Grimes and Michonne Grimes join the roster, each bringing three new survivo
   - Presets can be renamed.
   - Loadout and Cosmetic presets remain separated.
 
-![bar_white.png](514-9-1-0-ptb-patch-notes/13-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Custom Games and Spectator Mode
 
@@ -375,13 +375,13 @@ Rick Grimes and Michonne Grimes join the roster, each bringing three new survivo
 - When joining as a spectator after escaping or being killed, the HUD will still show all players that had joined the match and their final state.
 - The spectate button was relocated on the tally screen so it is easier to access.
 
-![bar_white.png](514-9-1-0-ptb-patch-notes/14-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Gameplay Area Expansion** - Fallen Refuge
 
 - More space to chase Survivors or loop the Killer, a small reference to a narrative universe where the dead roam the world has been added.
 
-![bar_red.png](514-9-1-0-ptb-patch-notes/15-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Bug Fixes
 
@@ -433,7 +433,7 @@ Rick Grimes and Michonne Grimes join the roster, each bringing three new survivo
 - Fixed an issue where the English End User License Agreement to link to the French Privacy Policy documentation.
 - Fixed an issue where Terror Radius sounds would start at their full level before being suppressed by the Oblivious effect when inside the Terror Radius at a far distance.
 
-![bar_red.png](514-9-1-0-ptb-patch-notes/16-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Known Issues
 

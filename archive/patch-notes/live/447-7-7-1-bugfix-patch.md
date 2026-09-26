@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/447-7-7-1-bugfix-p
 author: "Peanits"
 published: "2024-05-06T14:56:00+00:00"
 updated: "2024-05-08T14:53:01+00:00"
-archived: "2026-09-26T16:40:24Z"
+archived: "2026-09-26T17:08:40Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The Chaos Shuffle modifier launches on May 16 at 11:00 AM ET, accompanied by an 
 
 # 7.7.1 | Bugfix Patch
 
-![CA_DBD_0324_Bacon_Patch_Notes_Assets_BugFix1_FORUM.png](447-7-7-1-bugfix-patch/01-ca-dbd-0324-bacon-patch-notes-assets-bugfix1-forum.png)
+![CA_DBD_0324_Bacon_Patch_Notes_Assets_BugFix1_FORUM.png](../../images/72718f4a00f75daa-ca-dbd-0324-bacon-patch-notes-assets-bugfix1-for.png)
 
 ## Content
 
@@ -36,7 +36,7 @@ The Chaos Shuffle modifier launches on May 16 at 11:00 AM ET, accompanied by an 
 
 - Now causes Survivors within 32 meters of the locker to scream and show their position *(was based on the Killer's position)* then gain Blindness for 30 seconds (as before).
 
-![PatchNotesDivider.png](447-7-7-1-bugfix-patch/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 

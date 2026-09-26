@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/553-10-0-3-bugfix-
 author: "Mandy"
 published: "2026-07-21T14:31:51+00:00"
 updated: "2026-07-21T14:33:02+00:00"
-archived: "2026-09-26T16:40:05Z"
+archived: "2026-09-26T17:08:23Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ The Slasher’s jump-scare anti-camp penalty no longer spans multiple floors, an
 
 *This article was created from a* [*community discussion*](https://forums.bhvr.com/dead-by-daylight/discussion/470166/10-0-3-bugfix-patch).
 
-![DbD_PatchNotes_1003_16-9.png](553-10-0-3-bugfix-patch/01-dbd-patchnotes-1003-16-9.png)
+![DbD_PatchNotes_1003_16-9.png](../../images/315fb96440fe2eca-dbd-patchnotes-1003-16-9.png)
 
 ## Content
 
@@ -33,7 +33,7 @@ The Slasher’s jump-scare anti-camp penalty no longer spans multiple floors, an
 
 - Jump Scare anti-camp penalty no longer applies across multiple floors
 
-![bar_white.png](553-10-0-3-bugfix-patch/02-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Perk Updates
 
@@ -42,7 +42,7 @@ The Slasher’s jump-scare anti-camp penalty no longer spans multiple floors, an
 - Cross-Examination
   - While in the Killer's Terror Radius and not being chased by the Killer, they leave Light Marks that last for **10s** that you can see. While on the Killer's Light Marks, you gain **Elusive**. This ends after **3/4/5s**.
 
-![bar_white.png](553-10-0-3-bugfix-patch/03-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Killer Add-on Updates
 
@@ -61,7 +61,7 @@ The Slasher’s jump-scare anti-camp penalty no longer spans multiple floors, an
 - Party Noisemaker:
   - Breaking a Pallet or Breakable Wall with Jump Scare reveals the Auras of Survivors further than **28 meters** for 6 seconds. *(was 32 meters)*
 
-![bar_red.png](553-10-0-3-bugfix-patch/04-bar-red.png)
+![bar_red.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## Summer Screams Event
 
@@ -71,7 +71,7 @@ The Summer Screams event will be live from July 28th 11:00EDT - August 18th 11:0
 - Week 2: Lights Out (August 4 - August 11)
 - Week 3: 2v8 (August 11 - August 18)
 
-![bar_white.png](553-10-0-3-bugfix-patch/05-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Game Mode Updates
 
@@ -87,7 +87,7 @@ The Summer Screams event will be live from July 28th 11:00EDT - August 18th 11:0
 
 - All Perks and Add-ons now available to be assigned
 
-![bar_red.png](553-10-0-3-bugfix-patch/06-bar-red.png)
+![bar_red.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## Bug Fixes
 
@@ -154,7 +154,7 @@ The Summer Screams event will be live from July 28th 11:00EDT - August 18th 11:0
 - Fixed an issue causing the Entity to make an illegal purchase move in the Bloodweb.
 - Fixed an issue where leaving the Survivor queue in Play While You Wait would reset the Killer priority queue.
 
-![bar_red.png](553-10-0-3-bugfix-patch/07-bar-red.png)
+![bar_red.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## Known Issues
 

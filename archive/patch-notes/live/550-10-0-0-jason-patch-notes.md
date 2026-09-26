@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/550-10-0-0-jason-p
 author: "ThatRyanB"
 published: "2026-06-16T14:30:09+00:00"
 updated: "2026-06-16T14:32:39+00:00"
-archived: "2026-09-26T16:40:07Z"
+archived: "2026-09-26T17:08:24Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ Beyond the new killer, the update is dominated by bug fixes: audio glitches, cha
 
 # 10.0.0 | Jason Patch Notes
 
-![DbD_1000_PatchNotes_16-9.png](550-10-0-0-jason-patch-notes/01-dbd-1000-patchnotes-16-9.png)
+![DbD_1000_PatchNotes_16-9.png](../../images/3f36870c19e481f9-dbd-1000-patchnotes-16-9.png)
 
 ## Content
 
@@ -46,7 +46,7 @@ Beyond the new killer, the update is dominated by bug fixes: audio glitches, cha
 - Survivors will be Impaled if they are hit with a Hook Spike. They cannot heal past the injured state and the embedded Hook Spike will have an Aura visible to the Killer.
 - Injured Survivors will be both Impaled and Immobilized if they are hit with a Spike and knocked into a wall.
 
-![bar_white.png](550-10-0-0-jason-patch-notes/02-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### New Killer Perks
 
@@ -62,7 +62,7 @@ Beyond the new killer, the update is dominated by bug fixes: audio glitches, cha
   - Whenever you basic-break a Pallet or Breakable Wall, you earn **1** Token, up to **13**.
   - Whenever you are blinded or Pallet-stunned, for the next **13s** you gain **1%** **Haste** for each Token. Cooldown: **30/25/20**s.
 
-![bar_red.png](550-10-0-0-jason-patch-notes/03-bar-red.png)
+![bar_red.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## Features
 
@@ -79,7 +79,7 @@ Beyond the new killer, the update is dominated by bug fixes: audio glitches, cha
   - Hatch
   - Exit Gate Switches
 
-![bar_white.png](550-10-0-0-jason-patch-notes/04-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Killer Power Match Details Tab
 
@@ -89,7 +89,7 @@ Beyond the new killer, the update is dominated by bug fixes: audio glitches, cha
   - Any Survivor loses a health state
 - The Killer Power Tab can be directly accessed by pressing **F1** on Keyboard or pressing and holding **SELECT** on Controller.
 
-![bar_white.png](550-10-0-0-jason-patch-notes/05-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Visual Change
 
@@ -98,7 +98,7 @@ Beyond the new killer, the update is dominated by bug fixes: audio glitches, cha
   - Reduce the intensity of the light when the Doctor used his power.
   - Reduce the intensity of the camera shake when a Survivor gets shocked.
 
-![bar_red.png](550-10-0-0-jason-patch-notes/06-bar-red.png)
+![bar_red.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## Bug Fixes
 
@@ -225,7 +225,7 @@ Beyond the new killer, the update is dominated by bug fixes: audio glitches, cha
 - Fixed an issue where using 'Play While You Wait' and leaving a Survivor Lobby the priority queue for the Killer Lobby was also lost.
 - Fixed an issue where the Flicker VFX was missing when a Survivor used a Flashlight with the Broken Bulb Add-on.
 
-![bar_red.png](550-10-0-0-jason-patch-notes/07-bar-red.png)
+![bar_red.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## Changes from PTB
 
@@ -258,7 +258,7 @@ Beyond the new killer, the update is dominated by bug fixes: audio glitches, cha
 - Silent Shadow:
   - Changed the perk so that the **11/12/13s** Undetectable occurs whenever you hook a Survivor, instead of at the start of the trial.
 
-![bar_white.png](550-10-0-0-jason-patch-notes/08-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Killer Power Match Details Tab
 
@@ -267,7 +267,7 @@ Beyond the new killer, the update is dominated by bug fixes: audio glitches, cha
 - Updated several descriptions to provide more clarity.
 - Reworked the description of The Wraith, The Knight, and The Skull Merchant to be more accurate and in depth.
 
-![bar_white.png](550-10-0-0-jason-patch-notes/09-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Bot Improvements
 
@@ -276,7 +276,7 @@ Beyond the new killer, the update is dominated by bug fixes: audio glitches, cha
 - Fixed an issue causing Survivor Bots to continue hiding during the Slasher's Omnipresent Evil after the End Game Collapse has begun.
 - Fixed an issue with Survivor Bots not running away immediately after escaping from the wiggle state.
 
-![bar_white.png](550-10-0-0-jason-patch-notes/10-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Bug Fixes
 
@@ -333,7 +333,7 @@ Beyond the new killer, the update is dominated by bug fixes: audio glitches, cha
 - Fixed an issue where The Deathslinger's Chain progression bar UI was visible on the Survivor's POV after they broke free from the Killer power.
 - Fixed an issue where a Survivor could pick up an item from outside The Lich's chest.
 
-![bar_red.png](550-10-0-0-jason-patch-notes/07-bar-red.png)
+![bar_red.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## Known Issues
 

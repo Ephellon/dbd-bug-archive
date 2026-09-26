@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/307-5-4-1-bugfix-p
 author: "Peanits"
 published: "2021-12-07T15:25:38+00:00"
 updated: "2021-12-07T15:25:38+00:00"
-archived: "2026-09-26T16:40:47Z"
+archived: "2026-09-26T17:09:00Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The Crow Food, Sprint & Slash, and Beast Awakens archive challenges now properly
 
 # 5.4.1 | Bugfix Patch
 
-![541Banner.png](307-5-4-1-bugfix-patch/01-541banner.png)
+![541Banner.png](../../images/f0e6425ae241298c-541banner.png)
 
 ## Bug Fixes
 

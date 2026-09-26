@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/523-9-2-0-sinister
 author: "ThatRyanB"
 published: "2025-09-23T16:01:21+00:00"
 updated: "2025-09-23T16:01:22+00:00"
-archived: "2026-09-26T16:40:12Z"
+archived: "2026-09-26T17:08:29Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The Krasue arrives as a new killer with interchangeable Body and Head forms, a 4
 
 # 9.2.0 | Sinister Grace
 
-![920_PatchNotes_FORUM.png](523-9-2-0-sinister-grace/01-920-patchnotes-forum.png)
+![920_PatchNotes_FORUM.png](../../images/e6a131c4752ae17b-920-patchnotes-forum.png)
 
 ## New Content
 
@@ -75,7 +75,7 @@ The Krasue arrives as a new killer with interchangeable Body and Head forms, a 4
   - When a Survivor repairs the cursed generator for **5/5/5 seconds**, you gain **Undetectable** and your Terror Radius is applied to the generator for **20/25/30 seconds**.
   - When the cursed generator is repaired, the next farthest generator is cursed.
 
-![bar_white.png](523-9-2-0-sinister-grace/02-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### New Survivor - Vee Boonyasak
 
@@ -93,7 +93,7 @@ The Krasue arrives as a new killer with interchangeable Body and Head forms, a 4
   - While you have **Exhausted**, your scratch marks disappear **50/50/50%** faster.
   - You recover **5/7.5/10%** faster from **Exhausted**.
 
-![bar_red.png](523-9-2-0-sinister-grace/03-bar-red.png)
+![bar_red.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## Features
 
@@ -104,7 +104,7 @@ The Krasue arrives as a new killer with interchangeable Body and Head forms, a 4
 - Recovery while in the Dying State is now automatic and no longer requires a button to be held. When full self-recovery is available, tap the Interact Button to pick yourself up.
 - Added a new scenario to the Abandon option: After recovering or being healed from the Dying State twice, the option to Abandon becomes available the next time you are downed.
 
-![bar_white.png](523-9-2-0-sinister-grace/04-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Pallet Density Quality of Life Update
 
@@ -112,7 +112,7 @@ The Krasue arrives as a new killer with interchangeable Body and Head forms, a 4
   - Affected Realms: The MacMillan Estate, Autohaven Wreckers, Coldwind Farm, Crotus Prenn Asylum, Haddonfield, Backwater Swamp, Red Forest, Yamaoka Estate, Ormond, The Decimated Borgo
 - Updated all Realms to draw from the same pool of available maze tile layouts.
 
-![bar_white.png](523-9-2-0-sinister-grace/05-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Menu Updates
 
@@ -121,7 +121,7 @@ The Krasue arrives as a new killer with interchangeable Body and Head forms, a 4
   - Added VFX to distinguish the most recent Tome
   - New lore content is delivered regularly without players needing to complete Archives quests
 
-![bar_red.png](523-9-2-0-sinister-grace/06-bar-red.png)
+![bar_red.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## Content Updates
 
@@ -221,7 +221,7 @@ The Krasue arrives as a new killer with interchangeable Body and Head forms, a 4
   - Changed rarity to Uncommon.
   - *Dev note: This add-on makes The Shape's power work similarly to how it used to. We've made it more common so those who prefer the original power can keep a steady supply.*
 
-![bar_white.png](523-9-2-0-sinister-grace/07-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Killer Updates
 
@@ -301,7 +301,7 @@ The Krasue arrives as a new killer with interchangeable Body and Head forms, a 4
 
 - Increased the number of Blood Orbs that spawn when hooking a Survivor to **5** (*was 2*).
 
-![bar_white.png](523-9-2-0-sinister-grace/08-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Survivor Perk Updates
 
@@ -340,7 +340,7 @@ The Krasue arrives as a new killer with interchangeable Body and Head forms, a 4
 - **Vigil:**
   - Survivors can now only benefit from one Vigil perk's effect at a time (*previously stacked with other versions of itself*).
 
-![bar_white.png](523-9-2-0-sinister-grace/09-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Killer Perk Updates
 
@@ -371,7 +371,7 @@ The Krasue arrives as a new killer with interchangeable Body and Head forms, a 4
   - Increased range when opening a locker to **40 meters** (*was 32 meters*).
   - Reduced cooldown to **55/50/45 seconds** (*was 80/70/60 seconds*).
 
-![bar_red.png](523-9-2-0-sinister-grace/10-bar-red.png)
+![bar_red.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## Bug Fixes
 
@@ -484,7 +484,7 @@ The Krasue arrives as a new killer with interchangeable Body and Head forms, a 4
 - Fixed an issue where some users could not unlock the "Complete the Evolution" achievement / trophy.
 - Fixed an issue where the Shrill Whistle Key add-on did not reduce the item's channel time.
 
-![bar_red.png](523-9-2-0-sinister-grace/11-bar-red.png)
+![bar_red.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## Changes from PTB
 
@@ -526,7 +526,7 @@ The Krasue arrives as a new killer with interchangeable Body and Head forms, a 4
 - **Wandering Eye**
   - Increased range of aura-reveal to **20/20/20 meters** *(from 16/16/16)*.
 
-![bar_white.png](523-9-2-0-sinister-grace/12-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### New Survivor - Vee Boonyasak
 
@@ -536,7 +536,7 @@ The Krasue arrives as a new killer with interchangeable Body and Head forms, a 4
   - Lowered tokens needed for healing speed effect to 6/5/4 *(from 8/7/6)*.
   - Lowered tokens lost on missed skill checks to 1/1/1 *(from 2/2/2)*.
 
-![bar_white.png](523-9-2-0-sinister-grace/13-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### FEATURES
 
@@ -556,7 +556,7 @@ The Krasue arrives as a new killer with interchangeable Body and Head forms, a 4
 - Postponed these changes until a later update to allow for further testing.
   - *Dev note: We've heard your feedback and will be making changes to this feature before it goes live. You can expect it to reappear with adjustments in a future PTB.*
 
-![bar_white.png](523-9-2-0-sinister-grace/14-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### KILLER UPDATES
 
@@ -585,7 +585,7 @@ The Krasue arrives as a new killer with interchangeable Body and Head forms, a 4
 - Medusa's Hair:
   - Increased the duration of the **Hindered** status effect to **4 seconds** (*was 2 seconds*).
 
-![bar_white.png](523-9-2-0-sinister-grace/15-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Bug Fixes
 
@@ -632,7 +632,7 @@ The Krasue arrives as a new killer with interchangeable Body and Head forms, a 4
 - Fixed an issue where The Krasue could not vault over a pallet when a Survivor was using Any Means Necessary.
 - Fixed an issue where The Krasue could vault at locations being used by Survivors.
 
-![bar_red.png](523-9-2-0-sinister-grace/16-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Known Issues
 

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/303-5-3-2-bugfix-p
 author: "Peanits"
 published: "2021-11-02T14:28:15+00:00"
 updated: "2021-11-02T20:12:07+00:00"
-archived: "2026-09-26T16:40:48Z"
+archived: "2026-09-26T17:09:00Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Boon Totems have had their animation restriction lifted, making all totems snuff
 
 # 5.3.2 | Bugfix Patch
 
-![532Banner.png](303-5-3-2-bugfix-patch/01-532banner.png)
+![532Banner.png](../../images/cdff79647071cce1-532banner.png)
 
 ## Features
 
@@ -31,7 +31,7 @@ Boon Totems have had their animation restriction lifted, making all totems snuff
 
 *Dev Note: We intend to re-enable this in a future patch, once we have had time to locate and reposition all offending totems so that they play nice. This will result in some totems being snuffable through collision, but we are erring on the side of caution to ensure that all totems can be snuffed by the killer until then. Enjoy it while it lasts, Killer Mains!*
 
-![PatchNotesDivider.png](303-5-3-2-bugfix-patch/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 
@@ -53,7 +53,7 @@ Switch only:
 - Fixed a performance issue in docked state by deactivating the menu movement when moving the cursor.
 - Fixed an issue that could cause an excessively long / infinite loading screen.
 
-![PatchNotesDivider.png](303-5-3-2-bugfix-patch/03-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Known Issues
 

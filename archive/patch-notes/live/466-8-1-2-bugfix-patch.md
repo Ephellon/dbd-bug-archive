@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/466-8-1-2-bugfix-p
 author: "Peanits"
 published: "2024-08-06T17:56:02+00:00"
 updated: "2024-08-06T17:56:02+00:00"
-archived: "2026-09-26T16:40:21Z"
+archived: "2026-09-26T17:08:38Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Stridor and Iron Will perks were rebalanced so their audio effects are no longer
 
 # 8.1.2 | Bugfix Patch
 
-![812_Forums.jpg](466-8-1-2-bugfix-patch/01-812-forums.jpg)
+![812_Forums.jpg](../../images/cea2f75189f24e6e-812-forums.jpg)
 
 ## Content
 
@@ -37,7 +37,7 @@ Stridor and Iron Will perks were rebalanced so their audio effects are no longer
 - **Iron Will**  
    The effect of the perk is no longer multiplicative, meaning it will lower Survivor grunts of pain volume rather than set it to zero
 
-![PatchNotesDivider.png](466-8-1-2-bugfix-patch/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 

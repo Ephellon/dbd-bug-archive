@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/276-4-5-2-bugfix-p
 author: "Peanits"
 published: "2021-02-23T15:31:44+00:00"
 updated: "2021-02-23T15:31:44+00:00"
-archived: "2026-09-26T16:41:36Z"
+archived: "2026-09-26T17:09:44Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Camera height for crawling was restored and survivor locomotion animations tweak
 
 # 4.5.2 | Bugfix Patch
 
-![452Banner.png](276-4-5-2-bugfix-patch/01-452banner.png)
+![452Banner.png](../../images/4373963b66bf35a6-452banner.png)
 
 ## Content
 

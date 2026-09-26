@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/526-9-2-3-bugfix-p
 author: "ThatRyanB"
 published: "2025-10-21T14:30:07+00:00"
 updated: "2025-10-21T14:30:07+00:00"
-archived: "2026-09-26T16:40:11Z"
+archived: "2026-09-26T17:08:28Z"
 ---
 
 <!-- summary -->
@@ -23,13 +23,13 @@ The patch is otherwise a broad bug-fix sweep, addressing numerous void-portal vi
 
 # 9.2.3 | Bugfix Patch
 
-![923-FORUM.png](526-9-2-3-bugfix-patch/01-923-forum.png)
+![923-FORUM.png](../../images/19fceabb55c421cf-923-forum.png)
 
 ## Content
 
 - The Twins and The Houndmaster have been re-enabled in the Haunted by Daylight event queue.
 
-![bar_white.png](526-9-2-3-bugfix-patch/02-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### The Shape
 
@@ -45,7 +45,7 @@ The patch is otherwise a broad bug-fix sweep, addressing numerous void-portal vi
 - Decreased Pursuer Mode's Terror Radius to 16m *(was 24m)*.
 - Decreased Evil Incarnate Mode's Terror Radius to 32m *(was 40m)*.
 
-![bar_red.png](526-9-2-3-bugfix-patch/03-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Bug Fixes
 

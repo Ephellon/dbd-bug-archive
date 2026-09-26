@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/401-7-1-1-bugfix-p
 author: "Peanits"
 published: "2023-08-01T14:28:41+00:00"
 updated: "2023-08-01T14:28:41+00:00"
-archived: "2026-09-26T16:40:32Z"
+archived: "2026-09-26T17:08:47Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Reactive Healing now rounds up to full 100 % when only a tiny amount is missing,
 
 # 7.1.1 | Bugfix Patch
 
-![711_PatchNotesThinBanner.png](401-7-1-1-bugfix-patch/01-711-patchnotesthinbanner.png)
+![711_PatchNotesThinBanner.png](../../images/630f62bcc0ae1535-711-patchnotesthinbanner.png)
 
 ## Release Schedule
 

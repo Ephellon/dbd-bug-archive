@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/548-10-0-0-jason-p
 author: "ThatRyanB"
 published: "2026-05-26T14:30:25+00:00"
 updated: "2026-05-28T15:03:52+00:00"
-archived: "2026-09-26T16:40:55Z"
+archived: "2026-09-26T17:09:07Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ The PTB also unlocks all Steam-purchased characters at Prestige 3, grants 12.5 k
 
 # 10.0.0 | Jason PTB Patch Notes
 
-![DbD_1000_PatchNotes_PTB_16-9.png](548-10-0-0-jason-ptb-patch-notes/01-dbd-1000-patchnotes-ptb-16-9.png)
+![DbD_1000_PatchNotes_PTB_16-9.png](../../images/fb344371b85ca114-dbd-1000-patchnotes-ptb-16-9.png)
 
 ## Reminder
 
@@ -34,7 +34,7 @@ The PTB also unlocks all Steam-purchased characters at Prestige 3, grants 12.5 k
 - All offerings, items, and add-ons will be pre-loaded with 99 units available.
 - 12,500 Auric Cells and 1 million Bloodpoints will be given on each new PTB version, available to explore Outfits and Characters in the Store.
 
-![bar_red.png](548-10-0-0-jason-ptb-patch-notes/02-bar-red.png)
+![bar_red.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## UPDATE - Thursday, May 28th
 
@@ -46,7 +46,7 @@ The PTB also unlocks all Steam-purchased characters at Prestige 3, grants 12.5 k
 - Fixed an issue where The Mastermind could hit out of range Survivors after a Virulent Bound vault.
 - Fixed an issue where The Mastermind was not able to make a sidestep, ignoring any key input between the dashes.
 
-![bar_red.png](548-10-0-0-jason-ptb-patch-notes/02-bar-red.png)
+![bar_red.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## Content
 
@@ -83,7 +83,7 @@ The PTB also unlocks all Steam-purchased characters at Prestige 3, grants 12.5 k
   - Whenever you basic-break a Pallet or Breakable Wall, you earn **1** Token, up to **13**.
   - Whenever you are blinded or Pallet-stunned, for the next **13s** you gain **1%** **Haste** for each Token. Cooldown: **30/25/20**s.
 
-![bar_white.png](548-10-0-0-jason-ptb-patch-notes/03-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### NEW ORIGINAL SURVIVOR:
 
@@ -101,7 +101,7 @@ The PTB also unlocks all Steam-purchased characters at Prestige 3, grants 12.5 k
 - **Cross-Examination**
   - While in the Killer's Terror Radius, the Killer leaves Light Marks that lasts for **10s** that you can see. While on the Killer's Light Marks, you gain **Elusive**. This ends after **3/4/5s**.
 
-![bar_red.png](548-10-0-0-jason-ptb-patch-notes/04-bar-red.png)
+![bar_red.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## Features
 
@@ -118,7 +118,7 @@ The PTB also unlocks all Steam-purchased characters at Prestige 3, grants 12.5 k
   - Hatch
   - Exit Gate Switches
 
-![bar_white.png](548-10-0-0-jason-ptb-patch-notes/05-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Killer Power Match Details Tab
 
@@ -128,7 +128,7 @@ The PTB also unlocks all Steam-purchased characters at Prestige 3, grants 12.5 k
   - Any Survivor loses a health state
 - The Killer Power Tab can be directly accessed by pressing **F1** on Keyboard or pressing and holding **SELECT** on Controller.
 
-![bar_red.png](548-10-0-0-jason-ptb-patch-notes/06-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Bug Fixes
 
@@ -208,7 +208,7 @@ The PTB also unlocks all Steam-purchased characters at Prestige 3, grants 12.5 k
 - Fixed an issue where the application would rarely become unresponsive while a user was experiencing high latency.
 - Fixed an issue where Survivors would remain in the trial with the Tally Screen overlay when the Killer disconnected during the Camera Pan.
 
-![bar_red.png](548-10-0-0-jason-ptb-patch-notes/07-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Known Issues
 

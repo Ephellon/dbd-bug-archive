@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/422-7-4-1-bugfix-p
 author: "Coordi"
 published: "2023-12-05T15:27:36+00:00"
 updated: "2023-12-05T15:36:07+00:00"
-archived: "2026-09-26T16:40:27Z"
+archived: "2026-09-26T17:08:44Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Input icons on killers’ powers now stay visible, dimming when unusable, and th
 
 # 7.4.1 | Bugfix Patch
 
-![bugfix1.png](422-7-4-1-bugfix-patch/01-bugfix1.png)
+![bugfix1.png](../../images/8a0cda5071462cbe-bugfix1.png)
 
 **Features**
 

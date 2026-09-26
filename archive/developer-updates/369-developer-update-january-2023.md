@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/369-developer-upda
 author: "Peanits"
 published: "2023-01-03T16:35:18+00:00"
 updated: "2023-01-03T16:55:45+00:00"
-archived: "2026-09-26T16:43:24Z"
+archived: "2026-09-26T17:10:54Z"
 ---
 
 <!-- summary -->
@@ -23,11 +23,11 @@ A tracker shows progress, and the matchmaking screen lets you browse the archive
 
 # Developer Update | January 2023
 
-![Announcement.png](369-developer-update-january-2023/01-announcement.png)
+![Announcement.png](../images/0cce4b78fac37f6b-announcement.png)
 
 Happy New Year! The team is back from holidays, and we’ve brought a new Developer Update with us. In this series of posts, we cover all the biggest upcoming changes coming to Dead by Daylight. We have many quality of life improvements up our sleeves, so without further ado, let’s kick 2023 off with a bang.
 
-![Matchmaking.png](369-developer-update-january-2023/02-matchmaking.png)
+![Matchmaking.png](../images/79026b2c712e0b43-matchmaking.png)
 
 ## Survivor Activity HUD
 
@@ -46,7 +46,7 @@ Each Survivor will now display their current action next to their portrait. Thes
 
 This not only gives you vital information to plan your next move, but also gives you some visibility on what your teammates are doing to build camaraderie between you and your fellow Survivors. These actions are only visible among Survivors: Killers won’t be told what you’re doing at all times.
 
-![SurvivorHUD.png](369-developer-update-january-2023/03-survivorhud.png)
+![SurvivorHUD.png](../images/1122e4856a18d8f5-survivorhud.png)
 
 Beyond actions, we have added a new indicator to signify that a Survivor is in a chase. Previously it was only possible to tell when the Obsession was being chased due to the twitching icon. Going forward, any Survivor that is being chased will have a small set of Entity claws surrounding their portrait. Meanwhile the Obsession will always have a larger set of Entity claws around their portrait, keeping the effect visually similar. Unlike your current activity, the Killer also sees who they are chasing, making it possible to distinguish two similarly dressed Survivors.
 
@@ -60,7 +60,7 @@ We specifically want to avoid anything that could give already coordinated group
 
 We hope you’ll find this decision to be the fairest option for bridging the gap, and we will be closely monitoring the impact this change has on solo Survivors, premade groups, and overall gameplay. We look forward to hearing from you all once you’ve had a chance to try it out!
 
-![Wiggle.png](369-developer-update-january-2023/04-wiggle.png)
+![Wiggle.png](../images/7f2f6a7fee6f20eb-wiggle.png)
 
 ## Updated Wiggle Mechanics
 
@@ -74,7 +74,7 @@ The time has come for this system to be officially integrated into the game, and
 
 **Third:** We have cleaned up the new system’s interaction with Decisive Strike. Previously, wiggle skill checks would start immediately after the Decisive Strike skill check. This caught a lot of people off guard and caused some confusion. There is now a short (0.5 second) delay after the Decisive Strike skill check before wiggle skill checks appear. You’ll be credited a small amount of wiggle progress to make up for the added delay before these skill checks appear.
 
-![Nurse.png](369-developer-update-january-2023/05-nurse.png)
+![Nurse.png](../images/890c7fa92e33787a-nurse.png)
 
 ## The Nurse
 
@@ -108,7 +108,7 @@ The full details for the changed add-ons can be found in the patch notes once th
 
 Spasmodic Breath will also receive new audio and visual feedback to make it clearer when its effects are active.
 
-![Knight.png](369-developer-update-january-2023/06-knight.png)
+![Knight.png](../images/5d4bf70d3d87d38c-knight.png)
 
 ## The Knight
 
@@ -124,7 +124,7 @@ Beyond promoting longer paths, we’ve increased the instant generator regressio
 
 Lastly, we have the admire the… creative ways some of you have used The Knight’s power. Rather than locking down an area or aggressively chasing Survivors, some of you have discovered that you can start drawing a path and not move to hide your terror radius- particularly near a hook Survivor. While the efficiency of doing this is debatable, it doesn’t exactly suit his playstyle, so we’ve added a 10 second limit to his patrol path creation. This gives enough time to not affect a typical path, but it will put a hard limit on how long you can stay still and hide your terror radius.
 
-![Crows.png](369-developer-update-january-2023/07-crows.png)
+![Crows.png](../images/2a1734e4bb0a69eb-crows.png)
 
 ## Eyrie of Crows
 
@@ -136,11 +136,11 @@ Additionally, maze tiles (stronger tiles made up of tall walls) have been moved 
 
 Last but certainly not least, several new tiles have been added to the map. Multiple existing tiles have had new foliage added in strategic places to allow trapping Killers to better hide their traps. Keep an eye out as you explore!
 
-![NewTile.png](369-developer-update-january-2023/08-newtile.png)
+![NewTile.png](../images/0fa4c4ac0e4bfa4b-newtile.png)
 
 We hope you’ll find the new Eyrie of Crows to be a much more even experience for both sides.
 
-![Tracker.png](369-developer-update-january-2023/09-tracker.png)
+![Tracker.png](../images/72ac35cd6712a4a9-tracker.png)
 
 ## In-Game Challenge Tracker
 
@@ -150,7 +150,7 @@ Never again: We are adding a challenge tracker during the match. This widget wil
 
 If you’d prefer to keep your screen clear, this widget can be switched off in the Options menu.
 
-![ChallengeTracker.png](369-developer-update-january-2023/10-challengetracker.png) ![Performance.png](369-developer-update-january-2023/11-performance.png)
+![ChallengeTracker.png](../images/2e5fd38b34eea6bd-challengetracker.png) ![Performance.png](../images/440cc9e2d2246881-performance.png)
 
 ## Gameflow Improvements
 
@@ -162,7 +162,7 @@ New for our Killers players, you’ll also be able to customize your non-selecte
 
 Whether you forgot something or you just love clicking around while you wait, we hope you’ll enjoy having more freedom while searching!
 
-![Gameflow.png](369-developer-update-january-2023/12-gameflow.png) ![Hemorrhage.png](369-developer-update-january-2023/13-hemorrhage.png)
+![Gameflow.png](../images/145997e9cb64f233-gameflow.png) ![Hemorrhage.png](../images/e901deed3d65a4f1-hemorrhage.png)
 
 ## Merciless Killer
 
@@ -177,7 +177,7 @@ Finally, we have a small update to Merciless Killer ratings. These ratings are c
 
 With this change, the requirement for a Merciless Killer rating is much clearer and remains the same regardless of your grade. This will also make Killer adept achievements a similar level of difficulty to their Survivor counterparts.
 
-![Shards.png](369-developer-update-january-2023/14-shards.png)
+![Shards.png](../images/46ce2383cc88b24d-shards.png)
 
 ## Iridescent Shard Prices
 
@@ -187,13 +187,13 @@ By extension, existing outfits will also receive Iridescent Shard options, but t
 
 We can reveal that the next characters to get this treatment will be The Clown, The Spirit, Ace Visconti, and Feng Min. You can expect the Iridescent Shard prices to appear around the time the update releases on all platforms (not the PTB!).
 
-![Cheating.png](369-developer-update-january-2023/15-cheating.png)
+![Cheating.png](../images/4d4b2592f193dc4b-cheating.png)
 
 ## An Update on Cheating
 
 Now that 2022 is behind us, we wanted to leave you with a chart showing the number of cheaters banned each year since Dead by Daylight was released.
 
-![Cheater_Graph copy.png](369-developer-update-january-2023/16-cheater-graph-copy.png)
+![Cheater_Graph copy.png](../images/9694a44aa4051b4e-cheater-graph-copy.png)
 
 The team is still hard at work finding and patching new vulnerabilities, and we hope to share more information with you soon!
 

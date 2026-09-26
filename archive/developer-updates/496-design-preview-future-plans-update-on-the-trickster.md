@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/496-design-preview
 author: "ThatRyanB"
 published: "2025-03-20T14:58:02+00:00"
 updated: "2025-03-20T14:58:02+00:00"
-archived: "2026-09-26T16:42:50Z"
+archived: "2026-09-26T17:10:41Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The Design Preview process now incorporates a short five-minute survey and promi
 
 # Design Preview | Future Plans + Update on The Trickster
 
-![DbD_DesignPreview-FuturePlans_Banner_1920x1080.png](496-design-preview-future-plans-update-on-the-trickster/01-dbd-designpreview-futureplans-banner-1920x1080.png)
+![DbD_DesignPreview-FuturePlans_Banner_1920x1080.png](../images/b39a8b5aa4465545-dbd-designpreview-futureplans-banner-1920x1080.png)
 
 Last year, we tested out a new way to gather feedback with the Design Preview. In it, we shared a sneak peek at proposed changes for The Trickster with the goal of gauging how you felt about these changes very early in the design process.
 

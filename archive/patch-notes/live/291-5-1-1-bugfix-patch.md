@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/291-5-1-1-bugfix-p
 author: "Peanits"
 published: "2021-08-10T14:26:51+00:00"
 updated: "2021-08-10T14:58:02+00:00"
-archived: "2026-09-26T16:40:50Z"
+archived: "2026-09-26T17:09:02Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Trickster received two balance tweaks: the Laceration decay timer was raised to 
 
 # 5.1.1 | Bugfix Patch
 
-![511Banner.png](291-5-1-1-bugfix-patch/01-511banner.png)
+![511Banner.png](../../images/352946b622f70669-511banner.png)
 
 ## Content
 
@@ -32,7 +32,7 @@ Trickster received two balance tweaks: the Laceration decay timer was raised to 
 
 The Trickster's performance is still lower than we want him after the 5.1.0 release, so we decided to add a bit of power in a few places. Chase dynamics are more interesting now that he has a short delay before Laceration decays but it was a bit too easy for him to lose partial progress toward damaging a Survivor, meriting an increase to the delay.
 
-![PatchNotesDivider.png](291-5-1-1-bugfix-patch/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 
@@ -87,7 +87,7 @@ The Trickster's performance is still lower than we want him after the 5.1.0 rele
 - Fixed an issue that caused Survivors to equip an incorrect outfit
 - Fixed an issue that caused equipped outfit to not save
 
-![PatchNotesDivider.png](291-5-1-1-bugfix-patch/03-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Known Issues
 

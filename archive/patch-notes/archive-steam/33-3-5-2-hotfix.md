@@ -6,15 +6,13 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/33-3-5-2-hotfix"
 author: "Peanits"
 published: "2020-02-28T17:48:55+00:00"
 updated: "2020-03-02T15:36:46+00:00"
-archived: "2026-09-26T16:41:17Z"
+archived: "2026-09-26T17:09:27Z"
 ---
 
 <!-- summary -->
 ## AI TL;DR
 
-Gates Closed" was added as a new Gatekeeper Emblem bonus for ending trials with the gates shut, while the previous "Generators Remaining" condition was removed, and the Totems in Treatment Theatre were relocated to improve concealment.
-
-The hotfix also addressed numerous map and UI problems: Treatment Theatre now correctly allows unhooking when the Killer face-camps, fixes totem collision and prevents survivors from exiting the world after totem destruction; Rift lighting and challenge displays were corrected, the progress bar now remains visible, and overlay menus no longer freeze at lobby timeout. Hawkins Lab screen-darkening, Hag red-stain glitches, Bear-Trap interaction bugs, and several cosmetic preview issues in The Rift and Spirit’s headband were resolved, and level-progress errors were fixed.
+Gatekeeper’s Emblem now grants a “Gates Closed” bonus and no longer requires “Generators Remaining,” while Treatment Theatre’s totem spawns were shifted for better concealment. The hotfix also addressed a wide range of issues: unhooking while the killer face-camps, incorrect Archive challenge text, missing Rift progress bar, overlay menu freezes, lighting tweaks, a dark screen bug in Hawkins Lab, player-level update spikes, mis-triggered Archive level progression, survivor displacement after certain totem destructions, stair-wall collisions, Hag’s red stain visual glitches, and bear-trap interaction failures. Cosmetic preview glitches in The Rift and an erratic Spirit headband model were also resolved.
 <!-- /summary -->
 
 <!-- nav -->

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/331-5-7-1-bugfix-p
 author: "Omnia"
 published: "2022-05-03T14:29:40+00:00"
 updated: "2022-05-03T18:10:56+00:00"
-archived: "2026-09-26T16:40:44Z"
+archived: "2026-09-26T17:08:57Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ Ghost Face’s chase music was lowered as a temporary fix while a new track is d
 
 *This article was created from a* [*community discussion*](https://forum.deadbydaylight.com/en/discussion/321776/5-7-1-bugfix-patch)*.*
 
-![PatchNotesBanner571.jpg](331-5-7-1-bugfix-patch/01-patchnotesbanner571.jpg)
+![PatchNotesBanner571.jpg](../../images/16e39ace5015fc3c-patchnotesbanner571.jpg)
 
 ## Bug Fixes
 
@@ -48,7 +48,7 @@ Ghost Face’s chase music was lowered as a temporary fix while a new track is d
 - Fixed an issue that sometimes prevented the Killer to not be able to pick up a Survivor at the bottom of the stairs of the basement.
 - Fixed an issue that caused the Credits to appear as a placeholder string ID in all non-English languages. (PS5, Switch and Stadia only)
 
-![MicrosoftTeams-image (1).png](331-5-7-1-bugfix-patch/02-microsoftteams-image-281-29.png)
+![MicrosoftTeams-image (1).png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Known Issues
 

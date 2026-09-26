@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/282-4-7-1-bugfix-p
 author: "Peanits"
 published: "2021-05-11T14:26:45+00:00"
 updated: "2021-05-11T14:26:45+00:00"
-archived: "2026-09-26T16:40:52Z"
+archived: "2026-09-26T17:09:04Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Blight's rush now has a per-frame turn-rate cap and higher controller sensitivit
 
 # 4.7.1 | Bugfix Patch
 
-![471Banner.png](282-4-7-1-bugfix-patch/01-471banner.png)
+![471Banner.png](../../images/cfdfa6e343829a8f-471banner.png)
 
 ## Balance
 

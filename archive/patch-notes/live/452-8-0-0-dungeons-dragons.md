@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/452-8-0-0-dungeons
 author: "Peanits"
 published: "2024-06-03T14:58:24+00:00"
 updated: "2024-06-03T15:25:17+00:00"
-archived: "2026-09-26T16:40:24Z"
+archived: "2026-09-26T17:08:40Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ The patch reshapes the live game with numerous balance tweaks to existing killer
 
 # 8.0.0 | Dungeons & Dragons
 
-![CA_DBD_0424_Churros_Patch_Notes_Assets_Release_FORUM.png](452-8-0-0-dungeons-dragons/01-ca-dbd-0424-churros-patch-notes-assets-release-forum.png)
+![CA_DBD_0424_Churros_Patch_Notes_Assets_Release_FORUM.png](../../images/67b9f968df50fec5-ca-dbd-0424-churros-patch-notes-assets-release-f.png)
 
 **Content**
 

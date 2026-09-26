@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/272-4-4-2-bugfix-p
 author: "Peanits"
 published: "2020-12-16T15:26:50+00:00"
 updated: "2020-12-16T18:27:16+00:00"
-archived: "2026-09-26T16:41:34Z"
+archived: "2026-09-26T17:09:43Z"
 ---
 
 <!-- summary -->
@@ -21,13 +21,13 @@ Victor’s recall timer has been reduced to 30 seconds after detaching from Char
 
 # 4.4.2 | Bugfix Patch
 
-![442Banner.png](272-4-4-2-bugfix-patch/01-442banner.png)
+![442Banner.png](../../images/a4e91ef6d2a9c841-442banner.png)
 
 ## Balance
 
 - Victor can now be recalled after being detached from Charlotte for 30 seconds (down from 45).
 
-![PatchNotesDivider.png](272-4-4-2-bugfix-patch/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/d693987990e49c09-patchnotesdivider-281-29.png)
 
 ## Bug Fixes
 
@@ -68,7 +68,7 @@ Victor’s recall timer has been reduced to 30 seconds after detaching from Char
 - Addressed "deadzone" reports in Autohaven Wreckers maps by promoting certain tiles to spawn more frequently than others.
 - Updated the functionality of the Deception perk icon. It will now display the activation and cooldown times, and be lit up otherwise.
 
-![PatchNotesDivider.png](272-4-4-2-bugfix-patch/03-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/d693987990e49c09-patchnotesdivider-281-29.png)
 
 ## Known Issues
 

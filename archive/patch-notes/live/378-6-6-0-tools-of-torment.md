@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/378-6-6-0-tools-of
 author: "Peanits"
 published: "2023-03-07T15:26:05+00:00"
 updated: "2023-03-09T16:29:44+00:00"
-archived: "2026-09-26T16:40:37Z"
+archived: "2026-09-26T17:08:51Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The Skull Merchant joins the Killer roster, while siblings Thalita and Renato Ly
 
 # 6.6.0 | Tools of Torment
 
-![PTB_PatchNotes_Banner (1).png](378-6-6-0-tools-of-torment/01-ptb-patchnotes-banner-281-29.png)
+![PTB_PatchNotes_Banner (1).png](../../images/49d25bc178ba83dd-ptb-patchnotes-banner-281-29.png)
 
 ## Content
 

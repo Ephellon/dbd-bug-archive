@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/521-developer-upda
 author: "ThatRyanB"
 published: "2025-08-29T14:01:47+00:00"
 updated: "2025-09-02T13:59:47+00:00"
-archived: "2026-09-26T16:42:42Z"
+archived: "2026-09-26T17:10:39Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The Shape receives an overhaul: Evil Within splits into Stalker and Pursuer mode
 
 # Developer Update | August 2025
 
-![PTB_DeveloperUpdate_August2025.png](521-developer-update-august-2025/01-ptb-developerupdate-august2025.png)
+![PTB_DeveloperUpdate_August2025.png](../images/02fc3c82e5acd63d-ptb-developerupdate-august2025.png)
 
 The 9.2.0 Update arrives next week, so let’s check out the notable gameplay changes you can expect from this Public Test Build. Plus, stay tuned for next week's PTB Patch Notes where we’ll share the precise values that are changing for each of the topics below!
 
@@ -29,7 +29,7 @@ Read on for all the details:
 
 ## NEW FEATURES
 
-![DevUpdate_SluggingReductionUpdate.png](521-developer-update-august-2025/02-devupdate-sluggingreductionupdate.png)
+![DevUpdate_SluggingReductionUpdate.png](../images/362a06db17a222a0-devupdate-sluggingreductionupdate.png)
 
 - If a Survivor is left in the Dying State for a total of 90 seconds during a match, they gain the ability to pick themselves up after fully recovering.
   - Added the option to enable or disable this mechanic in Custom Games.
@@ -38,11 +38,11 @@ Read on for all the details:
 - Added the ability for Survivors to recover while crawling. Recovery now occurs passively with no need to hold a button.
 - Updated several Survivor and Killer perks to account for these changes.
 
-![SluggingReductionUpdate_1.gif](521-developer-update-august-2025/03-sluggingreductionupdate-1.gif)
+![SluggingReductionUpdate_1.gif](../images/7dac9dd6c835290e-sluggingreductionupdate-1.gif)
 
 *Passive recovery while crawling*
 
-![SluggingReductionUpdate_2.gif](521-developer-update-august-2025/04-sluggingreductionupdate-2.gif)
+![SluggingReductionUpdate_2.gif](../images/7cb40b7e1a78aa38-sluggingreductionupdate-2.gif)
 
 *Pick yourself up if you’ve been in the Dying State for 90 seconds*
 
@@ -50,9 +50,9 @@ Read on for all the details:
 
 *A big part of this is also about making the experience of being slugged more pleasant (as much as being slugged can be, at least). The recovery changes and crawling speed will give you a bit more agency when downed so you aren't just holding a button and waiting for someone to come save you.*
 
-![devupdate-frame.png](521-developer-update-august-2025/05-devupdate-frame.png)
+![devupdate-frame.png](../images/0bb14b82647860a5-devupdate-frame.png)
 
-![DevUpdate_TunnelingReductionUpdate.png](521-developer-update-august-2025/06-devupdate-tunnelingreductionupdate.png)
+![DevUpdate_TunnelingReductionUpdate.png](../images/e679a7b524d593da-devupdate-tunnelingreductionupdate.png)
 
 - When a Survivor is hooked, their hook status is hidden from the Killer. When they’re unhooked, there is no notification and their hook status isn’t revealed immediately.
   - This is disabled once all generators are completed.
@@ -79,28 +79,28 @@ Read on for all the details:
 
 *The intention here is for both roles to feel the benefits and incentives that come from spreading hook states. On the one end, Survivors have better opportunities to evade and reset after unhooks, while also limiting those tough situations where losing a Survivor too quickly causes things to go south quickly and snowball. On the other end, Killers are able to apply more map pressure to push back against efficient teams, covering ground post-hook and strengthening gen regression.*
 
-![devupdate-frame.png](521-developer-update-august-2025/07-devupdate-frame.png)
+![devupdate-frame.png](../images/0bb14b82647860a5-devupdate-frame.png)
 
-![DevUpdate_ElusiveStatusEffect.png](521-developer-update-august-2025/08-devupdate-elusivestatuseffect.png)
+![DevUpdate_ElusiveStatusEffect.png](../images/d5641e17a961f3c9-devupdate-elusivestatuseffect.png)
 
 - Added a new status effect that silences grunts of pain and suppresses Survivor aura, pools of blood, and scratch marks.
 
 ***DEV NOTE**: To start, we’ll be using this new status effect as part of the tunnelling reduction update, but plan to integrate this into relevant existing perks down the road to make their descriptions more streamlined. Arguably the easiest way to look at this is a Survivor version of Undetectable, in that when it’s active, you know you’re in stealth mode.*
 
-![devupdate-frame.png](521-developer-update-august-2025/09-devupdate-frame.png)
+![devupdate-frame.png](../images/0bb14b82647860a5-devupdate-frame.png)
 
-![DevUpdate_TheTomesLoreUpdate.png](521-developer-update-august-2025/10-devupdate-thetomesloreupdate.png)
+![DevUpdate_TheTomesLoreUpdate.png](../images/d025e4d72311b949-devupdate-thetomesloreupdate.png)
 
 - Updated “The Tomes” menu to feature new Tomes and accompanying lore alongside each Chapter release.
 - New lore is unlocked each week within the active Tome.
 
 ***DEV NOTE**: Ever since we reworked the Tome, we’ve seen how much you’ve yearned for more lore. We’re happy to share that beginning with 9.2.0, lore is back! While previously, lore was tied to challenges, we want all players to have a chance to immerse themselves in these stories, so we’ve shifted to a weekly unlock,* *not linked to any quest completion.*
 
-![devupdate-frame.png](521-developer-update-august-2025/11-devupdate-frame.png)
+![devupdate-frame.png](../images/0bb14b82647860a5-devupdate-frame.png)
 
 ## KILLER UPDATES
 
-![DevUpdate_TheShape.png](521-developer-update-august-2025/12-devupdate-theshape.png)
+![DevUpdate_TheShape.png](../images/747571a6a5a1a45b-devupdate-theshape.png)
 
 - Replaced “Evil Within” with two modes that can be toggled with a button press:
   - **Stalker Mode**: 4.2m/s movement speed, Undetectable, and can stalk Survivors.
@@ -119,7 +119,7 @@ Read on for all the details:
   - Moving while stalking has increased movement speed but incurs a reduced stalk rate.
 - Reworked his add-ons.
 
-![TheShape_SlaughteringStrike.gif](521-developer-update-august-2025/13-theshape-slaughteringstrike.gif)
+![TheShape_SlaughteringStrike.gif](../images/1c1d94c8d1af0144-theshape-slaughteringstrike.gif)
 
 *Slaughtering Strike in action*
 
@@ -129,25 +129,25 @@ Read on for all the details:
 
 *Understanding his kit has changed quite a lot, we’ve done a pass on nearly all his add-ons, reworking many of them to offer more unique effects. In particular for those who prefer his old playstyle, Fragrant Tuft of Hair will change Evil Incarnate to function like old Myers, offering an Exposed effect and no Slaughtering Strike. Stay tuned for patch notes for the full details on these changes!*
 
-![devupdate-frame.png](521-developer-update-august-2025/14-devupdate-frame.png)
+![devupdate-frame.png](../images/0bb14b82647860a5-devupdate-frame.png)
 
-![DevUpdate_TheClown.png](521-developer-update-august-2025/15-devupdate-theclown.png)
+![DevUpdate_TheClown.png](../images/d4ca426c3cdf469d-devupdate-theclown.png)
 
 - Increased activation time of the Afterpiece Antidote.
 - Increased how long the Afterpiece Tonic’s Hindered effect lingers after leaving smoke.
 
 ***DEV NOTE**: We’ve heard your feedback that The Clown’s easier-to-activate Haste can make instigating and maintaining chases less interactive for Survivors. That, coupled with nerfs to his purple bottles has pushed players towards this frustrating tactic. To make both bottles feel like viable options without being too oppressive, we’ve adjusted the values of their most impactful qualities to strike a balance between pre-9.1.0 values and Live values.*
 
-![devupdate-frame.png](521-developer-update-august-2025/16-devupdate-frame.png)
+![devupdate-frame.png](../images/0bb14b82647860a5-devupdate-frame.png)
 
-![DevUpdate_TheUnknown.png](521-developer-update-august-2025/17-devupdate-theunknown.png)
+![DevUpdate_TheUnknown.png](../images/84e3ae0b3f021453-devupdate-theunknown.png)
 
 - Increased the additional time added to Weakened when injured by a UVX projectile.
 - Increased movement speed recovery after teleporting.
 - Increased camera vertical range.
 - Adjusted several add-ons.
 
-![TheUnknown_UVX_VerticalShot.gif](521-developer-update-august-2025/18-theunknown-uvx-verticalshot.gif)
+![TheUnknown_UVX_VerticalShot.gif](../images/9766182495afc835-theunknown-uvx-verticalshot.gif)
 
 Increased vertical camera range in action
 
@@ -155,9 +155,9 @@ Increased vertical camera range in action
 
 *It’s also likely no surprise that Blurry Photo is the most used add-on for the Unknown, given the importance of speed recovery. To help create an opportunity for more add-on experimentation, we’ve converted a portion of this add-on into a basekit buff, while also doing a pass on other add-ons that are due for some adjustments.*
 
-![devupdate-frame.png](521-developer-update-august-2025/19-devupdate-frame.png)
+![devupdate-frame.png](../images/0bb14b82647860a5-devupdate-frame.png)
 
-![DevUpdate_TheDarkLord.png](521-developer-update-august-2025/20-devupdate-thedarklord.png)
+![DevUpdate_TheDarkLord.png](../images/3060f784ee4d5b4a-devupdate-thedarklord.png)
 
 - **Vampire Form**:
   - Slightly reduced Hellfire cooldown.
@@ -173,25 +173,25 @@ Increased vertical camera range in action
 
 ***DEV NOTE**: Vampire Form is slightly less oppressive in short loops where movement slowdown had less of an impact, and toning down Wolf Form’s mobility, which has been outclassing some dash Killers. On the flip side, you’ll find Bat Form easier to control in tighter spaces and can use Hellfire slightly more frequently and reach further with it.*
 
-![devupdate-frame.png](521-developer-update-august-2025/21-devupdate-frame.png)
+![devupdate-frame.png](../images/0bb14b82647860a5-devupdate-frame.png)
 
-![DevUpdate_TheGhoul.png](521-developer-update-august-2025/22-devupdate-theghoul.png)
+![DevUpdate_TheGhoul.png](../images/242b238f53d9583c-devupdate-theghoul.png)
 
 - When grabbing a Survivor on the other side of a vault with Kagune Leap, the Survivor is released at the start of The Ghoul’s vault instead of at the end.
 
 ***DEV NOTE**: It’s no secret that it’s been a common pain point for Survivors to be locked in place when hit with a Kagune Leap Grab-Attack across a vault. Survivors shouldn’t have to wait for The Ghoul to finish their vault before being able to move again, so we’ve removed this tech.*
 
-![devupdate-frame.png](521-developer-update-august-2025/23-devupdate-frame.png)
+![devupdate-frame.png](../images/0bb14b82647860a5-devupdate-frame.png)
 
-![DevUpdate_TheOni.png](521-developer-update-august-2025/24-devupdate-theoni.png)
+![DevUpdate_TheOni.png](../images/c231a86008e59a6b-devupdate-theoni.png)
 
 - Hooking a Survivor now spawns more blood orbs.
 
 ***DEV NOTE**: We understand that with the changes we’re making to address slugging, this will impact The Oni slightly, so we want to mitigate this. By turning hooked Survivors into a greater source of power gauge build-up, The Oni is rewarded with more quickly snowballing power by hooking.*
 
-![devupdate-frame.png](521-developer-update-august-2025/25-devupdate-frame.png)
+![devupdate-frame.png](../images/0bb14b82647860a5-devupdate-frame.png)
 
-![DevUpdate_PerkUpdates.png](521-developer-update-august-2025/26-devupdate-perkupdates.png)
+![DevUpdate_PerkUpdates.png](../images/7548a44cd838c30f-devupdate-perkupdates.png)
 
 - Updated various perks.
 
@@ -199,7 +199,7 @@ Increased vertical camera range in action
 
 *Stay tuned on Wednesday, September 3 for the PTB Live Balance preview on Discord, where we'll dig into the details of these perk changes, and then follow that up with patch notes, where you can find the nitty-gritty numbers.*
 
-![devupdate-frame.png](521-developer-update-august-2025/27-devupdate-frame.png)
+![devupdate-frame.png](../images/0bb14b82647860a5-devupdate-frame.png)
 
 Until next time...
 

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/429-developer-upda
 author: "Peanits"
 published: "2024-01-25T14:58:27+00:00"
 updated: "2024-01-25T14:58:27+00:00"
-archived: "2026-09-26T16:43:08Z"
+archived: "2026-09-26T17:10:49Z"
 ---
 
 <!-- summary -->
@@ -21,11 +21,11 @@ The January 2024 PTB rebalanced The Onryō, The Blight and The Hillbilly and twe
 
 # Developer Update | January 2024 PTB
 
-![Developer update Totem NEW.png](429-developer-update-january-2024-ptb/01-developer-update-totem-new.png)
+![Developer update Totem NEW.png](../images/24ee9b6ec16a9caa-developer-update-totem-new.png)
 
 We’re a few weeks into the new year, and that can only mean two things: 1) Most of us have broken our resolutions already, and 2) It’s time for us to recap our first PTB of the year. In this Developer Update, we’ll discuss the feedback we’ve received from the most recent Public Test Build (PTB) and the changes we’ll be making before the update goes live.
 
-![Onryo.jpg](429-developer-update-january-2024-ptb/02-onryo.jpg)
+![Onryo.jpg](../images/3bb7119d2fbe6cf8-onryo.jpg)
 
 ## The Onryō
 
@@ -52,7 +52,7 @@ We’ve read a lot of positive comments saying that she feels better to play wit
 
 This will allow The Onryō to move around the map freely (so long as there are powered TVs to project to) but prevent quickly building Condemned by repeatedly teleporting to multiple TVs.
 
-![Blight.jpg](429-developer-update-january-2024-ptb/03-blight.jpg)
+![Blight.jpg](../images/b2010fde1a3e483f-blight.jpg)
 
 ## The Blight
 
@@ -78,7 +78,7 @@ Originally, this Add-On provided many positive effects, making it a “jack of a
 
 We have **removed the turn rate penalty (was -55%)**. We have also **reintroduced a 5% Rush speed bonus** (was 10%).
 
-![Hillbilly.jpg](429-developer-update-january-2024-ptb/04-hillbilly.jpg)
+![Hillbilly.jpg](../images/be1f803b237a928f-hillbilly.jpg)
 
 ## The Hillbilly
 
@@ -98,7 +98,7 @@ Simple number tweaks for these: Thermal Casing & Ragged Engine now **decreases t
 
 These two Add-Ons increase the time it takes before Overdrive starts dissipating. We’ve also **increased the numbers on these to 20% and 30% respectively** (was 15% and 20%).
 
-![Perks.jpg](429-developer-update-january-2024-ptb/05-perks.jpg)
+![Perks.jpg](../images/a21da834ab9b80a6-perks.jpg)
 
 ## Perks
 
@@ -116,7 +116,7 @@ This way, the Obsession will need to put themselves in harms way in order to red
 
 The PTB featured a change for Quick Gambit which increased its effective range and simultaneously lowered the repair speed bonus. Many felt as if this lowered repair speed bonus was not worth the added risk of potentially leading the Killer to your repairing teammates. Therefore, we have reverted the repair bonus: Quick Gambit **now provides a 6/7/8% repair speed bonus to Survivors within 36m**.
 
-![WatchList.png](429-developer-update-january-2024-ptb/06-watchlist.png)
+![WatchList.png](../images/fc79567fed49693a-watchlist.png)
 
 ## Watch List
 

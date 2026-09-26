@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/351-6-2-2-bugfix-p
 author: "Peanits"
 published: "2022-09-13T14:25:43+00:00"
 updated: "2022-09-14T18:01:25+00:00"
-archived: "2026-09-26T16:40:41Z"
+archived: "2026-09-26T17:08:54Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Anonymous Mode was stripped from PlayStation 4, PlayStation 5, Xbox, Windows Sto
 
 # 6.2.2 | Bugfix Patch
 
-![622Banner.png](351-6-2-2-bugfix-patch/01-622banner.png)
+![622Banner.png](../../images/33660afe5bf72172-622banner.png)
 
 ## Features
 
@@ -30,7 +30,7 @@ Anonymous Mode was stripped from PlayStation 4, PlayStation 5, Xbox, Windows Sto
     - Dev Note: The Anonymous Mode was never intended to be released on these platforms, but due to a data deployment issue on our end they slipped into the build. To ensure players are still able to use the platform-level features to block or report players we will not be able to support Anonymous Mode on these platforms for the time being. However, we have left in the other options to hide your name to help anyone who wants to stream their game from one of these platforms.
     - The ability to report players has not been removed, as ever an in-game report is still required, however when completing the Support Form you no longer need to put the ID/Name of the player that you are reporting, this is found from the in-game report that you submitted
 
-![PatchNotesDivider.png](351-6-2-2-bugfix-patch/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Content
 
@@ -40,7 +40,7 @@ Anonymous Mode was stripped from PlayStation 4, PlayStation 5, Xbox, Windows Sto
   - Dev note: Blast Mine no longer returns to you if the Killer does not kick the generator. Now that this has been fixed, we've given it some small buffs to compensate.
 - Blast Mine: Updated description to clarify deactivation conditions.
 
-![PatchNotesDivider.png](351-6-2-2-bugfix-patch/03-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 

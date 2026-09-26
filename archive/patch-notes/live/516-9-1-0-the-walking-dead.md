@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/516-9-1-0-the-walk
 author: "ThatRyanB"
 published: "2025-07-29T16:07:29+00:00"
 updated: "2025-07-29T16:07:30+00:00"
-archived: "2026-09-26T16:40:14Z"
+archived: "2026-09-26T17:08:31Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Rick Grimes and Michonne Grimes join the survivor roster with three new perks ea
 
 # 9.1.0 | The Walking Dead
 
-![910_PatchNotes.jpg](516-9-1-0-the-walking-dead/01-910-patchnotes.jpg)
+![910_PatchNotes.jpg](../../images/90efe9c56b991d29-910-patchnotes.jpg)
 
 ## Important
 
@@ -34,7 +34,7 @@ Rick Grimes and Michonne Grimes join the survivor roster with three new perks ea
 - Killers and Survivors may be slowed down when going up the right-hand side of any staircase.
 - Michonne Grimes' hair may glow bright white or yellow when close to a light source.
 
-![bar_red.png](516-9-1-0-the-walking-dead/02-bar-red.png)
+![bar_red.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## Content
 
@@ -342,7 +342,7 @@ Rick Grimes and Michonne Grimes join the survivor roster with three new perks ea
 
 - A new Map within the Withered Isle Realm that introduces a special The Walking Dead themed tile.
 
-![bar_red.png](516-9-1-0-the-walking-dead/03-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Features
 
@@ -375,7 +375,7 @@ Rick Grimes and Michonne Grimes join the survivor roster with three new perks ea
 - A new set of quests called "Into the Fog" has been added.
   - These quests are aimed towards new players.
 
-![bar_red.png](516-9-1-0-the-walking-dead/04-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Bug Fixes
 
@@ -467,7 +467,7 @@ Rick Grimes and Michonne Grimes join the survivor roster with three new perks ea
 - Fixed an issue where the English End User License Agreement to link to the French Privacy Policy documentation.
 - Fixed an issue where Terror Radius sounds would start at their full level before being suppressed by the Oblivious effect when inside the Terror Radius at a far distance.
 
-![bar_red.png](516-9-1-0-the-walking-dead/05-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Changes from PTB
 

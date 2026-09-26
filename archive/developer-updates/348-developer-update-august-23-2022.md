@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/348-developer-upda
 author: "Peanits"
 published: "2022-08-23T13:55:20+00:00"
 updated: "2022-08-23T13:55:20+00:00"
-archived: "2026-09-26T16:43:27Z"
+archived: "2026-09-26T17:10:55Z"
 ---
 
 <!-- summary -->
@@ -21,11 +21,11 @@ Resident Evil: PROJECT W Chapter cuts Bloodweb node costs by roughly 33% and spl
 
 # Developer Update | August 23, 2022
 
-![Announcement.png](348-developer-update-august-23-2022/01-announcement.png)
+![Announcement.png](../images/0cce4b78fac37f6b-announcement.png)
 
 We’re back with another Developer Update, a series of posts detailing all the changes coming to Dead by Daylight. In this edition, we’ll cover the balance changes from the 6.2.0 Public Test Build (PTB) and other various tweaks.
 
-![Progression.png](348-developer-update-august-23-2022/02-progression.png)
+![Progression.png](../images/6af993243f26ce60-progression.png)
 
 ## Bloodweb Costs
 
@@ -35,7 +35,7 @@ Alongside these changes, we removed the Bloodpoint bonuses from two perks: Barbe
 
 We want to remedy this as soon as possible. With the release of the Resident Evil: PROJECT W Chapter, we are reducing the cost of nodes in the Bloodweb by roughly 33%. See the chart below for a full cost breakdown.
 
-![BloodwebChart.png](348-developer-update-august-23-2022/03-bloodwebchart.png)
+![BloodwebChart.png](../images/e0ef15eac68d1aee-bloodwebchart.png)
 
 You may be wondering, “Why not increase the Bloodpoints earned instead?” This is a good question, and one we took into consideration.
 
@@ -45,7 +45,7 @@ You may be wondering, “Why not increase the Bloodpoints earned instead?” Thi
 
 Ultimately, we found that reducing Bloodweb costs was the fairest option and provides the best value.
 
-![GAMEPLAY.png](348-developer-update-august-23-2022/04-gameplay.png)
+![GAMEPLAY.png](../images/06ef90af8165707d-gameplay.png)
 
 ## Camping & Tunneling
 
@@ -57,13 +57,13 @@ We released this feature with safe numbers to ensure that things don’t get out
 
 We hope you’ll find these improvements to be much more effective in discouraging the Killer from chasing the same Survivor immediately after they’re unhooked.
 
-![Perks.png](348-developer-update-august-23-2022/05-perks.png)
+![Perks.png](../images/6ff27d2eb3e56ab5-perks.png)
 
 ## Mettle of Man
 
 In a recent update, we released a new version of Mettle of Man which worked consistently with other Endurance effects. Many of you voiced concerns with this version of the perk being weaker than before, favouring a harder to earn effect that couldn’t be lost. Our intention with this change was never to make the perk weaker. Therefore, alongside the Chapter release, we will be reverting the recent update to Mettle of Man. Mettle of Man will instead grant a unique protection effect that is not cancelled by Conspicuous Actions like Endurance. To help differentiate them, this perk will no longer cause the Endurance status effect to appear in the HUD when activated.
 
-![RPD.png](348-developer-update-august-23-2022/06-rpd.png)
+![RPD.png](../images/781713b96f089a28-rpd.png)
 
 ## Post PTB Changes
 
@@ -81,21 +81,21 @@ Last but not least, we’ve slightly toned down the Survivor collision detection
 
 On to perks: We’ve made a few tweaks to the new perks following the PTB. As always, we’ll continue to fine tune each of them as necessary once the update goes live.
 
-![Reassurance.png](348-developer-update-august-23-2022/07-reassurance.png)
+![Reassurance.png](../images/8bda9669056ffe99-reassurance.png)
 
 **Reassurance:** This perk allows you to pause the hook progression of another Survivor, buying you and your team more time to work on generators if the Killer is camping. On the PTB, Reassurance had a 40 second cooldown and could be used repeatedly. When coordinated with other Survivors, this could have been abused to keep the hooked Survivor permanently on the hook, preventing them from being sacrificed against their will.
 
 For the release, we have removed the cooldown of Reassurance. Instead, Reassurance can only be used once per hook instance. The effects of this perk can still be chained together if multiple Survivors are running Reassurance for a maximum delay of 90 seconds. This will keep the perk’s effects potent without being abusable.
 
-![AwakenedAwareness.png](348-developer-update-august-23-2022/08-awakenedawareness.png)
+![AwakenedAwareness.png](../images/c3fb9d17f8106766-awakenedawareness.png)
 
 **Awakened Awareness:** This perk grants the Killer aura reading while they are carrying a Survivor. On the PTB, this effect also lingered for 2 seconds after the carried Survivor is dropped, hooked, or wiggled free. This effect could be a little oppressive on certain Killers, especially when paired with Lethal Pursuer to extend the aura reading effect and Starstruck to make Survivors Exposed. For the release, we’ve removed the lingering aura reading from Awakened Awareness. As a result, Lethal Pursuer will no longer extend the duration of Awakened Awareness’ aura reading.
 
-![LowProfile.png](348-developer-update-august-23-2022/09-lowprofile.png)
+![LowProfile.png](../images/2e43ec1003f73427-lowprofile.png)
 
 **Low Profile:** Low Profile hides your scratch marks and pools of blood when you become the last Survivor for 70/80/90 seconds. Unfortunately, this meant the perk would only activate once per match, and only if you happened to be the last Survivor standing. For the release, we have changed this to include any time you are the only Survivor who is not dying, hooked, or dead as well, allowing it to activate throughout the match. Additionally, Low Profile will also mask your grunt of pain in addition to its existing effects.
 
-![BetterThanNew.png](348-developer-update-august-23-2022/10-betterthannew.png)
+![BetterThanNew.png](../images/96485835380912f2-betterthannew.png)
 
 **Better Than New:** This perk granted any Survivor you healed a 6% action speed bonus to repairing, healing, chest opening, and totem cleansing for 25/30/35 seconds. We found the duration of this perk to be a little low to make much use out of the bonus speed. For release, we’ve made a few changes to this perk:
 

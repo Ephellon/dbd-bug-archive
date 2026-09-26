@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/477-8-3-2-bugfix-p
 author: "Peanits"
 published: "2024-10-24T14:25:31+00:00"
 updated: "2024-11-04T15:59:56+00:00"
-archived: "2026-09-26T16:40:19Z"
+archived: "2026-09-26T17:08:36Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ The patch also fixes Halloween event glitches, missing audio SFX, numerous chara
 
 # 8.3.2 | Bugfix Patch
 
-![832_Forums.jpg](477-8-3-2-bugfix-patch/01-832-forums.jpg)
+![832_Forums.jpg](../../images/8896cc66b89f4283-832-forums.jpg)
 
 ## Content
 
@@ -53,7 +53,7 @@ The patch also fixes Halloween event glitches, missing audio SFX, numerous chara
 - **Inner Focus:** Now only triggers from health state loss caused by the Killer.
 - **We're Gonna Live Forever:** Revert the heal speed increase to **100%**. *(was 150%)*
 
-![PatchNotesDivider.png](477-8-3-2-bugfix-patch/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 
@@ -123,7 +123,7 @@ The patch also fixes Halloween event glitches, missing audio SFX, numerous chara
 - Fixed an issue that caused Survivors spam healing another Survivor in a corner of a map to potentially snap out of bounds.
 - Tentatively fixed the issue where players would face desync if they played the game on Low settings.
 
-![PatchNotesDivider.png](477-8-3-2-bugfix-patch/03-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Known Issues
 

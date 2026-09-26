@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/344-developer-upda
 author: "Peanits"
 published: "2022-07-29T15:19:45+00:00"
 updated: "2022-08-01T15:59:22+00:00"
-archived: "2026-09-26T16:43:27Z"
+archived: "2026-09-26T17:10:55Z"
 ---
 
 <!-- summary -->
@@ -21,13 +21,13 @@ Thanatophobia receives a rework in the upcoming 6.1.2 update, scaling its action
 
 # Developer Update | August 2022
 
-![Announcement.png](344-developer-update-august-2022/01-announcement.png)
+![Announcement.png](../images/0cce4b78fac37f6b-announcement.png)
 
 Earlier this month, we launched our largest balance patch to date, making changes to 40 perks- including the meta- and various base game mechanics. With such a major shake-up, we have been keeping an extra close eye on feedback and performance since the update released to ensure that nothing gets out of hand.
 
 Now that we’ve had a chance to see how things play out, we have prepared our first follow-up round of changes to fine tune the balance. Please note that the tweaks listed here are by no means the only changes we may make: We’ll continue monitoring and adjusting things based on your feedback.
 
-![Perks.png](344-developer-update-august-2022/02-perks.png) ![Thanatophobia.png](344-developer-update-august-2022/03-thanatophobia.png)
+![Perks.png](../images/6ff27d2eb3e56ab5-perks.png) ![Thanatophobia.png](../images/ca8e60cd542af23f-thanatophobia.png)
 
 ### Thanatophobia
 
@@ -37,7 +37,7 @@ To address this, Thanatophobia will be receiving a rework in the 6.1.2 Update: *
 
 This change will make Thanatophobia nearly as potent as before if all Survivors are injured but will require more effort on the Killer’s part to get full value.
 
-![MettleofMan.png](344-developer-update-august-2022/04-mettleofman.png)
+![MettleofMan.png](../images/c9c3e23db641dc65-mettleofman.png)
 
 ### Mettle of Man
 
@@ -47,7 +47,7 @@ With the Endurance status effect updated, Mettle of Man continues to be an outli
 
 With this change, Mettle of Man will now work exactly like other Endurance perks, forcing the Survivor to make a choice between saving their Mettle of Man and working on generators. Since this will make it a little weaker, we have reduced the number of protection hits required to compensate. The aura reading effect is also active immediately rather than after you heal allowing the Killer to anticipate Mettle of Man and plan accordingly. We believe these changes will make the perk both easier to use and more interesting to play around.
 
-![PRPerks.png](344-developer-update-august-2022/05-prperks.png)
+![PRPerks.png](../images/cabcf0f45ca7cf45-prperks.png)
 
 ### Pain Resonance, Merciless Storm & Dead Man’s Switch
 
@@ -59,7 +59,7 @@ To remedy this, we are restoring Pain Resonance’s generator interruption, thou
 
 That said, this would bring back the combo of Pain Resonance and Dead Man’s Switch. Therefore, we’ll be reducing the duration of Dead Man’s Switch to 20/25/30 seconds in order to make the perk combo less oppressive than it previously was.
 
-![GAMEPLAY.png](344-developer-update-august-2022/06-gameplay.png)
+![GAMEPLAY.png](../images/06ef90af8165707d-gameplay.png)
 
 ### The Clown
 

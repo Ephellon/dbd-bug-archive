@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/483-8-4-1-bugfix-p
 author: "ThatRyanB"
 published: "2024-12-09T15:28:03+00:00"
 updated: "2024-12-09T15:28:03+00:00"
-archived: "2026-09-26T16:40:18Z"
+archived: "2026-09-26T17:08:35Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The Houndmaster’s Chase Command cooldown drops to 4 s, completed generators tu
 
 # 8.4.1 | Bugfix Patch
 
-![PatchNotes_841_FORUM.jpg](483-8-4-1-bugfix-patch/01-patchnotes-841-forum.jpg)
+![PatchNotes_841_FORUM.jpg](../../images/c4108822f8d49b3e-patchnotes-841-forum.jpg)
 
 ## Content
 
@@ -66,7 +66,7 @@ The Houndmaster’s Chase Command cooldown drops to 4 s, completed generators tu
 
 - Increased the Evil Within gain multiplier when stalking from up close to 0.6 *(was 0.4)*
 
-![bar1.png](483-8-4-1-bugfix-patch/02-bar1.png)
+![bar1.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Killer Perk Updates
 
@@ -79,7 +79,7 @@ The Houndmaster’s Chase Command cooldown drops to 4 s, completed generators tu
   - Affected Survivors see the item's aura.
   - When a Survivor picks up a Survivor item, they suffer the Oblivious status effect for 20/25/30 seconds.
 
-![bar.png](483-8-4-1-bugfix-patch/03-bar.png)
+![bar.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Bug Fixes
 

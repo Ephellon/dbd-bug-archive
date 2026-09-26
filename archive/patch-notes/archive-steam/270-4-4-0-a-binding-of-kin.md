@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/270-4-4-0-a-bindin
 author: "Peanits"
 published: "2020-12-01T15:31:27+00:00"
 updated: "2020-12-02T18:23:09+00:00"
-archived: "2026-09-26T16:41:34Z"
+archived: "2026-09-26T17:09:43Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ The update is a batch of fixes - correcting cloud-ID bans, chest interactions, a
 
 # 4.4.0 | A Binding of Kin
 
-![440Banner.png](270-4-4-0-a-binding-of-kin/01-440banner.png)
+![440Banner.png](../../images/a21843fd2ff37ea7-440banner.png)
 
 ## Features & Content
 
@@ -47,7 +47,7 @@ The update is a batch of fixes - correcting cloud-ID bans, chest interactions, a
 - Visual update to the Hatch and Totem.
 - Visual update on the Twins Lobby.
 
-![PatchNotesDivider.png](270-4-4-0-a-binding-of-kin/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/d693987990e49c09-patchnotesdivider-281-29.png)
 
 ## Bug Fixes
 
@@ -88,7 +88,7 @@ The update is a batch of fixes - correcting cloud-ID bans, chest interactions, a
 
 - Fixed an issue where the players would run at a slower speed when looking in certain directions
 
-![PatchNotesDivider.png](270-4-4-0-a-binding-of-kin/03-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/d693987990e49c09-patchnotesdivider-281-29.png)
 
 ## Known Issues
 
@@ -115,7 +115,7 @@ The update is a batch of fixes - correcting cloud-ID bans, chest interactions, a
 - Power Struggle: Stunning the killer with this perk will sometimes snap the killer to the other side of the pallet
 - Power Struggle: Survivors may become stuck inside pallets after using Power Struggle
 
-![PatchNotesDivider.png](270-4-4-0-a-binding-of-kin/04-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/d693987990e49c09-patchnotesdivider-281-29.png)
 
 ## Changes from PTB
 

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/328-5-6-2-bugfix-p
 author: "Peanits"
 published: "2022-03-23T14:28:09+00:00"
 updated: "2022-03-23T15:26:28+00:00"
-archived: "2026-09-26T16:40:45Z"
+archived: "2026-09-26T17:08:57Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Bloodletting, Vector Victory and Pulcinella cosmetics were corrected to no longe
 
 # 5.6.2 | Bugfix Patch
 
-![562Banner.png](328-5-6-2-bugfix-patch/01-562banner.png)
+![562Banner.png](../../images/60653aa7b4f70f9b-562banner.png)
 
 ## Bug Fixes
 
@@ -45,7 +45,7 @@ Bloodletting, Vector Victory and Pulcinella cosmetics were corrected to no longe
 - Fixed an issue that caused Survivor to instantly wiggle free when being downed while the Killer was carrying another Survivor with 90% or more wiggle progress.
 - Fixed an issue that caused the makeup to be missing from Elodie's 50's Night Out outfit icon.
 
-![PatchNotesDivider.png](328-5-6-2-bugfix-patch/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Known Issues
 

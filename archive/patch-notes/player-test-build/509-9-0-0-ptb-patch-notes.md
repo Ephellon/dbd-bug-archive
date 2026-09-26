@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/509-9-0-0-ptb-patc
 author: "ThatRyanB"
 published: "2025-05-27T16:00:27+00:00"
 updated: "2025-05-27T16:00:28+00:00"
-archived: "2026-09-26T16:40:57Z"
+archived: "2026-09-26T17:09:09Z"
 ---
 
 <!-- summary -->
@@ -21,14 +21,14 @@ The Animatronic killer, wielding a fire axe and a security-door system, arrives 
 
 # 9.0.0 | PTB Patch Notes
 
-![900_PatchNotes_Forums.jpg](509-9-0-0-ptb-patch-notes/01-900-patchnotes-forums.jpg)
+![900_PatchNotes_Forums.jpg](../../images/6a4ca06119828c24-900-patchnotes-forums.jpg)
 
 ## Important
 
 - Progress & save data information has been copied from the Live game to our PTB servers on ***20 May 2025***. Please note that players will be able to progress for the duration of the PTB, but none of that progress will make it back to the Live version of the game.
 - Players will once again receive 12,500 Auric Cells on the PTB to explore Outfits and Characters in the Store. Both Auric Cells and purchases made on the PTB Build will not transfer to the Live Build.
 
-![bar_red.png](509-9-0-0-ptb-patch-notes/02-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Content
 
@@ -49,7 +49,7 @@ The Animatronic killer, wielding a fire axe and a security-door system, arrives 
 - Using the Cameras and Doors too often will deplete the limited battery power available, forcing Survivors to wait until the system reboots. The Animatronic may travel between Security Doors with or without battery power.
 - If The Animatronic enters a Security Door, they may choose to exit from any other Door in the map. Moving to a Door already in use by a Survivor will cause The Animatronic to grab that Survivor.
 
-![bar_white.png](509-9-0-0-ptb-patch-notes/03-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### New Killer Perks
 
@@ -68,13 +68,13 @@ The Animatronic killer, wielding a fire axe and a security-door system, arrives 
 - Exit gates switches with at least 50% progress regress at a rate of **40/45/50%** of gate opening speed.
   - While they are regressing, Survivors see the exit gate lights flicker randomly.
 
-![bar_white.png](509-9-0-0-ptb-patch-notes/04-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### N**ew Map - Freddy Fazbear's Pizza
 
 - The rotting brainchild of a sadistic murderer still stands over the grassy plains. A place of joy for some, and unspeakable terror for others. Do not let the bright colors and parlor tricks deceive you; many have died within these walls, and many more will die still.
 
-![bar_red.png](509-9-0-0-ptb-patch-notes/05-bar-red.png)
+![bar_red.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## Quality of Life Improvements
 
@@ -157,7 +157,7 @@ The Animatronic killer, wielding a fire axe and a security-door system, arrives 
 - French can now be chosen for voiceovers on select characters:
   - Sable Ward, Gabriel Soma, The Good Guy, The Good Gal, Ellen Ripley & Rain are now available.
 
-![bar_red.png](509-9-0-0-ptb-patch-notes/06-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Gameplay Features
 
@@ -209,7 +209,7 @@ The Animatronic killer, wielding a fire axe and a security-door system, arrives 
 
 - Victor is now able to trigger chases with Survivors.
 
-![bar_white.png](509-9-0-0-ptb-patch-notes/07-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Killer Perks
 
@@ -255,7 +255,7 @@ The Animatronic killer, wielding a fire axe and a security-door system, arrives 
 - Increased reveal area to 36 meters *(was 24 meters).*
 - Increased Survivor aura reveal to 4/5/6 seconds *(was 3/4/5 seconds).*
 
-![bar_white.png](509-9-0-0-ptb-patch-notes/08-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Survivor Perks
 
@@ -291,7 +291,7 @@ The Animatronic killer, wielding a fire axe and a security-door system, arrives 
 - Injured Survivor(s) can now see the aura of Survivor(s) with Empathic Connection anywhere on a map *(was 32/64/96 meters).*
 - Updated healing speed bonus to other Survivors to 25/30/35% across Tiers *(was 30% across all Tiers).*
 
-![bar_white.png](509-9-0-0-ptb-patch-notes/09-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Emblem Updates
 
@@ -312,13 +312,13 @@ The Animatronic killer, wielding a fire axe and a security-door system, arrives 
 - Increased Evader chase multiplier at 10 meters to 1x *(was 0.6x)*.
 - Decreased Evader chase multiplier at 6 meters to 1x *(was 1.2x)*.
 
-![bar_white.png](509-9-0-0-ptb-patch-notes/10-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Map Showcase
 
 - Added new Map Game Mode that allows for players to queue up for a single, predetermined map.
 
-![bar_red.png](509-9-0-0-ptb-patch-notes/11-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Bug Fixes
 
@@ -353,7 +353,7 @@ The Animatronic killer, wielding a fire axe and a security-door system, arrives 
 
 - Fixed an issue where the durability icon remained visible after emptying a Toolbox with the Streetwise perk equipped.
 
-![bar_red.png](509-9-0-0-ptb-patch-notes/12-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Known Issues
 

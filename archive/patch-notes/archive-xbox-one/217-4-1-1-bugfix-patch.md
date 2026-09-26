@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/217-4-1-1-bugfix-p
 author: "PatBrutal"
 published: "2020-08-05T14:34:09+00:00"
 updated: "2020-08-05T14:34:09+00:00"
-archived: "2026-09-26T16:41:55Z"
+archived: "2026-09-26T17:10:02Z"
 ---
 
 <!-- summary -->
@@ -23,13 +23,13 @@ Arcane aura visuals were swapped for a more visible version and dozens of add-on
 
 *This article was created from a* [*community discussion*](https://forum.deadbydaylight.com/en/discussion/177558/xbox-4-1-1-bugfix-patch)*.*
 
-![411Banner.png](217-4-1-1-bugfix-patch/01-411banner.png)
+![411Banner.png](../../images/797bdba5b15dc3ce-411banner.png)
 
 ## Features
 
 - Updated Auras: Patch 4.1.0 introduced a brand new aura system with new aura visuals. While we received positive feedback regarding their style, the consensus seems to be that they were not sufficiently visible, especially for small objects, at long range or in bright environments. In light of this, we have temporarily replaced the new aura visuals with a different type that should be much easier to see. Expect further aura improvements in future releases.
 
-![PatchNotesDivider.png](217-4-1-1-bugfix-patch/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/d693987990e49c09-patchnotesdivider-281-29.png)
 
 ## Balance
 
@@ -89,7 +89,7 @@ Finally, we've updated Speed Limiter to grant you even more bloodpoints on Chain
 - Get 100% more points for Chainsaw score events.
 - Updated rarity to Common (from Uncommon)
 
-![PatchNotesDividerSmolWhite.png](217-4-1-1-bugfix-patch/03-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/3e51648d555c8a4c-patchnotesdividersmolwhite.png)
 
 ### The Hillbilly
 
@@ -163,7 +163,7 @@ Like The Cannibal's Speed Limiter, we've increased the bloodpoint bonus and chan
 - Get 100% more points for Chainsaw score events
 - Updated rarity to Common (from Uncommon)
 
-![PatchNotesDivider.png](217-4-1-1-bugfix-patch/04-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/d693987990e49c09-patchnotesdivider-281-29.png)
 
 ## Bug Fixes
 

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/1-1-9-4-1-9-4c-emb
 author: "Peanits"
 published: "2020-02-28T16:58:00+00:00"
 updated: "2020-03-02T14:23:17+00:00"
-archived: "2026-09-26T16:41:19Z"
+archived: "2026-09-26T17:09:28Z"
 ---
 
 <!-- summary -->

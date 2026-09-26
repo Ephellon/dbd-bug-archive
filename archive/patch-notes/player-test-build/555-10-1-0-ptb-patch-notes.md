@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/555-10-1-0-ptb-pat
 author: "ThatRyanB"
 published: "2026-08-04T14:30:17+00:00"
 updated: "2026-08-04T14:30:18+00:00"
-archived: "2026-09-26T16:40:55Z"
+archived: "2026-09-26T17:09:06Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The Judgment arrives as a new killer with the Will of the Gods power, letting pl
 
 # 10.1.0 | PTB Patch Notes
 
-![DBD_1010_CHAPTER_SOCIAL_PTB_OVERVIEW_INFOGRAPHIC_16-9.jpg](555-10-1-0-ptb-patch-notes/01-dbd-1010-chapter-social-ptb-overview-infographic-16-9.jpg)
+![DBD_1010_CHAPTER_SOCIAL_PTB_OVERVIEW_INFOGRAPHIC_16-9.jpg](../../images/5efecd7836d64a6b-dbd-1010-chapter-social-ptb-overview-infographic.jpg)
 
 ## Features
 
@@ -87,7 +87,7 @@ The Judgment arrives as a new killer with the Will of the Gods power, letting pl
 - **Lay Waste**
   - Whenever you damage a Generator, for each Charge it has, it regresses 2% faster. Cooldown: 55/50/45s.
 
-![bar_white.png](555-10-1-0-ptb-patch-notes/02-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### New Survivor: Aurora
 
@@ -110,7 +110,7 @@ The Judgment arrives as a new killer with the Will of the Gods power, letting pl
     - Survivors repair them 8/9/10% faster.
   - Survivors within the Boon's range see the Auras of affected Generators.
 
-![bar_red.png](555-10-1-0-ptb-patch-notes/03-bar-red.png)
+![bar_red.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## Content
 
@@ -120,7 +120,7 @@ The Judgment arrives as a new killer with the Will of the Gods power, letting pl
   - Anytime a Survivor is unhooked, they gain Endurance and 10% Haste for **10 seconds.** *(was 15 seconds)*
   - Anytime a Survivor is unhooked, they gain Elusive for **10 seconds**. *(NEW - This does not apply once all generators are powered)*
 
-![bar_white.png](555-10-1-0-ptb-patch-notes/04-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Killer perk updates
 
@@ -149,7 +149,7 @@ The Judgment arrives as a new killer with the Will of the Gods power, letting pl
   - Whenever you damage a Generator, for **3/4/5s**, you see the Auras of Survivors within **18m** of you. *(was 24 meters)*
   - *Dev note: We are planning to update this perk based on the reception of the above change after it was announced. Nowhere to Hide will go back to 24 meters, but will reveal Survivors near the Generator instead of the Killer's location.*
 
-![bar_white.png](555-10-1-0-ptb-patch-notes/05-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Survivor perk updates
 
@@ -190,7 +190,7 @@ The Judgment arrives as a new killer with the Will of the Gods power, letting pl
     - The range of Generator repair noises is **16m** shorter. *(was 8 meters)*
     - Whenever you miss a basic Skill Check, the Generator does not explode, but loses **4/3/2%** more progress. *(was 5/4/3%)*
 
-![bar_white.png](555-10-1-0-ptb-patch-notes/06-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ## UX
 
@@ -212,7 +212,7 @@ The Judgment arrives as a new killer with the Will of the Gods power, letting pl
   - The hook timer has been split into two bars, to better clarify the second hook state and death triggers.
   - Updated for scenarios when a Survivor is on a hook, in a Cage of Corruption (Game Mode: 2V8) or Cage of Torment (The Executioner), and in Exile (The Judgment).
 
-![bar_red.png](555-10-1-0-ptb-patch-notes/07-bar-red.png)
+![bar_red.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## Bug Fixes
 
@@ -291,7 +291,7 @@ The Judgment arrives as a new killer with the Will of the Gods power, letting pl
 
 - Fixed an issue where XESS Mode was unable to be applied with TAA enabled.
 
-![bar_red.png](555-10-1-0-ptb-patch-notes/08-bar-red.png)
+![bar_red.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## Known Issues
 

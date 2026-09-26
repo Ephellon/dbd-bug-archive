@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/511-9-0-1-bugfix-p
 author: "ThatRyanB"
 published: "2025-06-26T14:29:35+00:00"
 updated: "2025-06-26T15:45:10+00:00"
-archived: "2026-09-26T16:40:14Z"
+archived: "2026-09-26T17:08:31Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ AFK Crows now grant points more slowly, with longer intervals (120-180 s), a 30-
 
 # 9.0.1 | Bugfix Patch
 
-![901_PatchNotes_Forum.jpg](511-9-0-1-bugfix-patch/01-901-patchnotes-forum.jpg)
+![901_PatchNotes_Forum.jpg](../../images/d4ea0079946bfa61-901-patchnotes-forum.jpg)
 
 ## Features
 
@@ -33,7 +33,7 @@ AFK Crows now grant points more slowly, with longer intervals (120-180 s), a 30-
 - Decreased the rate at which AFK points accrue after Exit Gates are powered to 25% *(NEW).*
 - Reset AFK points upon completing interactions *(previously removed 60 AFK points).*
 
-![bar_red.png](511-9-0-1-bugfix-patch/02-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Content
 
@@ -57,7 +57,7 @@ AFK Crows now grant points more slowly, with longer intervals (120-180 s), a 30-
 
 - The 9th Anniversary "Twisted Masquerade" event returns Thursday, June 26th at 11:00 AM Eastern.
 
-![bar_red.png](511-9-0-1-bugfix-patch/03-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Bug Fixes
 
@@ -138,7 +138,7 @@ AFK Crows now grant points more slowly, with longer intervals (120-180 s), a 30-
 
 - Fixed an issue that caused the pick up interaction to have higher priority over Locker Search when a downed Survivor is next to a locker.
 
-![bar_red.png](511-9-0-1-bugfix-patch/04-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Known Issues
 

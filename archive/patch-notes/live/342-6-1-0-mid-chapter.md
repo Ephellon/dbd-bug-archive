@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/342-6-1-0-mid-chap
 author: "Mandy"
 published: "2022-07-19T14:30:21+00:00"
 updated: "2022-07-19T14:30:21+00:00"
-archived: "2026-09-26T16:40:43Z"
+archived: "2026-09-26T17:08:56Z"
 ---
 
 <!-- summary -->
@@ -21,14 +21,14 @@ Mid-Chapter 6.1.0 introduces Tome 12 “DISCORDANCE,” adds five new maze tiles
 
 # 6.1.0 | Mid-Chapter 
 
-![banner[1].png](342-6-1-0-mid-chapter/01-banner-5b1-5d.png)
+![banner[1].png](../../images/99c45dea82ff31c2-banner-5b1-5d.png)
 
 ## CONTENT
 
 - "Tome 12: DISCORDANCE" of The Archives (starts July 20th 11AM ET)
 - Added 5 maze tiles to the pool in the McMillan Estate map
 
-![User: "patchnotesdividersmolwhite[1].png"](342-6-1-0-mid-chapter/02-patchnotesdividersmolwhite-5b1-5d.png)
+![User: "patchnotesdividersmolwhite[1].png"](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ## GAMEPLAY
 
@@ -48,7 +48,7 @@ Mid-Chapter 6.1.0 introduces Tome 12 “DISCORDANCE,” adds five new maze tiles
 - Endurance status effect is now cancelled by Conspicuous Actions
 - Endurance does not prevent a Survivor from entering the dying state if they are inflicted with Deep Wound
 
-![patchnotesdividersmolwhite[1].png](342-6-1-0-mid-chapter/03-patchnotesdividersmolwhite-5b1-5d.png)
+![patchnotesdividersmolwhite[1].png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ## KILLER PERKS
 
@@ -95,7 +95,7 @@ Mid-Chapter 6.1.0 introduces Tome 12 “DISCORDANCE,” adds five new maze tiles
 - **Tinkerer**
   - Added: This effect can only be triggered once on each generator.
 
-![patchnotesdividersmolwhite[1].png](342-6-1-0-mid-chapter/04-patchnotesdividersmolwhite-5b1-5d.png)
+![patchnotesdividersmolwhite[1].png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ## Survivor Perks
 
@@ -164,7 +164,7 @@ Mid-Chapter 6.1.0 introduces Tome 12 “DISCORDANCE,” adds five new maze tiles
 - **We're Gonna Live Forever**
   - Reworked: When healing another Survivor in the dying state, your healing speed is increased by 100%. Additionally, performing any of the following actions activates this perk's secondary function: Perform a Safe Hook Rescue, Take a hit to protect a Survivor, Rescue a Survivor by stunning the Killer with a pallet, Rescue a Survivor by blinding the Killer with a Flashlight. When this perk's secondary function is active, healing another Survivor out of the dying state grants them Endurance for 6/8/10 seconds and deactivates the secondary function.
 
-![patchnotesdividersmolwhite[1].png](342-6-1-0-mid-chapter/05-patchnotesdividersmolwhite-5b1-5d.png)
+![patchnotesdividersmolwhite[1].png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ## Progression
 
@@ -213,7 +213,7 @@ Mid-Chapter 6.1.0 introduces Tome 12 “DISCORDANCE,” adds five new maze tiles
 - Purchasing a Perk that you already have at Tier 3 will convert the Iridescent Shards to 100,000 Bloodpoints
   - This can only be done once Shrine of Secrets rotation per Perk (maximum of 4 times on a single rotation, assuming you have all 4 Perks already at Tier 3)
 
-![patchnotesdividersmolwhite[1].png](342-6-1-0-mid-chapter/06-patchnotesdividersmolwhite-5b1-5d.png)
+![patchnotesdividersmolwhite[1].png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ## Matchmaking Incentives
 
@@ -223,7 +223,7 @@ Mid-Chapter 6.1.0 introduces Tome 12 “DISCORDANCE,” adds five new maze tiles
   - *Note: Players can also expect queues with a large Incentive bonus to have faster queue times!*
 - Matchmaking Incentives will appear on the Main menu and in the Lobby next to the Ready button.
 
-![patchnotesdividersmolwhite[1].png](342-6-1-0-mid-chapter/07-patchnotesdividersmolwhite-5b1-5d.png)
+![patchnotesdividersmolwhite[1].png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ## UI
 
@@ -231,14 +231,14 @@ Mid-Chapter 6.1.0 introduces Tome 12 “DISCORDANCE,” adds five new maze tiles
 - Character Info button has been moved to the side tabs in the Lobby UI.
 - Replaced Character Swap buttons/prompts with a Previous/Next button in the Lobby UI footer.
 
-![patchnotesdividersmolwhite[1].png](342-6-1-0-mid-chapter/08-patchnotesdividersmolwhite-5b1-5d.png)
+![patchnotesdividersmolwhite[1].png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ## Optimization
 
 - Optimized the Doctor's performance.
   - *Dev Note: The Doctor currently has one of the largest impacts on performance for Killers. These performance optimizations should help improve that on all platforms.*
 
-![patchnotesdividersmolwhite[1].png](342-6-1-0-mid-chapter/09-patchnotesdividersmolwhite-5b1-5d.png)
+![patchnotesdividersmolwhite[1].png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ## Changes from PTB
 
@@ -259,7 +259,7 @@ Mid-Chapter 6.1.0 introduces Tome 12 “DISCORDANCE,” adds five new maze tiles
 - Inner Focus no longer has a distance restriction on viewing scratch marks
   - *Dev Note: On the PTB we saw many instances where Survivors were able to queue up several instances of Endurance one after the other, and being able to tank far too many additional hits. Changing Endurance to not trigger when a player has Deep Wounds will prevent this from being as effective, as Survivors will now need to mend the Deep Wound in order to benefit from Endurance a second time. Off The Record was also proving to be too strong during the end game, since there are no required Conspicuous Actions at that point, and will now disable once the gates have been powered.*
 
-![patchnotesdividersmolwhite[1].png](342-6-1-0-mid-chapter/10-patchnotesdividersmolwhite-5b1-5d.png)
+![patchnotesdividersmolwhite[1].png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ## Bug Fixes
 
@@ -361,7 +361,7 @@ Mid-Chapter 6.1.0 introduces Tome 12 “DISCORDANCE,” adds five new maze tiles
 
 - Fixed an issue where after extended periods of play, the application would run out of memory after quitting the Tally Screen.
 
-![patchnotesdividersmolwhite[1].png](342-6-1-0-mid-chapter/11-patchnotesdividersmolwhite-5b1-5d.png)
+![patchnotesdividersmolwhite[1].png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ## Fixed from PTB
 
@@ -384,7 +384,7 @@ Mid-Chapter 6.1.0 introduces Tome 12 “DISCORDANCE,” adds five new maze tiles
 - Fixed an issue that caused several actions not to be blocked during the tutorial.
 - Fixed an issue that caused Bill's cigarette smoke to be misaligned.
 
-![patchnotesdividersmolwhite[1].png](342-6-1-0-mid-chapter/12-patchnotesdividersmolwhite-5b1-5d.png)
+![patchnotesdividersmolwhite[1].png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ## Known Issues
 

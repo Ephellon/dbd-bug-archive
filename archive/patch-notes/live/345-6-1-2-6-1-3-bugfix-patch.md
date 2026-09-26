@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/345-6-1-2-6-1-3-bu
 author: "Peanits"
 published: "2022-08-02T14:24:15+00:00"
 updated: "2022-08-02T15:00:00+00:00"
-archived: "2026-09-26T16:40:42Z"
+archived: "2026-09-26T17:08:55Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ Alongside these changes the patch delivers a broad suite of fixes: visual and an
 
 # 6.1.2/6.1.3 | Bugfix Patch
 
-![612Banner.png](345-6-1-2-6-1-3-bugfix-patch/01-612banner.png)
+![612Banner.png](../../images/658a01fda721dd7a-612banner.png)
 
 The 6.1.2 & 6.1.3 Bugfix Patches go live today. These updates include fixes for a number of issues as well as several balance changes.
 

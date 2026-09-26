@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/453-8-0-1-bugfix-p
 author: "Peanits"
 published: "2024-06-13T14:25:32+00:00"
 updated: "2024-06-13T14:25:32+00:00"
-archived: "2026-09-26T16:40:23Z"
+archived: "2026-09-26T17:08:39Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ The patch also fixes audio (The Legion’s outfit voice), bot interactions, nume
 
 # 8.0.1 | Bugfix Patch
 
-![CA_DBD_0424_Churros_Patch_Notes_Assets_Bugfix01_FORUM.png](453-8-0-1-bugfix-patch/01-ca-dbd-0424-churros-patch-notes-assets-bugfix01-forum.png)
+![CA_DBD_0424_Churros_Patch_Notes_Assets_Bugfix01_FORUM.png](../../images/4ad0839a9bb48265-ca-dbd-0424-churros-patch-notes-assets-bugfix01-.png)
 
 ## Content
 
@@ -34,7 +34,7 @@ The patch also fixes audio (The Legion’s outfit voice), bot interactions, nume
 
 *Dev note: Currently, The Good Guy's Power incorrectly starts to recharge as soon as the Slice & Dice attack is started rather than after it finishes, making his Power recharge much faster than intended. This will be corrected in the near future. In the meantime, we have toned down these Add-Ons to make sure they don't get out of hand. They will return to their normal strength once this is resolved.*
 
-![PatchNotesDivider.png](453-8-0-1-bugfix-patch/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Features
 
@@ -42,7 +42,7 @@ The patch also fixes audio (The Legion’s outfit voice), bot interactions, nume
 
 - Added an option on the Graphic settings menu for players to choose between the use of the full sized item preview or reduced item preview during matches.
 
-![PatchNotesDivider.png](453-8-0-1-bugfix-patch/03-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 
@@ -128,7 +128,7 @@ The patch also fixes audio (The Legion’s outfit voice), bot interactions, nume
 - Basic attacks with 'Undetectable' status gained from perks and add-ons now correctly count towards 'Outta Nowhere' achievement
 - Killers with the Ivory Memento Mori Offering can Mori Survivors on the 1st Hook stage when they self-unhook at the very last second.
 
-![PatchNotesDivider.png](453-8-0-1-bugfix-patch/04-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Known Issues
 

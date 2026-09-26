@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/323-5-5-2-bugfix-p
 author: "Peanits"
 published: "2022-02-09T15:27:53+00:00"
 updated: "2022-02-09T15:27:53+00:00"
-archived: "2026-09-26T16:40:46Z"
+archived: "2026-09-26T17:08:58Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Boil Over now restores 33 % of current wiggle progress when falling from great h
 
 # 5.5.2 | Bugfix Patch
 
-![552Banner.png](323-5-5-2-bugfix-patch/01-552banner.png)
+![552Banner.png](../../images/74599a99c2126091-552banner.png)
 
 ## Content
 
@@ -32,7 +32,7 @@ Boil Over now restores 33 % of current wiggle progress when falling from great h
 
 - Changed "Rite of The Executioner" Daily Ritual to require sending 2 Survivors to Cages of Atonement (was 4)
 
-![PatchNotesDivider.png](323-5-5-2-bugfix-patch/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 

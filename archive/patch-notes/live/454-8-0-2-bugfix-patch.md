@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/454-8-0-2-bugfix-p
 author: "Peanits"
 published: "2024-06-19T14:25:45+00:00"
 updated: "2024-06-19T15:26:45+00:00"
-archived: "2026-09-26T16:40:23Z"
+archived: "2026-09-26T17:08:39Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The Lich got several tweaks: Mage Hand now lifts pallets slower (0.35→0.5 s), 
 
 # 8.0.2 | Bugfix Patch
 
-![CA_DBD_0424_Churros_Patch_Notes_Assets_Bugfix02_FORUM.png](454-8-0-2-bugfix-patch/01-ca-dbd-0424-churros-patch-notes-assets-bugfix02-forum.png)
+![CA_DBD_0424_Churros_Patch_Notes_Assets_Bugfix02_FORUM.png](../../images/5965875fcad119bf-ca-dbd-0424-churros-patch-notes-assets-bugfix02-.png)
 
 ## Content
 
@@ -31,7 +31,7 @@ The Lich got several tweaks: Mage Hand now lifts pallets slower (0.35→0.5 s), 
 - In the Forgotten Ruins Map, Passage locations have been adjusted to avoid being directly beside vaults and pallets.
 - Passage interaction time has been extended by 0.15 seconds for Survivors and shortened by 0.25 seconds for Killers.
 
-![PatchNotesDividerSmolWhite.png](454-8-0-2-bugfix-patch/02-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
 ### Characters
 
@@ -42,7 +42,7 @@ The Lich got several tweaks: Mage Hand now lifts pallets slower (0.35→0.5 s), 
 - Addon Ring of Telekinesis: Activating Mage Hand on an Upward pallet increases your general vault Speed by 10% for the next 8 seconds.
 - Addon Vorpal Sword: Increasing time to break pallet from 2.2 seconds to 3.2 seconds.
 
-![PatchNotesDivider.png](454-8-0-2-bugfix-patch/03-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 

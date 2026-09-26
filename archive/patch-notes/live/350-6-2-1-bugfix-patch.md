@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/350-6-2-1-bugfix-p
 author: "Peanits"
 published: "2022-09-06T14:21:18+00:00"
 updated: "2022-09-06T14:21:18+00:00"
-archived: "2026-09-26T16:40:41Z"
+archived: "2026-09-26T17:08:54Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ The update also addressed a range of bugs, including a subtle camera offset caus
 
 # 6.2.1 | Bugfix Patch
 
-![621Banner.png](350-6-2-1-bugfix-patch/01-621banner.png)
+![621Banner.png](../../images/1febd008799c1c75-621banner.png)
 
 ## Features
 
@@ -37,7 +37,7 @@ The update also addressed a range of bugs, including a subtle camera offset caus
 
 - Visual feedback has been updated for the "Glyph Massacre" orange glyph challenge.
 
-![PatchNotesDivider.png](350-6-2-1-bugfix-patch/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 

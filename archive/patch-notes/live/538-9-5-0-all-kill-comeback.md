@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/538-9-5-0-all-kill
 author: "ThatRyanB"
 published: "2026-03-17T14:30:07+00:00"
 updated: "2026-03-17T14:30:07+00:00"
-archived: "2026-09-26T16:40:09Z"
+archived: "2026-09-26T17:08:26Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ All perk descriptions for killers and survivors were rewritten for clearer, shor
 
 # 9.5.0 | All-Kill: Comeback
 
-![DbD_950_PatchNotesAssetsRelease_FORUM.png](538-9-5-0-all-kill-comeback/01-dbd-950-patchnotesassetsrelease-forum.png)
+![DbD_950_PatchNotesAssetsRelease_FORUM.png](../../images/3cc73d67b2f9a4f1-dbd-950-patchnotesassetsrelease-forum.png)
 
 ## CONTENT
 
@@ -31,7 +31,7 @@ All perk descriptions for killers and survivors were rewritten for clearer, shor
 
 - The Sleepless District will be the new Realm
 
-![bar_white.png](538-9-5-0-all-kill-comeback/02-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### NEW SURVIVOR: KWON TAE-YOUNG
 
@@ -58,7 +58,7 @@ All perk descriptions for killers and survivors were rewritten for clearer, shor
   - After you drop a Pallet, you start moving **50%** earlier.
   - Whenever you drop a Pallet, cooldown: **40/35/30**s.
 
-![bar_red.png](538-9-5-0-all-kill-comeback/03-bar-red.png)
+![bar_red.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## GAMEPLAY FEATURES
 
@@ -247,7 +247,7 @@ All perk descriptions for killers and survivors were rewritten for clearer, shor
 - Adjusted Reticule stickiness on Survivor from 0.18 to 0.05 seconds when attempting a Kagune grabs.
 - Killer can no longer automatically damages nearby Survivors following a Leap vault.
 
-![bar_white.png](538-9-5-0-all-kill-comeback/04-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Killer Actions Update
 
@@ -351,7 +351,7 @@ All perk descriptions for killers and survivors were rewritten for clearer, shor
   - Chemical Trap
   - Bada Bada Boom
 
-![bar_white.png](538-9-5-0-all-kill-comeback/05-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Survivor Item Update
 
@@ -375,7 +375,7 @@ All perk descriptions for killers and survivors were rewritten for clearer, shor
   - Increased Fog Cloud increased opacity bonus to 100% *(was 5%)*.
   - *Note: the increased bonus opacity is relative to the new Fog Cloud visual effect.*
 
-![bar_white.png](538-9-5-0-all-kill-comeback/06-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Survivor Perk Updates
 
@@ -399,7 +399,7 @@ All perk descriptions for killers and survivors were rewritten for clearer, shor
 - While downed, you recover 25/30/35% faster.
 - *Note:* *now only grants the Survivor the ability to recover when the Killer was specifically responsible for them entering the downed state.*
 
-![bar_white.png](538-9-5-0-all-kill-comeback/07-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Killer Perk Updates
 
@@ -426,7 +426,7 @@ All perk descriptions for killers and survivors were rewritten for clearer, shor
 
 - Updated to trigger earlier when Generators are completed to block healing abilities of Survivors occurring simultaneously.
 
-![bar_red.png](538-9-5-0-all-kill-comeback/08-bar-red.png)
+![bar_red.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## FEATURES
 
@@ -444,7 +444,7 @@ All perk descriptions for killers and survivors were rewritten for clearer, shor
     - Keybindings associated with a Perk's activated effect are now displayed within a Perk's text description.
       - Examples: Dead Hard, Come And Get Me!, Dramaturgy, etc.
 
-![bar_white.png](538-9-5-0-all-kill-comeback/09-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Auras Customization
 
@@ -459,7 +459,7 @@ All perk descriptions for killers and survivors were rewritten for clearer, shor
   - Windows
 - Store: Players can use a "Clear all" button to remove active notifications
 
-![bar_white.png](538-9-5-0-all-kill-comeback/10-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### New Prestige Menu & Rewards System:
 
@@ -467,7 +467,7 @@ All perk descriptions for killers and survivors were rewritten for clearer, shor
   - Simply clicking on your characters' Prestige level will let you access and track your progress
 - New rewards given at Prestige 25, 50, 75 & 100 per character
 
-![bar_red.png](538-9-5-0-all-kill-comeback/11-bar-red.png)
+![bar_red.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## Bug Fixes
 
@@ -613,7 +613,7 @@ Refactor done in the Virulent Bound power. This specifically tackles the desync 
 - Fixed an issue where the Potent Extract Fog Vial add-on had no effect on the duration.
 - Fixed an issue where pink fog appears briefly behind the Killer after previewing a Mori.
 
-![bar_red.png](538-9-5-0-all-kill-comeback/12-bar-red.png)
+![bar_red.png](../../images/840d6b2b6b1051a9-bar-red-2.png)
 
 ## Changes from PTB
 
@@ -628,7 +628,7 @@ Refactor done in the Virulent Bound power. This specifically tackles the desync 
 - Increased cooldown by 10 seconds for each perk tier.
 - Clarified the text description of the "pallet-dropping speed" effect. *(no gameplay change)*
 
-![bar_white.png](538-9-5-0-all-kill-comeback/13-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Killer Updates
 
@@ -699,7 +699,7 @@ Refactor done in the Virulent Bound power. This specifically tackles the desync 
   - While Cloaked, uncloak whenever you basic-break Pallets or Breakable Walls, **explode or damage Generators** *(previously included "Generator Damage" events only)*.
   - *Note: updated the add-on's behavior to be more consistent across all existing Generator Damage and Generator Explosion effects that can trigger while The Wraith is cloaked.*
 
-![bar_white.png](538-9-5-0-all-kill-comeback/14-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Survivor Perk Updates
 
@@ -711,7 +711,7 @@ Refactor done in the Virulent Bound power. This specifically tackles the desync 
   - You leave no Scratch Marks.
 - *Note: Reverted all previous changes and enabled multiple triggers per Trial. Updated text to more accurately convey previous usage of "last Survivor standing" the Perk's description.*
 
-![bar_white.png](538-9-5-0-all-kill-comeback/15-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ## Feature Updates
 
@@ -722,7 +722,7 @@ Resident Evil Prestige Badges have been added.
 - The Prestige Badges for Vittorio Toscano, Nancy Wheeler, and Dustin Henderson have had an update
 - Fixed an issue where the incorrect Prestige Badges were displaying in the Reward track of some Survivors.
 
-![bar_white.png](538-9-5-0-all-kill-comeback/16-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ## Bug Fixes
 

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/371-6-5-0-mid-chap
 author: "Peanits"
 published: "2023-01-24T15:25:24+00:00"
 updated: "2023-01-24T15:33:46+00:00"
-archived: "2026-09-26T16:40:38Z"
+archived: "2026-09-26T17:08:52Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Mid-chapter 6.5.0 launches the Moonlight Burrow Lunar New Year event and opens T
 
 # 6.5.0 | Mid-Chapter
 
-![650Banner.png](371-6-5-0-mid-chapter/01-650banner.png)
+![650Banner.png](../../images/7c8b7db236a5ed31-650banner.png)
 
 ## Content
 
@@ -40,7 +40,7 @@ Mid-chapter 6.5.0 launches the Moonlight Burrow Lunar New Year event and opens T
 - "Near Miss" Survivor Challenge: Dodging Basic Attacks from The Oni and The Ghost Face (while crouched) now awards progress.
 - "The Engineer's Guild" Survivor Challenge: Progress is now cumulative and no longer resets when the co-op action is interrupted.
 
-![PatchNotesDivider.png](371-6-5-0-mid-chapter/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Features
 
@@ -71,7 +71,7 @@ Based on the feedback we’ve received from players – thank you very much – 
 - Survivors no longer shorten carry time by hitting Great Skill Checks. Instead, Great Skill Checks will increase resistance for the Killer.
 - The size of the Great Skill Check zone has been slightly increased. We’ve also updated the Wiggling sound effects for improved feedback.
 
-![PatchNotesDivider.png](371-6-5-0-mid-chapter/03-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Balance Changes
 
@@ -89,7 +89,7 @@ Now that the Forged In Fog Chapter has been released for several weeks, we have 
 
 - **Healing Poultice:** When Survivors are within 24m of The Assassin when he spawns, their locations will be revealed for 5 seconds (up from 3).
 
-![PatchNotesDividerSmolWhite.png](371-6-5-0-mid-chapter/04-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ### The Nurse
 
@@ -120,7 +120,7 @@ We’ve also adjusted the following:
 - Improved feedback for the Spasmodic Breath Add-On.
 - Updated Blink recharge audio to give a better indication of when Blink charges are full.
 
-![PatchNotesDividerSmolWhite.png](371-6-5-0-mid-chapter/05-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ### Eyrie of Crows Map
 
@@ -136,7 +136,7 @@ Eyrie of Crows has received an additional balance pass to make the Map more fun 
 - Certain rocks will no longer spawn close to Hooks, causing collision issues.
 - An alternate Generator has been added to the main building.
 
-![PatchNotesDivider.png](371-6-5-0-mid-chapter/06-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 
@@ -224,7 +224,7 @@ Eyrie of Crows has received an additional balance pass to make the Map more fun 
 - The Entity Spikes at the Exit Gates should now appear as intended.
 - Fixed an issue causing the Dissolve VFX not to not appear when a Breakable Wall is destroyed.
 
-![PatchNotesDivider.png](371-6-5-0-mid-chapter/07-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes from PTB
 
@@ -319,7 +319,7 @@ Eyrie of Crows has received an additional balance pass to make the Map more fun 
 - The Wiggle UI will no longer appear incorrectly during the Survivor Tutorial.
 - Added an outline to the Chat text to improve contrast.
 
-![PatchNotesDivider.png](371-6-5-0-mid-chapter/08-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Known Issues
 

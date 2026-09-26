@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/219-4-1-2-bug-fix-
 author: "PatBrutal"
 published: "2020-08-11T14:31:12+00:00"
 updated: "2020-08-11T14:31:12+00:00"
-archived: "2026-09-26T16:41:18Z"
+archived: "2026-09-26T17:09:28Z"
 ---
 
 <!-- summary -->
@@ -25,7 +25,7 @@ The patch also addressed several bugs: it ensures the Hillbilly's chainsaw charg
 
 *This article was created from a* [*community discussion*](https://forum.deadbydaylight.com/en/discussion/180981/steam-bug-fix-patch-4-1-2)*.*
 
-![412Banner (1).png](219-4-1-2-bug-fix-patch/01-412banner-281-29.png)
+![412Banner (1).png](../../images/8768a5184bf84d5d-412banner-281-29.png)
 
 ## Balance
 
@@ -35,7 +35,7 @@ The Overheat mechanic was added to limit The Hillbilly's ability to always use h
 
 - Decreased the base heat dissipation rate from -5 charges/second to -3.5 charges/second
 
-![PatchNotesDivider (1).png](219-4-1-2-bug-fix-patch/02-patchnotesdivider-281-29.png)
+![PatchNotesDivider (1).png](../../images/d693987990e49c09-patchnotesdivider-281-29.png)
 
 ## Bug Fixes
 

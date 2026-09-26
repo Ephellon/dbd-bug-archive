@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/367-6-4-2-bugfix-p
 author: "Omnia"
 published: "2022-12-06T15:29:31+00:00"
 updated: "2022-12-15T14:09:37+00:00"
-archived: "2026-09-26T16:40:39Z"
+archived: "2026-09-26T17:08:52Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The Knight’s guards now apply the Killer’s default 2.5% generator regression
 
 # 6.4.2 | Bugfix Patch
 
-![bugfixpatch642.png](367-6-4-2-bugfix-patch/01-bugfixpatch642.png)
+![bugfixpatch642.png](../../images/d9719e8cac59ae58-bugfixpatch642.png)
 
 ## Content
 
@@ -33,7 +33,7 @@ The Knight’s guards now apply the Killer’s default 2.5% generator regression
 
 - **BUFF:** When Guards damage Generators, they now apply the Killer’s default **2.5%** regression loss. This regression is not affected by Perks.
 
-![patchnotesdivider copie.png](367-6-4-2-bugfix-patch/02-patchnotesdivider-copie.png)
+![patchnotesdivider copie.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## BUG FIXES
 
@@ -78,7 +78,7 @@ The Knight’s guards now apply the Killer’s default 2.5% generator regression
 - Survivors no longer suffer from distorted lips during select actions.
 - The Killer’s loadout no longer displays while spectating a Survivor during a custom game.
 
-![patchnotesdivider copie.png](367-6-4-2-bugfix-patch/03-patchnotesdivider-copie.png)
+![patchnotesdivider copie.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## KNOWN ISSUES
 

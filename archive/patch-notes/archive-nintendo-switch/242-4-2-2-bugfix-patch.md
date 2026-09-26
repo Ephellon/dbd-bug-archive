@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/242-4-2-2-bugfix-p
 author: "Peanits"
 published: "2020-09-24T14:33:39+00:00"
 updated: "2020-09-24T14:33:41+00:00"
-archived: "2026-09-26T16:42:18Z"
+archived: "2026-09-26T17:10:26Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The Blight now breaks pallets and breakable walls by attacking during a Lethal D
 
 # 4.2.2 | Bugfix Patch
 
-![422Banner.png](242-4-2-2-bugfix-patch/01-422banner.png)
+![422Banner.png](../../images/b15e79c13de7cd2b-422banner.png)
 
 ## Features & Content
 
@@ -30,7 +30,7 @@ The Blight now breaks pallets and breakable walls by attacking during a Lethal D
 - The Blight can now break pallets and breakable walls by attacking during a Lethal Dash
 - The Blight add-on "Compound 21" has been adjusted, changing the reveal range from 16 meters to 8 meters and the duration of the effect is reduced from 6 seconds to 3 seconds
 
-![PatchNotesDivider.png](242-4-2-2-bugfix-patch/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/d693987990e49c09-patchnotesdivider-281-29.png)
 
 ## Bug Fixes
 

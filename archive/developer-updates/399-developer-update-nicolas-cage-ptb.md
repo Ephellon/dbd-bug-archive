@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/399-developer-upda
 author: "Peanits"
 published: "2023-07-24T13:59:37+00:00"
 updated: "2023-07-24T13:59:37+00:00"
-archived: "2026-09-26T16:43:14Z"
+archived: "2026-09-26T17:10:51Z"
 ---
 
 <!-- summary -->
@@ -21,11 +21,11 @@ The Onryo received balance tweaks: hitting a survivor carrying a Cursed Tape now
 
 # Developer Update | Nicolas Cage PTB
 
-![Developer update-1920x1080-TOTEM-idea copy.png](399-developer-update-nicolas-cage-ptb/01-developer-update-1920x1080-totem-idea-copy.png)
+![Developer update-1920x1080-TOTEM-idea copy.png](../images/dd1c0e0bc9490275-developer-update-1920x1080-totem-idea-copy.png)
 
 It’s been a little over a week since our star-studded Public Test Build (PTB). It’s been delightful to see so many Nicolas Cages running through The Entity’s Realm, screaming at the sight of the Killer and getting befuddled by Flashlights. As we get ready for the premier, we have been working on a few adjustments based on your feedback which we’d like to share with you today.
 
-![Onryo.png](399-developer-update-nicolas-cage-ptb/02-onryo.png)
+![Onryo.png](../images/52f0e4ca928dcd76-onryo.png)
 
 ## The Onryo
 
@@ -52,7 +52,7 @@ With Survivors having more reason than ever to pick up a Cursed Tape, it wasn’
 
 Combined, these changes allow Sadako to project herself around the map far more frequently.
 
-![Perks.png](399-developer-update-nicolas-cage-ptb/03-perks.png)
+![Perks.png](../images/e0b9bea7d13cb9ca-perks.png)
 
 ## Hangman’s Trick
 
@@ -64,7 +64,7 @@ While carrying a Survivor, Scourge Hook: Hangman’s Trick will now reveal the a
 
 This change *will not* be available as of the update’s release, though you can expect it to appear in one of the following minor patches.
 
-![Gameplay.png](399-developer-update-nicolas-cage-ptb/04-gameplay.png)
+![Gameplay.png](../images/c2d4a00f35c769ca-gameplay.png)
 
 ## Animations
 

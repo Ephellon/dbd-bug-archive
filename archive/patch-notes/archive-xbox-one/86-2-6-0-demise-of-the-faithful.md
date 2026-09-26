@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/86-2-6-0-demise-of
 author: "Peanits"
 published: "2020-02-28T20:09:15+00:00"
 updated: "2020-02-28T22:07:43+00:00"
-archived: "2026-09-26T16:41:59Z"
+archived: "2026-09-26T17:10:07Z"
 ---
 
 <!-- summary -->

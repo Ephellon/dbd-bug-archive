@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/417-7-3-3-bugfix-p
 author: "Peanits"
 published: "2023-11-06T18:58:13+00:00"
 updated: "2023-11-06T21:49:20+00:00"
-archived: "2026-09-26T16:40:28Z"
+archived: "2026-09-26T17:08:44Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Stranger Things returns to Dead by Daylight, restoring the original names and ic
 
 # 7.3.3 | Bugfix Patch
 
-![PatchNotesBanner730PTB copy.png](417-7-3-3-bugfix-patch/01-patchnotesbanner730ptb-copy.png)
+![PatchNotesBanner730PTB copy.png](../../images/457d8d1ab5fc8ae3-patchnotesbanner730ptb-copy.png)
 
 ## Release Schedule
 
@@ -29,7 +29,7 @@ Stranger Things returns to Dead by Daylight, restoring the original names and ic
 
 **PC:** 3:30PM ET
 
-![PatchNotesDivider.png](417-7-3-3-bugfix-patch/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 **Content**
 

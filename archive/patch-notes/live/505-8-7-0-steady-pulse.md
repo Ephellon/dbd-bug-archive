@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/505-8-7-0-steady-p
 author: "ThatRyanB"
 published: "2025-05-06T14:29:20+00:00"
 updated: "2025-05-06T14:52:59+00:00"
-archived: "2026-09-26T16:40:16Z"
+archived: "2026-09-26T17:08:33Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Orela Rose debuts as a new survivor with three perks—Do no Harm, Duty of Care 
 
 # 8.7.0 | Steady Pulse
 
-![870_PatchNotes_ReleaseForum.jpg](505-8-7-0-steady-pulse/01-870-patchnotes-releaseforum.jpg)
+![870_PatchNotes_ReleaseForum.jpg](../../images/7c73ea69978f66c4-870-patchnotes-releaseforum.jpg)
 
 ## Content
 
@@ -38,7 +38,7 @@ Orela Rose debuts as a new survivor with three perks—Do no Harm, Duty of Care 
   - When you gain Exhausted, you see the Killer's aura for **2/2/2 seconds**.
   - Exhausted prevents one from using perks that cause Exhausted.
 
-![bar_white.png](505-8-7-0-steady-pulse/02-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Killers
 
@@ -66,7 +66,7 @@ Orela Rose debuts as a new survivor with three perks—Do no Harm, Duty of Care 
 
 - Overclock Mode now provides a 3% base speed increased instead of Haste.
 
-![bar_white.png](505-8-7-0-steady-pulse/03-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Perks
 
@@ -97,7 +97,7 @@ Orela Rose debuts as a new survivor with three perks—Do no Harm, Duty of Care 
 - **Unbound:**
   - Increased the Haste effect after vaulting a window to 10%. *(was 5%)*
 
-![bar_red.png](505-8-7-0-steady-pulse/04-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Features
 
@@ -149,7 +149,7 @@ Consistent across all lighting
 
 The result? More believable, responsive characters that feel grounded in the world of DBD.
 
-![bar_red.png](505-8-7-0-steady-pulse/05-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Bug Fixes
 
@@ -231,7 +231,7 @@ The result? More believable, responsive characters that feel grounded in the wor
 - Fixed an issue where the What Lurks Beneath Achievement/Trophy would gain progress when the damage source was caused by a Survivor perk.
 - Fixed an issue where items retrieved during the match are listed as gained when reaching the Tally Screen when the Abandon Feature is used.
 
-![bar_red.png](505-8-7-0-steady-pulse/06-bar-red.png)
+![bar_red.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
 ## Public Test Build (PTB) Adjustments
 
@@ -239,7 +239,7 @@ The result? More believable, responsive characters that feel grounded in the wor
 
 - Reverted the changes to Haste and Hindered stacking. Multiple sources of Haste and Hindered can stack once again.
 
-![bar_white.png](505-8-7-0-steady-pulse/07-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Perks
 
@@ -259,14 +259,14 @@ The result? More believable, responsive characters that feel grounded in the wor
   - Exhaustion changes from 30/30/30 to 30/25/20 seconds.
   - Aura reveal now constant at 2/2/2 seconds.
 
-![bar_white.png](505-8-7-0-steady-pulse/08-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Killers
 
 - **The Singularity:**
   - Overclock Mode now provides a 3% base speed increased instead of Haste.
 
-![bar_white.png](505-8-7-0-steady-pulse/09-bar-white.png)
+![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
 ### Bug Fixes
 

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/420-developer-upda
 author: "Peanits"
 published: "2023-11-23T14:58:05+00:00"
 updated: "2023-11-23T14:58:05+00:00"
-archived: "2026-09-26T16:43:10Z"
+archived: "2026-09-26T17:10:49Z"
 ---
 
 <!-- summary -->
@@ -21,11 +21,11 @@ Chucky joins the roster with only minor tweaks, while survivor pallet-scamper ti
 
 # Developer Update | November 2023 PTB
 
-![Developer update-1920x1080-TOTEM-idea copy.png](420-developer-update-november-2023-ptb/01-developer-update-1920x1080-totem-idea-copy.png)
+![Developer update-1920x1080-TOTEM-idea copy.png](../images/1b5cc106ef251deb-developer-update-1920x1080-totem-idea-copy.png)
 
 For possibly the last time this year, we’re back with another Developer Update, a series of posts covering everything coming to Dead by Daylight. This time around, we have a pint-sized post focusing on all the changes being made after this past Public Test Build (PTB).
 
-![DBD-CH30_DevUpdate_resize_1280x267.png](420-developer-update-november-2023-ptb/02-dbd-ch30-devupdate-resize-1280x267.png)
+![DBD-CH30_DevUpdate_resize_1280x267.png](../images/ca7e708149bd0ec1-dbd-ch30-devupdate-resize-1280x267.png)
 
 ## The Good Guy
 
@@ -37,7 +37,7 @@ Second, we’ve fine-tuned the Slice & Dice attack. Duration extending Add-Ons (
 
 Speaking of Add-Ons, we’ve done a balancing pass on many of the other Add-Ons, bringing the strongest and weakest options more in line with one another.
 
-![Perks.png](420-developer-update-november-2023-ptb/03-perks.png)
+![Perks.png](../images/e0b9bea7d13cb9ca-perks.png)
 
 ## Batteries Included
 
@@ -45,7 +45,7 @@ Last up, we have a small tweak to one of the new Perks, Batteries Included. This
 
 Rather than reducing the effects of the Perk, we are instead adding a new clause: **Batteries Included now deactivates when the exit gates are powered**.
 
-![Trickster.png](420-developer-update-november-2023-ptb/04-trickster.png)
+![Trickster.png](../images/e3893b035ff99510-trickster.png)
 
 ## The Trickster
 

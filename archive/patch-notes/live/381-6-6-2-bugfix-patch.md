@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/381-6-6-2-bugfix-p
 author: "Peanits"
 published: "2023-03-22T14:25:42+00:00"
 updated: "2023-03-22T14:25:42+00:00"
-archived: "2026-09-26T16:40:35Z"
+archived: "2026-09-26T17:08:50Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ The patch fixes bugs: progress now counts pallet breaks; audio cues and voice-ov
 
 # 6.6.2 | Bugfix Patch
 
-![662Banner.png](381-6-6-2-bugfix-patch/01-662banner.png)
+![662Banner.png](../../images/63afd5983f68ee8c-662banner.png)
 
 ## Release Schedule
 
@@ -33,7 +33,7 @@ Update releases: 11am ET
 
 [https://forums.bhvr.com/dead-by-daylight/kb/articles/380](https://forums.bhvr.com/dead-by-daylight/kb/articles/380)
 
-![PatchNotesDivider.png](381-6-6-2-bugfix-patch/02-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Features
 
@@ -59,14 +59,14 @@ Update releases: 11am ET
 - Increase Adaptive Lighting to 50% (was 20%)
 - Decrease Expired Batteries to 40% (was 150%)
 
-![PatchNotesDividerSmolWhite.png](381-6-6-2-bugfix-patch/03-patchnotesdividersmolwhite.png)
+![PatchNotesDividerSmolWhite.png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ## Miscellaneous
 
 - A previous patch note stated that the perk Leverage no longer worked on self-healing. This was not the case. Leverage has worked on self-healing and still does.
 - Updated screams caused by Perks to be heard map-wide, as they were prior to version 6.6.0.
 
-![PatchNotesDivider.png](381-6-6-2-bugfix-patch/04-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Bug Fixes
 

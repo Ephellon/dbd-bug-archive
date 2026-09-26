@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/287-5-0-1-resident
 author: "DeathByGiggles"
 published: "2021-06-22T14:31:53+00:00"
 updated: "2021-06-22T14:52:20+00:00"
-archived: "2026-09-26T16:40:51Z"
+archived: "2026-09-26T17:09:03Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Raccoon City Police Station is back for custom matches while the RPD Badge offer
 
 # 5.0.1 | Resident Evil
 
-![MicrosoftTeams-image (6).png](287-5-0-1-resident-evil/01-microsoftteams-image-286-29.png)
+![MicrosoftTeams-image (6).png](../../images/238ee25277149c98-microsoftteams-image-286-29.png)
 
 ## Bug Fixes
 
@@ -58,7 +58,7 @@ Raccoon City Police Station is back for custom matches while the RPD Badge offer
 - Fixed an issue that could cause Ace's hair to become offset when he starts repairing a generator.
 - Fixed an issue that could prevent survivors from properly aiming the flashlight while simultaneously injured, contaminated and crouching.
 
-![PatchNotesDividerSmolWhite (1).png](287-5-0-1-resident-evil/02-patchnotesdividersmolwhite-281-29.png)
+![PatchNotesDividerSmolWhite (1).png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ### Audio
 
@@ -66,14 +66,14 @@ Raccoon City Police Station is back for custom matches while the RPD Badge offer
 - Fixed an issue that could cause the Nightmare laugh to be missing when selected him in the Play as Killer section
 - Fixed an issue that could cause the Blazing Bat weapon of the Trickster to be missing its SFX
 
-![PatchNotesDividerSmolWhite (1).png](287-5-0-1-resident-evil/03-patchnotesdividersmolwhite-281-29.png)
+![PatchNotesDividerSmolWhite (1).png](../../images/5104b339897e4d25-microsoftteams-image.png)
 
 ### Other
 
 - The **Raccoon City Police Station** map has been re-enabled for custom matches while we continue to investigate certain stability issues.
 - The **RPD Badge** offering has been temporarily disabled. It can still be collected in blood webs but cannot be equipped for trials.
 
-![PatchNotesDivider.png](287-5-0-1-resident-evil/04-patchnotesdivider.png)
+![PatchNotesDivider.png](../../images/ca641380905546af-microsoftteams-image-281-29.png)
 
 ## Known Issues
 
