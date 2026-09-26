@@ -602,6 +602,56 @@ def _sha256_file(path: str) -> str:
 
 
 # --------------------------------------------------------------------------- #
+# Summaries
+# --------------------------------------------------------------------------- #
+
+SUMMARY_OPEN = "<!-- summary -->"
+SUMMARY_CLOSE = "<!-- /summary -->"
+_SUMMARY_BLOCK = re.compile(
+    re.escape(SUMMARY_OPEN) + r".*?" + re.escape(SUMMARY_CLOSE) + r"\n*", re.DOTALL)
+SUMMARIES_FILE = "summaries.json"
+
+
+def write_summaries(root: str, manifest: dict) -> int:
+    """Inject the summaries from summaries.json below each article's title.
+
+    The file maps article id to a short plain-text summary and is produced
+    outside this bot. Articles without an entry are left alone, and an existing
+    block is replaced, so re-running after a summary is rewritten updates the
+    page. Runs before the navigation pass, which rewrites the surrounding file.
+    """
+    path = os.path.join(root, SUMMARIES_FILE)
+    if not os.path.exists(path):
+        return 0
+    with open(path, encoding="utf-8") as fh:
+        summaries = json.load(fh)
+
+    touched = 0
+    for record in manifest["articles"].values():
+        summary = (summaries.get(str(record["articleID"])) or "").strip()
+        article = os.path.join(root, record["markdown"])
+        if not os.path.exists(article):
+            continue
+        with open(article, encoding="utf-8") as fh:
+            text = fh.read()
+        stripped = _SUMMARY_BLOCK.sub("", text)
+        if not summary:
+            updated = stripped
+        else:
+            block = f"{SUMMARY_OPEN}\n{summary}\n{SUMMARY_CLOSE}"
+            # Sits directly under the H1 so it reads as a standfirst.
+            updated, count = re.subn(r"(^# .*\n)", r"\1\n" + block.replace("\\", "\\\\") + "\n",
+                                     stripped, count=1, flags=re.MULTILINE)
+            if not count:
+                continue
+        if updated != text:
+            with open(article, "w", encoding="utf-8") as fh:
+                fh.write(updated)
+            touched += 1
+    return touched
+
+
+# --------------------------------------------------------------------------- #
 # Navigation
 # --------------------------------------------------------------------------- #
 
@@ -727,6 +777,9 @@ def main(argv: list[str] | None = None) -> int:
 
     archiver.save_manifest()
     if not args.dry_run:
+        summarised = write_summaries(root, archiver.manifest)
+        if summarised:
+            print(f"Summaries applied to {summarised} article(s)")
         touched = write_navigation(root, archiver.manifest)
         print(f"Navigation refreshed on {touched} article(s)")
         if not args.no_index:
