@@ -9,6 +9,10 @@ updated: "2023-02-23T14:58:45+00:00"
 archived: "2026-09-26T02:20:18Z"
 ---
 
+<!-- nav -->
+&larr; [Developer Update | February 2023](375-developer-update-february-2023.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | Tools of Torment](380-developer-update-tools-of-torment.md) &rarr;
+<!-- /nav -->
+
 # Developer Update | Tools of Torment PTB
 
 ![Announcement.png](377-developer-update-tools-of-torment-ptb/01-announcement.png)
@@ -82,3 +86,7 @@ The Tools of Torment Chapter launches March 7th. Keep your eyes to the sky, but 
 Until next time…
 
 The Dead by Daylight team
+
+<!-- nav -->
+&larr; [Developer Update | February 2023](375-developer-update-february-2023.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | Tools of Torment](380-developer-update-tools-of-torment.md) &rarr;
+<!-- /nav -->

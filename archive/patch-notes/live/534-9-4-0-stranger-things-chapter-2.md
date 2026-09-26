@@ -9,6 +9,10 @@ updated: "2026-01-27T16:00:56+00:00"
 archived: "2026-09-26T02:18:06Z"
 ---
 
+<!-- nav -->
+&larr; [9.3.2 | Bugfix Patch](530-9-3-2-bugfix-patch.md) · [Live](../../index.md#live) · [9.4.1 | Bugfix Patch](535-9-4-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 9.4.0 | Stranger Things Chapter 2
 
 ![940_PatchNotes_FORUM.png](534-9-4-0-stranger-things-chapter-2/01-940-patchnotes-forum.png)
@@ -270,3 +274,7 @@ archived: "2026-09-26T02:18:06Z"
 ## Known Issues
 
 - The VFX for the Ascended "Vecna Figurine" charm are currently missing and will be added in an upcoming bugfix patch.
+
+<!-- nav -->
+&larr; [9.3.2 | Bugfix Patch](530-9-3-2-bugfix-patch.md) · [Live](../../index.md#live) · [9.4.1 | Bugfix Patch](535-9-4-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

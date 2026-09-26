@@ -9,6 +9,10 @@ updated: "2020-02-28T22:11:03+00:00"
 archived: "2026-09-26T02:19:36Z"
 ---
 
+<!-- nav -->
+&larr; [3.0.0 | Ghost Face](91-3-0-0-ghost-face.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [3.0.2 | Hotfix](93-3-0-2-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 3.0.1 | Hotfix
 
 ## Balance
@@ -58,3 +62,7 @@ archived: "2026-09-26T02:19:36Z"
 - Fixed an issue that caused the Anniversary Event audio not to play automatically when launching the game.
 - Fixed an issue that caused an audio stinger not to play correctly when being shocked by The Doctor or tiering up in Madness.
 - Misc audio improvements.
+
+<!-- nav -->
+&larr; [3.0.0 | Ghost Face](91-3-0-0-ghost-face.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [3.0.2 | Hotfix](93-3-0-2-hotfix.md) &rarr;
+<!-- /nav -->

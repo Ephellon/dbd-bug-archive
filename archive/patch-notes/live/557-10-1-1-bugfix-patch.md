@@ -9,6 +9,10 @@ updated: "2026-09-01T14:33:45+00:00"
 archived: "2026-09-26T02:18:02Z"
 ---
 
+<!-- nav -->
+&larr; [10.1.0 | Chorus of Sin](556-10-1-0-chorus-of-sin.md) · [Live](../../index.md#live) · [10.1.2 Bugfix Patch](558-10-1-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 10.1.1 Bugfix Patch
 
 ![DbD_1011_PatchNotes_HF1_16-9.png](557-10-1-1-bugfix-patch/01-dbd-1011-patchnotes-hf1-16-9.png)
@@ -113,3 +117,7 @@ archived: "2026-09-26T02:18:02Z"
 **Misc**
 
 - Fixed an issue where blessing a Hex totem did not trigger a score event.
+
+<!-- nav -->
+&larr; [10.1.0 | Chorus of Sin](556-10-1-0-chorus-of-sin.md) · [Live](../../index.md#live) · [10.1.2 Bugfix Patch](558-10-1-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

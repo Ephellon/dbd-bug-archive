@@ -9,6 +9,10 @@ updated: "2022-08-01T15:59:22+00:00"
 archived: "2026-09-26T02:20:20Z"
 ---
 
+<!-- nav -->
+&larr; [Developer Update | July 2022](341-developer-update-july-2022.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | August 23, 2022](348-developer-update-august-23-2022.md) &rarr;
+<!-- /nav -->
+
 # Developer Update | August 2022
 
 ![Announcement.png](344-developer-update-august-2022/01-announcement.png)
@@ -70,3 +74,7 @@ We have investigated this issue and found the cause, but unfortunately it won’
 The 6.1.2 Update is currently planned to release this week. We’ll continue monitoring feedback on the Mid-Chapter changes and adjusting as necessary in future updates. As always, please be sure to share your thoughts once you’ve had a chance to give them a try. Until next time…
 
 The Dead by Daylight team
+
+<!-- nav -->
+&larr; [Developer Update | July 2022](341-developer-update-july-2022.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | August 23, 2022](348-developer-update-august-23-2022.md) &rarr;
+<!-- /nav -->

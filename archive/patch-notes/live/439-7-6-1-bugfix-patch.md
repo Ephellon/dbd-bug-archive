@@ -9,6 +9,10 @@ updated: "2024-03-25T14:27:25+00:00"
 archived: "2026-09-26T02:18:18Z"
 ---
 
+<!-- nav -->
+&larr; [7.6.0 | All Things Wicked](437-7-6-0-all-things-wicked.md) · [Live](../../index.md#live) · [7.6.2 | Bugfix Patch](441-7-6-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 7.6.1 | Bugfix Patch
 
 ![CA_DBD_0224_Applepie_Patch_Notes_Assets_Bugfix01_FORUM.png](439-7-6-1-bugfix-patch/01-ca-dbd-0224-applepie-patch-notes-assets-bugfix01-forum.png)
@@ -91,3 +95,7 @@ archived: "2026-09-26T02:18:18Z"
 ## Known Issues
 
 - The Doctor's Blood Shock outfit head has stretched textures during his lobby menu animation.
+
+<!-- nav -->
+&larr; [7.6.0 | All Things Wicked](437-7-6-0-all-things-wicked.md) · [Live](../../index.md#live) · [7.6.2 | Bugfix Patch](441-7-6-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

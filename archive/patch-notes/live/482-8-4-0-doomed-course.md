@@ -9,6 +9,10 @@ updated: "2024-11-28T15:57:02+00:00"
 archived: "2026-09-26T02:18:13Z"
 ---
 
+<!-- nav -->
+&larr; [8.3.2 | Bugfix Patch](477-8-3-2-bugfix-patch.md) · [Live](../../index.md#live) · [8.4.1 | Bugfix Patch](483-8-4-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 8.4.0 | Doomed Course
 
 ![8-4-0_PatchNotesFORUM.jpg](482-8-4-0-doomed-course/01-gelato-patchnotesforum.jpg)
@@ -449,3 +453,7 @@ Healthy Survivors affected by Houndsense receive Deep Wounds when Injured. Injur
 - Fixed an issue in Mother's Dwelling where performance was impacting the loading of the map
 - Fixed an issue in Ormond Lake Mine where killers could not use their powers in the tower
 - Fixed an issue in Lery's Hospital where The Singularity could not deploy biopods in specific tiles
+
+<!-- nav -->
+&larr; [8.3.2 | Bugfix Patch](477-8-3-2-bugfix-patch.md) · [Live](../../index.md#live) · [8.4.1 | Bugfix Patch](483-8-4-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

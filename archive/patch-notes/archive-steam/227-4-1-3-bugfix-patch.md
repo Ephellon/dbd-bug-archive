@@ -9,6 +9,10 @@ updated: "2020-08-21T15:27:56+00:00"
 archived: "2026-09-26T02:19:11Z"
 ---
 
+<!-- nav -->
+&larr; [ 4.1.2 | Bug fix patch](219-4-1-2-bug-fix-patch.md) · [Archive: Steam](../../index.md#archive-steam) · [4.2.0 | Descend Beyond](228-4-2-0-descend-beyond.md) &rarr;
+<!-- /nav -->
+
 # 4.1.3 | Bugfix Patch
 
 ![413Banner.png](227-4-1-3-bugfix-patch/01-413banner.png)
@@ -18,3 +22,7 @@ Note: Steam players on version 4.1.3 will still be able to cross-play with other
 ## Bug Fixes
 
 - Fixed various sync errors. (Error Codes 111 & 112)
+
+<!-- nav -->
+&larr; [ 4.1.2 | Bug fix patch](219-4-1-2-bug-fix-patch.md) · [Archive: Steam](../../index.md#archive-steam) · [4.2.0 | Descend Beyond](228-4-2-0-descend-beyond.md) &rarr;
+<!-- /nav -->

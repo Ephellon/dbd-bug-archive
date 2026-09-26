@@ -9,6 +9,10 @@ updated: "2020-12-08T17:08:44+00:00"
 archived: "2026-09-26T02:19:13Z"
 ---
 
+<!-- nav -->
+&larr; [4.4.0 | A Binding of Kin](270-4-4-0-a-binding-of-kin.md) · [Archive: Steam](../../index.md#archive-steam) · [4.4.2 | Bugfix Patch](272-4-4-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 4.4.1 | Bugfix Patch
 
 ![441UpdateBanner.png](271-4-4-1-bugfix-patch/01-441updatebanner.png)
@@ -77,3 +81,7 @@ Stadia only:
 ## Known Issues
 
 - Flashlight beam may disappear when blinding a Killer with Lightborn perk equipped.
+
+<!-- nav -->
+&larr; [4.4.0 | A Binding of Kin](270-4-4-0-a-binding-of-kin.md) · [Archive: Steam](../../index.md#archive-steam) · [4.4.2 | Bugfix Patch](272-4-4-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

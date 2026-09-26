@@ -9,6 +9,10 @@ updated: "2023-09-18T13:55:22+00:00"
 archived: "2026-09-26T02:20:15Z"
 ---
 
+<!-- nav -->
+&larr; [Developer Update | Nicolas Cage PTB](399-developer-update-nicolas-cage-ptb.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | October 2023](412-developer-update-october-2023.md) &rarr;
+<!-- /nav -->
+
 # Developer Update | September 2023
 
 ![Developer update Totem NEW.png](409-developer-update-september-2023/01-developer-update-totem-new.png)
@@ -171,3 +175,7 @@ With that, we’ve reached the end of this month’s Developer Update. Each of t
 Until next time…
 
 The Dead by Daylight team
+
+<!-- nav -->
+&larr; [Developer Update | Nicolas Cage PTB](399-developer-update-nicolas-cage-ptb.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | October 2023](412-developer-update-october-2023.md) &rarr;
+<!-- /nav -->

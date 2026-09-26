@@ -9,6 +9,10 @@ updated: "2026-05-05T14:30:02+00:00"
 archived: "2026-09-26T02:18:04Z"
 ---
 
+<!-- nav -->
+&larr; [9.6.0 | Patch Notes](544-9-6-0-patch-notes.md) · [Live](../../index.md#live) · [9.6.2 | Bugfix Patch](546-9-6-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 9.6.1 | Bugfix Patch
 
 ![DbD_961_Patch Notes_FORUM.png](545-9-6-1-bugfix-patch/01-dbd-961-patch-notes-forum.png)
@@ -150,3 +154,7 @@ The core changes to Mastermind are now applied in 2v8. The time it takes to gain
 - Fixed an issue where players could have duplicate of the same friends in friends list.
 - Fixed an issue where players could select two friends at the same time in the friends list.
 - Fixed an issue where players could not add new friends on certain platforms.
+
+<!-- nav -->
+&larr; [9.6.0 | Patch Notes](544-9-6-0-patch-notes.md) · [Live](../../index.md#live) · [9.6.2 | Bugfix Patch](546-9-6-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2021-05-11T14:26:45+00:00"
 archived: "2026-09-26T02:18:39Z"
 ---
 
+<!-- nav -->
+&larr; [4.7.0 | Mid-Chapter](281-4-7-0-mid-chapter.md) · [Live](../../index.md#live) · [4.7.2 | Bugfix Patch](283-4-7-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 4.7.1 | Bugfix Patch
 
 ![471Banner.png](282-4-7-1-bugfix-patch/01-471banner.png)
@@ -52,3 +56,7 @@ archived: "2026-09-26T02:18:39Z"
 Xbox Series X|S only:
 
 - Fixed an issue that caused the application to crash upon Signing out of the active account on the initial interaction screen.
+
+<!-- nav -->
+&larr; [4.7.0 | Mid-Chapter](281-4-7-0-mid-chapter.md) · [Live](../../index.md#live) · [4.7.2 | Bugfix Patch](283-4-7-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

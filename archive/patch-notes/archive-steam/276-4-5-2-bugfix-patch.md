@@ -9,6 +9,10 @@ updated: "2021-02-23T15:31:44+00:00"
 archived: "2026-09-26T02:19:14Z"
 ---
 
+<!-- nav -->
+&larr; [4.5.1 | Bugfix Patch](275-4-5-1-bugfix-patch.md) · [Archive: Steam](../../index.md#archive-steam) · _newest_ &rarr;
+<!-- /nav -->
+
 # 4.5.2 | Bugfix Patch
 
 ![452Banner.png](276-4-5-2-bugfix-patch/01-452banner.png)
@@ -69,3 +73,7 @@ archived: "2026-09-26T02:19:14Z"
 ## Known Issues
 
 - Skill Check UI Scaler option in the options menu appears in English for all non-English languages. This will be fixed with the next Chapter patch.
+
+<!-- nav -->
+&larr; [4.5.1 | Bugfix Patch](275-4-5-1-bugfix-patch.md) · [Archive: Steam](../../index.md#archive-steam) · _newest_ &rarr;
+<!-- /nav -->

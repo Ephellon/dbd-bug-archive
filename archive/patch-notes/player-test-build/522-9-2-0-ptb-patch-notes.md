@@ -9,6 +9,10 @@ updated: "2025-09-03T15:36:55+00:00"
 archived: "2026-09-26T02:18:42Z"
 ---
 
+<!-- nav -->
+&larr; [9.1.0 | PTB Patch Notes](514-9-1-0-ptb-patch-notes.md) · [Player Test Build (PTB)](../../index.md#player-test-build-ptb) · [9.3.0 | PTB Patch Notes](527-9-3-0-ptb-patch-notes.md) &rarr;
+<!-- /nav -->
+
 # 9.2.0 | PTB Patch Notes
 
 ![920_PatchNotes_PTB_Forums.jpg](522-9-2-0-ptb-patch-notes/01-920-patchnotes-ptb-forums.jpg)
@@ -539,3 +543,7 @@ The following perks have been updated. See the Perk Updates sections below for m
 
 - Whilst in third person head view with The Krasue, the camera can clip into the environment, leading to some uncomfortable camera movements or partial obscuring of the view.
 - Tunneling reduction penalties trigger when Survivors go from the struggle hook phase to Sacrifice. These should only trigger when a hook interaction is performed to Sacrifice a Survivor.
+
+<!-- nav -->
+&larr; [9.1.0 | PTB Patch Notes](514-9-1-0-ptb-patch-notes.md) · [Player Test Build (PTB)](../../index.md#player-test-build-ptb) · [9.3.0 | PTB Patch Notes](527-9-3-0-ptb-patch-notes.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2024-10-16T19:12:49+00:00"
 archived: "2026-09-26T02:18:14Z"
 ---
 
+<!-- nav -->
+&larr; [8.3.0 | Mid-Chapter](475-8-3-0-mid-chapter.md) · [Live](../../index.md#live) · [8.3.2 | Bugfix Patch](477-8-3-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 8.3.1 | Bugfix Patch
 
 ![FUDGE_831FORUM.jpg](476-8-3-1-bugfix-patch/01-fudge-831forum.jpg)
@@ -87,3 +91,7 @@ archived: "2026-09-26T02:18:14Z"
 ## Known Issues
 
 - Several Killers' Mori animations have been erroneously changed to FPV. We are working on a fix to rectify this in a future patch.
+
+<!-- nav -->
+&larr; [8.3.0 | Mid-Chapter](475-8-3-0-mid-chapter.md) · [Live](../../index.md#live) · [8.3.2 | Bugfix Patch](477-8-3-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

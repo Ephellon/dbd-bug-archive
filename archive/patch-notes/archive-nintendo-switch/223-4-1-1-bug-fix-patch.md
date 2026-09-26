@@ -9,6 +9,10 @@ updated: "2020-08-12T14:30:15+00:00"
 archived: "2026-09-26T02:19:50Z"
 ---
 
+<!-- nav -->
+&larr; [4.1.0 | Mid-Chapter](213-4-1-0-mid-chapter.md) · [Archive: Nintendo Switch](../../index.md#archive-nintendo-switch) · [4.1.2 | Bug fix patch ](224-4-1-2-bug-fix-patch.md) &rarr;
+<!-- /nav -->
+
 # 4.1.1 | Bug fix Patch 
 
 *This article was created from a*[*community discussion*](https://forum.deadbydaylight.com/en/discussion/177560/to-be-released-on-wednesday-august-12th-switch-bug-fix-patch-4-1-1)*.*
@@ -167,3 +171,7 @@ Like The Cannibal's Speed Limiter, we've increased the bloodpoint bonus and chan
 - Fixed an issue causing the Wraith's **Blind Warrior - Mud** add-on to not inflict blindness.
 - Fixed an issue causing Hillbilly's chainsaw to hit through a counter on the **Treatment Theatre** map.
 - Fixed an issue causing various problems with the Cannibal's tantrum under poor network conditions.
+
+<!-- nav -->
+&larr; [4.1.0 | Mid-Chapter](213-4-1-0-mid-chapter.md) · [Archive: Nintendo Switch](../../index.md#archive-nintendo-switch) · [4.1.2 | Bug fix patch ](224-4-1-2-bug-fix-patch.md) &rarr;
+<!-- /nav -->

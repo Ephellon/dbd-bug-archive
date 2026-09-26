@@ -9,6 +9,10 @@ updated: "2023-11-06T21:49:20+00:00"
 archived: "2026-09-26T02:18:21Z"
 ---
 
+<!-- nav -->
+&larr; [7.3.2 | Bugfix Patch](415-7-3-2-bugfix-patch.md) · [Live](../../index.md#live) · [7.4.0 | Chucky](421-7-4-0-chucky.md) &rarr;
+<!-- /nav -->
+
 # 7.3.3 | Bugfix Patch
 
 ![PatchNotesBanner730PTB copy.png](417-7-3-3-bugfix-patch/01-patchnotesbanner730ptb-copy.png)
@@ -87,3 +91,7 @@ The Underground Complex Map has been reactivated with the same layout and conten
 
 - Fixed a crash that could occur in the Store.
 - Fixed a crash/disconnection issue that could occur when playing with Bots.
+
+<!-- nav -->
+&larr; [7.3.2 | Bugfix Patch](415-7-3-2-bugfix-patch.md) · [Live](../../index.md#live) · [7.4.0 | Chucky](421-7-4-0-chucky.md) &rarr;
+<!-- /nav -->

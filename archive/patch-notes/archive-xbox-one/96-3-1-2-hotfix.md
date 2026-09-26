@@ -9,6 +9,10 @@ updated: "2020-02-28T22:14:20+00:00"
 archived: "2026-09-26T02:19:37Z"
 ---
 
+<!-- nav -->
+&larr; [3.1.1 | Hotfix](95-3-1-1-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [3.2.0 | Stranger Things](97-3-2-0-stranger-things.md) &rarr;
+<!-- /nav -->
+
 # 3.1.2 | Hotfix
 
 ## Bug Fixes
@@ -23,3 +27,7 @@ archived: "2026-09-26T02:19:37Z"
 
 - Players are reporting inconsistencies with Ranks and Pips, sometimes resetting after a match or restart (Testing a fix internally)
 - Survivor are able to leave the playing area by the exit gate, and keep playing (In progress)
+
+<!-- nav -->
+&larr; [3.1.1 | Hotfix](95-3-1-1-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [3.2.0 | Stranger Things](97-3-2-0-stranger-things.md) &rarr;
+<!-- /nav -->

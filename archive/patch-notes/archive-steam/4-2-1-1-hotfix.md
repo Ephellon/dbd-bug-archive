@@ -9,6 +9,10 @@ updated: "2020-03-02T15:07:23+00:00"
 archived: "2026-09-26T02:19:01Z"
 ---
 
+<!-- nav -->
+&larr; [2.1.0 | Mid-Chapter](3-2-1-0-mid-chapter.md) · [Archive: Steam](../../index.md#archive-steam) · [2.2.0 | Shattered Bloodline](5-2-2-0-shattered-bloodline.md) &rarr;
+<!-- /nav -->
+
 # 2.1.1 | Hotfix
 
 ## Features & Content
@@ -24,3 +28,7 @@ archived: "2026-09-26T02:19:01Z"
 **Bug Fixes - PC**
 
 - Fixed an issue that could make it impossible for a Survivor to sprint
+
+<!-- nav -->
+&larr; [2.1.0 | Mid-Chapter](3-2-1-0-mid-chapter.md) · [Archive: Steam](../../index.md#archive-steam) · [2.2.0 | Shattered Bloodline](5-2-2-0-shattered-bloodline.md) &rarr;
+<!-- /nav -->

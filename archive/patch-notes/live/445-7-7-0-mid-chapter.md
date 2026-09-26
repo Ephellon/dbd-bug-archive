@@ -9,6 +9,10 @@ updated: "2024-04-23T15:22:28+00:00"
 archived: "2026-09-26T02:18:18Z"
 ---
 
+<!-- nav -->
+&larr; [7.6.2 | Bugfix Patch](441-7-6-2-bugfix-patch.md) · [Live](../../index.md#live) · [7.7.0A | Bugfix Patch (Tentative Strobing Fix)](446-7-7-0a-bugfix-patch-tentative-strobing-fix.md) &rarr;
+<!-- /nav -->
+
 # 7.7.0 | Mid-Chapter
 
 ![CA_DBD_0324_Bacon_Patch_Notes_Assets_Release_FORUM.png](445-7-7-0-mid-chapter/01-ca-dbd-0324-bacon-patch-notes-assets-release-forum.png)
@@ -284,3 +288,7 @@ The map has been difficult for the players to enjoy. We made the decision to upd
 - ⁠Missing a healing skill check then cancelling the heal no longer causes the healing animation to loop indefinitely.
 - The Dead Hard perk no longer causes Survivors to A-Pose during the special animation run when activated.
 - The Dramaturgy Perk no longer causes Survivors to A-Pose during the high-knee run when activated.
+
+<!-- nav -->
+&larr; [7.6.2 | Bugfix Patch](441-7-6-2-bugfix-patch.md) · [Live](../../index.md#live) · [7.7.0A | Bugfix Patch (Tentative Strobing Fix)](446-7-7-0a-bugfix-patch-tentative-strobing-fix.md) &rarr;
+<!-- /nav -->

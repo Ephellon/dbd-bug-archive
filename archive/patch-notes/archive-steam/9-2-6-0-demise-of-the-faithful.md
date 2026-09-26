@@ -9,6 +9,10 @@ updated: "2020-03-02T15:12:30+00:00"
 archived: "2026-09-26T02:19:03Z"
 ---
 
+<!-- nav -->
+&larr; [2.5.1 | Hotfix](8-2-5-1-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [2.6.3 | Ash VS Evil Dead](10-2-6-3-ash-vs-evil-dead.md) &rarr;
+<!-- /nav -->
+
 # 2.6.0 | Demise of the Faithful
 
 **Emblem changes**
@@ -260,3 +264,7 @@ Pipping Thresholds: We have made some changes to the Emblem system that will af
 - Increased hitting a Survivor that's not sick increased to 150 from 125 (Infection).
 - Increased hitting a Survivor with Corrupt Purge from 250 to 300.
 - Increased hitting a sick Survivor with the vomit from 1/0.10 seconds to 2/0.10 seconds.
+
+<!-- nav -->
+&larr; [2.5.1 | Hotfix](8-2-5-1-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [2.6.3 | Ash VS Evil Dead](10-2-6-3-ash-vs-evil-dead.md) &rarr;
+<!-- /nav -->

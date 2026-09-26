@@ -9,6 +9,10 @@ updated: "2022-07-26T14:24:54+00:00"
 archived: "2026-09-26T02:18:30Z"
 ---
 
+<!-- nav -->
+&larr; [6.1.0 | Mid-Chapter ](342-6-1-0-mid-chapter.md) · [Live](../../index.md#live) · [6.1.2/6.1.3 | Bugfix Patch](345-6-1-2-6-1-3-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 6.1.1 | Bugfix Patch
 
 ![611Banner.png](343-6-1-1-bugfix-patch/01-611banner.png)
@@ -32,3 +36,7 @@ archived: "2026-09-26T02:18:30Z"
 - Fixed an issue that caused the Shape and the Ghost Face to be able to stalk through the environment by rapidly moving the camera.
 - Fixed an issue that caused a players not to be able to interact with a Green Glyph on The Forsaken Boneyard.
 - Fixed a crash that occurred when Feng Min's Warrior Goddess outfit was used. This outfit has been re-enabled for use.
+
+<!-- nav -->
+&larr; [6.1.0 | Mid-Chapter ](342-6-1-0-mid-chapter.md) · [Live](../../index.md#live) · [6.1.2/6.1.3 | Bugfix Patch](345-6-1-2-6-1-3-bugfix-patch.md) &rarr;
+<!-- /nav -->

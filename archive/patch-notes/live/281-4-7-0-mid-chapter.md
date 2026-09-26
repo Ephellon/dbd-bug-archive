@@ -9,6 +9,10 @@ updated: "2021-05-05T19:04:03+00:00"
 archived: "2026-09-26T02:18:39Z"
 ---
 
+<!-- nav -->
+&larr; [4.6.1 | Bugfix Patch](280-4-6-1-bugfix-patch.md) · [Live](../../index.md#live) · [4.7.1 | Bugfix Patch](282-4-7-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 4.7.0 | Mid-Chapter
 
 ![470Banner.png](281-4-7-0-mid-chapter/01-470banner.png)
@@ -218,3 +222,7 @@ The new Object of Obsession design previewed on the dev stream has been complete
 **Xbox One, Xbox Series X|S, Playstation 4, Playstation 5 only:**
 
 - Fixed an issue where the application would crash after repeatedly pressing the Ready button in the Play as Survivor lobby.
+
+<!-- nav -->
+&larr; [4.6.1 | Bugfix Patch](280-4-6-1-bugfix-patch.md) · [Live](../../index.md#live) · [4.7.1 | Bugfix Patch](282-4-7-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

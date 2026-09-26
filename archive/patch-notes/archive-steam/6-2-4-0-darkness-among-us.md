@@ -9,6 +9,10 @@ updated: "2020-03-02T17:46:58+00:00"
 archived: "2026-09-26T02:19:02Z"
 ---
 
+<!-- nav -->
+&larr; [2.2.0 | Shattered Bloodline](5-2-2-0-shattered-bloodline.md) · [Archive: Steam](../../index.md#archive-steam) · [2.5.0 | Mid-Chapter](7-2-5-0-mid-chapter.md) &rarr;
+<!-- /nav -->
+
 # 2.4.0 | Darkness Among Us
 
 ## Dev Notes
@@ -170,3 +174,7 @@ The portrait icon in the bottom-left of the screen indicates the amount of time 
 
 - Fixed an issue that made it impossible to unlock the "Where Did They Go!?" achievement as a Survivor and caused the Killer to unlock it instead.
 - Fixed an issue that made it possible to unlock the "Risk It All" achievement with event items.
+
+<!-- nav -->
+&larr; [2.2.0 | Shattered Bloodline](5-2-2-0-shattered-bloodline.md) · [Archive: Steam](../../index.md#archive-steam) · [2.5.0 | Mid-Chapter](7-2-5-0-mid-chapter.md) &rarr;
+<!-- /nav -->

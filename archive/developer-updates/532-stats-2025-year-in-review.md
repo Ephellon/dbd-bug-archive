@@ -9,6 +9,10 @@ updated: "2025-12-18T15:00:11+00:00"
 archived: "2026-09-26T02:20:02Z"
 ---
 
+<!-- nav -->
+&larr; [Stats | Haunted by Daylight](528-stats-haunted-by-daylight.md) · [Developer Updates](../index.md#developer-updates) · [Stats | First Look at Stats in 2026](540-stats-first-look-at-stats-in-2026.md) &rarr;
+<!-- /nav -->
+
 # Stats | 2025 Year in Review
 
 With one year coming to a close and another approaching, we wanted to look back at the last year and marvel at some of your accomplishments in The Fog. From brutality to boldness, Killer and Survivor, thanks for making this a year to remember!
@@ -30,3 +34,7 @@ Looking for a more detailed look at your own personal stats from The Fog? Head o
 Until next time…
 
 The Dead by Daylight Team
+
+<!-- nav -->
+&larr; [Stats | Haunted by Daylight](528-stats-haunted-by-daylight.md) · [Developer Updates](../index.md#developer-updates) · [Stats | First Look at Stats in 2026](540-stats-first-look-at-stats-in-2026.md) &rarr;
+<!-- /nav -->

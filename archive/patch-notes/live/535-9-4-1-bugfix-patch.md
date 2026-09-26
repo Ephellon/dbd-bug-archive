@@ -9,6 +9,10 @@ updated: "2026-02-03T15:30:48+00:00"
 archived: "2026-09-26T02:18:06Z"
 ---
 
+<!-- nav -->
+&larr; [9.4.0 | Stranger Things Chapter 2](534-9-4-0-stranger-things-chapter-2.md) · [Live](../../index.md#live) · [9.4.2 | Bugfix Patch](536-9-4-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 9.4.1 | Bugfix Patch
 
 ![941_PatchNotes_STEAM.png](535-9-4-1-bugfix-patch/01-941-patchnotes-steam.png)
@@ -87,3 +91,7 @@ archived: "2026-09-26T02:18:06Z"
 ### Misc
 
 - Fixed an issue where blocked generator auras were red instead of white.
+
+<!-- nav -->
+&larr; [9.4.0 | Stranger Things Chapter 2](534-9-4-0-stranger-things-chapter-2.md) · [Live](../../index.md#live) · [9.4.2 | Bugfix Patch](536-9-4-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

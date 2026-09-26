@@ -9,6 +9,10 @@ updated: "2024-07-12T13:57:59+00:00"
 archived: "2026-09-26T02:20:10Z"
 ---
 
+<!-- nav -->
+&larr; [Developer Update | June 2024](455-developer-update-june-2024.md) · [Developer Updates](../index.md#developer-updates) · [Stats | July 2024](460-stats-july-2024.md) &rarr;
+<!-- /nav -->
+
 # Developer Update | June 2024 PTB
 
 ![UPDATE_CM_DBD_0624_DONUTS_Update_Overview_Generic_16_9_V1 copie.jpg](458-developer-update-june-2024-ptb/01-update-cm-dbd-0624-donuts-update-overview-generic-16-9-v1-co.jpg)
@@ -69,3 +73,7 @@ After taking in your feedback, we have made a few changes following our most rec
 Until next time…
 
 The Dead by Daylight team
+
+<!-- nav -->
+&larr; [Developer Update | June 2024](455-developer-update-june-2024.md) · [Developer Updates](../index.md#developer-updates) · [Stats | July 2024](460-stats-july-2024.md) &rarr;
+<!-- /nav -->

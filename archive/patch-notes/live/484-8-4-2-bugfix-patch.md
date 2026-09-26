@@ -9,6 +9,10 @@ updated: "2024-12-12T16:07:40+00:00"
 archived: "2026-09-26T02:18:13Z"
 ---
 
+<!-- nav -->
+&larr; [8.4.1 | Bugfix Patch](483-8-4-1-bugfix-patch.md) · [Live](../../index.md#live) · [8.5.0 | Mid-Chapter](490-8-5-0-mid-chapter.md) &rarr;
+<!-- /nav -->
+
 # 8.4.2 | Bugfix Patch
 
 ![PatchNotes_842_FORUM.jpg](484-8-4-2-bugfix-patch/01-patchnotes-842-forum.jpg)
@@ -93,3 +97,7 @@ archived: "2026-09-26T02:18:13Z"
 - Fixed an issue that caused THWACK! not to display Survivor auras when destroying a pallet or breakable wall.
 - Fixed an issue that caused Survivors to still have grunts of pain when using Clean Break with other interaction.
 - Fixed an issue that caused a missing audio cue when dropping a Flashbang.
+
+<!-- nav -->
+&larr; [8.4.1 | Bugfix Patch](483-8-4-1-bugfix-patch.md) · [Live](../../index.md#live) · [8.5.0 | Mid-Chapter](490-8-5-0-mid-chapter.md) &rarr;
+<!-- /nav -->

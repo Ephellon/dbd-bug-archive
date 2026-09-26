@@ -9,6 +9,10 @@ updated: "2022-02-09T15:27:53+00:00"
 archived: "2026-09-26T02:18:33Z"
 ---
 
+<!-- nav -->
+&larr; [5.5.1 | Bugfix Patch](313-5-5-1-bugfix-patch.md) · [Live](../../index.md#live) · [5.6.0 | Sadako Rising](325-5-6-0-sadako-rising.md) &rarr;
+<!-- /nav -->
+
 # 5.5.2 | Bugfix Patch
 
 ![552Banner.png](323-5-5-2-bugfix-patch/01-552banner.png)
@@ -44,3 +48,7 @@ archived: "2026-09-26T02:18:33Z"
 - Fixed an issue that caused a small part of the Entity to stretch when a Survivor is sacrificed.
 - Fixed an issue that caused the exit prompt to become unresponsive after adding a friend in the Friends List.
 - Fixed an issue that may have caused the game to become stuck when joining an almost full survivor lobby (**PS4/PS5 only**)
+
+<!-- nav -->
+&larr; [5.5.1 | Bugfix Patch](313-5-5-1-bugfix-patch.md) · [Live](../../index.md#live) · [5.6.0 | Sadako Rising](325-5-6-0-sadako-rising.md) &rarr;
+<!-- /nav -->

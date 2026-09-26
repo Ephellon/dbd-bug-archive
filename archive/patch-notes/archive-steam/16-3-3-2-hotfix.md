@@ -9,6 +9,10 @@ updated: "2020-03-02T15:32:11+00:00"
 archived: "2026-09-26T02:19:07Z"
 ---
 
+<!-- nav -->
+&larr; [3.3.1 | Mid-Chapter](15-3-3-1-mid-chapter.md) · [Archive: Steam](../../index.md#archive-steam) · [3.4.0 | Cursed Legacy](17-3-4-0-cursed-legacy.md) &rarr;
+<!-- /nav -->
+
 # 3.3.2 | Hotfix
 
 ## Bug Fixes
@@ -39,3 +43,7 @@ archived: "2026-09-26T02:19:07Z"
 - Fixed an issue that made it impossible to gain progress on the In The Void She Walks achievement.
 - Fixed an issue that caused The Shape and The Ghost Face's Stalking abilities to be delayed if the user had a high ping on Dedicated Servers.
 - Fixed an issue that caused characters to jitter around in the match when playing with uncapped FPS.
+
+<!-- nav -->
+&larr; [3.3.1 | Mid-Chapter](15-3-3-1-mid-chapter.md) · [Archive: Steam](../../index.md#archive-steam) · [3.4.0 | Cursed Legacy](17-3-4-0-cursed-legacy.md) &rarr;
+<!-- /nav -->

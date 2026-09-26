@@ -9,6 +9,10 @@ updated: "2020-03-02T14:23:17+00:00"
 archived: "2026-09-26T02:19:00Z"
 ---
 
+<!-- nav -->
+&larr; _oldest_ · [Archive: Steam](../../index.md#archive-steam) · [2.0.0 | Curtain Call](2-2-0-0-curtain-call.md) &rarr;
+<!-- /nav -->
+
 # 1.9.4 - 1.9.4c | Emblems
 
 ## 1.9.4
@@ -89,3 +93,7 @@ April 25th, 2015
 - Fixed an issue where a save request could result in an HTTP error (changes the format of the save game)
 - Fixed an issue causing end game analytics to not be reported properly.
 - Fixed an issue causing Nea's "Tartan Special" customization to be available by default (from the 80s Suitcase DLC)
+
+<!-- nav -->
+&larr; _oldest_ · [Archive: Steam](../../index.md#archive-steam) · [2.0.0 | Curtain Call](2-2-0-0-curtain-call.md) &rarr;
+<!-- /nav -->

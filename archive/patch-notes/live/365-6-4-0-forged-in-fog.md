@@ -9,6 +9,10 @@ updated: "2022-11-22T18:13:31+00:00"
 archived: "2026-09-26T02:18:28Z"
 ---
 
+<!-- nav -->
+&larr; [6.3.2 | Bugfix Patch](362-6-3-2-bugfix-patch.md) · [Live](../../index.md#live) · [6.4.1 | Bugfix Patch](366-6-4-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 6.4.0 | Forged in Fog
 
 ![1920x1080_PN.png](365-6-4-0-forged-in-fog/01-1920x1080-pn.png)
@@ -169,3 +173,7 @@ archived: "2026-09-26T02:18:28Z"
 - In French, in several descriptions The Knights Power is incorrectly written as Compagnia d'Arme rather than the proper name Guardia Compagnia.
 - Some Playstation players are unable to invite or join friends in the lobby.
 - Hex: Face the Darkness has an incorrect description.
+
+<!-- nav -->
+&larr; [6.3.2 | Bugfix Patch](362-6-3-2-bugfix-patch.md) · [Live](../../index.md#live) · [6.4.1 | Bugfix Patch](366-6-4-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

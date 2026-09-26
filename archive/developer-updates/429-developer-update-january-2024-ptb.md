@@ -9,6 +9,10 @@ updated: "2024-01-25T14:58:27+00:00"
 archived: "2026-09-26T02:20:14Z"
 ---
 
+<!-- nav -->
+&larr; [Developer Update | January 2024](427-developer-update-january-2024.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | Stats!](433-developer-update-stats.md) &rarr;
+<!-- /nav -->
+
 # Developer Update | January 2024 PTB
 
 ![Developer update Totem NEW.png](429-developer-update-january-2024-ptb/01-developer-update-totem-new.png)
@@ -141,3 +145,7 @@ With that, we’ve reached the end of this Developer Update. Each of the changes
 Until next time…
 
 The Dead by Daylight team
+
+<!-- nav -->
+&larr; [Developer Update | January 2024](427-developer-update-january-2024.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | Stats!](433-developer-update-stats.md) &rarr;
+<!-- /nav -->

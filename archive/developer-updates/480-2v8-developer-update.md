@@ -9,6 +9,10 @@ updated: "2024-11-11T17:57:21+00:00"
 archived: "2026-09-26T02:20:08Z"
 ---
 
+<!-- nav -->
+&larr; [Stats | October 2024](478-stats-october-2024.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | November 2024 PTB](481-developer-update-november-2024-ptb.md) &rarr;
+<!-- /nav -->
+
 # 2V8 | Developer Update
 
 *This article was created from a*[*community discussion*](https://forums.bhvr.com/dead-by-daylight/discussion/432412/2v8-developer-update).
@@ -230,3 +234,7 @@ Survivor Class: Escapist
 Until next time…
 
 The Dead by Daylight team
+
+<!-- nav -->
+&larr; [Stats | October 2024](478-stats-october-2024.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | November 2024 PTB](481-developer-update-november-2024-ptb.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2020-02-28T21:57:04+00:00"
 archived: "2026-09-26T02:19:33Z"
 ---
 
+<!-- nav -->
+&larr; [2.2.0 | Shattered Bloodline](77-2-2-0-shattered-bloodline.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [2.3.0 | Mid-Chapter](79-2-3-0-mid-chapter.md) &rarr;
+<!-- /nav -->
+
 # 2.2.1 | Hotfix
 
 ## Balance
@@ -27,3 +31,7 @@ archived: "2026-09-26T02:19:33Z"
 - Fixed an issue that caused Adam and the Spirit perk descriptions to be improperly formatted in French
 - Fixed an issue that caused the Hex: Devour Hope perk to gain tokens every time a Survivor starts the unhook action (instead of upon completion of the interaction).
 - Fixed an issue that caused the duration of Yamaoka's Haunting to last longer as a client Spirit killer in Kill Your Friends
+
+<!-- nav -->
+&larr; [2.2.0 | Shattered Bloodline](77-2-2-0-shattered-bloodline.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [2.3.0 | Mid-Chapter](79-2-3-0-mid-chapter.md) &rarr;
+<!-- /nav -->

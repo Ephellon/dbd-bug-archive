@@ -9,6 +9,10 @@ updated: "2020-02-28T22:02:30+00:00"
 archived: "2026-09-26T02:19:33Z"
 ---
 
+<!-- nav -->
+&larr; [2.3.2 | Hotfix](80-2-3-2-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [2.5.0 | Mid-Chapter](82-2-5-0-mid-chapter.md) &rarr;
+<!-- /nav -->
+
 # 2.4.0 | Darkness Among Us
 
 ## Dev Notes
@@ -149,3 +153,7 @@ The portrait icon in the bottom-left of the screen indicates the amount of time 
 - Fixed an issue that caused the host of a public lobby to appear on the Xbox One overlay. The lobby should not be joinable, and a Game Version Mismatch error message would be received after attempting the connection.
 - Fixed an issue that made it impossible to unlock the "Where Did They Go!?" achievement as a Survivor and caused the Killer to unlock it instead.
 - Fixed an issue that made it possible to unlock the "Risk It All" achievement with event items.
+
+<!-- nav -->
+&larr; [2.3.2 | Hotfix](80-2-3-2-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [2.5.0 | Mid-Chapter](82-2-5-0-mid-chapter.md) &rarr;
+<!-- /nav -->

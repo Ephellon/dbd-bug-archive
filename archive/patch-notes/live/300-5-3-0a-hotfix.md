@@ -9,6 +9,10 @@ updated: "2021-10-22T14:36:38+00:00"
 archived: "2026-09-26T02:18:36Z"
 ---
 
+<!-- nav -->
+&larr; [5.3.0 | Hour of the Witch](298-5-3-0-hour-of-the-witch.md) · [Live](../../index.md#live) · [5.3.1 | Bugfix Patch](302-5-3-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 5.3.0a | Hotfix
 
 ![Banner530a.png](300-5-3-0a-hotfix/01-banner530a.png)
@@ -22,3 +26,7 @@ NOTE: This update has only been deployed on Steam for the time being. Crossplay 
 ## Known Issues
 
 - Some localizations may be incorrectly translated.
+
+<!-- nav -->
+&larr; [5.3.0 | Hour of the Witch](298-5-3-0-hour-of-the-witch.md) · [Live](../../index.md#live) · [5.3.1 | Bugfix Patch](302-5-3-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

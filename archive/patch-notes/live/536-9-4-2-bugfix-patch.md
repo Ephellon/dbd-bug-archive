@@ -9,6 +9,10 @@ updated: "2026-02-10T15:30:03+00:00"
 archived: "2026-09-26T02:18:06Z"
 ---
 
+<!-- nav -->
+&larr; [9.4.1 | Bugfix Patch](535-9-4-1-bugfix-patch.md) · [Live](../../index.md#live) · [9.5.0 | All-Kill: Comeback](538-9-5-0-all-kill-comeback.md) &rarr;
+<!-- /nav -->
+
 # 9.4.2 | Bugfix Patch
 
 ![942_PatchNotes_FORUM.png](536-9-4-2-bugfix-patch/01-942-patchnotes-forum.png)
@@ -177,3 +181,7 @@ archived: "2026-09-26T02:18:06Z"
 - Fixed an issue where the external perk icon disappeared when a Survivor with either Teamwork: Full Circuit and/or Teamwork: Soft Spoken stopped repairing a generator while another Survivor still had the perk(s) active.
 - Fixed an issue where Killers kept the Undetectable status effect from Trail of Torment if the generator became blocked by any means.
 - Fixed an issue where The Mastermind could be affected by the effects of Hex: The Third Seal after using vault attacks or attacks on Survivors with the Endurance status.
+
+<!-- nav -->
+&larr; [9.4.1 | Bugfix Patch](535-9-4-1-bugfix-patch.md) · [Live](../../index.md#live) · [9.5.0 | All-Kill: Comeback](538-9-5-0-all-kill-comeback.md) &rarr;
+<!-- /nav -->

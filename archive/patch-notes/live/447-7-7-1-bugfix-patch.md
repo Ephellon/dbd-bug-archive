@@ -9,6 +9,10 @@ updated: "2024-05-08T14:53:01+00:00"
 archived: "2026-09-26T02:18:17Z"
 ---
 
+<!-- nav -->
+&larr; [7.7.0A | Bugfix Patch (Tentative Strobing Fix)](446-7-7-0a-bugfix-patch-tentative-strobing-fix.md) · [Live](../../index.md#live) · [8.0.0 | Dungeons & Dragons](452-8-0-0-dungeons-dragons.md) &rarr;
+<!-- /nav -->
+
 # 7.7.1 | Bugfix Patch
 
 ![CA_DBD_0324_Bacon_Patch_Notes_Assets_BugFix1_FORUM.png](447-7-7-1-bugfix-patch/01-ca-dbd-0324-bacon-patch-notes-assets-bugfix1-forum.png)
@@ -98,3 +102,7 @@ archived: "2026-09-26T02:18:17Z"
 ### Misc
 
 - Fixed an issue where items and add-ons would not get equipped automatically after previously running out of them
+
+<!-- nav -->
+&larr; [7.7.0A | Bugfix Patch (Tentative Strobing Fix)](446-7-7-0a-bugfix-patch-tentative-strobing-fix.md) · [Live](../../index.md#live) · [8.0.0 | Dungeons & Dragons](452-8-0-0-dungeons-dragons.md) &rarr;
+<!-- /nav -->

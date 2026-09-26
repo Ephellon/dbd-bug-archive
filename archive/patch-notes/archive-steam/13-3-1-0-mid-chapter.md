@@ -9,6 +9,10 @@ updated: "2020-03-18T19:57:50+00:00"
 archived: "2026-09-26T02:19:05Z"
 ---
 
+<!-- nav -->
+&larr; [3.0.0 | Ghost Face](12-3-0-0-ghost-face.md) · [Archive: Steam](../../index.md#archive-steam) · [3.2.0 | Stranger Things](14-3-2-0-stranger-things.md) &rarr;
+<!-- /nav -->
+
 # 3.1.0 | Mid-Chapter
 
 ## Features & Content
@@ -284,3 +288,7 @@ NOTE: The slowdown caused by missed attacks with Mad Grit was removed in this up
 
 - A buffer has been added to reduce the friction and make it easier to place Dream Snares as The Nightmare.
 - Slightly reduced the charge timer for placing Dream Snares as The Nightmare.
+
+<!-- nav -->
+&larr; [3.0.0 | Ghost Face](12-3-0-0-ghost-face.md) · [Archive: Steam](../../index.md#archive-steam) · [3.2.0 | Stranger Things](14-3-2-0-stranger-things.md) &rarr;
+<!-- /nav -->

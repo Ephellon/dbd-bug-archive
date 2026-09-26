@@ -9,6 +9,10 @@ updated: "2023-01-26T14:57:12+00:00"
 archived: "2026-09-26T02:20:18Z"
 ---
 
+<!-- nav -->
+&larr; [Developer Update | January 2023](369-developer-update-january-2023.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | February 2023](375-developer-update-february-2023.md) &rarr;
+<!-- /nav -->
+
 # Developer Update | Year 7 Roadmap Additions
 
 It’s hard to believe that it’s already been 8 months since our last Anniversary Broadcast, yet January somehow managed to sneak up on us. During that broadcast, we shared a roadmap detailing some of the features we would introduce over the following year, many of which have already become a reality. Our next anniversary is still several months away, so today, we’re happy to announce even more exciting additions to our Year 7 Roadmap!
@@ -133,3 +137,7 @@ These new additions to the roadmap will be releasing as part of multiple updates
 Until next time…
 
 The Dead by Daylight team
+
+<!-- nav -->
+&larr; [Developer Update | January 2023](369-developer-update-january-2023.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | February 2023](375-developer-update-february-2023.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2020-03-02T15:29:23+00:00"
 archived: "2026-09-26T02:19:06Z"
 ---
 
+<!-- nav -->
+&larr; [3.2.1 | Hotfix](30-3-2-1-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [3.5.1 | Hotfix](32-3-5-1-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 3.2.2 | Hotfix
 
 ## Bug Fixes
@@ -24,3 +28,7 @@ archived: "2026-09-26T02:19:06Z"
 
 - Players are reporting inconsistencies with Ranks and Pips, sometimes resetting after a match or restart (Testing a fix internally)
 - Survivor are able to leave the playing area by the exit gate, and keep playing (In progress)
+
+<!-- nav -->
+&larr; [3.2.1 | Hotfix](30-3-2-1-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [3.5.1 | Hotfix](32-3-5-1-hotfix.md) &rarr;
+<!-- /nav -->

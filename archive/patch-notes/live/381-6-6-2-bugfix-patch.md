@@ -9,6 +9,10 @@ updated: "2023-03-22T14:25:42+00:00"
 archived: "2026-09-26T02:18:25Z"
 ---
 
+<!-- nav -->
+&larr; [6.6.1 | Bugfix Patch](379-6-6-1-bugfix-patch.md) · [Live](../../index.md#live) · [6.7.0 | Mid-Chapter](385-6-7-0-mid-chapter.md) &rarr;
+<!-- /nav -->
+
 # 6.6.2 | Bugfix Patch
 
 ![662Banner.png](381-6-6-2-bugfix-patch/01-662banner.png)
@@ -106,3 +110,7 @@ Update releases: 11am ET
 
 - Fixed Perk description tooltips being incorrectly positioned in the Edit Bot Loadout menu.
 - Corrected 'Shotgun Speakers' add-on icon to avoid trypophobia trigger.
+
+<!-- nav -->
+&larr; [6.6.1 | Bugfix Patch](379-6-6-1-bugfix-patch.md) · [Live](../../index.md#live) · [6.7.0 | Mid-Chapter](385-6-7-0-mid-chapter.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2020-09-24T14:31:19+00:00"
 archived: "2026-09-26T02:19:58Z"
 ---
 
+<!-- nav -->
+&larr; [4.2.1 | Bugfix Patch](234-4-2-1-bugfix-patch.md) · [Archive: Windows Store](../../index.md#archive-windows-store) · [4.3.0 | Mid-Chapter](251-4-3-0-mid-chapter.md) &rarr;
+<!-- /nav -->
+
 # 4.2.2 | Bugfix Patch
 
 ![422Banner.png](239-4-2-2-bugfix-patch/01-422banner.png)
@@ -36,3 +40,7 @@ archived: "2026-09-26T02:19:58Z"
 - Fixed an issue where some instances of the Blight's injection sequence would allow players to control the pitch of the camera
 - Fixed an issue that caused grabbing survivors out of lockers to be accelerated when using the perk **Iron Maiden**
 - Fixed an issue that may cause a survivor to be stuck on the hook without being able to do anything
+
+<!-- nav -->
+&larr; [4.2.1 | Bugfix Patch](234-4-2-1-bugfix-patch.md) · [Archive: Windows Store](../../index.md#archive-windows-store) · [4.3.0 | Mid-Chapter](251-4-3-0-mid-chapter.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2025-05-26T12:58:23+00:00"
 archived: "2026-09-26T02:20:04Z"
 ---
 
+<!-- nav -->
+&larr; [Design Preview | The Skull Merchant Part 2](504-design-preview-the-skull-merchant-part-2.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | July 2025](513-developer-update-july-2025.md) &rarr;
+<!-- /nav -->
+
 # Developer Update | May 2025
 
 ![PTB_DeveloperUpdate_May2025.png](507-developer-update-may-2025/01-ptb-developerupdate-may2025.png)
@@ -160,3 +164,7 @@ Read on for all the details:
 Until next time...
 
 The Dead by Daylight Team
+
+<!-- nav -->
+&larr; [Design Preview | The Skull Merchant Part 2](504-design-preview-the-skull-merchant-part-2.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | July 2025](513-developer-update-july-2025.md) &rarr;
+<!-- /nav -->

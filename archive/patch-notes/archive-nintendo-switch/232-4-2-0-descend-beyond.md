@@ -9,6 +9,10 @@ updated: "2020-09-08T15:11:02+00:00"
 archived: "2026-09-26T02:19:51Z"
 ---
 
+<!-- nav -->
+&larr; [4.1.2 | Bug fix patch ](224-4-1-2-bug-fix-patch.md) · [Archive: Nintendo Switch](../../index.md#archive-nintendo-switch) · [4.2.1 | Bugfix Patch](237-4-2-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 4.2.0 | Descend Beyond
 
 ![420UpdateBanner.png](232-4-2-0-descend-beyond/01-420updatebanner.png)
@@ -74,3 +78,7 @@ Many in-game objects in Dead By Daylight haven't been changed significantly sinc
 - Fixed a crash that would sometimes happen when selecting the Low or Medium Graphics Quality from Medium and above.
 - Reduced rank update errors.
 - HTML markup in player names during social notifications (toast invites) are now handled properly.
+
+<!-- nav -->
+&larr; [4.1.2 | Bug fix patch ](224-4-1-2-bug-fix-patch.md) · [Archive: Nintendo Switch](../../index.md#archive-nintendo-switch) · [4.2.1 | Bugfix Patch](237-4-2-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

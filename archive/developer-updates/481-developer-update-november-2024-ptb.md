@@ -9,6 +9,10 @@ updated: "2024-11-27T14:57:21+00:00"
 archived: "2026-09-26T02:20:07Z"
 ---
 
+<!-- nav -->
+&larr; [2V8 | Developer Update](480-2v8-developer-update.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | January 2025](487-developer-update-january-2025.md) &rarr;
+<!-- /nav -->
+
 # Developer Update | November 2024 PTB
 
 ![Cover.jpg](481-developer-update-november-2024-ptb/01-cover.jpg)
@@ -59,3 +63,7 @@ We received a lot of great feedback regarding The Houndmaster during the PTB and
 We will carefully monitor these changes to The Houndmaster together with the Live Balance changes shown on the PTB and will make any necessary adjustments in the following hotfixes.
 
 The Dead by Daylight Team
+
+<!-- nav -->
+&larr; [2V8 | Developer Update](480-2v8-developer-update.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | January 2025](487-developer-update-january-2025.md) &rarr;
+<!-- /nav -->

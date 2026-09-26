@@ -9,6 +9,10 @@ updated: "2024-07-19T12:04:55+00:00"
 archived: "2026-09-26T02:20:10Z"
 ---
 
+<!-- nav -->
+&larr; [Developer Update | June 2024 PTB](458-developer-update-june-2024-ptb.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | August 2024](464-developer-update-august-2024.md) &rarr;
+<!-- /nav -->
+
 # Stats | July 2024
 
 ![THE PIG.png](460-stats-july-2024/01-the-pig.png)
@@ -30,3 +34,7 @@ If The Entity had an accountant, they’d be sweating buckets. With more than 88
 ![SPORTSMANSHIP.png](460-stats-july-2024/04-sportsmanship.png)
 
 This one goes out to the good sports who managed to set aside their differences after being hunted or battered by pallets and said ‘gg’ over 574 million times. Those who prefer to show their appreciation quietly have given props to other players more than 151 million times!
+
+<!-- nav -->
+&larr; [Developer Update | June 2024 PTB](458-developer-update-june-2024-ptb.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | August 2024](464-developer-update-august-2024.md) &rarr;
+<!-- /nav -->

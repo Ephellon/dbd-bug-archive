@@ -9,6 +9,10 @@ updated: "2025-04-17T14:29:18+00:00"
 archived: "2026-09-26T02:18:11Z"
 ---
 
+<!-- nav -->
+&larr; [8.6.1 | Bugfix Patch](499-8-6-1-bugfix-patch.md) · [Live](../../index.md#live) · [8.7.0 | Steady Pulse](505-8-7-0-steady-pulse.md) &rarr;
+<!-- /nav -->
+
 # 8.6.2 | Bugfix Patch
 
 ![Patch_Notes_Assets_862_Forum.jpg](502-8-6-2-bugfix-patch/01-patch-notes-assets-862-forum.jpg)
@@ -95,3 +99,7 @@ archived: "2026-09-26T02:18:11Z"
 ## Known Issues
 
 - Survivors will still make a grunt when using Balanced Landing and performing a fast falling vault.
+
+<!-- nav -->
+&larr; [8.6.1 | Bugfix Patch](499-8-6-1-bugfix-patch.md) · [Live](../../index.md#live) · [8.7.0 | Steady Pulse](505-8-7-0-steady-pulse.md) &rarr;
+<!-- /nav -->

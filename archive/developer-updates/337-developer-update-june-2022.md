@@ -9,6 +9,10 @@ updated: "2022-06-22T17:16:26+00:00"
 archived: "2026-09-26T02:20:21Z"
 ---
 
+<!-- nav -->
+&larr; _oldest_ · [Developer Updates](../index.md#developer-updates) · [Developer Update | July 2022](341-developer-update-july-2022.md) &rarr;
+<!-- /nav -->
+
 # Developer Update | June 2022
 
 ![Announcement.png](337-developer-update-june-2022/01-announcement.png)
@@ -495,3 +499,7 @@ With that, we’ve reached the end of this edition of the Developer Update. Kudo
 Until next time…
 
 The Dead by Daylight team
+
+<!-- nav -->
+&larr; _oldest_ · [Developer Updates](../index.md#developer-updates) · [Developer Update | July 2022](341-developer-update-july-2022.md) &rarr;
+<!-- /nav -->

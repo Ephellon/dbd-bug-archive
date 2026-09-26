@@ -9,6 +9,10 @@ updated: "2022-12-15T14:09:44+00:00"
 archived: "2026-09-26T02:18:28Z"
 ---
 
+<!-- nav -->
+&larr; [6.4.0 | Forged in Fog](365-6-4-0-forged-in-fog.md) · [Live](../../index.md#live) · [6.4.2 | Bugfix Patch](367-6-4-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 6.4.1 | Bugfix Patch
 
 ![MicrosoftTeams-image.png](366-6-4-1-bugfix-patch/01-microsoftteams-image.png)
@@ -60,3 +64,7 @@ archived: "2026-09-26T02:18:28Z"
 ## Known Issues
 
 - The Knights's feet do not animate in FPV when looking down while attacking.
+
+<!-- nav -->
+&larr; [6.4.0 | Forged in Fog](365-6-4-0-forged-in-fog.md) · [Live](../../index.md#live) · [6.4.2 | Bugfix Patch](367-6-4-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

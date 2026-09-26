@@ -9,6 +9,10 @@ updated: "2024-07-24T14:25:39+00:00"
 archived: "2026-09-26T02:18:16Z"
 ---
 
+<!-- nav -->
+&larr; [8.1.0 | Tomb Raider](459-8-1-0-tomb-raider.md) · [Live](../../index.md#live) · [8.1.1a | Hotfix](463-8-1-1a-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 8.1.1 | Bugfix Patch
 
 ![811_Forums.jpg](462-8-1-1-bugfix-patch/01-811-forums.jpg)
@@ -123,3 +127,7 @@ archived: "2026-09-26T02:18:16Z"
 - Some assets in the Azarov's Resting Place map are missing collision.
 - Placeholder tiles may spawn in the Shelter Woods map.
 - Dead Hard perk does not give Endurance if the perk Off The Record is triggered.
+
+<!-- nav -->
+&larr; [8.1.0 | Tomb Raider](459-8-1-0-tomb-raider.md) · [Live](../../index.md#live) · [8.1.1a | Hotfix](463-8-1-1a-hotfix.md) &rarr;
+<!-- /nav -->

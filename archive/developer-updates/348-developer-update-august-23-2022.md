@@ -9,6 +9,10 @@ updated: "2022-08-23T13:55:20+00:00"
 archived: "2026-09-26T02:20:20Z"
 ---
 
+<!-- nav -->
+&larr; [Developer Update | August 2022](344-developer-update-august-2022.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | Finishing Mori](352-developer-update-finishing-mori.md) &rarr;
+<!-- /nav -->
+
 # Developer Update | August 23, 2022
 
 ![Announcement.png](348-developer-update-august-23-2022/01-announcement.png)
@@ -103,3 +107,7 @@ With that, we’ve reached the end of this edition of the Developer Update. Ever
 Until next time…
 
 The Dead by Daylight team
+
+<!-- nav -->
+&larr; [Developer Update | August 2022](344-developer-update-august-2022.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | Finishing Mori](352-developer-update-finishing-mori.md) &rarr;
+<!-- /nav -->

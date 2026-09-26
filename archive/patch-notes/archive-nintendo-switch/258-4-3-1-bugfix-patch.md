@@ -9,6 +9,10 @@ updated: "2020-10-28T14:27:34+00:00"
 archived: "2026-09-26T02:19:52Z"
 ---
 
+<!-- nav -->
+&larr; [4.3.0 | Mid-Chapter](250-4-3-0-mid-chapter.md) · [Archive: Nintendo Switch](../../index.md#archive-nintendo-switch) · [4.3.2 | Bugfix Patch](263-4-3-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 4.3.1 | Bugfix Patch
 
 ![431Banner.png](258-4-3-1-bugfix-patch/01-431banner.png)
@@ -26,3 +30,7 @@ archived: "2026-09-26T02:19:52Z"
 - Fixed an issue that caused a survivor's model to remain in a Cage of Atonement when disconnecting.
 - Fixed an issue that caused Madness audio levels to be incorrect when switching spectated survivors.
 - Fixed an issue that caused the killer's music theme to be heard as a spectator in a custom game lobby.
+
+<!-- nav -->
+&larr; [4.3.0 | Mid-Chapter](250-4-3-0-mid-chapter.md) · [Archive: Nintendo Switch](../../index.md#archive-nintendo-switch) · [4.3.2 | Bugfix Patch](263-4-3-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

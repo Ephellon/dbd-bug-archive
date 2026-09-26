@@ -9,6 +9,10 @@ updated: "2023-08-09T15:12:43+00:00"
 archived: "2026-09-26T02:18:23Z"
 ---
 
+<!-- nav -->
+&larr; [7.1.1 | Bugfix Patch](401-7-1-1-bugfix-patch.md) · [Live](../../index.md#live) · [7.1.2a | Bugfix Patch](404-7-1-2a-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 7.1.2 | Bugfix Patch
 
 *This article was created from a*[*community discussion*](https://forums.bhvr.com/dead-by-daylight/discussion/386775/7-1-2-bugfix-patch)*.*
@@ -69,3 +73,7 @@ Update Releases: 11 AM ET
 ### Known Issues
 
 - Reasons for report feedback are in English across all languages. Full translations to come soon.
+
+<!-- nav -->
+&larr; [7.1.1 | Bugfix Patch](401-7-1-1-bugfix-patch.md) · [Live](../../index.md#live) · [7.1.2a | Bugfix Patch](404-7-1-2a-bugfix-patch.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2020-10-28T14:28:05+00:00"
 archived: "2026-09-26T02:20:00Z"
 ---
 
+<!-- nav -->
+&larr; [4.3.0 | Mid-Chapter](252-4-3-0-mid-chapter.md) · [Archive: Stadia](../../index.md#archive-stadia) · [4.3.2 | Bugfix Patch](265-4-3-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 4.3.1 | Bugfix Patch
 
 ![431Banner.png](259-4-3-1-bugfix-patch/01-431banner.png)
@@ -26,3 +30,7 @@ archived: "2026-09-26T02:20:00Z"
 - Fixed an issue that caused a survivor's model to remain in a Cage of Atonement when disconnecting.
 - Fixed an issue that caused Madness audio levels to be incorrect when switching spectated survivors.
 - Fixed an issue that caused the killer's music theme to be heard as a spectator in a custom game lobby.
+
+<!-- nav -->
+&larr; [4.3.0 | Mid-Chapter](252-4-3-0-mid-chapter.md) · [Archive: Stadia](../../index.md#archive-stadia) · [4.3.2 | Bugfix Patch](265-4-3-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

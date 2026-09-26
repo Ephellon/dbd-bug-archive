@@ -9,6 +9,10 @@ updated: "2023-01-24T15:33:46+00:00"
 archived: "2026-09-26T02:18:27Z"
 ---
 
+<!-- nav -->
+&larr; [6.4.3 | Bugfix Patch](368-6-4-3-bugfix-patch.md) · [Live](../../index.md#live) · [6.5.1 | Bugfix Patch](373-6-5-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 6.5.0 | Mid-Chapter
 
 ![650Banner.png](371-6-5-0-mid-chapter/01-650banner.png)
@@ -314,3 +318,7 @@ Eyrie of Crows has received an additional balance pass to make the Map more fun 
 ## Known Issues
 
 - Generator progress is not shown on Survivor HUD activity icons.
+
+<!-- nav -->
+&larr; [6.4.3 | Bugfix Patch](368-6-4-3-bugfix-patch.md) · [Live](../../index.md#live) · [6.5.1 | Bugfix Patch](373-6-5-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

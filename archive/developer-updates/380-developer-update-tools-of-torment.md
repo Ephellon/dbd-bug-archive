@@ -9,6 +9,10 @@ updated: "2023-05-31T17:51:01+00:00"
 archived: "2026-09-26T02:20:18Z"
 ---
 
+<!-- nav -->
+&larr; [Developer Update | Tools of Torment PTB](377-developer-update-tools-of-torment-ptb.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | March 2023](382-developer-update-march-2023.md) &rarr;
+<!-- /nav -->
+
 # Developer Update | Tools of Torment
 
 ![Announcement.png](380-developer-update-tools-of-torment/01-announcement.png)
@@ -92,3 +96,7 @@ With that, we’ve reached the end of this special edition Developer Update. The
 Until next time…
 
 The Dead by Daylight team
+
+<!-- nav -->
+&larr; [Developer Update | Tools of Torment PTB](377-developer-update-tools-of-torment-ptb.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | March 2023](382-developer-update-march-2023.md) &rarr;
+<!-- /nav -->

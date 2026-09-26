@@ -9,6 +9,10 @@ updated: "2025-07-29T16:07:30+00:00"
 archived: "2026-09-26T02:18:09Z"
 ---
 
+<!-- nav -->
+&larr; [9.0.2 | Bugfix Patch](512-9-0-2-bugfix-patch.md) · [Live](../../index.md#live) · [9.1.1 | Bugfix Patch](517-9-1-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 9.1.0 | The Walking Dead
 
 ![910_PatchNotes.jpg](516-9-1-0-the-walking-dead/01-910-patchnotes.jpg)
@@ -560,3 +564,7 @@ archived: "2026-09-26T02:18:09Z"
 - Fixed an issue where Rick and Michonne's voiceover discussion was sometimes missing.
 - Fixed an issue where fog cloud SFX would play each time the camera's POV was swapped.
 - Fixed an issue where Michonne's special vault animation was missing audio when performing a fast vault.
+
+<!-- nav -->
+&larr; [9.0.2 | Bugfix Patch](512-9-0-2-bugfix-patch.md) · [Live](../../index.md#live) · [9.1.1 | Bugfix Patch](517-9-1-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

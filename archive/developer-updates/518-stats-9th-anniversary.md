@@ -9,6 +9,10 @@ updated: "2025-08-08T17:00:24+00:00"
 archived: "2026-09-26T02:20:04Z"
 ---
 
+<!-- nav -->
+&larr; [Developer Update | July 2025](513-developer-update-july-2025.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | August 2025](521-developer-update-august-2025.md) &rarr;
+<!-- /nav -->
+
 # Stats | 9th Anniversary
 
 While the Masquerade may be over, that doesn’t mean the fun has to end. We’d like to share with you some stats from the 9th anniversary Masquerade Event and from our Five Nights at Freddy’s Chapter.
@@ -24,3 +28,7 @@ On top of how many trials were played in this chapter, we also wanted to see how
 Until next time…
 
 The Dead by Daylight Team
+
+<!-- nav -->
+&larr; [Developer Update | July 2025](513-developer-update-july-2025.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | August 2025](521-developer-update-august-2025.md) &rarr;
+<!-- /nav -->

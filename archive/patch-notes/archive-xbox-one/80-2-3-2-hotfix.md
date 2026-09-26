@@ -9,6 +9,10 @@ updated: "2020-02-28T22:00:41+00:00"
 archived: "2026-09-26T02:19:33Z"
 ---
 
+<!-- nav -->
+&larr; [2.3.0 | Mid-Chapter](79-2-3-0-mid-chapter.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [2.4.0 | Darkness Among Us](81-2-4-0-darkness-among-us.md) &rarr;
+<!-- /nav -->
+
 # 2.3.2 | Hotfix
 
 ## Features & Content
@@ -18,3 +22,7 @@ archived: "2026-09-26T02:19:33Z"
 ## Bug Fixes
 
 - Fixed an issue causing event vial progress to get reset for the killers when completing a survivor objective or vice-versa. This issue was originally introduced with the merging of event objectives.
+
+<!-- nav -->
+&larr; [2.3.0 | Mid-Chapter](79-2-3-0-mid-chapter.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [2.4.0 | Darkness Among Us](81-2-4-0-darkness-among-us.md) &rarr;
+<!-- /nav -->

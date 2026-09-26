@@ -9,6 +9,10 @@ updated: "2024-06-13T14:25:32+00:00"
 archived: "2026-09-26T02:18:17Z"
 ---
 
+<!-- nav -->
+&larr; [8.0.0 | Dungeons & Dragons](452-8-0-0-dungeons-dragons.md) · [Live](../../index.md#live) · [8.0.2 | Bugfix Patch](454-8-0-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 8.0.1 | Bugfix Patch
 
 ![CA_DBD_0424_Churros_Patch_Notes_Assets_Bugfix01_FORUM.png](453-8-0-1-bugfix-patch/01-ca-dbd-0424-churros-patch-notes-assets-bugfix01-forum.png)
@@ -121,3 +125,7 @@ archived: "2026-09-26T02:18:17Z"
 ## Known Issues
 
 - The Archives progress widget does not appear in-game when gaining progress on the "Show 'Em What You Got", "Encore! Encore!", "It Takes Two", and "Dancing with Myself" challenges. Progress is still retained after the match.
+
+<!-- nav -->
+&larr; [8.0.0 | Dungeons & Dragons](452-8-0-0-dungeons-dragons.md) · [Live](../../index.md#live) · [8.0.2 | Bugfix Patch](454-8-0-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

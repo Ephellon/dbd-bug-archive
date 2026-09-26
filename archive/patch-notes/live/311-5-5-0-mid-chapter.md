@@ -9,6 +9,10 @@ updated: "2022-01-25T18:05:15+00:00"
 archived: "2026-09-26T02:18:34Z"
 ---
 
+<!-- nav -->
+&larr; [5.4.2 | Bugfix Patch](308-5-4-2-bugfix-patch.md) · [Live](../../index.md#live) · [5.5.1 | Bugfix Patch](313-5-5-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 5.5.0 | Mid-Chapter
 
 ![550Banner.png](311-5-5-0-mid-chapter/01-550banner.png)
@@ -266,3 +270,7 @@ Several issues affected the Nurse's power that required a large part of the code
 - The Crotus Prenn Asylum - Father Campbell's Chapel has been disabled.
 - The Cannibal cannot break a pallet after hitting a survivor in the same chainsaw sweep.
 - The Meg Deathgarden Mask is not available to some players.
+
+<!-- nav -->
+&larr; [5.4.2 | Bugfix Patch](308-5-4-2-bugfix-patch.md) · [Live](../../index.md#live) · [5.5.1 | Bugfix Patch](313-5-5-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

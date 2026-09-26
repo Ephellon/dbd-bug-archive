@@ -9,6 +9,10 @@ updated: "2024-05-17T14:06:06+00:00"
 archived: "2026-09-26T02:20:11Z"
 ---
 
+<!-- nav -->
+&larr; [Developer Update | May 2024](448-developer-update-may-2024.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | May 2024 PTB](451-developer-update-may-2024-ptb.md) &rarr;
+<!-- /nav -->
+
 # Stats | April 2024
 
 ![UNKNOWN.png](450-stats-april-2024/01-unknown.png)
@@ -40,3 +44,7 @@ We have a challenge for you: Let’s see how many zombies you can slay! No press
 Until next time…
 
 The Dead by Daylight team
+
+<!-- nav -->
+&larr; [Developer Update | May 2024](448-developer-update-may-2024.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | May 2024 PTB](451-developer-update-may-2024-ptb.md) &rarr;
+<!-- /nav -->

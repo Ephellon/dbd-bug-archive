@@ -9,6 +9,10 @@ updated: "2023-03-27T14:37:05+00:00"
 archived: "2026-09-26T02:20:17Z"
 ---
 
+<!-- nav -->
+&larr; [Developer Update | Tools of Torment](380-developer-update-tools-of-torment.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | April 2023](384-developer-update-april-2023.md) &rarr;
+<!-- /nav -->
+
 # Developer Update | March 2023
 
 ![271201640_4700475550000980_8828790767346394243_n.jpg](382-developer-update-march-2023/01-271201640-4700475550000980-8828790767346394243-n.jpg)
@@ -253,3 +257,7 @@ With that, we’ve reached the end of this month’s Developer Update. The Publi
 Until next time…
 
 The Dead by Daylight team
+
+<!-- nav -->
+&larr; [Developer Update | Tools of Torment](380-developer-update-tools-of-torment.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | April 2023](384-developer-update-april-2023.md) &rarr;
+<!-- /nav -->

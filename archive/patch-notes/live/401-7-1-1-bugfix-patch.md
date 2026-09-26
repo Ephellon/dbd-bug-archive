@@ -9,6 +9,10 @@ updated: "2023-08-01T14:28:41+00:00"
 archived: "2026-09-26T02:18:23Z"
 ---
 
+<!-- nav -->
+&larr; [7.1.0 | Nicolas Cage](400-7-1-0-nicolas-cage.md) · [Live](../../index.md#live) · [7.1.2 | Bugfix Patch](403-7-1-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 7.1.1 | Bugfix Patch
 
 ![711_PatchNotesThinBanner.png](401-7-1-1-bugfix-patch/01-711-patchnotesthinbanner.png)
@@ -91,3 +95,7 @@ Update Releases: 11AM ET
 ### Misc
 
 - There is no longer an invisible collision in one of the hallways inside the Badham Preschool.
+
+<!-- nav -->
+&larr; [7.1.0 | Nicolas Cage](400-7-1-0-nicolas-cage.md) · [Live](../../index.md#live) · [7.1.2 | Bugfix Patch](403-7-1-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

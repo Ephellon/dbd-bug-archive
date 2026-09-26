@@ -9,6 +9,10 @@ updated: "2024-10-08T15:11:19+00:00"
 archived: "2026-09-26T02:18:14Z"
 ---
 
+<!-- nav -->
+&larr; [8.2.2 | Bugfix Patch](471-8-2-2-bugfix-patch.md) · [Live](../../index.md#live) · [8.3.1 | Bugfix Patch](476-8-3-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 8.3.0 | Mid-Chapter
 
 ![FUDGE_PTB_RELEASEFORUM.jpg](475-8-3-0-mid-chapter/01-fudge-ptb-releaseforum.jpg)
@@ -316,3 +320,7 @@ Ivory and Ebony Memento Mori Offerings have been reverted back to their former g
 ## Known Issues
 
 - Several Killers mori animations have been erroneously changed to FPV. We are working on a fix to rectify this in a future patch.
+
+<!-- nav -->
+&larr; [8.2.2 | Bugfix Patch](471-8-2-2-bugfix-patch.md) · [Live](../../index.md#live) · [8.3.1 | Bugfix Patch](476-8-3-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

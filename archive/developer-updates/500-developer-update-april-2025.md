@@ -9,6 +9,10 @@ updated: "2025-04-10T13:58:17+00:00"
 archived: "2026-09-26T02:20:05Z"
 ---
 
+<!-- nav -->
+&larr; [Design Preview | The Skull Merchant](497-design-preview-the-skull-merchant.md) · [Developer Updates](../index.md#developer-updates) · [Stats | January - March 2025](503-stats-january-march-2025.md) &rarr;
+<!-- /nav -->
+
 # Developer Update | April 2025
 
 ![PTB_DeveloperUpdate_April2025.png](500-developer-update-april-2025/01-ptb-developerupdate-april2025.png)
@@ -142,3 +146,7 @@ Read on for all the details:
 Until next time...
 
 The Dead by Daylight Team
+
+<!-- nav -->
+&larr; [Design Preview | The Skull Merchant](497-design-preview-the-skull-merchant.md) · [Developer Updates](../index.md#developer-updates) · [Stats | January - March 2025](503-stats-january-march-2025.md) &rarr;
+<!-- /nav -->

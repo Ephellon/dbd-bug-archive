@@ -9,6 +9,10 @@ updated: "2021-06-15T17:29:40+00:00"
 archived: "2026-09-26T02:18:38Z"
 ---
 
+<!-- nav -->
+&larr; [4.7.2 | Bugfix Patch](283-4-7-2-bugfix-patch.md) · [Live](../../index.md#live) · [5.0.1 | Resident Evil](287-5-0-1-resident-evil.md) &rarr;
+<!-- /nav -->
+
 # 5.0.0 | Resident Evil
 
 ![MicrosoftTeams-image (32).png](286-5-0-0-resident-evil/01-microsoftteams-image-2832-29.png)
@@ -178,3 +182,7 @@ archived: "2026-09-26T02:18:38Z"
 - Fixed an issue that could cause a crash when loading into swamp maps.
 - Fixed various collision issues in the Raccoon Police Department.
 - Fixed various issues with zombie AI and nav meshes.
+
+<!-- nav -->
+&larr; [4.7.2 | Bugfix Patch](283-4-7-2-bugfix-patch.md) · [Live](../../index.md#live) · [5.0.1 | Resident Evil](287-5-0-1-resident-evil.md) &rarr;
+<!-- /nav -->

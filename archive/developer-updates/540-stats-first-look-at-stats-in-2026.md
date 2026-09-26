@@ -9,6 +9,10 @@ updated: "2026-03-27T18:20:51+00:00"
 archived: "2026-09-26T02:20:02Z"
 ---
 
+<!-- nav -->
+&larr; [Stats | 2025 Year in Review](532-stats-2025-year-in-review.md) · [Developer Updates](../index.md#developer-updates) · [Stats | The Trickster](543-stats-the-trickster.md) &rarr;
+<!-- /nav -->
+
 # Stats | First Look at Stats in 2026
 
 How time flies, it's already almost April. Let’s take a moment to celebrate the changing of seasons with a look at some stats from the past 6 months! Please note that “High MMR” in these stats refers to those with an MMR rating of 1800 or higher, which counts for approximately 18% of the playerbase at the time of pulling these numbers.
@@ -36,3 +40,7 @@ And as always, you can check out your own personal stats at any time using our D
 Until next time…
 
 The Dead by Daylight Team
+
+<!-- nav -->
+&larr; [Stats | 2025 Year in Review](532-stats-2025-year-in-review.md) · [Developer Updates](../index.md#developer-updates) · [Stats | The Trickster](543-stats-the-trickster.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2025-04-02T15:59:04+00:00"
 archived: "2026-09-26T02:18:12Z"
 ---
 
+<!-- nav -->
+&larr; [8.5.2 | Bugfix Patch](492-8-5-2-bugfix-patch.md) · [Live](../../index.md#live) · [8.6.1 | Bugfix Patch](499-8-6-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 8.6.0 | Tokyo Ghoul
 
 ![860_PatchNotes_Release_ForumsEN.png](498-8-6-0-tokyo-ghoul/01-860-patchnotes-release-forumsen.png)
@@ -515,3 +519,7 @@ The following score events have been moved to a different category:
 - Fixed an issue where male survivor failed to scream when interrupted by The Ghoul on dropped pallets or regular vaults.
 - Capped the "pick-up" speed buff at +42% for Killers. This was done to prevent breaking certain Killer/Survivor interactions.
 - Fixed an issue that caused players to not gain Bloodpoints, Challenge progression, or XP after a surrender.
+
+<!-- nav -->
+&larr; [8.5.2 | Bugfix Patch](492-8-5-2-bugfix-patch.md) · [Live](../../index.md#live) · [8.6.1 | Bugfix Patch](499-8-6-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2023-02-10T14:55:50+00:00"
 archived: "2026-09-26T02:20:18Z"
 ---
 
+<!-- nav -->
+&larr; [Developer Update | Year 7 Roadmap Additions](372-developer-update-year-7-roadmap-additions.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | Tools of Torment PTB](377-developer-update-tools-of-torment-ptb.md) &rarr;
+<!-- /nav -->
+
 # Developer Update | February 2023
 
 ![Announcement.png](375-developer-update-february-2023/01-announcement.png)
@@ -116,3 +120,7 @@ And with that, we’ve once again reached the end of the Developer Update. Most 
 Until next time…
 
 The Dead by Daylight team
+
+<!-- nav -->
+&larr; [Developer Update | Year 7 Roadmap Additions](372-developer-update-year-7-roadmap-additions.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | Tools of Torment PTB](377-developer-update-tools-of-torment-ptb.md) &rarr;
+<!-- /nav -->

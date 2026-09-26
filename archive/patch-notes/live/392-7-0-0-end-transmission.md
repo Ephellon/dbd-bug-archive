@@ -9,6 +9,10 @@ updated: "2023-06-13T14:25:52+00:00"
 archived: "2026-09-26T02:18:24Z"
 ---
 
+<!-- nav -->
+&larr; [6.7.2 | Bugfix Patch](388-6-7-2-bugfix-patch.md) · [Live](../../index.md#live) · [7.0.1 | Bugfix Patch](394-7-0-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 7.0.0 | End Transmission
 
 ![700_Releaseinfo_wide copie.png](392-7-0-0-end-transmission/01-700-releaseinfo-wide-copie.png)
@@ -334,3 +338,7 @@ The following text parts can be searched for:
 - Fixed multiples issues in the Singularity's mori, where the survivor's face was not dissolving correctly,
 - The Perk Preview icons are now disabled in Anonymous Mode.
 - Loadout parts are now correctly blocked by Match Management settings in a Custom Game.
+
+<!-- nav -->
+&larr; [6.7.2 | Bugfix Patch](388-6-7-2-bugfix-patch.md) · [Live](../../index.md#live) · [7.0.1 | Bugfix Patch](394-7-0-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

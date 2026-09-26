@@ -9,6 +9,10 @@ updated: "2020-03-02T15:34:14+00:00"
 archived: "2026-09-26T02:19:08Z"
 ---
 
+<!-- nav -->
+&larr; [3.4.1 | Hotfix](18-3-4-1-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [3.5.0 | Mid-Chapter](20-3-5-0-mid-chapter.md) &rarr;
+<!-- /nav -->
+
 # 3.4.2 | Hotfix
 
 ## Balance
@@ -63,3 +67,7 @@ archived: "2026-09-26T02:19:08Z"
 
 - It is possible to get an "Accept Invitation Failure" if multiple users accepted an invite at the same time.
 - The Oni's Kanabō does not appear during the mori animation.
+
+<!-- nav -->
+&larr; [3.4.1 | Hotfix](18-3-4-1-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [3.5.0 | Mid-Chapter](20-3-5-0-mid-chapter.md) &rarr;
+<!-- /nav -->

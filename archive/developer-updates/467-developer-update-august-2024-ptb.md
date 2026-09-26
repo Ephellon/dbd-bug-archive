@@ -9,6 +9,10 @@ updated: "2024-08-22T19:45:53+00:00"
 archived: "2026-09-26T02:20:09Z"
 ---
 
+<!-- nav -->
+&larr; [Developer Update | August 2024](464-developer-update-august-2024.md) · [Developer Updates](../index.md#developer-updates) · [Stats | September 2024](470-stats-september-2024.md) &rarr;
+<!-- /nav -->
+
 # Developer Update | August 2024 PTB
 
 ![CM_DBD_0724_ECLAIR_Update_Release_Generic_16_9_VF_WithKNIGHT_2.png](467-developer-update-august-2024-ptb/01-cm-dbd-0724-eclair-update-release-generic-16-9-vf-withknight.png)
@@ -69,3 +73,7 @@ As the next update approaches, we as always have news to share! This blogpost wi
 
 Until next time…  
  The Dead by Daylight team
+
+<!-- nav -->
+&larr; [Developer Update | August 2024](464-developer-update-august-2024.md) · [Developer Updates](../index.md#developer-updates) · [Stats | September 2024](470-stats-september-2024.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2020-06-16T14:31:44+00:00"
 archived: "2026-09-26T02:19:49Z"
 ---
 
+<!-- nav -->
+&larr; [3.7.2 | Hotfix](192-3-7-2-hotfix.md) · [Archive: Nintendo Switch](../../index.md#archive-nintendo-switch) · [4.0.3 | Hotfix ](200-4-0-3-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 4.0.0 | Silent Hill
 
 ## Features & Content
@@ -83,3 +87,7 @@ archived: "2026-09-26T02:19:49Z"
 - David King's Hard Headlights: Fixed visible seams during various actions.
 - Feng Min's Mad World: Fixed a visible hole on the sleeve of the Torso.
 - Dwight's Office Slacks and Watermelon Pants: Fixed an issue that caused Dwight's leg to be deformed when wearing the Everyday Office Slacks.
+
+<!-- nav -->
+&larr; [3.7.2 | Hotfix](192-3-7-2-hotfix.md) · [Archive: Nintendo Switch](../../index.md#archive-nintendo-switch) · [4.0.3 | Hotfix ](200-4-0-3-hotfix.md) &rarr;
+<!-- /nav -->

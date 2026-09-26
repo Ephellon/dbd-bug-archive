@@ -9,6 +9,10 @@ updated: "2023-09-05T14:28:19+00:00"
 archived: "2026-09-26T02:18:22Z"
 ---
 
+<!-- nav -->
+&larr; [7.2.0 | Alien](405-7-2-0-alien.md) · [Live](../../index.md#live) · [7.2.2 | Bugfix Patch](408-7-2-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 7.2.1 | Bugfix Patch
 
 ![CA-546_DBD_0723_Chapter_Update_Assets_Forum_Bugfix_01 (1).png](406-7-2-1-bugfix-patch/01-ca-546-dbd-0723-chapter-update-assets-forum-bugfix-01-281-29.png)
@@ -79,3 +83,7 @@ Update Releases: 11AM ET
 - Players are now correctly able to advance progress with The Onryo's "Viral Video" achievement.
 - Localization issues with certain Cosmetics have been fixed.
 - Fixed an issue where The Xenomorph's Tunnels may lose lighting and ambiance when the game is paused or the Graphic Settings are changed
+
+<!-- nav -->
+&larr; [7.2.0 | Alien](405-7-2-0-alien.md) · [Live](../../index.md#live) · [7.2.2 | Bugfix Patch](408-7-2-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

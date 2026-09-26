@@ -9,6 +9,10 @@ updated: "2024-06-03T13:06:22+00:00"
 archived: "2026-09-26T02:20:11Z"
 ---
 
+<!-- nav -->
+&larr; [Stats | April 2024](450-stats-april-2024.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | June 2024](455-developer-update-june-2024.md) &rarr;
+<!-- /nav -->
+
 # Developer Update | May 2024 PTB
 
 ![CA_DBD_0424_Churros_Update_Overview_16_9_V3.png](451-developer-update-may-2024-ptb/01-ca-dbd-0424-churros-update-overview-16-9-v3.png)
@@ -102,3 +106,7 @@ Dark Arrogance
 Until next time…
 
 The Dead by Daylight team
+
+<!-- nav -->
+&larr; [Stats | April 2024](450-stats-april-2024.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | June 2024](455-developer-update-june-2024.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2020-03-02T15:08:52+00:00"
 archived: "2026-09-26T02:19:02Z"
 ---
 
+<!-- nav -->
+&larr; [2.5.0 | Mid-Chapter](7-2-5-0-mid-chapter.md) · [Archive: Steam](../../index.md#archive-steam) · [2.6.0 | Demise of the Faithful](9-2-6-0-demise-of-the-faithful.md) &rarr;
+<!-- /nav -->
+
 # 2.5.1 | Hotfix
 
 ## Bug Fixes
@@ -29,3 +33,7 @@ archived: "2026-09-26T02:19:02Z"
 - Fixed an issue that caused the Bloodweb not to refresh when switching characters while opening a Mystery Box.
 - Fixed a prestige issue that allowed abusing the UI to Prestige low level characters.
 - Fixed an issue that allowed players to swap characters at the same time as purchasing a node in the Bloodweb, causing the items purchased to appear on the wrong character, and causing the Bloodweb paths to break.
+
+<!-- nav -->
+&larr; [2.5.0 | Mid-Chapter](7-2-5-0-mid-chapter.md) · [Archive: Steam](../../index.md#archive-steam) · [2.6.0 | Demise of the Faithful](9-2-6-0-demise-of-the-faithful.md) &rarr;
+<!-- /nav -->

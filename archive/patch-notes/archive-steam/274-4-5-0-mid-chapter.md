@@ -9,6 +9,10 @@ updated: "2021-02-09T15:26:36+00:00"
 archived: "2026-09-26T02:19:14Z"
 ---
 
+<!-- nav -->
+&larr; [4.4.2 | Bugfix Patch](272-4-4-2-bugfix-patch.md) · [Archive: Steam](../../index.md#archive-steam) · [4.5.1 | Bugfix Patch](275-4-5-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 4.5.0 | Mid-Chapter
 
 ![450Banner.png](274-4-5-0-mid-chapter/01-450banner.png)
@@ -221,3 +225,7 @@ Audio:
 ## Known Issues
 
 - Some tutorial and UI texts show incorrect characters in Thai language on Steam.
+
+<!-- nav -->
+&larr; [4.4.2 | Bugfix Patch](272-4-4-2-bugfix-patch.md) · [Archive: Steam](../../index.md#archive-steam) · [4.5.1 | Bugfix Patch](275-4-5-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2026-03-24T14:30:07+00:00"
 archived: "2026-09-26T02:18:05Z"
 ---
 
+<!-- nav -->
+&larr; [9.5.0 | All-Kill: Comeback](538-9-5-0-all-kill-comeback.md) · [Live](../../index.md#live) · [9.5.2 | Bugfix Patch](541-9-5-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 9.5.1 | Bugfix Patch
 
 ![DbD_951_PatchNotes_FORUM.png](539-9-5-1-bugfix-patch/01-dbd-951-patchnotes-forum.png)
@@ -126,3 +130,7 @@ Blood Moon begins March 26*th*!
 ## Known Issues
 
 - It is possible for The Mastermind to become stuck in place when missing a Virulent Bound with 2 charges left.
+
+<!-- nav -->
+&larr; [9.5.0 | All-Kill: Comeback](538-9-5-0-all-kill-comeback.md) · [Live](../../index.md#live) · [9.5.2 | Bugfix Patch](541-9-5-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2024-09-09T13:54:25+00:00"
 archived: "2026-09-26T02:20:09Z"
 ---
 
+<!-- nav -->
+&larr; [Developer Update | August 2024 PTB](467-developer-update-august-2024-ptb.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | September 2024](472-developer-update-september-2024.md) &rarr;
+<!-- /nav -->
+
 # Stats | September 2024
 
 ![THE LICH.png](470-stats-september-2024/01-the-lich.png)
@@ -28,3 +32,7 @@ If it glows, it goes. We tracked down how often totems are cleansed and blessed,
 Until next time…
 
 The Dead by Daylight team
+
+<!-- nav -->
+&larr; [Developer Update | August 2024 PTB](467-developer-update-august-2024-ptb.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | September 2024](472-developer-update-september-2024.md) &rarr;
+<!-- /nav -->

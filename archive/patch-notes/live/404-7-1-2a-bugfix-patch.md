@@ -9,6 +9,10 @@ updated: "2023-08-15T14:28:32+00:00"
 archived: "2026-09-26T02:18:23Z"
 ---
 
+<!-- nav -->
+&larr; [7.1.2 | Bugfix Patch](403-7-1-2-bugfix-patch.md) · [Live](../../index.md#live) · [7.2.0 | Alien](405-7-2-0-alien.md) &rarr;
+<!-- /nav -->
+
 # 7.1.2a | Bugfix Patch
 
 *This article was created from a*[*community discussion*](https://forums.bhvr.com/dead-by-daylight/discussion/388071/7-1-2a-bugfix-patch)*.*
@@ -24,3 +28,7 @@ Update Releases: 11AM ET
 ### Bug Fixes
 
 - Steam and EGS: Fixed an issue that caused Stadia owned entitlements to be no longer available since the 7.1.0 release
+
+<!-- nav -->
+&larr; [7.1.2 | Bugfix Patch](403-7-1-2-bugfix-patch.md) · [Live](../../index.md#live) · [7.2.0 | Alien](405-7-2-0-alien.md) &rarr;
+<!-- /nav -->

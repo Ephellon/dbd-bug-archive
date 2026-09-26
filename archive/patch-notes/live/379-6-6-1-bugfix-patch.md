@@ -9,6 +9,10 @@ updated: "2023-03-14T14:34:44+00:00"
 archived: "2026-09-26T02:18:26Z"
 ---
 
+<!-- nav -->
+&larr; [6.6.0 | Tools of Torment](378-6-6-0-tools-of-torment.md) · [Live](../../index.md#live) · [6.6.2 | Bugfix Patch](381-6-6-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 6.6.1 | Bugfix Patch
 
 ![661Banner.png](379-6-6-1-bugfix-patch/01-661banner.png)
@@ -104,3 +108,7 @@ Update Releases: 11AM ET
 - Hooking Survivors during the End Game Collapse no longer counts for 2 Hooks for the Hooks challenges progress
 - The Hack the Mainframe Achievement now unlocks correctly upon Killer disconnection.
 - Adept Renato and Adept Thalita are unlocked if the Killer Disconnects after the Exit Gate was opened.
+
+<!-- nav -->
+&larr; [6.6.0 | Tools of Torment](378-6-6-0-tools-of-torment.md) · [Live](../../index.md#live) · [6.6.2 | Bugfix Patch](381-6-6-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

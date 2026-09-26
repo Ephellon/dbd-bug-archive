@@ -9,6 +9,10 @@ updated: "2024-02-15T13:55:28+00:00"
 archived: "2026-09-26T02:20:13Z"
 ---
 
+<!-- nav -->
+&larr; [Developer Update | January 2024 PTB](429-developer-update-january-2024-ptb.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | February 2024](434-developer-update-february-2024.md) &rarr;
+<!-- /nav -->
+
 # Developer Update | Stats!
 
 ![Developer update Totem NEW.png](433-developer-update-stats/01-developer-update-totem-new.png)
@@ -105,3 +109,7 @@ That’s all for this time! We’d like to continue sharing statistics like thes
 Until next time…
 
 The Dead by Daylight team
+
+<!-- nav -->
+&larr; [Developer Update | January 2024 PTB](429-developer-update-january-2024-ptb.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | February 2024](434-developer-update-february-2024.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2024-05-09T13:55:10+00:00"
 archived: "2026-09-26T02:20:11Z"
 ---
 
+<!-- nav -->
+&larr; [Developer Update | April 2024 PTB](444-developer-update-april-2024-ptb.md) · [Developer Updates](../index.md#developer-updates) · [Stats | April 2024](450-stats-april-2024.md) &rarr;
+<!-- /nav -->
+
 # Developer Update | May 2024
 
 ![CA_DBD_0424_Churros_Update_Overview_Generic_16_9_V3.png](448-developer-update-may-2024/01-ca-dbd-0424-churros-update-overview-generic-16-9-v3.png)
@@ -153,3 +157,7 @@ We have plenty more surprises in store for the upcoming year. Be sure to tune in
 
 Until next time…  
  The Dead by Daylight team
+
+<!-- nav -->
+&larr; [Developer Update | April 2024 PTB](444-developer-update-april-2024-ptb.md) · [Developer Updates](../index.md#developer-updates) · [Stats | April 2024](450-stats-april-2024.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2020-03-02T14:29:49+00:00"
 archived: "2026-09-26T02:19:00Z"
 ---
 
+<!-- nav -->
+&larr; [1.9.4 - 1.9.4c | Emblems](1-1-9-4-1-9-4c-emblems.md) · [Archive: Steam](../../index.md#archive-steam) · [2.1.0 | Mid-Chapter](3-2-1-0-mid-chapter.md) &rarr;
+<!-- /nav -->
+
 # 2.0.0 | Curtain Call
 
 ## Features & Content
@@ -231,3 +235,7 @@ Pallet Interaction & Stun Zone changes
 - Fixed an issue that caused a missing collision on a wall of the Wretched Shop building in Autohaven Wreckers when the basement spawned in the shack building
 - Fixed an issue that made it possible for players to increase their navigation & interaction speed
 - Fixed the textures on Claudette's Official Botanist Apron
+
+<!-- nav -->
+&larr; [1.9.4 - 1.9.4c | Emblems](1-1-9-4-1-9-4c-emblems.md) · [Archive: Steam](../../index.md#archive-steam) · [2.1.0 | Mid-Chapter](3-2-1-0-mid-chapter.md) &rarr;
+<!-- /nav -->

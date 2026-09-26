@@ -9,6 +9,10 @@ updated: "2020-02-28T21:38:25+00:00"
 archived: "2026-09-26T02:19:46Z"
 ---
 
+<!-- nav -->
+&larr; [3.3.2 | Mid-chapter & Hotfix](109-3-3-2-mid-chapter-hotfix.md) · [Archive: Nintendo Switch](../../index.md#archive-nintendo-switch) · [3.4.2 | Hotfix](111-3-4-2-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 3.4.0 | Cursed Legacy
 
 ## Features & Content
@@ -156,3 +160,7 @@ archived: "2026-09-26T02:19:46Z"
 - Fixed an issue that caused the level to reload each time the current Archive level was selected.
 - Fixed an issue that caused the lobby UI to reposition itself when selecting any sub-category in the Loadout.
 - Misc UI improvements.
+
+<!-- nav -->
+&larr; [3.3.2 | Mid-chapter & Hotfix](109-3-3-2-mid-chapter-hotfix.md) · [Archive: Nintendo Switch](../../index.md#archive-nintendo-switch) · [3.4.2 | Hotfix](111-3-4-2-hotfix.md) &rarr;
+<!-- /nav -->

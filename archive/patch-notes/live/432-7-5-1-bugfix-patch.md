@@ -9,6 +9,10 @@ updated: "2024-02-08T15:44:42+00:00"
 archived: "2026-09-26T02:18:19Z"
 ---
 
+<!-- nav -->
+&larr; [7.5.0 | Hotfix](431-7-5-0-hotfix.md) · [Live](../../index.md#live) · [7.6.0 | All Things Wicked](437-7-6-0-all-things-wicked.md) &rarr;
+<!-- /nav -->
+
 # 7.5.1 | Bugfix Patch
 
 ![CA_DBD_1223_Zodiac_Patch_Notes_Assets_Hotfix_01_FORUM.png](432-7-5-1-bugfix-patch/01-ca-dbd-1223-zodiac-patch-notes-assets-hotfix-01-forum.png)
@@ -117,3 +121,7 @@ archived: "2026-09-26T02:18:19Z"
 - Fixed missing SFX when a player joins or leaves a party
 - Fixed an unresponsive Daily Rituals button in the Main menu when coming back from a Killer Lobby or the Archives
 - Fixed an issue where the cursor could be visible/movable during the intro cinematic
+
+<!-- nav -->
+&larr; [7.5.0 | Hotfix](431-7-5-0-hotfix.md) · [Live](../../index.md#live) · [7.6.0 | All Things Wicked](437-7-6-0-all-things-wicked.md) &rarr;
+<!-- /nav -->

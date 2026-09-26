@@ -9,6 +9,10 @@ updated: "2024-04-01T12:25:08+00:00"
 archived: "2026-09-26T02:18:18Z"
 ---
 
+<!-- nav -->
+&larr; [7.6.1 | Bugfix Patch](439-7-6-1-bugfix-patch.md) · [Live](../../index.md#live) · [7.7.0 | Mid-Chapter](445-7-7-0-mid-chapter.md) &rarr;
+<!-- /nav -->
+
 # 7.6.2 | Bugfix Patch
 
 ![CA_DBD_0224_Applepie_Patch_Notes_Assets_Bugfix02_FORUM.png](441-7-6-2-bugfix-patch/01-ca-dbd-0224-applepie-patch-notes-assets-bugfix02-forum.png)
@@ -62,3 +66,7 @@ archived: "2026-09-26T02:18:18Z"
 ### Platforms
 
 - Fixed an issue on Epic where some player's Grade could be visible in the Tally scoreboard under certain circumstances.
+
+<!-- nav -->
+&larr; [7.6.1 | Bugfix Patch](439-7-6-1-bugfix-patch.md) · [Live](../../index.md#live) · [7.7.0 | Mid-Chapter](445-7-7-0-mid-chapter.md) &rarr;
+<!-- /nav -->

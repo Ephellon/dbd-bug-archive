@@ -9,6 +9,10 @@ updated: "2020-03-02T15:06:08+00:00"
 archived: "2026-09-26T02:19:02Z"
 ---
 
+<!-- nav -->
+&larr; [2.4.0 | Darkness Among Us](6-2-4-0-darkness-among-us.md) · [Archive: Steam](../../index.md#archive-steam) · [2.5.1 | Hotfix](8-2-5-1-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 2.5.0 | Mid-Chapter
 
 ## Features & Content
@@ -212,3 +216,7 @@ The Pig: scoring adjustments:
 - Survivors prevented from interactions after going in the basement
 - Survivors teleported after going in the basement
 - Invisible characters
+
+<!-- nav -->
+&larr; [2.4.0 | Darkness Among Us](6-2-4-0-darkness-among-us.md) · [Archive: Steam](../../index.md#archive-steam) · [2.5.1 | Hotfix](8-2-5-1-hotfix.md) &rarr;
+<!-- /nav -->

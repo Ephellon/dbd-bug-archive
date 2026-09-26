@@ -9,6 +9,10 @@ updated: "2022-12-15T15:42:41+00:00"
 archived: "2026-09-26T02:18:27Z"
 ---
 
+<!-- nav -->
+&larr; [6.4.2 | Bugfix Patch](367-6-4-2-bugfix-patch.md) · [Live](../../index.md#live) · [6.5.0 | Mid-Chapter](371-6-5-0-mid-chapter.md) &rarr;
+<!-- /nav -->
+
 # 6.4.3 | Bugfix Patch
 
 ![1920x1080.png](368-6-4-3-bugfix-patch/01-1920x1080.png)
@@ -44,3 +48,7 @@ archived: "2026-09-26T02:18:27Z"
 - **Nowhere To Hide’s**Aura reveal zone currently remains centred on the Generator instead of the Killer.
 - **Nowhere To Hide**does not reveal the Aura of Survivors who were out of range when the Perk was triggered, but enter the detection zone while it’s still activated.
 - The Knight’s feet have no animation when looking down during an Attack.
+
+<!-- nav -->
+&larr; [6.4.2 | Bugfix Patch](367-6-4-2-bugfix-patch.md) · [Live](../../index.md#live) · [6.5.0 | Mid-Chapter](371-6-5-0-mid-chapter.md) &rarr;
+<!-- /nav -->

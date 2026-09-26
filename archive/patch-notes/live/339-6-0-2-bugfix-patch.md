@@ -9,6 +9,10 @@ updated: "2022-06-27T14:38:02+00:00"
 archived: "2026-09-26T02:18:31Z"
 ---
 
+<!-- nav -->
+&larr; [6.0.1 | Bugfix Patch](335-6-0-1-bugfix-patch.md) · [Live](../../index.md#live) · [6.1.0 | Mid-Chapter ](342-6-1-0-mid-chapter.md) &rarr;
+<!-- /nav -->
+
 # 6.0.2 | Bugfix Patch
 
 ![PatchNotesBanner-6-0-2.png](339-6-0-2-bugfix-patch/01-patchnotesbanner-6-0-2.png)
@@ -40,3 +44,7 @@ archived: "2026-09-26T02:18:31Z"
 - Fixed an issue that caused two hooks to spawn close together in the Coldwind Farm maps.
 - Fixed an issue that caused a glyph to spawn too high in The Pale Rose.
 - Fixed an issue that caused a glyph to be inaccessible in The Game map
+
+<!-- nav -->
+&larr; [6.0.1 | Bugfix Patch](335-6-0-1-bugfix-patch.md) · [Live](../../index.md#live) · [6.1.0 | Mid-Chapter ](342-6-1-0-mid-chapter.md) &rarr;
+<!-- /nav -->

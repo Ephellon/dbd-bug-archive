@@ -9,6 +9,10 @@ updated: "2020-03-02T20:12:34+00:00"
 archived: "2026-09-26T02:19:25Z"
 ---
 
+<!-- nav -->
+&larr; [3.5.1 | Hotfix](70-3-5-1-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [3.6.0 | Chains of Hate](153-3-6-0-chains-of-hate.md) &rarr;
+<!-- /nav -->
+
 # 3.5.2 | Hotfix
 
 ## Balance
@@ -37,3 +41,7 @@ archived: "2026-09-26T02:19:25Z"
 - Fixed in issue In The Rift when selecting any Cosmetic causing not to display a preview instantly.
 - Fixed an issue in The Rift when selecting any Charms or any Cosmetic causing to display a preview that looks faded which is inconsistent with other areas of the application.
 - Fixed an issue with The Spirit's Headband cosmetic hair models behave erratically once Yamaoka's Haunting has been channeled.
+
+<!-- nav -->
+&larr; [3.5.1 | Hotfix](70-3-5-1-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [3.6.0 | Chains of Hate](153-3-6-0-chains-of-hate.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2026-01-06T15:30:09+00:00"
 archived: "2026-09-26T02:18:42Z"
 ---
 
+<!-- nav -->
+&larr; [9.3.0 | PTB Patch Notes](527-9-3-0-ptb-patch-notes.md) · [Player Test Build (PTB)](../../index.md#player-test-build-ptb) · [9.5.0 | PTB Patch Notes](537-9-5-0-ptb-patch-notes.md) &rarr;
+<!-- /nav -->
+
 # 9.4.0 | PTB Patch Notes
 
 ![940_Patch_Notes_Assets_PTBFORUM.jpg](533-9-4-0-ptb-patch-notes/01-940-patch-notes-assets-ptbforum.jpg)
@@ -282,3 +286,7 @@ archived: "2026-09-26T02:18:42Z"
 
 - Voiceover lines for new Survivors are unavailable on the PTB and will be available when 9.4.0 releases.
 - There is a missing interaction cooldown from when The First emerges from an Undergate Attack allowing the Killer to perform interactions faster than intended. There will be a 1 second cooldown applied for the 9.4.0 release.
+
+<!-- nav -->
+&larr; [9.3.0 | PTB Patch Notes](527-9-3-0-ptb-patch-notes.md) · [Player Test Build (PTB)](../../index.md#player-test-build-ptb) · [9.5.0 | PTB Patch Notes](537-9-5-0-ptb-patch-notes.md) &rarr;
+<!-- /nav -->

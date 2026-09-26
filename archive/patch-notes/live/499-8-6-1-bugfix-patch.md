@@ -9,6 +9,10 @@ updated: "2025-04-09T14:29:21+00:00"
 archived: "2026-09-26T02:18:11Z"
 ---
 
+<!-- nav -->
+&larr; [8.6.0 | Tokyo Ghoul](498-8-6-0-tokyo-ghoul.md) · [Live](../../index.md#live) · [8.6.2 | Bugfix Patch](502-8-6-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 8.6.1 | Bugfix Patch
 
 ![Patch_Notes_Assets_861_Forum.jpg](499-8-6-1-bugfix-patch/01-patch-notes-assets-861-forum.jpg)
@@ -100,3 +104,7 @@ archived: "2026-09-26T02:18:11Z"
 - Fixed an issue where the rarity of items was displayed in Tome 22 page
 - Fixed an issue where an incorrect amount of Rift Fragments would be displayed in the bundle description
 - Fixed an issue where "Visceral" rarity would be mentioned in Archives challenge and Event details
+
+<!-- nav -->
+&larr; [8.6.0 | Tokyo Ghoul](498-8-6-0-tokyo-ghoul.md) · [Live](../../index.md#live) · [8.6.2 | Bugfix Patch](502-8-6-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

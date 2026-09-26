@@ -9,6 +9,10 @@ updated: "2025-11-24T16:00:06+00:00"
 archived: "2026-09-26T02:20:03Z"
 ---
 
+<!-- nav -->
+&larr; [Developer Update | August 2025](521-developer-update-august-2025.md) · [Developer Updates](../index.md#developer-updates) · [Stats | 2025 Year in Review](532-stats-2025-year-in-review.md) &rarr;
+<!-- /nav -->
+
 # Stats | Haunted by Daylight
 
 Welcome back from the Void Realm! Whether you chose to celebrate in style with a costume or tuned in for some good ol’ fashioned pumpkin stomping, that’s another Haunted by Daylight in the books!
@@ -30,3 +34,7 @@ While that’s all from us on Haunted by Daylight today, head over to the [Dead 
 Until next time…
 
 The Dead by Daylight Team
+
+<!-- nav -->
+&larr; [Developer Update | August 2025](521-developer-update-august-2025.md) · [Developer Updates](../index.md#developer-updates) · [Stats | 2025 Year in Review](532-stats-2025-year-in-review.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2024-03-28T13:57:39+00:00"
 archived: "2026-09-26T02:20:12Z"
 ---
 
+<!-- nav -->
+&larr; [Developer Update | All Things Wicked PTB](436-developer-update-all-things-wicked-ptb.md) · [Developer Updates](../index.md#developer-updates) · [Stats | March 2024](443-stats-march-2024.md) &rarr;
+<!-- /nav -->
+
 # Developer Update | March 2024
 
 ![CA_DBD_0324_Bacon_Update_Overview_PTB_16_9.png](440-developer-update-march-2024/01-ca-dbd-0324-bacon-update-overview-ptb-16-9.png)
@@ -131,3 +135,7 @@ Spring has sprung, and so has a new Developer Update! In this post, we’ll shar
 Until next time…
 
 The Dead by Daylight team
+
+<!-- nav -->
+&larr; [Developer Update | All Things Wicked PTB](436-developer-update-all-things-wicked-ptb.md) · [Developer Updates](../index.md#developer-updates) · [Stats | March 2024](443-stats-march-2024.md) &rarr;
+<!-- /nav -->

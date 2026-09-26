@@ -9,6 +9,10 @@ updated: "2023-11-02T13:55:34+00:00"
 archived: "2026-09-26T02:20:15Z"
 ---
 
+<!-- nav -->
+&larr; [Developer Update | October 2023](412-developer-update-october-2023.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | November 2023 PTB](420-developer-update-november-2023-ptb.md) &rarr;
+<!-- /nav -->
+
 # Developer Update | November 2023
 
 ![Developer update-1920x1080-TOTEM-idea copy.png](416-developer-update-november-2023/01-developer-update-1920x1080-totem-idea-copy.png)
@@ -119,3 +123,7 @@ With that, we’ve reached the end of this Developer Update. Everything mentione
 Until next time…
 
 The Dead by Daylight team
+
+<!-- nav -->
+&larr; [Developer Update | October 2023](412-developer-update-october-2023.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | November 2023 PTB](420-developer-update-november-2023-ptb.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2020-07-28T14:30:20+00:00"
 archived: "2026-09-26T02:19:28Z"
 ---
 
+<!-- nav -->
+&larr; [4.0.2 | Hotfix](203-4-0-2-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [4.1.1 | Bugfix Patch](216-4-1-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 4.1.0 | Mid-Chapter
 
 ![410UpdateBanner.png](212-4-1-0-mid-chapter/01-410updatebanner.png)
@@ -431,3 +435,7 @@ Tinkerer has a useful effect but it was hard to get the full benefit of it due t
 - The Hillbilly: The chainsaw does not generate heat while in the various cooldown phases. This includes a chainsaw miss, a chainsaw hit and colliding with obstacles.
 - The Hillbilly: Reduced the amount of heat gained when actively revving from 10 charges/second to 8 charges/second.
 - The Hillbilly: Increased the heat dissipation rate when not overheating from -3.5 charges/second to -5 charges/second.
+
+<!-- nav -->
+&larr; [4.0.2 | Hotfix](203-4-0-2-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [4.1.1 | Bugfix Patch](216-4-1-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

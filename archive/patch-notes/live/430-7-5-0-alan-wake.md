@@ -9,6 +9,10 @@ updated: "2024-01-30T16:58:26+00:00"
 archived: "2026-09-26T02:18:19Z"
 ---
 
+<!-- nav -->
+&larr; [7.4.2 | Bugfix Patch](424-7-4-2-bugfix-patch.md) · [Live](../../index.md#live) · [7.5.0 | Hotfix](431-7-5-0-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 7.5.0 | Alan Wake
 
 ![CA_DBD_1223_Zodiac_Patch_Notes_Assets_Release_FORUM.png](430-7-5-0-alan-wake/01-ca-dbd-1223-zodiac-patch-notes-assets-release-forum.png)
@@ -385,3 +389,7 @@ In the back of the building we had a couple of tiles that were simple loops, but
 ## Known Issues
 
 - Daily Rituals button is unresponsive when coming to the Main menu from the Archives or a Killer lobby. This can be fixed by visiting any other menus and coming back to the Main menu. The daily rituals button is also accessible in any Lobby or the Tally.
+
+<!-- nav -->
+&larr; [7.4.2 | Bugfix Patch](424-7-4-2-bugfix-patch.md) · [Live](../../index.md#live) · [7.5.0 | Hotfix](431-7-5-0-hotfix.md) &rarr;
+<!-- /nav -->

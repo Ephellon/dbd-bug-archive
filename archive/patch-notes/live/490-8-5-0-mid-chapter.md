@@ -9,6 +9,10 @@ updated: "2025-01-28T15:28:04+00:00"
 archived: "2026-09-26T02:18:12Z"
 ---
 
+<!-- nav -->
+&larr; [8.4.2 | Bugfix Patch](484-8-4-2-bugfix-patch.md) · [Live](../../index.md#live) · [8.5.1 | Bugfix Patch](491-8-5-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 8.5.0 | Mid-Chapter
 
 ![PatchNotes_850_FORUMS.jpg](490-8-5-0-mid-chapter/01-patchnotes-850-forums.jpg)
@@ -373,3 +377,7 @@ archived: "2026-09-26T02:18:12Z"
 ## Known Issues
 
 - The "Memory 1736" entry from the "Talbot Grimes" journal is missing voice over.
+
+<!-- nav -->
+&larr; [8.4.2 | Bugfix Patch](484-8-4-2-bugfix-patch.md) · [Live](../../index.md#live) · [8.5.1 | Bugfix Patch](491-8-5-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

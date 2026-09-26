@@ -9,6 +9,10 @@ updated: "2021-11-02T20:12:07+00:00"
 archived: "2026-09-26T02:18:35Z"
 ---
 
+<!-- nav -->
+&larr; [5.3.1 | Bugfix Patch](302-5-3-1-bugfix-patch.md) · [Live](../../index.md#live) · [5.4.0 | Portrait of a Murder](306-5-4-0-portrait-of-a-murder.md) &rarr;
+<!-- /nav -->
+
 # 5.3.2 | Bugfix Patch
 
 ![532Banner.png](303-5-3-2-bugfix-patch/01-532banner.png)
@@ -51,3 +55,7 @@ Switch only:
 - When completing a level in the Archives, the level status is not immediately refreshed. However leaving and re-entering the menu will refresh and reflect the completed status.
 - We are aware of an issue with the perk Clairvoyance, where the effects may not be disabled in some cases
 - A Survivor with an activated Clairvoyance can consume another Survivor's activated Clairvoyance when they are close to each other.
+
+<!-- nav -->
+&larr; [5.3.1 | Bugfix Patch](302-5-3-1-bugfix-patch.md) · [Live](../../index.md#live) · [5.4.0 | Portrait of a Murder](306-5-4-0-portrait-of-a-murder.md) &rarr;
+<!-- /nav -->

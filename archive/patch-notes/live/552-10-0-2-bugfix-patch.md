@@ -9,6 +9,10 @@ updated: "2026-07-06T14:30:06+00:00"
 archived: "2026-09-26T02:18:03Z"
 ---
 
+<!-- nav -->
+&larr; [10.0.1 | Bugfix Patch ](551-10-0-1-bugfix-patch.md) · [Live](../../index.md#live) · [10.0.3 | Bugfix Patch](553-10-0-3-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 10.0.2 | Bugfix Patch
 
 ![DbD_PatchNotes_1002_16-9.png](552-10-0-2-bugfix-patch/01-dbd-patchnotes-1002-16-9.png)
@@ -104,3 +108,7 @@ archived: "2026-09-26T02:18:03Z"
 ### Misc
 
 - Fixed an issue where the Tome Challenge "Shared Task" was unable to be completed.
+
+<!-- nav -->
+&larr; [10.0.1 | Bugfix Patch ](551-10-0-1-bugfix-patch.md) · [Live](../../index.md#live) · [10.0.3 | Bugfix Patch](553-10-0-3-bugfix-patch.md) &rarr;
+<!-- /nav -->

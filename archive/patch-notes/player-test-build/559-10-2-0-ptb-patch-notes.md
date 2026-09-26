@@ -9,6 +9,10 @@ updated: "2026-09-15T15:20:44+00:00"
 archived: "2026-09-26T02:18:40Z"
 ---
 
+<!-- nav -->
+&larr; [10.1.0 | PTB Patch Notes](555-10-1-0-ptb-patch-notes.md) · [Player Test Build (PTB)](../../index.md#player-test-build-ptb) · _newest_ &rarr;
+<!-- /nav -->
+
 # 10.2.0 PTB Patch Notes
 
 ![1020PTB_PatchNotes_Assets16_9.png](559-10-2-0-ptb-patch-notes/01-1020ptb-patchnotes-assets16-9.png)
@@ -513,3 +517,7 @@ archived: "2026-09-26T02:18:40Z"
 - The Demogorgon and The Xenomorph's character models can be seen when navigating to a different floor while using their powers
 - The perk This is Not Happening is modifying several special Skill Checks
 - The perk Stake Out is losing tokens during several special Skill Checks
+
+<!-- nav -->
+&larr; [10.1.0 | PTB Patch Notes](555-10-1-0-ptb-patch-notes.md) · [Player Test Build (PTB)](../../index.md#player-test-build-ptb) · _newest_ &rarr;
+<!-- /nav -->

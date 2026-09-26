@@ -9,6 +9,10 @@ updated: "2021-06-22T14:52:20+00:00"
 archived: "2026-09-26T02:18:38Z"
 ---
 
+<!-- nav -->
+&larr; [5.0.0 | Resident Evil](286-5-0-0-resident-evil.md) · [Live](../../index.md#live) · [5.0.2 | Resident Evil](288-5-0-2-resident-evil.md) &rarr;
+<!-- /nav -->
+
 # 5.0.1 | Resident Evil
 
 ![MicrosoftTeams-image (6).png](287-5-0-1-resident-evil/01-microsoftteams-image-286-29.png)
@@ -68,3 +72,7 @@ archived: "2026-09-26T02:18:38Z"
 ## Known Issues
 
 - **Various performance issues.** The team is still actively investigating performance issues across multiple platforms, including consoles. Thank you for your patience as we work on a fix for this!
+
+<!-- nav -->
+&larr; [5.0.0 | Resident Evil](286-5-0-0-resident-evil.md) · [Live](../../index.md#live) · [5.0.2 | Resident Evil](288-5-0-2-resident-evil.md) &rarr;
+<!-- /nav -->

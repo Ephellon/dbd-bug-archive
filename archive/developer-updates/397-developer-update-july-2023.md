@@ -9,6 +9,10 @@ updated: "2023-07-04T17:04:12+00:00"
 archived: "2026-09-26T02:20:16Z"
 ---
 
+<!-- nav -->
+&larr; [Developer Update | End Transmission Release](393-developer-update-end-transmission-release.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | Nicolas Cage PTB](399-developer-update-nicolas-cage-ptb.md) &rarr;
+<!-- /nav -->
+
 # Developer Update | July 2023
 
 ![Developer update Totem NEW.png](397-developer-update-july-2023/01-developer-update-totem-new.png)
@@ -298,3 +302,7 @@ With that, we have reached the end of this Developer Update. All the changes in 
 Until next time…
 
 The Dead by Daylight team
+
+<!-- nav -->
+&larr; [Developer Update | End Transmission Release](393-developer-update-end-transmission-release.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | Nicolas Cage PTB](399-developer-update-nicolas-cage-ptb.md) &rarr;
+<!-- /nav -->

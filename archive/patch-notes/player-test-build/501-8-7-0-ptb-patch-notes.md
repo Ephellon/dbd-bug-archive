@@ -9,6 +9,10 @@ updated: "2025-04-15T15:06:13+00:00"
 archived: "2026-09-26T02:18:43Z"
 ---
 
+<!-- nav -->
+&larr; [8.6.0 | PTB Patch Notes](495-8-6-0-ptb-patch-notes.md) · [Player Test Build (PTB)](../../index.md#player-test-build-ptb) · [9.0.0 | PTB Patch Notes](509-9-0-0-ptb-patch-notes.md) &rarr;
+<!-- /nav -->
+
 # 8.7.0 | PTB Patch Notes
 
 ![870_PatchNotes_Forum.jpg](501-8-7-0-ptb-patch-notes/01-870-patchnotes-forum.jpg)
@@ -173,3 +177,7 @@ archived: "2026-09-26T02:18:43Z"
 
 - Fixed an issue where the What Lurks Beneath achievement/trophy would gain progress when the damage source was caused by a Survivor perk.
 - Fixed an issue where the Demogorgon could perform actions while inside portals after pressing F11 throughout the Traverse charge.
+
+<!-- nav -->
+&larr; [8.6.0 | PTB Patch Notes](495-8-6-0-ptb-patch-notes.md) · [Player Test Build (PTB)](../../index.md#player-test-build-ptb) · [9.0.0 | PTB Patch Notes](509-9-0-0-ptb-patch-notes.md) &rarr;
+<!-- /nav -->

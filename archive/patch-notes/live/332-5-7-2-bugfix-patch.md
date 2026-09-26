@@ -9,6 +9,10 @@ updated: "2022-05-10T14:42:23+00:00"
 archived: "2026-09-26T02:18:32Z"
 ---
 
+<!-- nav -->
+&larr; [5.7.1 | Bugfix Patch](331-5-7-1-bugfix-patch.md) · [Live](../../index.md#live) · [6.0.0 | Roots of Dread](334-6-0-0-roots-of-dread.md) &rarr;
+<!-- /nav -->
+
 # 5.7.2 | Bugfix Patch
 
 ![572Banner.png](332-5-7-2-bugfix-patch/01-572banner.png)
@@ -47,3 +51,7 @@ archived: "2026-09-26T02:18:32Z"
 
 - The Ghost Face's addon "Olsen's Driver's License" is not functioning.
 - Survivors are missing the open exit gate animation when injured and affected by the Nemesis' T-Virus.
+
+<!-- nav -->
+&larr; [5.7.1 | Bugfix Patch](331-5-7-1-bugfix-patch.md) · [Live](../../index.md#live) · [6.0.0 | Roots of Dread](334-6-0-0-roots-of-dread.md) &rarr;
+<!-- /nav -->

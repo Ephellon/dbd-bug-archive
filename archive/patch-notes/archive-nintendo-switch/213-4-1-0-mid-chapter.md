@@ -9,6 +9,10 @@ updated: "2020-07-28T14:32:14+00:00"
 archived: "2026-09-26T02:19:50Z"
 ---
 
+<!-- nav -->
+&larr; [4.0.3 | Hotfix ](200-4-0-3-hotfix.md) · [Archive: Nintendo Switch](../../index.md#archive-nintendo-switch) · [4.1.1 | Bug fix Patch ](223-4-1-1-bug-fix-patch.md) &rarr;
+<!-- /nav -->
+
 # 4.1.0 | Mid-Chapter
 
 ![410UpdateBanner.png](213-4-1-0-mid-chapter/01-410updatebanner.png)
@@ -431,3 +435,7 @@ Tinkerer has a useful effect but it was hard to get the full benefit of it due t
 - The Hillbilly: The chainsaw does not generate heat while in the various cooldown phases. This includes a chainsaw miss, a chainsaw hit and colliding with obstacles.
 - The Hillbilly: Reduced the amount of heat gained when actively revving from 10 charges/second to 8 charges/second.
 - The Hillbilly: Increased the heat dissipation rate when not overheating from -3.5 charges/second to -5 charges/second.
+
+<!-- nav -->
+&larr; [4.0.3 | Hotfix ](200-4-0-3-hotfix.md) · [Archive: Nintendo Switch](../../index.md#archive-nintendo-switch) · [4.1.1 | Bug fix Patch ](223-4-1-1-bug-fix-patch.md) &rarr;
+<!-- /nav -->

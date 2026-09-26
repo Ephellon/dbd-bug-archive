@@ -9,6 +9,10 @@ updated: "2024-12-09T15:28:03+00:00"
 archived: "2026-09-26T02:18:13Z"
 ---
 
+<!-- nav -->
+&larr; [8.4.0 | Doomed Course](482-8-4-0-doomed-course.md) · [Live](../../index.md#live) · [8.4.2 | Bugfix Patch](484-8-4-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 8.4.1 | Bugfix Patch
 
 ![PatchNotes_841_FORUM.jpg](483-8-4-1-bugfix-patch/01-patchnotes-841-forum.jpg)
@@ -137,3 +141,7 @@ archived: "2026-09-26T02:18:13Z"
 ### Misc
 
 - Fixed an issue where unowned perks show up as disabled in the loadout presets with "None Remaining" in tooltip description.
+
+<!-- nav -->
+&larr; [8.4.0 | Doomed Course](482-8-4-0-doomed-course.md) · [Live](../../index.md#live) · [8.4.2 | Bugfix Patch](484-8-4-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

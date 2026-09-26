@@ -9,6 +9,10 @@ updated: "2020-03-02T15:33:26+00:00"
 archived: "2026-09-26T02:19:07Z"
 ---
 
+<!-- nav -->
+&larr; [3.3.2 | Hotfix](16-3-3-2-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [3.4.1 | Hotfix](18-3-4-1-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 3.4.0 | Cursed Legacy
 
 ## Features & Content
@@ -222,3 +226,7 @@ archived: "2026-09-26T02:19:07Z"
 - Misc Sanctum of Wrath art/audio tweaks and improvements.
 - Misc The Oni and Yui animation/audio/VFX tweaks and improvements.
 - Misc changes to the Japanese thematic lobby.
+
+<!-- nav -->
+&larr; [3.3.2 | Hotfix](16-3-3-2-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [3.4.1 | Hotfix](18-3-4-1-hotfix.md) &rarr;
+<!-- /nav -->

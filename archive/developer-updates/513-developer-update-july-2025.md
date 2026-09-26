@@ -9,6 +9,10 @@ updated: "2025-07-07T18:52:38+00:00"
 archived: "2026-09-26T02:20:04Z"
 ---
 
+<!-- nav -->
+&larr; [Developer Update | May 2025](507-developer-update-may-2025.md) · [Developer Updates](../index.md#developer-updates) · [Stats | 9th Anniversary](518-stats-9th-anniversary.md) &rarr;
+<!-- /nav -->
+
 # Developer Update | July 2025
 
 ![910_DeveloperUpdate.jpg](513-developer-update-july-2025/01-910-developerupdate.jpg)
@@ -206,3 +210,7 @@ Read on for all the details:
 Until next time...
 
 The Dead by Daylight Team
+
+<!-- nav -->
+&larr; [Developer Update | May 2025](507-developer-update-may-2025.md) · [Developer Updates](../index.md#developer-updates) · [Stats | 9th Anniversary](518-stats-9th-anniversary.md) &rarr;
+<!-- /nav -->

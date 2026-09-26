@@ -9,6 +9,10 @@ updated: "2020-03-02T19:46:51+00:00"
 archived: "2026-09-26T02:19:20Z"
 ---
 
+<!-- nav -->
+&larr; [2.7.0 | Mid-Chapter](53-2-7-0-mid-chapter.md) · [Archive: PS4](../../index.md#archive-ps4) · [3.0.0 | Ghost Face](55-3-0-0-ghost-face.md) &rarr;
+<!-- /nav -->
+
 # 2.7.1 | Hotfix
 
 ## Bug Fixes
@@ -41,3 +45,7 @@ archived: "2026-09-26T02:19:20Z"
 - Fixed an issue that caused the camera to shake from EGS during tally screen
 - Fixed an issue that caused the Left Behind perk to have the wrong values. Values should be 55%/65%/75%.
 - Fixed an issue that caused Nea's Prestige torso to have missing textures on her arms.
+
+<!-- nav -->
+&larr; [2.7.0 | Mid-Chapter](53-2-7-0-mid-chapter.md) · [Archive: PS4](../../index.md#archive-ps4) · [3.0.0 | Ghost Face](55-3-0-0-ghost-face.md) &rarr;
+<!-- /nav -->

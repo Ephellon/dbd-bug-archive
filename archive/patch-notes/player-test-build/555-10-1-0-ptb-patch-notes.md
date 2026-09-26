@@ -9,6 +9,10 @@ updated: "2026-08-04T14:30:18+00:00"
 archived: "2026-09-26T02:18:40Z"
 ---
 
+<!-- nav -->
+&larr; [10.0.0 | Jason PTB Patch Notes](548-10-0-0-jason-ptb-patch-notes.md) · [Player Test Build (PTB)](../../index.md#player-test-build-ptb) · [10.2.0 PTB Patch Notes](559-10-2-0-ptb-patch-notes.md) &rarr;
+<!-- /nav -->
+
 # 10.1.0 | PTB Patch Notes
 
 ![DBD_1010_CHAPTER_SOCIAL_PTB_OVERVIEW_INFOGRAPHIC_16-9.jpg](555-10-1-0-ptb-patch-notes/01-dbd-1010-chapter-social-ptb-overview-infographic-16-9.jpg)
@@ -289,3 +293,7 @@ archived: "2026-09-26T02:18:40Z"
 - If Brand New Part is equipped, the first skill check to occur **after the toolbox is depleted** will have the Great and Good zones of the Skill Check UI missing.
 - Sometimes, Survivors will not properly transition to the tally screen after being Mori'd or being sacrificed while inside of The Exile
 - Sometimes, The Judgment's Divine Light VFX will appear before it can actually injure Survivors
+
+<!-- nav -->
+&larr; [10.0.0 | Jason PTB Patch Notes](548-10-0-0-jason-ptb-patch-notes.md) · [Player Test Build (PTB)](../../index.md#player-test-build-ptb) · [10.2.0 PTB Patch Notes](559-10-2-0-ptb-patch-notes.md) &rarr;
+<!-- /nav -->

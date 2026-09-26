@@ -9,6 +9,10 @@ updated: "2020-02-28T22:08:27+00:00"
 archived: "2026-09-26T02:19:35Z"
 ---
 
+<!-- nav -->
+&larr; [2.6.3 | Ash VS Evil Dead](87-2-6-3-ash-vs-evil-dead.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [2.7.0 | Mid-Chapter](89-2-7-0-mid-chapter.md) &rarr;
+<!-- /nav -->
+
 # 2.6.4 | Hotfix
 
 ## Balance
@@ -34,3 +38,7 @@ NOTE: Ranks 20-13 pip and double pip stay the same.
 - Fixed an issue that caused a temporary broken pre-lobby screen when backing out of the Twitch Challenges menu before it had finished loading.
 
 ## [CLICK HERE FOR MORE INFORMATION ABOUT THE SURVIVOR PIPPING THRESHOLDS](https://forum.deadbydaylight.com/en/discussion/56731/survivor-pipping-thresholds-upcoming-changes/p1?new=1)
+
+<!-- nav -->
+&larr; [2.6.3 | Ash VS Evil Dead](87-2-6-3-ash-vs-evil-dead.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [2.7.0 | Mid-Chapter](89-2-7-0-mid-chapter.md) &rarr;
+<!-- /nav -->

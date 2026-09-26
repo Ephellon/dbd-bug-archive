@@ -9,6 +9,10 @@ updated: "2023-02-08T15:25:40+00:00"
 archived: "2026-09-26T02:18:27Z"
 ---
 
+<!-- nav -->
+&larr; [6.5.1 | Bugfix Patch](373-6-5-1-bugfix-patch.md) · [Live](../../index.md#live) · [6.6.0 | Tools of Torment](378-6-6-0-tools-of-torment.md) &rarr;
+<!-- /nav -->
+
 # 6.5.2 | Bugfix Patch
 
 ![652Banner.png](374-6-5-2-bugfix-patch/01-652banner.png)
@@ -52,3 +56,7 @@ However, we are still working on a consistent fix to an issue surrounding the A
 - Generators will no longer spawn too close together in the Racoon City Police Station Main Hall.
 - Players can no longer climb on a rock in the Eyrie of Crows.
 - Repairing the Generator in Racoon City Police Station West Wing awards the Raccoon City Recruit achievement.
+
+<!-- nav -->
+&larr; [6.5.1 | Bugfix Patch](373-6-5-1-bugfix-patch.md) · [Live](../../index.md#live) · [6.6.0 | Tools of Torment](378-6-6-0-tools-of-torment.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2021-04-14T14:30:52+00:00"
 archived: "2026-09-26T02:18:39Z"
 ---
 
+<!-- nav -->
+&larr; [4.6.0 | All-Kill](278-4-6-0-all-kill.md) · [Live](../../index.md#live) · [4.7.0 | Mid-Chapter](281-4-7-0-mid-chapter.md) &rarr;
+<!-- /nav -->
+
 # 4.6.1 | Bugfix Patch
 
 ![461Banner.png](280-4-6-1-bugfix-patch/01-461banner.png)
@@ -93,3 +97,7 @@ archived: "2026-09-26T02:18:39Z"
 **PS5 only:**
 
 - Fixed an issue where the 'All Kill' DLC is unavailable to purchase from in-game store and is still seen as 'Coming Soon'.
+
+<!-- nav -->
+&larr; [4.6.0 | All-Kill](278-4-6-0-all-kill.md) · [Live](../../index.md#live) · [4.7.0 | Mid-Chapter](281-4-7-0-mid-chapter.md) &rarr;
+<!-- /nav -->

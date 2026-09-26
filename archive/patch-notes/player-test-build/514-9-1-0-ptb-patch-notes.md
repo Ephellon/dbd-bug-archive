@@ -9,6 +9,10 @@ updated: "2025-07-08T15:37:49+00:00"
 archived: "2026-09-26T02:18:42Z"
 ---
 
+<!-- nav -->
+&larr; [9.0.0 | PTB Patch Notes](509-9-0-0-ptb-patch-notes.md) · [Player Test Build (PTB)](../../index.md#player-test-build-ptb) · [9.2.0 | PTB Patch Notes](522-9-2-0-ptb-patch-notes.md) &rarr;
+<!-- /nav -->
+
 # 9.1.0 | PTB Patch Notes
 
 *This article was created from a*[*community discussion*](https://forums.bhvr.com/dead-by-daylight/discussion/450412/9-1-0-ptb-patch-notes).
@@ -430,3 +434,7 @@ archived: "2026-09-26T02:18:42Z"
 - Rick Grimes and Michonne Grimes' voiceover lines are unavailable on the PTB and will be available when 9.1.0 releases.
 - Rick Grimes' Last Day on Earth outfit uses the same pants as his default outfit. This is not intended and will be resolved when 9.1.0 releases.
 - The retired Key and Map add-ons are not visible in Survivor inventories.
+
+<!-- nav -->
+&larr; [9.0.0 | PTB Patch Notes](509-9-0-0-ptb-patch-notes.md) · [Player Test Build (PTB)](../../index.md#player-test-build-ptb) · [9.2.0 | PTB Patch Notes](522-9-2-0-ptb-patch-notes.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2026-07-29T17:11:37+00:00"
 archived: "2026-09-26T02:20:01Z"
 ---
 
+<!-- nav -->
+&larr; [PTB To Live Changes: The Slasher](549-ptb-to-live-changes-the-slasher.md) · [Developer Updates](../index.md#developer-updates) · _newest_ &rarr;
+<!-- /nav -->
+
 # Stats | Global Stats
 
 Welcome again, Fog Dwellers, to another round of stats. This time, we’ve got some stats from different parts of the globe. No matter how far apart you are or what language you speak, we are all connected by one thing: The love of DbD. Let’s take a look!
@@ -36,3 +40,7 @@ We hope you found these stats interesting, and we look forward to seeing you aga
 Until next time…
 
 The Dead by Daylight Team
+
+<!-- nav -->
+&larr; [PTB To Live Changes: The Slasher](549-ptb-to-live-changes-the-slasher.md) · [Developer Updates](../index.md#developer-updates) · _newest_ &rarr;
+<!-- /nav -->

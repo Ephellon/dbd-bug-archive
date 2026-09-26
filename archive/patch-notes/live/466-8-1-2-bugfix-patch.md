@@ -9,6 +9,10 @@ updated: "2024-08-06T17:56:02+00:00"
 archived: "2026-09-26T02:18:15Z"
 ---
 
+<!-- nav -->
+&larr; [8.1.1a | Hotfix](463-8-1-1a-hotfix.md) · [Live](../../index.md#live) · [8.2.0 | Castlevania](468-8-2-0-castlevania.md) &rarr;
+<!-- /nav -->
+
 # 8.1.2 | Bugfix Patch
 
 ![812_Forums.jpg](466-8-1-2-bugfix-patch/01-812-forums.jpg)
@@ -72,3 +76,7 @@ archived: "2026-09-26T02:18:15Z"
 
 - Fixed an issue that could cause the game to freeze when the Lich leaves the tally screen before all other users after a match.
 - Fixed an issue that caused the Escape Cake Offering not to consistently award bonus Bloodpoints.
+
+<!-- nav -->
+&larr; [8.1.1a | Hotfix](463-8-1-1a-hotfix.md) · [Live](../../index.md#live) · [8.2.0 | Castlevania](468-8-2-0-castlevania.md) &rarr;
+<!-- /nav -->

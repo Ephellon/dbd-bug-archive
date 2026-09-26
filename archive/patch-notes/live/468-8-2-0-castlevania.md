@@ -9,6 +9,10 @@ updated: "2024-08-27T15:54:19+00:00"
 archived: "2026-09-26T02:18:15Z"
 ---
 
+<!-- nav -->
+&larr; [8.1.2 | Bugfix Patch](466-8-1-2-bugfix-patch.md) · [Live](../../index.md#live) · [8.2.1 | Bugfix Patch](469-8-2-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 8.2.0 | Castlevania
 
 ![CA_DBD_0524_Eclair_Patch_Notes_Assets_ReleaseFORUM.jpg](468-8-2-0-castlevania/01-ca-dbd-0524-eclair-patch-notes-assets-releaseforum.jpg)
@@ -328,3 +332,7 @@ As part of our Live operations, we occasionally deploy updates to the game witho
 #### Maps
 
 - Fixed collision issues on the map of Dvarka Deepwood - Nostromo Wreckage.
+
+<!-- nav -->
+&larr; [8.1.2 | Bugfix Patch](466-8-1-2-bugfix-patch.md) · [Live](../../index.md#live) · [8.2.1 | Bugfix Patch](469-8-2-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2026-05-12T14:30:01+00:00"
 archived: "2026-09-26T02:18:04Z"
 ---
 
+<!-- nav -->
+&larr; [9.6.1 | Bugfix Patch](545-9-6-1-bugfix-patch.md) · [Live](../../index.md#live) · [10.0.0 | Jason Patch Notes](550-10-0-0-jason-patch-notes.md) &rarr;
+<!-- /nav -->
+
 # 9.6.2 | Bugfix Patch
 
 ![DbD_962_Patch Notes_FORUM.png](546-9-6-2-bugfix-patch/01-dbd-962-patch-notes-forum.png)
@@ -66,3 +70,7 @@ archived: "2026-09-26T02:18:04Z"
 ### Misc
 
 - Tentative fix to address flashing lights in a trial.
+
+<!-- nav -->
+&larr; [9.6.1 | Bugfix Patch](545-9-6-1-bugfix-patch.md) · [Live](../../index.md#live) · [10.0.0 | Jason Patch Notes](550-10-0-0-jason-patch-notes.md) &rarr;
+<!-- /nav -->

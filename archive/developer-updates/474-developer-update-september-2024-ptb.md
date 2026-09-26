@@ -9,6 +9,10 @@ updated: "2024-10-03T15:15:12+00:00"
 archived: "2026-09-26T02:20:08Z"
 ---
 
+<!-- nav -->
+&larr; [Developer Update | September 2024](472-developer-update-september-2024.md) · [Developer Updates](../index.md#developer-updates) · [Stats | October 2024](478-stats-october-2024.md) &rarr;
+<!-- /nav -->
+
 # Developer Update | September 2024 PTB
 
 ![Header.jpg](474-developer-update-september-2024-ptb/01-header.jpg)
@@ -77,3 +81,7 @@ The 8.3.0 Public Test Build (PTB) has come and gone. After spending some time re
 Until next time…
 
 The Dead by Daylight team
+
+<!-- nav -->
+&larr; [Developer Update | September 2024](472-developer-update-september-2024.md) · [Developer Updates](../index.md#developer-updates) · [Stats | October 2024](478-stats-october-2024.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2025-06-26T15:45:10+00:00"
 archived: "2026-09-26T02:18:10Z"
 ---
 
+<!-- nav -->
+&larr; [9.0.0 | Five Nights at Freddy's](510-9-0-0-five-nights-at-freddys.md) · [Live](../../index.md#live) · [9.0.2 | Bugfix Patch](512-9-0-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 9.0.1 | Bugfix Patch
 
 ![901_PatchNotes_Forum.jpg](511-9-0-1-bugfix-patch/01-901-patchnotes-forum.jpg)
@@ -133,3 +137,7 @@ archived: "2026-09-26T02:18:10Z"
 ## Known Issues
 
 - On Steam and Windows, a flashing light can sometimes be seen when the user hovers over the Friends menu and their online state refreshes after tabbing out of the title.
+
+<!-- nav -->
+&larr; [9.0.0 | Five Nights at Freddy's](510-9-0-0-five-nights-at-freddys.md) · [Live](../../index.md#live) · [9.0.2 | Bugfix Patch](512-9-0-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

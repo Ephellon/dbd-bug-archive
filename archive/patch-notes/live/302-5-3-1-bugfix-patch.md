@@ -9,6 +9,10 @@ updated: "2021-10-26T20:55:43+00:00"
 archived: "2026-09-26T02:18:35Z"
 ---
 
+<!-- nav -->
+&larr; [5.3.0a | Hotfix](300-5-3-0a-hotfix.md) · [Live](../../index.md#live) · [5.3.2 | Bugfix Patch](303-5-3-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 5.3.1 | Bugfix Patch
 
 ![531Banner.png](302-5-3-1-bugfix-patch/01-531banner.png)
@@ -54,3 +58,7 @@ archived: "2026-09-26T02:18:35Z"
 
 - Treatment Theatre Map is disabled.
 - The Killer can only earn 1 point of progress per Tangled Hook for the Halloween Hook challenge.
+
+<!-- nav -->
+&larr; [5.3.0a | Hotfix](300-5-3-0a-hotfix.md) · [Live](../../index.md#live) · [5.3.2 | Bugfix Patch](303-5-3-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

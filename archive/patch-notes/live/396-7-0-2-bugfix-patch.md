@@ -9,6 +9,10 @@ updated: "2023-06-28T14:28:33+00:00"
 archived: "2026-09-26T02:18:24Z"
 ---
 
+<!-- nav -->
+&larr; [7.0.1 | Bugfix Patch](394-7-0-1-bugfix-patch.md) · [Live](../../index.md#live) · [7.1.0 | Nicolas Cage](400-7-1-0-nicolas-cage.md) &rarr;
+<!-- /nav -->
+
 # 7.0.2 | Bugfix Patch
 
 ![702Banner.png](396-7-0-2-bugfix-patch/01-702banner.png)
@@ -96,3 +100,7 @@ Update releases: 11AM ET
 - The Singularity's add-on "Kid's Ball Glove" has still the old text description.
 - The Singularity's add-on "Soma Family Photo" has still the old text description.
 - The Singularity's add-on "Soma Family Photo" has an incorrect time value for the Overclock Mode. (-80% instead of -20%)
+
+<!-- nav -->
+&larr; [7.0.1 | Bugfix Patch](394-7-0-1-bugfix-patch.md) · [Live](../../index.md#live) · [7.1.0 | Nicolas Cage](400-7-1-0-nicolas-cage.md) &rarr;
+<!-- /nav -->

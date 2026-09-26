@@ -9,6 +9,10 @@ updated: "2020-03-02T20:09:18+00:00"
 archived: "2026-09-26T02:19:24Z"
 ---
 
+<!-- nav -->
+&larr; [3.4.1 | Hotfix](67-3-4-1-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [3.5.0 | Mid-Chapter](69-3-5-0-mid-chapter.md) &rarr;
+<!-- /nav -->
+
 # 3.4.2 | Hotfix
 
 ## Balance
@@ -59,3 +63,7 @@ archived: "2026-09-26T02:19:24Z"
 ## Known Issues
 
 - The Oni's Kanabō does not appear during the mori animation.
+
+<!-- nav -->
+&larr; [3.4.1 | Hotfix](67-3-4-1-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [3.5.0 | Mid-Chapter](69-3-5-0-mid-chapter.md) &rarr;
+<!-- /nav -->

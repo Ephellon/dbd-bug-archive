@@ -9,6 +9,10 @@ updated: "2020-02-28T22:13:07+00:00"
 archived: "2026-09-26T02:19:37Z"
 ---
 
+<!-- nav -->
+&larr; [3.0.2 | Hotfix](93-3-0-2-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [3.1.1 | Hotfix](95-3-1-1-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 3.1.0 | Mid-Chapter
 
 ## Features & Content
@@ -213,3 +217,7 @@ NOTE: The slowdown caused by missed attacks with Mad Grit was removed in this up
 
 - A buffer has been added to reduce the friction and make it easier to place Dream Snares as The Nightmare.
 - Slightly reduced the charge timer for placing Dream Snares as The Nightmare.
+
+<!-- nav -->
+&larr; [3.0.2 | Hotfix](93-3-0-2-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [3.1.1 | Hotfix](95-3-1-1-hotfix.md) &rarr;
+<!-- /nav -->

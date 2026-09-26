@@ -9,6 +9,10 @@ updated: "2026-05-28T15:03:52+00:00"
 archived: "2026-09-26T02:18:41Z"
 ---
 
+<!-- nav -->
+&larr; [9.6.0 | PTB Patch Notes](542-9-6-0-ptb-patch-notes.md) · [Player Test Build (PTB)](../../index.md#player-test-build-ptb) · [10.1.0 | PTB Patch Notes](555-10-1-0-ptb-patch-notes.md) &rarr;
+<!-- /nav -->
+
 # 10.0.0 | Jason PTB Patch Notes
 
 ![DbD_1000_PatchNotes_PTB_16-9.png](548-10-0-0-jason-ptb-patch-notes/01-dbd-1000-patchnotes-ptb-16-9.png)
@@ -202,3 +206,7 @@ archived: "2026-09-26T02:18:41Z"
 
 - The PTB Text Overlay displays twice in Lobbies.
 - Mother's Dwelling and Temple of Purgation will be unavailable during this PTB.
+
+<!-- nav -->
+&larr; [9.6.0 | PTB Patch Notes](542-9-6-0-ptb-patch-notes.md) · [Player Test Build (PTB)](../../index.md#player-test-build-ptb) · [10.1.0 | PTB Patch Notes](555-10-1-0-ptb-patch-notes.md) &rarr;
+<!-- /nav -->

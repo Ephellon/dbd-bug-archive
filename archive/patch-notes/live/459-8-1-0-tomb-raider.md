@@ -9,6 +9,10 @@ updated: "2024-07-16T15:25:07+00:00"
 archived: "2026-09-26T02:18:16Z"
 ---
 
+<!-- nav -->
+&larr; [8.0.2 | Bugfix Patch](454-8-0-2-bugfix-patch.md) · [Live](../../index.md#live) · [8.1.1 | Bugfix Patch](462-8-1-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 8.1.0 | Tomb Raider
 
 ![CA_DBD_0524_Donut_Patch_Notes_Assets_Release_Forum.jpg](459-8-1-0-tomb-raider/01-ca-dbd-0524-donut-patch-notes-assets-release-forum.jpg)
@@ -410,3 +414,7 @@ archived: "2026-09-26T02:18:16Z"
 
 - The Hag and The Unknown's model appears floating after previewing the Mori a second time.
 - One of the new Ormond Map variations will be disabled until the next Hotfix.
+
+<!-- nav -->
+&larr; [8.0.2 | Bugfix Patch](454-8-0-2-bugfix-patch.md) · [Live](../../index.md#live) · [8.1.1 | Bugfix Patch](462-8-1-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

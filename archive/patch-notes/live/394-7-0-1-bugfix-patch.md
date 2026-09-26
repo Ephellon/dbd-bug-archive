@@ -9,6 +9,10 @@ updated: "2023-06-21T14:59:16+00:00"
 archived: "2026-09-26T02:18:24Z"
 ---
 
+<!-- nav -->
+&larr; [7.0.0 | End Transmission](392-7-0-0-end-transmission.md) · [Live](../../index.md#live) · [7.0.2 | Bugfix Patch](396-7-0-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 7.0.1 | Bugfix Patch
 
 ![700_UpdateAssets_Forums.png](394-7-0-1-bugfix-patch/01-700-updateassets-forums.png)
@@ -112,3 +116,7 @@ Update release: 11AM ET, June 21
 **Known Issues**
 
 - We are aware of an issue in which the Attack of Titan DLC's do not provide the related charms - this will be fixed in a future update and the charms applied retroactively.
+
+<!-- nav -->
+&larr; [7.0.0 | End Transmission](392-7-0-0-end-transmission.md) · [Live](../../index.md#live) · [7.0.2 | Bugfix Patch](396-7-0-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

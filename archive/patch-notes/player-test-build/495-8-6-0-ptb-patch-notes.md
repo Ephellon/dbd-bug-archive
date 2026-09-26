@@ -9,6 +9,10 @@ updated: "2025-03-11T15:24:49+00:00"
 archived: "2026-09-26T02:18:43Z"
 ---
 
+<!-- nav -->
+&larr; [8.5.0 | PTB Patch Notes](488-8-5-0-ptb-patch-notes.md) · [Player Test Build (PTB)](../../index.md#player-test-build-ptb) · [8.7.0 | PTB Patch Notes](501-8-7-0-ptb-patch-notes.md) &rarr;
+<!-- /nav -->
+
 # 8.6.0 | PTB Patch Notes
 
 ![860_PatchNotes_Forums_EN.jpg](495-8-6-0-ptb-patch-notes/01-860-patchnotes-forums-en.jpg)
@@ -382,3 +386,7 @@ The following score events have been moved to a different category:
 ## Known Issues
 
 - Blast Mine might not always blind the Killer.
+
+<!-- nav -->
+&larr; [8.5.0 | PTB Patch Notes](488-8-5-0-ptb-patch-notes.md) · [Player Test Build (PTB)](../../index.md#player-test-build-ptb) · [8.7.0 | PTB Patch Notes](501-8-7-0-ptb-patch-notes.md) &rarr;
+<!-- /nav -->

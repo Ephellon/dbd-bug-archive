@@ -9,6 +9,10 @@ updated: "2020-10-20T14:25:48+00:00"
 archived: "2026-09-26T02:20:00Z"
 ---
 
+<!-- nav -->
+&larr; _oldest_ · [Archive: Stadia](../../index.md#archive-stadia) · [4.3.1 | Bugfix Patch](259-4-3-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 4.3.0 | Mid-Chapter
 
 ![430UpdateBanner.png](252-4-3-0-mid-chapter/01-430updatebanner.png)
@@ -115,3 +119,7 @@ All perks now have the same rarity:
 ## KNOWN ISSUES
 
 - The Killer will sometimes see an incorrect animation during the start of match camera pan.
+
+<!-- nav -->
+&larr; _oldest_ · [Archive: Stadia](../../index.md#archive-stadia) · [4.3.1 | Bugfix Patch](259-4-3-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

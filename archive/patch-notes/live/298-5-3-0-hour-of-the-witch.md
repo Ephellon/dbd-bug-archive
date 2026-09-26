@@ -9,6 +9,10 @@ updated: "2021-10-19T14:35:02+00:00"
 archived: "2026-09-26T02:18:36Z"
 ---
 
+<!-- nav -->
+&larr; [5.2.2 | Bugfix Patch](296-5-2-2-bugfix-patch.md) · [Live](../../index.md#live) · [5.3.0a | Hotfix](300-5-3-0a-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 5.3.0 | Hour of the Witch
 
 ![530Banner.png](298-5-3-0-hour-of-the-witch/01-530banner.png)
@@ -383,3 +387,7 @@ Mikaela Reid
 ## Known Issues
 
 - Add-on text in non-English languages is not completely updated / translated.
+
+<!-- nav -->
+&larr; [5.2.2 | Bugfix Patch](296-5-2-2-bugfix-patch.md) · [Live](../../index.md#live) · [5.3.0a | Hotfix](300-5-3-0a-hotfix.md) &rarr;
+<!-- /nav -->

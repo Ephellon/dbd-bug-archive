@@ -9,6 +9,10 @@ updated: "2025-03-07T16:58:19+00:00"
 archived: "2026-09-26T02:20:06Z"
 ---
 
+<!-- nav -->
+&larr; [Developer Update | January 2025 PTB](489-developer-update-january-2025-ptb.md) · [Developer Updates](../index.md#developer-updates) · [Design Preview | Future Plans + Update on The Trickster](496-design-preview-future-plans-update-on-the-trickster.md) &rarr;
+<!-- /nav -->
+
 # Developer Update | March 2025
 
 ![DevUpdate_MarchBanner.png](494-developer-update-march-2025/01-devupdate-marchbanner.png)
@@ -183,3 +187,7 @@ Read on for all the details:
 Until next time...
 
 The Dead by Daylight Team
+
+<!-- nav -->
+&larr; [Developer Update | January 2025 PTB](489-developer-update-january-2025-ptb.md) · [Developer Updates](../index.md#developer-updates) · [Design Preview | Future Plans + Update on The Trickster](496-design-preview-future-plans-update-on-the-trickster.md) &rarr;
+<!-- /nav -->

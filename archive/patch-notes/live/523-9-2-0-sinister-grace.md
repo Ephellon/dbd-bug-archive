@@ -9,6 +9,10 @@ updated: "2025-09-23T16:01:22+00:00"
 archived: "2026-09-26T02:18:08Z"
 ---
 
+<!-- nav -->
+&larr; [9.1.3 | Bugfix Patch](520-9-1-3-bugfix-patch.md) · [Live](../../index.md#live) · [9.2.1 | Bugfix Patch](524-9-2-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 9.2.0 | Sinister Grace
 
 ![920_PatchNotes_FORUM.png](523-9-2-0-sinister-grace/01-920-patchnotes-forum.png)
@@ -627,3 +631,7 @@ archived: "2026-09-26T02:18:08Z"
 ## Known Issues
 
 - The in-game trailer for Sinister Grace is louder than anticipated and the audio will be reduced in a future update.
+
+<!-- nav -->
+&larr; [9.1.3 | Bugfix Patch](520-9-1-3-bugfix-patch.md) · [Live](../../index.md#live) · [9.2.1 | Bugfix Patch](524-9-2-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

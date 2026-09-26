@@ -9,6 +9,10 @@ updated: "2020-03-02T15:13:08+00:00"
 archived: "2026-09-26T02:19:03Z"
 ---
 
+<!-- nav -->
+&larr; [2.5.4 | Hotfix](23-2-5-4-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [2.6.4 | Hotfix](25-2-6-4-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 2.6.2 | Hotfix
 
 ## Bug Fixes
@@ -29,3 +33,7 @@ archived: "2026-09-26T02:19:03Z"
 - Fixed an issue that could cause a crash when putting a reverse bear trap on a Survivor.
 - Misc localization and translation improvements.
 - Misc LOD improvements.
+
+<!-- nav -->
+&larr; [2.5.4 | Hotfix](23-2-5-4-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [2.6.4 | Hotfix](25-2-6-4-hotfix.md) &rarr;
+<!-- /nav -->

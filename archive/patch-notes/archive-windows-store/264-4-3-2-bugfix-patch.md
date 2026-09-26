@@ -9,6 +9,10 @@ updated: "2020-11-03T16:19:05+00:00"
 archived: "2026-09-26T02:19:59Z"
 ---
 
+<!-- nav -->
+&larr; [4.3.1 | Bugfix Patch](257-4-3-1-bugfix-patch.md) · [Archive: Windows Store](../../index.md#archive-windows-store) · _newest_ &rarr;
+<!-- /nav -->
+
 # 4.3.2 | Bugfix Patch
 
 ![432Banner.png](264-4-3-2-bugfix-patch/01-432banner.png)
@@ -29,3 +33,7 @@ archived: "2026-09-26T02:19:59Z"
 - Fixed Jake's beard not appearing in the Orbital Captain head cosmetic
 - Fixed gaps in Yui's Miss Speedway outfit when mixing with other outfit's cosmetic pieces
 - Fixed an issue that caused The Blight's "Alchemist Ring" add-on to grant a bonus to rush token recharge time
+
+<!-- nav -->
+&larr; [4.3.1 | Bugfix Patch](257-4-3-1-bugfix-patch.md) · [Archive: Windows Store](../../index.md#archive-windows-store) · _newest_ &rarr;
+<!-- /nav -->

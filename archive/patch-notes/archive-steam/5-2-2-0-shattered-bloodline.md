@@ -9,6 +9,10 @@ updated: "2020-03-02T14:56:17+00:00"
 archived: "2026-09-26T02:19:01Z"
 ---
 
+<!-- nav -->
+&larr; [2.1.1 | Hotfix](4-2-1-1-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [2.4.0 | Darkness Among Us](6-2-4-0-darkness-among-us.md) &rarr;
+<!-- /nav -->
+
 # 2.2.0 | Shattered Bloodline
 
 ## Features & Content
@@ -268,3 +272,7 @@ archived: "2026-09-26T02:19:01Z"
 ## Bug Fixes
 
 - Fixed an issue that caused the Clowns Titled Doll Hat head customization item to visually clip through the camera during gameplay
+
+<!-- nav -->
+&larr; [2.1.1 | Hotfix](4-2-1-1-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [2.4.0 | Darkness Among Us](6-2-4-0-darkness-among-us.md) &rarr;
+<!-- /nav -->

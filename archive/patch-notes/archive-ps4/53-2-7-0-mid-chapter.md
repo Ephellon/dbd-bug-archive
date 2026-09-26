@@ -9,6 +9,10 @@ updated: "2020-03-02T19:46:19+00:00"
 archived: "2026-09-26T02:19:20Z"
 ---
 
+<!-- nav -->
+&larr; [2.6.4 | Hotfix](52-2-6-4-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [2.7.1 | Hotfix](54-2-7-1-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 2.7.0 | Mid-Chapter
 
 ## Features & Content
@@ -205,3 +209,7 @@ Gameplay changes
 - Added a generic display category name for Survivor item add-ons in the Loadout.
 - Fixed an issue that could cause the Survivors' status icon to show as Dead instead of Sacrificed when Sacrificed on a hook.
 - Misc UI improvements.
+
+<!-- nav -->
+&larr; [2.6.4 | Hotfix](52-2-6-4-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [2.7.1 | Hotfix](54-2-7-1-hotfix.md) &rarr;
+<!-- /nav -->

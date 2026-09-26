@@ -9,6 +9,10 @@ updated: "2023-07-25T14:44:59+00:00"
 archived: "2026-09-26T02:18:23Z"
 ---
 
+<!-- nav -->
+&larr; [7.0.2 | Bugfix Patch](396-7-0-2-bugfix-patch.md) · [Live](../../index.md#live) · [7.1.1 | Bugfix Patch](401-7-1-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 7.1.0 | Nicolas Cage
 
 ![710_PatchNotesThinBanner.png](400-7-1-0-nicolas-cage/01-710-patchnotesthinbanner.png)
@@ -333,3 +337,7 @@ Grabs from unhooking Survivors have been removed. This means that the awkward mi
 - Survivors now correctly see the updated progress bar from Brand New Part while not actively repairing a generator.
 - Coup De Grace no longer gains tokens from Generators being worked on when the last Generator is completed.
 - Spine Chill no longer flickers when the killer and survivor look at each other in some angles.
+
+<!-- nav -->
+&larr; [7.0.2 | Bugfix Patch](396-7-0-2-bugfix-patch.md) · [Live](../../index.md#live) · [7.1.1 | Bugfix Patch](401-7-1-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

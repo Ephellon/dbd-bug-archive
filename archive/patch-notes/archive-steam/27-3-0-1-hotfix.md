@@ -9,6 +9,10 @@ updated: "2020-03-02T15:22:44+00:00"
 archived: "2026-09-26T02:19:05Z"
 ---
 
+<!-- nav -->
+&larr; [2.7.1 | Hotfix](26-2-7-1-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [3.0.2 | Hotfix](28-3-0-2-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 3.0.1 | Hotfix
 
 ## Balance
@@ -59,3 +63,7 @@ archived: "2026-09-26T02:19:05Z"
 - Fixed an issue that caused an audio stinger not to play correctly when being shocked by The Doctor or tiering up in Madness.
 - Misc audio improvements.
 - Fixed an issue that prevent users from changing the resolution while in Windowed mode.
+
+<!-- nav -->
+&larr; [2.7.1 | Hotfix](26-2-7-1-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [3.0.2 | Hotfix](28-3-0-2-hotfix.md) &rarr;
+<!-- /nav -->

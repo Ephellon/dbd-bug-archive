@@ -9,6 +9,10 @@ updated: "2023-03-09T16:29:44+00:00"
 archived: "2026-09-26T02:18:26Z"
 ---
 
+<!-- nav -->
+&larr; [6.5.2 | Bugfix Patch](374-6-5-2-bugfix-patch.md) · [Live](../../index.md#live) · [6.6.1 | Bugfix Patch](379-6-6-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 6.6.0 | Tools of Torment
 
 ![PTB_PatchNotes_Banner (1).png](378-6-6-0-tools-of-torment/01-ptb-patchnotes-banner-281-29.png)
@@ -241,3 +245,7 @@ When a Survivor screams to reveal their location, the scream will be a 3d scream
 **Maps**
 
 - The Boreal Hill on the Red Forest has unclear pathing.
+
+<!-- nav -->
+&larr; [6.5.2 | Bugfix Patch](374-6-5-2-bugfix-patch.md) · [Live](../../index.md#live) · [6.6.1 | Bugfix Patch](379-6-6-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

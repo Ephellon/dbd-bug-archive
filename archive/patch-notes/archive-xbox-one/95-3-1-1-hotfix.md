@@ -9,6 +9,10 @@ updated: "2020-02-28T22:13:50+00:00"
 archived: "2026-09-26T02:19:37Z"
 ---
 
+<!-- nav -->
+&larr; [3.1.0 | Mid-Chapter](94-3-1-0-mid-chapter.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [3.1.2 | Hotfix](96-3-1-2-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 3.1.1 | Hotfix
 
 ## UI Adjustments
@@ -46,3 +50,7 @@ archived: "2026-09-26T02:19:37Z"
 ## Addendum
 
 - The Pig: The movement speed curves for crouching and uncrouching have been adjusted to transition between normal speed and crouched speed more smoothly. The overall average speed while performing these interactions has been slightly increased. *\*Note: This change was introduced in 3.1.0 but was originally omitted from the patch notes.*
+
+<!-- nav -->
+&larr; [3.1.0 | Mid-Chapter](94-3-1-0-mid-chapter.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [3.1.2 | Hotfix](96-3-1-2-hotfix.md) &rarr;
+<!-- /nav -->

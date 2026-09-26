@@ -9,6 +9,10 @@ updated: "2020-03-02T15:31:18+00:00"
 archived: "2026-09-26T02:19:07Z"
 ---
 
+<!-- nav -->
+&larr; [3.2.0 | Stranger Things](14-3-2-0-stranger-things.md) · [Archive: Steam](../../index.md#archive-steam) · [3.3.2 | Hotfix](16-3-3-2-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 3.3.1 | Mid-Chapter
 
 ## Features & Content
@@ -307,3 +311,7 @@ archived: "2026-09-26T02:19:07Z"
 - Survivor shadow models can be seen in front of bubble indicators.
 - Users can sometimes crash while in the Collection tab in the Archives menu.
 - Rift Fragment experience is not updated in the Archives Widget when in the tally screen if there is no active challenge.
+
+<!-- nav -->
+&larr; [3.2.0 | Stranger Things](14-3-2-0-stranger-things.md) · [Archive: Steam](../../index.md#archive-steam) · [3.3.2 | Hotfix](16-3-3-2-hotfix.md) &rarr;
+<!-- /nav -->

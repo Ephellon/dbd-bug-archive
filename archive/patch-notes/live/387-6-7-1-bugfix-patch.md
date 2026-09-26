@@ -9,6 +9,10 @@ updated: "2023-05-03T15:00:15+00:00"
 archived: "2026-09-26T02:18:25Z"
 ---
 
+<!-- nav -->
+&larr; [6.7.0 | Mid-Chapter](385-6-7-0-mid-chapter.md) · [Live](../../index.md#live) · [6.7.2 | Bugfix Patch](388-6-7-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 6.7.1 | Bugfix Patch
 
 ![671_PatchNotes_Forum copie.png](387-6-7-1-bugfix-patch/01-671-patchnotes-forum-copie.png)
@@ -151,3 +155,7 @@ Update releases: May 3 2023, 11AM ET
 
 - The Dredge's "Masquerade Colours" cosmetic breaks in the Tally Screen
 - The Perk "Any Means Necessary" is currently disabled due to a bug which allows players to reach unintended places.
+
+<!-- nav -->
+&larr; [6.7.0 | Mid-Chapter](385-6-7-0-mid-chapter.md) · [Live](../../index.md#live) · [6.7.2 | Bugfix Patch](388-6-7-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

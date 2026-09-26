@@ -9,6 +9,10 @@ updated: "2021-12-15T15:26:39+00:00"
 archived: "2026-09-26T02:18:34Z"
 ---
 
+<!-- nav -->
+&larr; [5.4.1 | Bugfix Patch](307-5-4-1-bugfix-patch.md) · [Live](../../index.md#live) · [5.5.0 | Mid-Chapter](311-5-5-0-mid-chapter.md) &rarr;
+<!-- /nav -->
+
 # 5.4.2 | Bugfix Patch
 
 ![542Banner.png](308-5-4-2-bugfix-patch/01-542banner.png)
@@ -37,3 +41,7 @@ archived: "2026-09-26T02:18:34Z"
 - Fixed an issue that caused the remaining generators not to have the repaired lights and SFX after the generators required to power the exit gates have been repaired.
 - Fixed an issue that may cause the Hex: Ruin regression sparks to appear when a generator is actively being repaired.
 - Fixed an issue that may cause the Cannibal to gain tokens every time the chainsaw is revved when equipped with the Irridescent Flesh add-on.
+
+<!-- nav -->
+&larr; [5.4.1 | Bugfix Patch](307-5-4-1-bugfix-patch.md) · [Live](../../index.md#live) · [5.5.0 | Mid-Chapter](311-5-5-0-mid-chapter.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2020-03-02T15:33:44+00:00"
 archived: "2026-09-26T02:19:07Z"
 ---
 
+<!-- nav -->
+&larr; [3.4.0 | Cursed Legacy](17-3-4-0-cursed-legacy.md) · [Archive: Steam](../../index.md#archive-steam) · [3.4.2 | Hotfix](19-3-4-2-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 3.4.1 | Hotfix
 
 ## Bug Fixes
@@ -18,3 +22,7 @@ archived: "2026-09-26T02:19:07Z"
 - Fixed an issue that could cause the wiggle UI to flicker when getting interrupted.
 - Fixed an issue that could cause the wiggle UI to disappear after being picked up and dropped.
 - Fixed an issue that could cause the wiggle UI to disappear when getting picked up by the Killer with a Survivor nearby.
+
+<!-- nav -->
+&larr; [3.4.0 | Cursed Legacy](17-3-4-0-cursed-legacy.md) · [Archive: Steam](../../index.md#archive-steam) · [3.4.2 | Hotfix](19-3-4-2-hotfix.md) &rarr;
+<!-- /nav -->

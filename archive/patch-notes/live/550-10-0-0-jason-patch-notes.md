@@ -9,6 +9,10 @@ updated: "2026-06-16T14:32:39+00:00"
 archived: "2026-09-26T02:18:03Z"
 ---
 
+<!-- nav -->
+&larr; [9.6.2 | Bugfix Patch](546-9-6-2-bugfix-patch.md) · [Live](../../index.md#live) · [10.0.1 | Bugfix Patch ](551-10-0-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 10.0.0 | Jason Patch Notes
 
 ![DbD_1000_PatchNotes_16-9.png](550-10-0-0-jason-patch-notes/01-dbd-1000-patchnotes-16-9.png)
@@ -330,3 +334,7 @@ archived: "2026-09-26T02:18:03Z"
   - Jason DLC - June 18th at 11AM ET
   - Jason Edition - June 18th at 11AM ET
   - 10th Anniversary Edition - June 18th at 1PM ET
+
+<!-- nav -->
+&larr; [9.6.2 | Bugfix Patch](546-9-6-2-bugfix-patch.md) · [Live](../../index.md#live) · [10.0.1 | Bugfix Patch ](551-10-0-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

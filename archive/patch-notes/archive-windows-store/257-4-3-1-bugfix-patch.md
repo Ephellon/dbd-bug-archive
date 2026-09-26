@@ -9,6 +9,10 @@ updated: "2020-10-28T14:27:15+00:00"
 archived: "2026-09-26T02:19:59Z"
 ---
 
+<!-- nav -->
+&larr; [4.3.0 | Mid-Chapter](251-4-3-0-mid-chapter.md) · [Archive: Windows Store](../../index.md#archive-windows-store) · [4.3.2 | Bugfix Patch](264-4-3-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 4.3.1 | Bugfix Patch
 
 ![431Banner.png](257-4-3-1-bugfix-patch/01-431banner.png)
@@ -26,3 +30,7 @@ archived: "2026-09-26T02:19:59Z"
 - Fixed an issue that caused a survivor's model to remain in a Cage of Atonement when disconnecting.
 - Fixed an issue that caused Madness audio levels to be incorrect when switching spectated survivors.
 - Fixed an issue that caused the killer's music theme to be heard as a spectator in a custom game lobby.
+
+<!-- nav -->
+&larr; [4.3.0 | Mid-Chapter](251-4-3-0-mid-chapter.md) · [Archive: Windows Store](../../index.md#archive-windows-store) · [4.3.2 | Bugfix Patch](264-4-3-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

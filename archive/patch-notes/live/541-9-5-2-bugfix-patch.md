@@ -9,6 +9,10 @@ updated: "2026-03-31T14:30:22+00:00"
 archived: "2026-09-26T02:18:05Z"
 ---
 
+<!-- nav -->
+&larr; [9.5.1 | Bugfix Patch](539-9-5-1-bugfix-patch.md) · [Live](../../index.md#live) · [9.6.0 | Patch Notes](544-9-6-0-patch-notes.md) &rarr;
+<!-- /nav -->
+
 # 9.5.2 | Bugfix Patch
 
 ![DbD_952_PatchNotes_FORUM.png](541-9-5-2-bugfix-patch/01-dbd-952-patchnotes-forum.png)
@@ -115,3 +119,7 @@ archived: "2026-09-26T02:18:05Z"
 - Mirrored Illusion is unable to be placed on the short side of a 3 sided generator when used for the second time.
 - We're Gonna Live Forever's healing buff persists into the Injured State when using med-kits.
 - Characters would be unable to move during the Tutorial or Trials if two accounts are linked to the Xbox and, the player uses the Xbox Account that is not set to log in automatically.
+
+<!-- nav -->
+&larr; [9.5.1 | Bugfix Patch](539-9-5-1-bugfix-patch.md) · [Live](../../index.md#live) · [9.6.0 | Patch Notes](544-9-6-0-patch-notes.md) &rarr;
+<!-- /nav -->

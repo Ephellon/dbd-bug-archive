@@ -9,6 +9,10 @@ updated: "2024-04-18T14:55:20+00:00"
 archived: "2026-09-26T02:20:12Z"
 ---
 
+<!-- nav -->
+&larr; [Stats | March 2024](443-stats-march-2024.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | May 2024](448-developer-update-may-2024.md) &rarr;
+<!-- /nav -->
+
 # Developer Update | April 2024 PTB
 
 ![CA_DBD_0324_Bacon_Update_Overview_Live_16_9 copie.jpg](444-developer-update-april-2024-ptb/01-ca-dbd-0324-bacon-update-overview-live-16-9-copie.jpg)
@@ -50,3 +54,7 @@ As the 7.7.0 Update approaches, we’ve prepared some adjustments after going th
 
 Until next time...  
  The Dead by Daylight Team.
+
+<!-- nav -->
+&larr; [Stats | March 2024](443-stats-march-2024.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | May 2024](448-developer-update-may-2024.md) &rarr;
+<!-- /nav -->

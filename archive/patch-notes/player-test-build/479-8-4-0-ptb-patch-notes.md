@@ -9,6 +9,10 @@ updated: "2024-11-09T00:04:32+00:00"
 archived: "2026-09-26T02:18:44Z"
 ---
 
+<!-- nav -->
+&larr; [8.3.0 | PTB](473-8-3-0-ptb.md) · [Player Test Build (PTB)](../../index.md#player-test-build-ptb) · [8.5.0 | PTB Patch Notes](488-8-5-0-ptb-patch-notes.md) &rarr;
+<!-- /nav -->
+
 # 8.4.0 | PTB Patch Notes
 
 *This article was created from a*[*community discussion*](https://forums.bhvr.com/dead-by-daylight/discussion/431740/8-4-0-ptb-patch-notes).
@@ -327,3 +331,7 @@ Store
 - Frequently, the Clean Break perk does not trigger whilst being healed by another Survivor that also has the Clean Break perk equipped.
 
 **THE NIGHTMARE AND THE SKULL MERCHANT ARE DISABLED FOR THE COURSE OF THIS PTB**
+
+<!-- nav -->
+&larr; [8.3.0 | PTB](473-8-3-0-ptb.md) · [Player Test Build (PTB)](../../index.md#player-test-build-ptb) · [8.5.0 | PTB Patch Notes](488-8-5-0-ptb-patch-notes.md) &rarr;
+<!-- /nav -->

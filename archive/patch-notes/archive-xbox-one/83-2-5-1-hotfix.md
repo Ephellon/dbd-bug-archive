@@ -9,6 +9,10 @@ updated: "2020-02-28T22:04:32+00:00"
 archived: "2026-09-26T02:19:34Z"
 ---
 
+<!-- nav -->
+&larr; [2.5.0 | Mid-Chapter](82-2-5-0-mid-chapter.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [2.5.3 | Hotfix](84-2-5-3-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 2.5.1 | Hotfix
 
 ## Bug Fixes
@@ -30,3 +34,7 @@ archived: "2026-09-26T02:19:34Z"
 - Fixed a prestige issue that allowed abusing the UI to Prestige low level characters.
 - Fixed an issue that allowed players to swap characters at the same time as purchasing a node in the Bloodweb, causing the items purchased to appear on the wrong character, and causing the Bloodweb paths to break.
 - Fixed an issue that could cause a crash in the tally screen of a Kill Your Friends match.
+
+<!-- nav -->
+&larr; [2.5.0 | Mid-Chapter](82-2-5-0-mid-chapter.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [2.5.3 | Hotfix](84-2-5-3-hotfix.md) &rarr;
+<!-- /nav -->

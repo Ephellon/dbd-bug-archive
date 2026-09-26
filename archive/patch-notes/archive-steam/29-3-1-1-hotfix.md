@@ -9,6 +9,10 @@ updated: "2020-03-02T15:26:43+00:00"
 archived: "2026-09-26T02:19:05Z"
 ---
 
+<!-- nav -->
+&larr; [3.0.2 | Hotfix](28-3-0-2-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [3.2.1 | Hotfix](30-3-2-1-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 3.1.1 | Hotfix
 
 **UI adjustments**
@@ -48,3 +52,7 @@ archived: "2026-09-26T02:19:05Z"
 ## Balance
 
 - The Pig: The movement speed curves for crouching and uncrouching have been adjusted to transition between normal speed and crouched speed more smoothly. The overall average speed while performing these interactions has been slightly increased. *\*Note: This change was introduced in 3.1.0 but was originally omitted from the patch notes.*
+
+<!-- nav -->
+&larr; [3.0.2 | Hotfix](28-3-0-2-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [3.2.1 | Hotfix](30-3-2-1-hotfix.md) &rarr;
+<!-- /nav -->

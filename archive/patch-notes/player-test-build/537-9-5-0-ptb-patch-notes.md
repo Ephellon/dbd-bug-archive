@@ -9,6 +9,10 @@ updated: "2026-02-24T15:29:52+00:00"
 archived: "2026-09-26T02:18:41Z"
 ---
 
+<!-- nav -->
+&larr; [9.4.0 | PTB Patch Notes](533-9-4-0-ptb-patch-notes.md) · [Player Test Build (PTB)](../../index.md#player-test-build-ptb) · [9.6.0 | PTB Patch Notes](542-9-6-0-ptb-patch-notes.md) &rarr;
+<!-- /nav -->
+
 # 9.5.0 | PTB Patch Notes
 
 ![DbD_950PTB_CH_SOCIAL_DEV_ASSET_OVERVIEW_16-9.jpg](537-9-5-0-ptb-patch-notes/01-dbd-950ptb-ch-social-dev-asset-overview-16-9.jpg)
@@ -551,3 +555,7 @@ Refactor done in the Virulent Bound power. This specifically tackles the desync 
 - Mori Previews are disabled.
 - On The Trickster's Rank Up UI, rarely, the S-rank effects will blink in and out and remain when S rank ends.
 - The Mastermind's charge remains active without player input when quickly double tapping the power button.
+
+<!-- nav -->
+&larr; [9.4.0 | PTB Patch Notes](533-9-4-0-ptb-patch-notes.md) · [Player Test Build (PTB)](../../index.md#player-test-build-ptb) · [9.6.0 | PTB Patch Notes](542-9-6-0-ptb-patch-notes.md) &rarr;
+<!-- /nav -->

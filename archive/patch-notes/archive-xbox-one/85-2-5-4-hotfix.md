@@ -9,6 +9,10 @@ updated: "2020-02-28T22:06:22+00:00"
 archived: "2026-09-26T02:19:35Z"
 ---
 
+<!-- nav -->
+&larr; [2.5.3 | Hotfix](84-2-5-3-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [2.6.0 | Demise of the Faithful](86-2-6-0-demise-of-the-faithful.md) &rarr;
+<!-- /nav -->
+
 # 2.5.4 | Hotfix
 
 ## Lunar Event Changes
@@ -24,3 +28,7 @@ Adjusted the Killer Objectives:
 
 - Fixed an issue that caused clients to receive Lunar event progress when the host quit the match during the transition into the match.
 - Fixed an issue that caused the Wake Up! perk not to show exit gate auras.
+
+<!-- nav -->
+&larr; [2.5.3 | Hotfix](84-2-5-3-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [2.6.0 | Demise of the Faithful](86-2-6-0-demise-of-the-faithful.md) &rarr;
+<!-- /nav -->

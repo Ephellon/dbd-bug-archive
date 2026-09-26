@@ -9,6 +9,10 @@ updated: "2024-06-03T15:25:17+00:00"
 archived: "2026-09-26T02:18:17Z"
 ---
 
+<!-- nav -->
+&larr; [7.7.1 | Bugfix Patch](447-7-7-1-bugfix-patch.md) · [Live](../../index.md#live) · [8.0.1 | Bugfix Patch](453-8-0-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 8.0.0 | Dungeons & Dragons
 
 ![CA_DBD_0424_Churros_Patch_Notes_Assets_Release_FORUM.png](452-8-0-0-dungeons-dragons/01-ca-dbd-0424-churros-patch-notes-assets-release-forum.png)
@@ -364,3 +368,7 @@ The red lighting was a big issue in the realm of The Decimated Borgo. The art an
 - Fixed a crash that could occur when using Decisive Strike.
 - Fixed a crash that could occur when playing the Tutorial matches.
 - Survivors are now able to correctly blind the Unknown with a Flashlight.
+
+<!-- nav -->
+&larr; [7.7.1 | Bugfix Patch](447-7-7-1-bugfix-patch.md) · [Live](../../index.md#live) · [8.0.1 | Bugfix Patch](453-8-0-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

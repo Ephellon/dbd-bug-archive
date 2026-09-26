@@ -9,6 +9,10 @@ updated: "2020-02-28T22:07:43+00:00"
 archived: "2026-09-26T02:19:35Z"
 ---
 
+<!-- nav -->
+&larr; [2.5.4 | Hotfix](85-2-5-4-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [2.6.3 | Ash VS Evil Dead](87-2-6-3-ash-vs-evil-dead.md) &rarr;
+<!-- /nav -->
+
 # 2.6.0 | Demise of the Faithful
 
 ## Features & Content
@@ -185,3 +189,7 @@ Pipping Thresholds: We have made some changes to the Emblem system that will af
 - Fixed an issue that caused certain Killer cosmetic icons to appear in the wrong order in the catalog section of the Store.
 - Fixed an issue that caused the Killer Loadout to become visible on the tally screen if a Survivor pulled their Ethernet cable on the tally screen after dying/escaping.
 - Misc UI improvements.
+
+<!-- nav -->
+&larr; [2.5.4 | Hotfix](85-2-5-4-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [2.6.3 | Ash VS Evil Dead](87-2-6-3-ash-vs-evil-dead.md) &rarr;
+<!-- /nav -->

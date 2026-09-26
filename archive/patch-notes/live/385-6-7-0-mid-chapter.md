@@ -9,6 +9,10 @@ updated: "2023-04-18T15:08:16+00:00"
 archived: "2026-09-26T02:18:25Z"
 ---
 
+<!-- nav -->
+&larr; [6.6.2 | Bugfix Patch](381-6-6-2-bugfix-patch.md) · [Live](../../index.md#live) · [6.7.1 | Bugfix Patch](387-6-7-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 6.7.0 | Mid-Chapter
 
 ![660_PTB_PatchNotes_Forum copie.png](385-6-7-0-mid-chapter/01-660-ptb-patchnotes-forum-copie.png)
@@ -334,3 +338,7 @@ You asked for it for a long time, and it's finally here: using the Bloodweb has 
 ## Known Issues
 
 - The Visual Terror Radius is not correctly showing the strength of the Killer's Lullaby
+
+<!-- nav -->
+&larr; [6.6.2 | Bugfix Patch](381-6-6-2-bugfix-patch.md) · [Live](../../index.md#live) · [6.7.1 | Bugfix Patch](387-6-7-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2020-03-02T19:17:34+00:00"
 archived: "2026-09-26T02:19:16Z"
 ---
 
+<!-- nav -->
+&larr; [2.0.0 | Curtain Call](35-2-0-0-curtain-call.md) · [Archive: PS4](../../index.md#archive-ps4) · [2.1.1 | Hotfix](37-2-1-1-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 2.1.0 | Mid-Chapter
 
 ## Features & Content
@@ -206,3 +210,7 @@ The number of pips that players receives back when the rank reset occurs has bee
 - Fixed an issue that could cause a locker to spawn underneath a window in Father Campbell's Chapel, thus allowing Survivor to hold the game hostage
 - Fixed an issue that could cause the pallet collision to remain active after being destroyed by a chainsaw attack from The Hillbilly or The Cannibal
 - Fixed the textures on Claudette's Official Botanist Apron
+
+<!-- nav -->
+&larr; [2.0.0 | Curtain Call](35-2-0-0-curtain-call.md) · [Archive: PS4](../../index.md#archive-ps4) · [2.1.1 | Hotfix](37-2-1-1-hotfix.md) &rarr;
+<!-- /nav -->

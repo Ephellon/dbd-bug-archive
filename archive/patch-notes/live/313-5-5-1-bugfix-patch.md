@@ -9,6 +9,10 @@ updated: "2022-02-02T15:28:49+00:00"
 archived: "2026-09-26T02:18:34Z"
 ---
 
+<!-- nav -->
+&larr; [5.5.0 | Mid-Chapter](311-5-5-0-mid-chapter.md) · [Live](../../index.md#live) · [5.5.2 | Bugfix Patch](323-5-5-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 5.5.1 | Bugfix Patch
 
 ![551Banner.png](313-5-5-1-bugfix-patch/01-551banner.png)
@@ -63,3 +67,7 @@ archived: "2026-09-26T02:18:34Z"
 - The Nurse's hand doesn't reflect the current blink charge when chain blinking.
 - As The Nurse, blinking and having a grab validation fail causes The Nurse to not enter the fatigue state.
 - We are also investigating reports of not being able to attack right after a chain blink.
+
+<!-- nav -->
+&larr; [5.5.0 | Mid-Chapter](311-5-5-0-mid-chapter.md) · [Live](../../index.md#live) · [5.5.2 | Bugfix Patch](323-5-5-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

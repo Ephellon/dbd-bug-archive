@@ -9,6 +9,10 @@ updated: "2022-09-06T14:21:18+00:00"
 archived: "2026-09-26T02:18:30Z"
 ---
 
+<!-- nav -->
+&larr; [6.2.0 | Resident Evil: PROJECT W](349-6-2-0-resident-evil-project-w.md) · [Live](../../index.md#live) · [6.2.2 | Bugfix Patch](351-6-2-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 6.2.1 | Bugfix Patch
 
 ![621Banner.png](350-6-2-1-bugfix-patch/01-621banner.png)
@@ -51,3 +55,7 @@ archived: "2026-09-26T02:18:30Z"
 - Fixed an issue that sometimes caused the HUD's Player Statuses to be constantly displayed in their brightened state.
 - Fixed an issue that sometimes caused the Player's Name tags to be partially cut in the Lobby.
 - Fixed an issue that caused the Pig's Ambush Dash attack prompt to erroneously display the Prove Thyself perk description in non-English languages.
+
+<!-- nav -->
+&larr; [6.2.0 | Resident Evil: PROJECT W](349-6-2-0-resident-evil-project-w.md) · [Live](../../index.md#live) · [6.2.2 | Bugfix Patch](351-6-2-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

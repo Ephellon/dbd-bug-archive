@@ -9,6 +9,10 @@ updated: "2024-10-29T13:56:01+00:00"
 archived: "2026-09-26T02:20:08Z"
 ---
 
+<!-- nav -->
+&larr; [Developer Update | September 2024 PTB](474-developer-update-september-2024-ptb.md) · [Developer Updates](../index.md#developer-updates) · [2V8 | Developer Update](480-2v8-developer-update.md) &rarr;
+<!-- /nav -->
+
 # Stats | October 2024
 
 ![Matches.png](478-stats-october-2024/01-matches.png)
@@ -54,3 +58,7 @@ Do Survivors heal themselves more than they heal others? Spoiler: No. Not even c
 Until next time…
 
 The Dead by Daylight team
+
+<!-- nav -->
+&larr; [Developer Update | September 2024 PTB](474-developer-update-september-2024-ptb.md) · [Developer Updates](../index.md#developer-updates) · [2V8 | Developer Update](480-2v8-developer-update.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2021-06-29T14:43:40+00:00"
 archived: "2026-09-26T02:18:38Z"
 ---
 
+<!-- nav -->
+&larr; [5.0.1 | Resident Evil](287-5-0-1-resident-evil.md) · [Live](../../index.md#live) · [5.1.0 | Mid-Chapter](290-5-1-0-mid-chapter.md) &rarr;
+<!-- /nav -->
+
 # 5.0.2 | Resident Evil
 
 ![PatchNotes_5.0.2.png](288-5-0-2-resident-evil/01-patchnotes-5-0-2.png)
@@ -50,3 +54,7 @@ We have reduced the overall visual quality on Switch to help improve performance
 - Fixed an issue where a cleansed totem skulls remain floating at the back of the truck in the Junkyard map.
 - Fixed an issue where the Survivors can't be picked up by the killer near the logs next to the Mother's Dwelling building and the corner of Gideon Meat Plant.
 - Fixed an issue that could cause crashes due to OOM (out of memory) issue.
+
+<!-- nav -->
+&larr; [5.0.1 | Resident Evil](287-5-0-1-resident-evil.md) · [Live](../../index.md#live) · [5.1.0 | Mid-Chapter](290-5-1-0-mid-chapter.md) &rarr;
+<!-- /nav -->

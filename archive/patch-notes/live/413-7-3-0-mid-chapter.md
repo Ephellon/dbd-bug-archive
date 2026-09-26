@@ -9,6 +9,10 @@ updated: "2023-10-10T18:57:02+00:00"
 archived: "2026-09-26T02:18:21Z"
 ---
 
+<!-- nav -->
+&larr; [7.2.3 | Bugfix Patch](411-7-2-3-bugfix-patch.md) · [Live](../../index.md#live) · [7.3.1 | Bugfix Patch](414-7-3-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 7.3.0 | Mid-Chapter
 
 ![PatchNotesBanner730.jpg](413-7-3-0-mid-chapter/01-patchnotesbanner730.jpg)
@@ -299,3 +303,7 @@ Reworked the Bots Skill Check system:
 - Fixed a crash that could occur in the Splash Screen.
 - The Sacrificial Ward Offering no longer disables Map Repeat Prevention.
 - The Shape’s arm no longer stretches during the standing Mori from the survivor’s perspective.
+
+<!-- nav -->
+&larr; [7.2.3 | Bugfix Patch](411-7-2-3-bugfix-patch.md) · [Live](../../index.md#live) · [7.3.1 | Bugfix Patch](414-7-3-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

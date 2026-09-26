@@ -9,6 +9,10 @@ updated: "2023-01-31T15:25:22+00:00"
 archived: "2026-09-26T02:18:27Z"
 ---
 
+<!-- nav -->
+&larr; [6.5.0 | Mid-Chapter](371-6-5-0-mid-chapter.md) · [Live](../../index.md#live) · [6.5.2 | Bugfix Patch](374-6-5-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 6.5.1 | Bugfix Patch
 
 ![651Banner.png](373-6-5-1-bugfix-patch/01-651banner.png)
@@ -76,3 +80,7 @@ archived: "2026-09-26T02:18:27Z"
 ## Known Issues
 
 - The Mastermind can't go up the stairs and vault smoothly when using the Virulent Bound ability in Dead Dawg Saloon.
+
+<!-- nav -->
+&larr; [6.5.0 | Mid-Chapter](371-6-5-0-mid-chapter.md) · [Live](../../index.md#live) · [6.5.2 | Bugfix Patch](374-6-5-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

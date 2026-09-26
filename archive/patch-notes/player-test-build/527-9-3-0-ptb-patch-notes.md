@@ -9,6 +9,10 @@ updated: "2025-11-04T15:30:10+00:00"
 archived: "2026-09-26T02:18:42Z"
 ---
 
+<!-- nav -->
+&larr; [9.2.0 | PTB Patch Notes](522-9-2-0-ptb-patch-notes.md) · [Player Test Build (PTB)](../../index.md#player-test-build-ptb) · [9.4.0 | PTB Patch Notes](533-9-4-0-ptb-patch-notes.md) &rarr;
+<!-- /nav -->
+
 # 9.3.0 | PTB Patch Notes
 
 ![930_PTB_Forum.jpg](527-9-3-0-ptb-patch-notes/01-930-ptb-forum.jpg)
@@ -363,3 +367,7 @@ The following perk has been updated. See the Perk Updates sections below for mor
 
 - The Legion continues to play the Frenzy animation when grabbing a Survivor from a locker while in Feral Frenzy.
 - Occasionally, bots might fail to use perks for the duration of the trial.
+
+<!-- nav -->
+&larr; [9.2.0 | PTB Patch Notes](522-9-2-0-ptb-patch-notes.md) · [Player Test Build (PTB)](../../index.md#player-test-build-ptb) · [9.4.0 | PTB Patch Notes](533-9-4-0-ptb-patch-notes.md) &rarr;
+<!-- /nav -->

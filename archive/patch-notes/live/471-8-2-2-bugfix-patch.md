@@ -9,6 +9,10 @@ updated: "2024-09-11T14:25:44+00:00"
 archived: "2026-09-26T02:18:14Z"
 ---
 
+<!-- nav -->
+&larr; [8.2.1 | Bugfix Patch](469-8-2-1-bugfix-patch.md) · [Live](../../index.md#live) · [8.3.0 | Mid-Chapter](475-8-3-0-mid-chapter.md) &rarr;
+<!-- /nav -->
+
 # 8.2.2 | Bugfix Patch
 
 ![822_Bugfix_Forum.jpg](471-8-2-2-bugfix-patch/01-822-bugfix-forum.jpg)
@@ -69,3 +73,7 @@ archived: "2026-09-26T02:18:14Z"
 ### Perks
 
 - Fixed an issue that caused the Fire Up perk not to gain tokens when a bot completed a generator
+
+<!-- nav -->
+&larr; [8.2.1 | Bugfix Patch](469-8-2-1-bugfix-patch.md) · [Live](../../index.md#live) · [8.3.0 | Mid-Chapter](475-8-3-0-mid-chapter.md) &rarr;
+<!-- /nav -->

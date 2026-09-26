@@ -9,6 +9,10 @@ updated: "2021-05-19T14:28:54+00:00"
 archived: "2026-09-26T02:18:38Z"
 ---
 
+<!-- nav -->
+&larr; [4.7.1 | Bugfix Patch](282-4-7-1-bugfix-patch.md) · [Live](../../index.md#live) · [5.0.0 | Resident Evil](286-5-0-0-resident-evil.md) &rarr;
+<!-- /nav -->
+
 # 4.7.2 | Bugfix Patch
 
 ![472Banner.png](283-4-7-2-bugfix-patch/01-472banner.png)
@@ -35,3 +39,7 @@ archived: "2026-09-26T02:18:38Z"
 PC:
 
 - Fixed an issue that could affect performance if a gamepad is plugged into a PC.
+
+<!-- nav -->
+&larr; [4.7.1 | Bugfix Patch](282-4-7-1-bugfix-patch.md) · [Live](../../index.md#live) · [5.0.0 | Resident Evil](286-5-0-0-resident-evil.md) &rarr;
+<!-- /nav -->

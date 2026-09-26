@@ -9,6 +9,10 @@ updated: "2022-06-16T13:27:51+00:00"
 archived: "2026-09-26T02:18:31Z"
 ---
 
+<!-- nav -->
+&larr; [6.0.0 | Roots of Dread](334-6-0-0-roots-of-dread.md) · [Live](../../index.md#live) · [6.0.2 | Bugfix Patch](339-6-0-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 6.0.1 | Bugfix Patch
 
 ![601Banner.png](335-6-0-1-bugfix-patch/01-601banner.png)
@@ -60,3 +64,7 @@ archived: "2026-09-26T02:18:31Z"
 
 - Some players are experiencing rubber banding since 5.7.0 - This issue is being investigated.
 - Players on console might experience crashes when starting a tutorial bot match before fully download the game. To work around the issue, wait for the game to fully downloaded before starting the tutorial bot match.
+
+<!-- nav -->
+&larr; [6.0.0 | Roots of Dread](334-6-0-0-roots-of-dread.md) · [Live](../../index.md#live) · [6.0.2 | Bugfix Patch](339-6-0-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

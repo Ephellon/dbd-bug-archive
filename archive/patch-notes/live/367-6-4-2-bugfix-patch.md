@@ -9,6 +9,10 @@ updated: "2022-12-15T14:09:37+00:00"
 archived: "2026-09-26T02:18:28Z"
 ---
 
+<!-- nav -->
+&larr; [6.4.1 | Bugfix Patch](366-6-4-1-bugfix-patch.md) · [Live](../../index.md#live) · [6.4.3 | Bugfix Patch](368-6-4-3-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 6.4.2 | Bugfix Patch
 
 ![bugfixpatch642.png](367-6-4-2-bugfix-patch/01-bugfixpatch642.png)
@@ -74,3 +78,7 @@ archived: "2026-09-26T02:18:28Z"
 
 - The Knight’s feet have no animation when looking down during an Attack.
 - The Killer’s Aura does not properly appear while Kindred is active if the Hooked Survivor did not equip the Perk.
+
+<!-- nav -->
+&larr; [6.4.1 | Bugfix Patch](366-6-4-1-bugfix-patch.md) · [Live](../../index.md#live) · [6.4.3 | Bugfix Patch](368-6-4-3-bugfix-patch.md) &rarr;
+<!-- /nav -->

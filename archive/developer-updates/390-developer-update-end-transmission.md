@@ -9,6 +9,10 @@ updated: "2023-06-02T13:58:17+00:00"
 archived: "2026-09-26T02:20:16Z"
 ---
 
+<!-- nav -->
+&larr; [Developer Update | April 2023](384-developer-update-april-2023.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | End Transmission Release](393-developer-update-end-transmission-release.md) &rarr;
+<!-- /nav -->
+
 # Developer Update | End Transmission
 
 ![Developer update-1920x1080-TOTEM-idea copy.png](390-developer-update-end-transmission/01-developer-update-1920x1080-totem-idea-copy.png)
@@ -88,3 +92,7 @@ We want to give a special thank you to everyone who took the time to leave feedb
 Until next time…
 
 The Dead by Daylight team
+
+<!-- nav -->
+&larr; [Developer Update | April 2023](384-developer-update-april-2023.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | End Transmission Release](393-developer-update-end-transmission-release.md) &rarr;
+<!-- /nav -->

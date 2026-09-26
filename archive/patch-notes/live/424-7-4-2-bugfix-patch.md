@@ -9,6 +9,10 @@ updated: "2023-12-13T15:32:18+00:00"
 archived: "2026-09-26T02:18:20Z"
 ---
 
+<!-- nav -->
+&larr; [7.4.1 | Bugfix Patch](422-7-4-1-bugfix-patch.md) · [Live](../../index.md#live) · [7.5.0 | Alan Wake](430-7-5-0-alan-wake.md) &rarr;
+<!-- /nav -->
+
 # 7.4.2 | Bugfix Patch
 
 ![742asset.png](424-7-4-2-bugfix-patch/01-742asset.png)
@@ -72,3 +76,7 @@ archived: "2026-09-26T02:18:20Z"
 **Known Issues**
 
 - The Back-to-Back Tome 17 challenge description erroneously says "1 consecutive skill check" instead of 3.
+
+<!-- nav -->
+&larr; [7.4.1 | Bugfix Patch](422-7-4-1-bugfix-patch.md) · [Live](../../index.md#live) · [7.5.0 | Alan Wake](430-7-5-0-alan-wake.md) &rarr;
+<!-- /nav -->

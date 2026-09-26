@@ -9,6 +9,10 @@ updated: "2025-08-06T16:13:11+00:00"
 archived: "2026-09-26T02:18:09Z"
 ---
 
+<!-- nav -->
+&larr; [9.1.0 | The Walking Dead](516-9-1-0-the-walking-dead.md) · [Live](../../index.md#live) · [9.1.2 | Bugfix Patch](519-9-1-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 9.1.1 | Bugfix Patch
 
 ![911_PatchNotes_FORUM.jpg](517-9-1-1-bugfix-patch/01-911-patchnotes-forum.jpg)
@@ -117,3 +121,7 @@ archived: "2026-09-26T02:18:09Z"
 - Fixed an issue where a Fog Vial's fog cloud would disappear if another Fog Vial was activated.
 - Fixed an issue where the Fog Vial's smoke explosion sound effects were missing.
 - Fixed an issue where Survivors held the fog vial differently depending on which item was previously held.
+
+<!-- nav -->
+&larr; [9.1.0 | The Walking Dead](516-9-1-0-the-walking-dead.md) · [Live](../../index.md#live) · [9.1.2 | Bugfix Patch](519-9-1-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

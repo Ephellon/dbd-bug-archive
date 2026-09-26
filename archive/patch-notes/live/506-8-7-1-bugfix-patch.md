@@ -9,6 +9,10 @@ updated: "2025-05-15T14:28:21+00:00"
 archived: "2026-09-26T02:18:11Z"
 ---
 
+<!-- nav -->
+&larr; [8.7.0 | Steady Pulse](505-8-7-0-steady-pulse.md) · [Live](../../index.md#live) · [8.7.2 | Bugfix Patch](508-8-7-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 8.7.1 | Bugfix Patch
 
 ![871_PatchNotes_Forums.png](506-8-7-1-bugfix-patch/01-871-patchnotes-forums.png)
@@ -106,3 +110,7 @@ archived: "2026-09-26T02:18:11Z"
 ### Miscellaneous
 
 - Fixed an issue that caused the End Game Collapse not to end when a Survivor held the Run/Rushed key/button while in a locker.
+
+<!-- nav -->
+&larr; [8.7.0 | Steady Pulse](505-8-7-0-steady-pulse.md) · [Live](../../index.md#live) · [8.7.2 | Bugfix Patch](508-8-7-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2022-07-12T16:46:38+00:00"
 archived: "2026-09-26T02:20:20Z"
 ---
 
+<!-- nav -->
+&larr; [Developer Update | June 2022](337-developer-update-june-2022.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | August 2022](344-developer-update-august-2022.md) &rarr;
+<!-- /nav -->
+
 # Developer Update | July 2022
 
 ![Announcement.png](341-developer-update-july-2022/01-announcement.png)
@@ -128,3 +132,7 @@ With prestige now extended all the way to 100, we unveiled some new icons to sho
 With that, we’ve reached the end of this special edition of the Developer Update. The Mid-Chapter is expected to release later this month. As always, please be sure to share your feedback with us once you’ve had a chance to give these changes a try!
 
 The Dead by Daylight team
+
+<!-- nav -->
+&larr; [Developer Update | June 2022](337-developer-update-june-2022.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | August 2022](344-developer-update-august-2022.md) &rarr;
+<!-- /nav -->

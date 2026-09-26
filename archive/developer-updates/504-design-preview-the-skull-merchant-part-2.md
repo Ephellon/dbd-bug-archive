@@ -9,6 +9,10 @@ updated: "2025-04-29T14:06:57+00:00"
 archived: "2026-09-26T02:20:05Z"
 ---
 
+<!-- nav -->
+&larr; [Stats | January - March 2025](503-stats-january-march-2025.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | May 2025](507-developer-update-may-2025.md) &rarr;
+<!-- /nav -->
+
 # Design Preview | The Skull Merchant Part 2
 
 ![DbD_DesignPreview-SM_Banner_1920x1080.png](504-design-preview-the-skull-merchant-part-2/01-dbd-designpreview-sm-banner-1920x1080.png)
@@ -87,3 +91,7 @@ While we won’t be running a survey this time, we are taking note of the feedba
 See you in The Fog!
 
 The Dead by Daylight Team
+
+<!-- nav -->
+&larr; [Stats | January - March 2025](503-stats-january-march-2025.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | May 2025](507-developer-update-may-2025.md) &rarr;
+<!-- /nav -->

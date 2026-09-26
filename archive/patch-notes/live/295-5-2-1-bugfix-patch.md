@@ -9,6 +9,10 @@ updated: "2021-09-20T18:58:28+00:00"
 archived: "2026-09-26T02:18:36Z"
 ---
 
+<!-- nav -->
+&larr; [5.2.0 | Hellraiser](294-5-2-0-hellraiser.md) · [Live](../../index.md#live) · [5.2.2 | Bugfix Patch](296-5-2-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 5.2.1 | Bugfix Patch
 
 ![PatchNotesBannerTemplate-BugFix-CH21.png](295-5-2-1-bugfix-patch/01-patchnotesbannertemplate-bugfix-ch21.png)
@@ -75,3 +79,7 @@ archived: "2026-09-26T02:18:36Z"
 ## Known Issues
 
 - The Cenobites chase music fails to restart after using Summons of Pain.
+
+<!-- nav -->
+&larr; [5.2.0 | Hellraiser](294-5-2-0-hellraiser.md) · [Live](../../index.md#live) · [5.2.2 | Bugfix Patch](296-5-2-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

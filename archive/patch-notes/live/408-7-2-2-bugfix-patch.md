@@ -9,6 +9,10 @@ updated: "2023-09-13T14:28:13+00:00"
 archived: "2026-09-26T02:18:22Z"
 ---
 
+<!-- nav -->
+&larr; [7.2.1 | Bugfix Patch](406-7-2-1-bugfix-patch.md) · [Live](../../index.md#live) · [7.2.3 | Bugfix Patch](411-7-2-3-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 7.2.2 | Bugfix Patch
 
 ![CA-546_DBD_0723_Chapter_Update_Assets_Forum_Bugfix_02 (1).png](408-7-2-2-bugfix-patch/01-ca-546-dbd-0723-chapter-update-assets-forum-bugfix-02-281-29.png)
@@ -71,3 +75,7 @@ archived: "2026-09-26T02:18:22Z"
 ## Known Issues
 
 - Survivor fast vaults do not align with the expected animation resulting in different distance achieved between male and female survivors
+
+<!-- nav -->
+&larr; [7.2.1 | Bugfix Patch](406-7-2-1-bugfix-patch.md) · [Live](../../index.md#live) · [7.2.3 | Bugfix Patch](411-7-2-3-bugfix-patch.md) &rarr;
+<!-- /nav -->

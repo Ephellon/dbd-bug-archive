@@ -9,6 +9,10 @@ updated: "2020-10-20T14:25:31+00:00"
 archived: "2026-09-26T02:19:58Z"
 ---
 
+<!-- nav -->
+&larr; [4.2.2 | Bugfix Patch](239-4-2-2-bugfix-patch.md) · [Archive: Windows Store](../../index.md#archive-windows-store) · [4.3.1 | Bugfix Patch](257-4-3-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 4.3.0 | Mid-Chapter
 
 ![430UpdateBanner.png](251-4-3-0-mid-chapter/01-430updatebanner.png)
@@ -114,3 +118,7 @@ All perks now have the same rarity:
 ## KNOWN iSSUES
 
 - The Killer will sometimes see an incorrect animation during the start of match camera pan.
+
+<!-- nav -->
+&larr; [4.2.2 | Bugfix Patch](239-4-2-2-bugfix-patch.md) · [Archive: Windows Store](../../index.md#archive-windows-store) · [4.3.1 | Bugfix Patch](257-4-3-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

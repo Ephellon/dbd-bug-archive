@@ -9,6 +9,10 @@ updated: "2025-04-22T14:58:32+00:00"
 archived: "2026-09-26T02:20:05Z"
 ---
 
+<!-- nav -->
+&larr; [Developer Update | April 2025](500-developer-update-april-2025.md) · [Developer Updates](../index.md#developer-updates) · [Design Preview | The Skull Merchant Part 2](504-design-preview-the-skull-merchant-part-2.md) &rarr;
+<!-- /nav -->
+
 # Stats | January - March 2025
 
 ![DBD_Stats_Q12025_KillerPickRates.png](503-stats-january-march-2025/01-dbd-stats-q12025-killerpickrates.png)
@@ -36,3 +40,7 @@ But with that, we’ll see you again in July to share the next 3 months of Kille
 Until next time…
 
 The Dead by Daylight Team
+
+<!-- nav -->
+&larr; [Developer Update | April 2025](500-developer-update-april-2025.md) · [Developer Updates](../index.md#developer-updates) · [Design Preview | The Skull Merchant Part 2](504-design-preview-the-skull-merchant-part-2.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2020-03-02T19:21:15+00:00"
 archived: "2026-09-26T02:19:16Z"
 ---
 
+<!-- nav -->
+&larr; [2.1.2  | Hotfix](38-2-1-2-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [2.2.1 | Hotfix](40-2-2-1-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 2.2.0 | Shattered Bloodline
 
 ## Features & Content
@@ -194,3 +198,7 @@ archived: "2026-09-26T02:19:16Z"
 
 - There's an issue causing the flashlight's blinding effect to build up very rapidly on The Spirit
 - There's an issue causing no heartbeat or terror radius when triggering a phantasm trap
+
+<!-- nav -->
+&larr; [2.1.2  | Hotfix](38-2-1-2-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [2.2.1 | Hotfix](40-2-2-1-hotfix.md) &rarr;
+<!-- /nav -->

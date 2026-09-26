@@ -9,6 +9,10 @@ updated: "2023-09-20T14:28:20+00:00"
 archived: "2026-09-26T02:18:22Z"
 ---
 
+<!-- nav -->
+&larr; [7.2.2 | Bugfix Patch](408-7-2-2-bugfix-patch.md) · [Live](../../index.md#live) · [7.3.0 | Mid-Chapter](413-7-3-0-mid-chapter.md) &rarr;
+<!-- /nav -->
+
 # 7.2.3 | Bugfix Patch
 
 ![723Forums.png](411-7-2-3-bugfix-patch/01-723forums.png)
@@ -25,3 +29,7 @@ Update releases: 11am ET
 - Add missing animation for Survivor placing "Blast Mine" or "Wiretap" traps on a generator, preventing Survivors from becoming invisible and unhittable in certain cases
 
 **Note:** With this bugfix, we are reenabling Flashlights, along with three Perks: Dramaturgy, Appraisal and Residual Manifest.
+
+<!-- nav -->
+&larr; [7.2.2 | Bugfix Patch](408-7-2-2-bugfix-patch.md) · [Live](../../index.md#live) · [7.3.0 | Mid-Chapter](413-7-3-0-mid-chapter.md) &rarr;
+<!-- /nav -->

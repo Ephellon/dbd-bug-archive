@@ -9,6 +9,10 @@ updated: "2020-09-17T14:52:31+00:00"
 archived: "2026-09-26T02:19:51Z"
 ---
 
+<!-- nav -->
+&larr; [4.2.0 | Descend Beyond](232-4-2-0-descend-beyond.md) · [Archive: Nintendo Switch](../../index.md#archive-nintendo-switch) · [4.2.2 | Bugfix Patch](242-4-2-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 4.2.1 | Bugfix Patch
 
 ![421Banner.png](237-4-2-1-bugfix-patch/01-421banner.png)
@@ -22,3 +26,7 @@ archived: "2026-09-26T02:19:51Z"
 - Fixed an issue that caused the Survivor screams triggered by the perk Dragon's Grip not being properly audible to the Killer.
 - Fixed an issue that caused an FPS drop when looking at an activated generator.
 - Fixed a post-process effect bug that was causing an FPS drop for some users.
+
+<!-- nav -->
+&larr; [4.2.0 | Descend Beyond](232-4-2-0-descend-beyond.md) · [Archive: Nintendo Switch](../../index.md#archive-nintendo-switch) · [4.2.2 | Bugfix Patch](242-4-2-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

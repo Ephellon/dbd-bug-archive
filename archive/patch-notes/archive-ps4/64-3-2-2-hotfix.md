@@ -9,6 +9,10 @@ updated: "2020-03-02T19:58:37+00:00"
 archived: "2026-09-26T02:19:23Z"
 ---
 
+<!-- nav -->
+&larr; [3.3.0 | Mid-Chapter](63-3-3-0-mid-chapter.md) · [Archive: PS4](../../index.md#archive-ps4) · [3.3.2 | Hotfix](65-3-3-2-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 3.2.2 | Hotfix
 
 ## Bug Fixes
@@ -29,3 +33,7 @@ archived: "2026-09-26T02:19:23Z"
 ## Known Issues
 
 - Direct bottle hit from The Clown will generate the Bottle Toss score event twice.
+
+<!-- nav -->
+&larr; [3.3.0 | Mid-Chapter](63-3-3-0-mid-chapter.md) · [Archive: PS4](../../index.md#archive-ps4) · [3.3.2 | Hotfix](65-3-3-2-hotfix.md) &rarr;
+<!-- /nav -->

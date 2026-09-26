@@ -9,6 +9,10 @@ updated: "2022-06-07T14:45:09+00:00"
 archived: "2026-09-26T02:18:32Z"
 ---
 
+<!-- nav -->
+&larr; [5.7.2 | Bugfix Patch](332-5-7-2-bugfix-patch.md) · [Live](../../index.md#live) · [6.0.1 | Bugfix Patch](335-6-0-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 6.0.0 | Roots of Dread
 
 ![600Banner.png](334-6-0-0-roots-of-dread/01-600banner.png)
@@ -171,3 +175,7 @@ archived: "2026-09-26T02:18:32Z"
   - The Dredge smoke may not appear in certain situations.
   - The Dredge's body can be visible when teleporting to a locker with a survivor inside
   - Some players are experiencing rubber banding since 5.7.0 - this issue is being investigated
+
+<!-- nav -->
+&larr; [5.7.2 | Bugfix Patch](332-5-7-2-bugfix-patch.md) · [Live](../../index.md#live) · [6.0.1 | Bugfix Patch](335-6-0-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

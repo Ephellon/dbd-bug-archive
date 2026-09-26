@@ -9,6 +9,10 @@ updated: "2025-01-07T14:58:03+00:00"
 archived: "2026-09-26T02:20:07Z"
 ---
 
+<!-- nav -->
+&larr; [Developer Update | November 2024 PTB](481-developer-update-november-2024-ptb.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | January 2025 PTB](489-developer-update-january-2025-ptb.md) &rarr;
+<!-- /nav -->
+
 # Developer Update | January 2025
 
 ![DevUpdate_January.png](487-developer-update-january-2025/01-devupdate-january.png)
@@ -106,3 +110,7 @@ That’s it for today’s Dev Update! Thanks for sticking with us, and we can’
 Until next time...
 
 The Dead by Daylight Team
+
+<!-- nav -->
+&larr; [Developer Update | November 2024 PTB](481-developer-update-november-2024-ptb.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | January 2025 PTB](489-developer-update-january-2025-ptb.md) &rarr;
+<!-- /nav -->

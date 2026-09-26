@@ -9,6 +9,10 @@ updated: "2020-02-28T22:21:25+00:00"
 archived: "2026-09-26T02:19:38Z"
 ---
 
+<!-- nav -->
+&larr; [3.2.1 | Hotfix](98-3-2-1-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [3.3.0 | Mid-Chapter](100-3-3-0-mid-chapter.md) &rarr;
+<!-- /nav -->
+
 # 3.2.2 | Hotfix
 
 ## Bug Fixes
@@ -28,3 +32,7 @@ archived: "2026-09-26T02:19:38Z"
 ## Known Issues
 
 - Direct bottle hit from The Clown will generate the Bottle Toss score event twice.
+
+<!-- nav -->
+&larr; [3.2.1 | Hotfix](98-3-2-1-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [3.3.0 | Mid-Chapter](100-3-3-0-mid-chapter.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2025-02-12T15:29:28+00:00"
 archived: "2026-09-26T02:18:12Z"
 ---
 
+<!-- nav -->
+&larr; [8.5.1 | Bugfix Patch](491-8-5-1-bugfix-patch.md) · [Live](../../index.md#live) · [8.6.0 | Tokyo Ghoul](498-8-6-0-tokyo-ghoul.md) &rarr;
+<!-- /nav -->
+
 # 8.5.2 | Bugfix Patch
 
 ![852_PatchNotes_FORUM.jpg](492-8-5-2-bugfix-patch/01-852-patchnotes-forum.jpg)
@@ -68,3 +72,7 @@ archived: "2026-09-26T02:18:12Z"
 
 - Fixed an issue with the player names and/or the "invite" buttons to be invisible in a Lobby after coming back from the Archives.
 - Fixed an issue with the Beginner Mode Tooltips being invisible when hovering any Loadout slots.
+
+<!-- nav -->
+&larr; [8.5.1 | Bugfix Patch](491-8-5-1-bugfix-patch.md) · [Live](../../index.md#live) · [8.6.0 | Tokyo Ghoul](498-8-6-0-tokyo-ghoul.md) &rarr;
+<!-- /nav -->

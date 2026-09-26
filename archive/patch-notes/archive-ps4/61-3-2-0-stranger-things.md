@@ -9,6 +9,10 @@ updated: "2020-03-02T19:57:27+00:00"
 archived: "2026-09-26T02:19:22Z"
 ---
 
+<!-- nav -->
+&larr; [3.1.2 | Hotfix](60-3-1-2-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [3.2.1 | Hotfix](62-3-2-1-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 3.2.0 | Stranger Things
 
 ## Features & Content
@@ -143,3 +147,7 @@ archived: "2026-09-26T02:19:22Z"
 **UI & HUD**
 
 - Misc UI improvements.
+
+<!-- nav -->
+&larr; [3.1.2 | Hotfix](60-3-1-2-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [3.2.1 | Hotfix](62-3-2-1-hotfix.md) &rarr;
+<!-- /nav -->

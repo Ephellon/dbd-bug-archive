@@ -9,6 +9,10 @@ updated: "2020-03-02T19:32:47+00:00"
 archived: "2026-09-26T02:19:03Z"
 ---
 
+<!-- nav -->
+&larr; [2.5.3 | Hotfix](22-2-5-3-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [2.6.2 | Hotfix](24-2-6-2-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 2.5.4 | Hotfix
 
 **Lunar Event Changes**
@@ -22,3 +26,7 @@ archived: "2026-09-26T02:19:03Z"
 
 - Fixed an issue that caused clients to receive Lunar event progress when the host quit the match during the transition into the match.
 - Fixed an issue that caused the Wake Up! perk not to show exit gate auras.
+
+<!-- nav -->
+&larr; [2.5.3 | Hotfix](22-2-5-3-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [2.6.2 | Hotfix](24-2-6-2-hotfix.md) &rarr;
+<!-- /nav -->

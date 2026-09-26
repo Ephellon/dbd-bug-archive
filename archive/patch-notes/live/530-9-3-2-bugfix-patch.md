@@ -9,6 +9,10 @@ updated: "2025-12-09T15:30:26+00:00"
 archived: "2026-09-26T02:18:07Z"
 ---
 
+<!-- nav -->
+&larr; [9.3.0 | Mid-Chapter](529-9-3-0-mid-chapter.md) · [Live](../../index.md#live) · [9.4.0 | Stranger Things Chapter 2](534-9-4-0-stranger-things-chapter-2.md) &rarr;
+<!-- /nav -->
+
 # 9.3.2 | Bugfix Patch
 
 ![932_PatchNotes_FORUM.png](530-9-3-2-bugfix-patch/01-932-patchnotes-forum.png)
@@ -153,3 +157,7 @@ archived: "2026-09-26T02:18:07Z"
 
 - Fixed an issue where Flashbangs and Firecrackers did not blind players when used too close to an object.
 - Fixed an issue where the AFK Crows would not dissolve properly when disappearing.
+
+<!-- nav -->
+&larr; [9.3.0 | Mid-Chapter](529-9-3-0-mid-chapter.md) · [Live](../../index.md#live) · [9.4.0 | Stranger Things Chapter 2](534-9-4-0-stranger-things-chapter-2.md) &rarr;
+<!-- /nav -->

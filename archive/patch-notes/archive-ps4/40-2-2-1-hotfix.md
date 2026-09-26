@@ -9,6 +9,10 @@ updated: "2020-03-02T19:21:45+00:00"
 archived: "2026-09-26T02:19:17Z"
 ---
 
+<!-- nav -->
+&larr; [2.2.0 | Shattered Bloodline](39-2-2-0-shattered-bloodline.md) · [Archive: PS4](../../index.md#archive-ps4) · [2.3.0 | Mid-Chapter](41-2-3-0-mid-chapter.md) &rarr;
+<!-- /nav -->
+
 # 2.2.1 | Hotfix
 
 ## Balance
@@ -28,3 +32,7 @@ archived: "2026-09-26T02:19:17Z"
 - Fixed an issue that caused the Hex: Devour Hope perk to gain tokens every time a Survivor starts the unhook action (instead of upon completion of the interaction).
 - Fixed an issue that caused the duration of Yamaoka's Haunting to last longer as a client Spirit killer in Kill Your Friends
 - Fixed an issue that caused the texture on the Spirit's Husk to become bright and sparkly while using her power
+
+<!-- nav -->
+&larr; [2.2.0 | Shattered Bloodline](39-2-2-0-shattered-bloodline.md) · [Archive: PS4](../../index.md#archive-ps4) · [2.3.0 | Mid-Chapter](41-2-3-0-mid-chapter.md) &rarr;
+<!-- /nav -->

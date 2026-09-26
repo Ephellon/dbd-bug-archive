@@ -9,6 +9,10 @@ updated: "2022-03-15T15:08:09+00:00"
 archived: "2026-09-26T02:18:33Z"
 ---
 
+<!-- nav -->
+&larr; [5.6.0 | Sadako Rising](325-5-6-0-sadako-rising.md) · [Live](../../index.md#live) · [5.6.2 | Bugfix Patch](328-5-6-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 5.6.1 | Bugfix Patch
 
 ![PatchNotesBannerTemplate-KeplerRelease.jpg](327-5-6-1-bugfix-patch/01-patchnotesbannertemplate-keplerrelease.jpg)
@@ -55,3 +59,7 @@ archived: "2026-09-26T02:18:33Z"
 ## Known Issues
 
 - When swapping from the Play as Killer menu to the Store, the sound effects of the Killer are missing. Swapping to a different Killer in the Store will fix this issue.
+
+<!-- nav -->
+&larr; [5.6.0 | Sadako Rising](325-5-6-0-sadako-rising.md) · [Live](../../index.md#live) · [5.6.2 | Bugfix Patch](328-5-6-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

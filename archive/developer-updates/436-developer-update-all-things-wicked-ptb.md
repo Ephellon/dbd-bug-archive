@@ -9,6 +9,10 @@ updated: "2024-03-07T14:55:06+00:00"
 archived: "2026-09-26T02:20:13Z"
 ---
 
+<!-- nav -->
+&larr; [Developer Update | February 2024](434-developer-update-february-2024.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | March 2024](440-developer-update-march-2024.md) &rarr;
+<!-- /nav -->
+
 # Developer Update | All Things Wicked PTB
 
 ![CA_DBD_0224_Applepie_Update_Overview_16_9_V2.png](436-developer-update-all-things-wicked-ptb/01-ca-dbd-0224-applepie-update-overview-16-9-v2.png)
@@ -84,3 +88,7 @@ As mentioned previously, we’ve made some pretty significant improvements to Th
 Until next time…
 
 The Dead by Daylight team
+
+<!-- nav -->
+&larr; [Developer Update | February 2024](434-developer-update-february-2024.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | March 2024](440-developer-update-march-2024.md) &rarr;
+<!-- /nav -->

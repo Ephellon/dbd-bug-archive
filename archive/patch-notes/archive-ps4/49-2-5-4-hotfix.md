@@ -9,6 +9,10 @@ updated: "2020-03-02T19:31:29+00:00"
 archived: "2026-09-26T02:19:19Z"
 ---
 
+<!-- nav -->
+&larr; [2.5.3 | Hotfix](48-2-5-3-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [2.6.0 | Demise of the Faithful](50-2-6-0-demise-of-the-faithful.md) &rarr;
+<!-- /nav -->
+
 # 2.5.4 | Hotfix
 
 **Lunar event changes**
@@ -22,3 +26,7 @@ archived: "2026-09-26T02:19:19Z"
 
 - Fixed an issue that caused clients to receive Lunar event progress when the host quit the match during the transition into the match.
 - Fixed an issue that caused the Wake Up! perk not to show exit gate auras.
+
+<!-- nav -->
+&larr; [2.5.3 | Hotfix](48-2-5-3-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [2.6.0 | Demise of the Faithful](50-2-6-0-demise-of-the-faithful.md) &rarr;
+<!-- /nav -->

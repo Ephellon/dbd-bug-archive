@@ -9,6 +9,10 @@ updated: "2022-08-30T16:48:59+00:00"
 archived: "2026-09-26T02:18:30Z"
 ---
 
+<!-- nav -->
+&larr; [6.1.2/6.1.3 | Bugfix Patch](345-6-1-2-6-1-3-bugfix-patch.md) · [Live](../../index.md#live) · [6.2.1 | Bugfix Patch](350-6-2-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 6.2.0 | Resident Evil: PROJECT W
 
 ![620Banner.png](349-6-2-0-resident-evil-project-w/01-620banner.png)
@@ -225,3 +229,7 @@ archived: "2026-09-26T02:18:30Z"
 
 - The description for Tier 1 of the perk Hyperfocus displays the wrong value.
 - The headline and subtitles for some Store banners is displayed as placeholder text.
+
+<!-- nav -->
+&larr; [6.1.2/6.1.3 | Bugfix Patch](345-6-1-2-6-1-3-bugfix-patch.md) · [Live](../../index.md#live) · [6.2.1 | Bugfix Patch](350-6-2-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

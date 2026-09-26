@@ -9,6 +9,10 @@ updated: "2020-02-28T22:23:17+00:00"
 archived: "2026-09-26T02:19:39Z"
 ---
 
+<!-- nav -->
+&larr; [3.3.2 | Hotfix](101-3-3-2-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [3.4.1 | Hotfix](103-3-4-1-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 3.4.0 | Cursed Legacy
 
 ## Features & Content
@@ -153,3 +157,7 @@ archived: "2026-09-26T02:19:39Z"
 - Fixed an issue that caused the level to reload each time the current Archive level was selected.
 - Fixed an issue that caused the lobby UI to reposition itself when selecting any sub-category in the Loadout.
 - Misc UI improvements.
+
+<!-- nav -->
+&larr; [3.3.2 | Hotfix](101-3-3-2-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [3.4.1 | Hotfix](103-3-4-1-hotfix.md) &rarr;
+<!-- /nav -->

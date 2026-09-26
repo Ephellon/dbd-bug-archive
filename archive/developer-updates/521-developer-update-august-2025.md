@@ -9,6 +9,10 @@ updated: "2025-09-02T13:59:47+00:00"
 archived: "2026-09-26T02:20:03Z"
 ---
 
+<!-- nav -->
+&larr; [Stats | 9th Anniversary](518-stats-9th-anniversary.md) · [Developer Updates](../index.md#developer-updates) · [Stats | Haunted by Daylight](528-stats-haunted-by-daylight.md) &rarr;
+<!-- /nav -->
+
 # Developer Update | August 2025
 
 ![PTB_DeveloperUpdate_August2025.png](521-developer-update-august-2025/01-ptb-developerupdate-august2025.png)
@@ -194,3 +198,7 @@ Increased vertical camera range in action
 Until next time...
 
 The Dead by Daylight Team
+
+<!-- nav -->
+&larr; [Stats | 9th Anniversary](518-stats-9th-anniversary.md) · [Developer Updates](../index.md#developer-updates) · [Stats | Haunted by Daylight](528-stats-haunted-by-daylight.md) &rarr;
+<!-- /nav -->

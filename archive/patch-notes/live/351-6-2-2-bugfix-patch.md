@@ -9,6 +9,10 @@ updated: "2022-09-14T18:01:25+00:00"
 archived: "2026-09-26T02:18:29Z"
 ---
 
+<!-- nav -->
+&larr; [6.2.1 | Bugfix Patch](350-6-2-1-bugfix-patch.md) · [Live](../../index.md#live) · [6.3.0 | Mid-Chapter ](355-6-3-0-mid-chapter.md) &rarr;
+<!-- /nav -->
+
 # 6.2.2 | Bugfix Patch
 
 ![622Banner.png](351-6-2-2-bugfix-patch/01-622banner.png)
@@ -67,3 +71,7 @@ archived: "2026-09-26T02:18:29Z"
 - Fixed an issue that caused the Mastermind's out of tokens vignette to take up a large portion of the screen. Note: This vignette was forgotten in the 6.2.1 patch notes. We reduced the out of tokens vignette, as well as the in between tokens vignette.
 - Fixed an issue that caused the Tome 12 level 4 challenge Looking Out for Number One to be missing the perk in the description.
 - Fixed an issue that caused the Reactive Healing perk to sometimes not trigger if the player was running.
+
+<!-- nav -->
+&larr; [6.2.1 | Bugfix Patch](350-6-2-1-bugfix-patch.md) · [Live](../../index.md#live) · [6.3.0 | Mid-Chapter ](355-6-3-0-mid-chapter.md) &rarr;
+<!-- /nav -->

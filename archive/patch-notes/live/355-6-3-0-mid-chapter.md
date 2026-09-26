@@ -9,6 +9,10 @@ updated: "2022-10-11T15:31:15+00:00"
 archived: "2026-09-26T02:18:29Z"
 ---
 
+<!-- nav -->
+&larr; [6.2.2 | Bugfix Patch](351-6-2-2-bugfix-patch.md) · [Live](../../index.md#live) · [6.3.1 | Bugfix Patch](359-6-3-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 6.3.0 | Mid-Chapter 
 
 ## Features
@@ -131,3 +135,7 @@ archived: "2026-09-26T02:18:29Z"
 - Some descriptions on the Accessibility Tab remain in English and have not yet been localised.
 - There is a ghosting effect around the edges of character models & hair. Although present everywhere, this is slightly more apparent during a trial and on other player's characters.
 - Skeleton cosmetics for the Haunted by Daylight Event do not have the back portion of the skeleton showing - this will be rectified in the next hotfix.
+
+<!-- nav -->
+&larr; [6.2.2 | Bugfix Patch](351-6-2-2-bugfix-patch.md) · [Live](../../index.md#live) · [6.3.1 | Bugfix Patch](359-6-3-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

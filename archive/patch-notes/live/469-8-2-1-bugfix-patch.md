@@ -9,6 +9,10 @@ updated: "2024-09-04T14:25:04+00:00"
 archived: "2026-09-26T02:18:15Z"
 ---
 
+<!-- nav -->
+&larr; [8.2.0 | Castlevania](468-8-2-0-castlevania.md) · [Live](../../index.md#live) · [8.2.2 | Bugfix Patch](471-8-2-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 8.2.1 | Bugfix Patch
 
 ![FORUM.png](469-8-2-1-bugfix-patch/01-forum.png)
@@ -93,3 +97,7 @@ archived: "2026-09-26T02:18:15Z"
 ## Known Issues
 
 - Addon Traveler's Hat does not have the in-game effect as implied in its description.
+
+<!-- nav -->
+&larr; [8.2.0 | Castlevania](468-8-2-0-castlevania.md) · [Live](../../index.md#live) · [8.2.2 | Bugfix Patch](471-8-2-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

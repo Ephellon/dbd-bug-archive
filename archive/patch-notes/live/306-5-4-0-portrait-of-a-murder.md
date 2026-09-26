@@ -9,6 +9,10 @@ updated: "2021-11-30T16:05:51+00:00"
 archived: "2026-09-26T02:18:35Z"
 ---
 
+<!-- nav -->
+&larr; [5.3.2 | Bugfix Patch](303-5-3-2-bugfix-patch.md) · [Live](../../index.md#live) · [5.4.1 | Bugfix Patch](307-5-4-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 5.4.0 | Portrait of a Murder
 
 ![540Banner.png](306-5-4-0-portrait-of-a-murder/01-540banner.png)
@@ -176,3 +180,7 @@ Dev Note: On the PTB, Hex: Pentimento would trigger the healing speed debuff fir
 - Fixed an issue where the Coup de Grace perk receives extra tokens when the last generator is repaired
 - Fixed an issue where the "Out isn't an option" challenge can be completed by disconnecting from a trial
 - Fixed an lighting issue with reflections, sky and colors.
+
+<!-- nav -->
+&larr; [5.3.2 | Bugfix Patch](303-5-3-2-bugfix-patch.md) · [Live](../../index.md#live) · [5.4.1 | Bugfix Patch](307-5-4-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

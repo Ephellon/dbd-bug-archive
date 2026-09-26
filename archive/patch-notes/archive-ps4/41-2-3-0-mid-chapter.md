@@ -9,6 +9,10 @@ updated: "2020-03-02T19:23:50+00:00"
 archived: "2026-09-26T02:19:17Z"
 ---
 
+<!-- nav -->
+&larr; [2.2.1 | Hotfix](40-2-2-1-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [2.3.1 | Hotfix](42-2-3-1-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 2.3.0 | Mid-Chapter
 
 ## Features & Content
@@ -173,3 +177,7 @@ archived: "2026-09-26T02:19:17Z"
 
 - Fixed an issue that made it impossible to acquire any of the escaping trophies if the user escaped through the hatch with less than 5 generators repaired
 - Fixed an issue that caused the title to become unresponsive for an extended period of time when accepting an invite while the application is closed
+
+<!-- nav -->
+&larr; [2.2.1 | Hotfix](40-2-2-1-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [2.3.1 | Hotfix](42-2-3-1-hotfix.md) &rarr;
+<!-- /nav -->

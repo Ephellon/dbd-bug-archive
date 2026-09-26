@@ -9,6 +9,10 @@ updated: "2022-05-03T18:10:56+00:00"
 archived: "2026-09-26T02:18:32Z"
 ---
 
+<!-- nav -->
+&larr; [5.7.0 | Mid-Chapter](330-5-7-0-mid-chapter.md) · [Live](../../index.md#live) · [5.7.2 | Bugfix Patch](332-5-7-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 5.7.1 | Bugfix Patch
 
 *This article was created from a*[*community discussion*](https://forum.deadbydaylight.com/en/discussion/321776/5-7-1-bugfix-patch)*.*
@@ -45,3 +49,7 @@ archived: "2026-09-26T02:18:32Z"
 - In Haddonfield map, downing a Survivor next to a fence prevents the Killer from picking up the Survivor.
 - The Ghost Face's addon "Olsen's Driver's License" is not working as intended - currently no effect.
 - The Mary's Letter map offering has been disabled
+
+<!-- nav -->
+&larr; [5.7.0 | Mid-Chapter](330-5-7-0-mid-chapter.md) · [Live](../../index.md#live) · [5.7.2 | Bugfix Patch](332-5-7-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

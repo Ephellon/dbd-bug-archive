@@ -9,6 +9,10 @@ updated: "2023-10-05T13:58:01+00:00"
 archived: "2026-09-26T02:20:15Z"
 ---
 
+<!-- nav -->
+&larr; [Developer Update | September 2023](409-developer-update-september-2023.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | November 2023](416-developer-update-november-2023.md) &rarr;
+<!-- /nav -->
+
 # Developer Update | October 2023
 
 ![Developer update Totem NEW.png](412-developer-update-october-2023/01-developer-update-totem-new.png)
@@ -116,3 +120,7 @@ And that brings us to the end of this Developer Update! We want to thank you as 
 Until next time…
 
 The Dead by Daylight team
+
+<!-- nav -->
+&larr; [Developer Update | September 2023](409-developer-update-september-2023.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | November 2023](416-developer-update-november-2023.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2020-11-03T16:18:15+00:00"
 archived: "2026-09-26T02:19:13Z"
 ---
 
+<!-- nav -->
+&larr; [4.3.1 | Bugfix Patch](254-4-3-1-bugfix-patch.md) · [Archive: Steam](../../index.md#archive-steam) · [4.4.0 | A Binding of Kin](270-4-4-0-a-binding-of-kin.md) &rarr;
+<!-- /nav -->
+
 # 4.3.2 | Bugfix Patch
 
 ![432Banner.png](260-4-3-2-bugfix-patch/01-432banner.png)
@@ -29,3 +33,7 @@ archived: "2026-09-26T02:19:13Z"
 - Fixed Jake's beard not appearing in the Orbital Captain head cosmetic
 - Fixed gaps in Yui's Miss Speedway outfit when mixing with other outfit's cosmetic pieces
 - Fixed an issue that caused The Blight's "Alchemist Ring" add-on to grant a bonus to rush token recharge time
+
+<!-- nav -->
+&larr; [4.3.1 | Bugfix Patch](254-4-3-1-bugfix-patch.md) · [Archive: Steam](../../index.md#archive-steam) · [4.4.0 | A Binding of Kin](270-4-4-0-a-binding-of-kin.md) &rarr;
+<!-- /nav -->

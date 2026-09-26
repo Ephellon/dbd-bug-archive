@@ -9,6 +9,10 @@ updated: "2025-05-27T16:00:28+00:00"
 archived: "2026-09-26T02:18:43Z"
 ---
 
+<!-- nav -->
+&larr; [8.7.0 | PTB Patch Notes](501-8-7-0-ptb-patch-notes.md) · [Player Test Build (PTB)](../../index.md#player-test-build-ptb) · [9.1.0 | PTB Patch Notes](514-9-1-0-ptb-patch-notes.md) &rarr;
+<!-- /nav -->
+
 # 9.0.0 | PTB Patch Notes
 
 ![900_PatchNotes_Forums.jpg](509-9-0-0-ptb-patch-notes/01-900-patchnotes-forums.jpg)
@@ -349,3 +353,7 @@ archived: "2026-09-26T02:18:43Z"
 
 - The Dark Lord has been disabled.
 - Several localizations are incomplete.
+
+<!-- nav -->
+&larr; [8.7.0 | PTB Patch Notes](501-8-7-0-ptb-patch-notes.md) · [Player Test Build (PTB)](../../index.md#player-test-build-ptb) · [9.1.0 | PTB Patch Notes](514-9-1-0-ptb-patch-notes.md) &rarr;
+<!-- /nav -->

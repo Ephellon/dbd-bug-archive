@@ -9,6 +9,10 @@ updated: "2022-08-02T15:00:00+00:00"
 archived: "2026-09-26T02:18:30Z"
 ---
 
+<!-- nav -->
+&larr; [6.1.1 | Bugfix Patch](343-6-1-1-bugfix-patch.md) · [Live](../../index.md#live) · [6.2.0 | Resident Evil: PROJECT W](349-6-2-0-resident-evil-project-w.md) &rarr;
+<!-- /nav -->
+
 # 6.1.2/6.1.3 | Bugfix Patch
 
 ![612Banner.png](345-6-1-2-6-1-3-bugfix-patch/01-612banner.png)
@@ -62,3 +66,7 @@ The 6.1.2 & 6.1.3 Bugfix Patches go live today. These updates include fixes for 
 - Fixed an issue that caused an invisible collision that allows Survivors to walk along a cage in Gideon map.
 - Fixed an issue that caused Killers to be slow down due to collision in the basement.
 - Fixed a facial animation bug during Cenobite's mori.
+
+<!-- nav -->
+&larr; [6.1.1 | Bugfix Patch](343-6-1-1-bugfix-patch.md) · [Live](../../index.md#live) · [6.2.0 | Resident Evil: PROJECT W](349-6-2-0-resident-evil-project-w.md) &rarr;
+<!-- /nav -->

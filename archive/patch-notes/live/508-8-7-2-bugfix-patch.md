@@ -9,6 +9,10 @@ updated: "2025-06-02T15:04:03+00:00"
 archived: "2026-09-26T02:18:10Z"
 ---
 
+<!-- nav -->
+&larr; [8.7.1 | Bugfix Patch](506-8-7-1-bugfix-patch.md) · [Live](../../index.md#live) · [9.0.0 | Five Nights at Freddy's](510-9-0-0-five-nights-at-freddys.md) &rarr;
+<!-- /nav -->
+
 # 8.7.2 | Bugfix Patch
 
 ![872_PatchNotes_Forums.png](508-8-7-2-bugfix-patch/01-872-patchnotes-forums.png)
@@ -86,3 +90,7 @@ archived: "2026-09-26T02:18:10Z"
 - Fixed an issue where the Pin/Unpin Quest sound effect was missing.
 - Fixed an issue where the Gamepad cursor on PC would disappear and be replaced by the PC mouse cursor when going into the Quests menu.
 - Fixed an issue where the infinity sign was missing from the reward alert when tiering up to infinite tier in the Rift Pass.
+
+<!-- nav -->
+&larr; [8.7.1 | Bugfix Patch](506-8-7-1-bugfix-patch.md) · [Live](../../index.md#live) · [9.0.0 | Five Nights at Freddy's](510-9-0-0-five-nights-at-freddys.md) &rarr;
+<!-- /nav -->

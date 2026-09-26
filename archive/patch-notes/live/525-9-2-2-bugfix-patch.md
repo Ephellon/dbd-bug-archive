@@ -9,6 +9,10 @@ updated: "2025-10-07T14:59:33+00:00"
 archived: "2026-09-26T02:18:07Z"
 ---
 
+<!-- nav -->
+&larr; [9.2.1 | Bugfix Patch](524-9-2-1-bugfix-patch.md) · [Live](../../index.md#live) · [9.2.3 | Bugfix Patch](526-9-2-3-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 9.2.2 | Bugfix Patch
 
 ![922_PatchNotes_FORUM.png](525-9-2-2-bugfix-patch/01-922-patchnotes-forum.png)
@@ -102,3 +106,7 @@ archived: "2026-09-26T02:18:07Z"
 ## Known Issues
 
 - The REVERENCE Rift Pass will release without Claudette's outfit's head cosmetic, including any Altered and Deep Rift variations of this head cosmetic. These missing cosmetics will be gifted to all players who bought the REVERENCE Premium Rift Pass, regardless of Rift Pass progress at a later date.
+
+<!-- nav -->
+&larr; [9.2.1 | Bugfix Patch](524-9-2-1-bugfix-patch.md) · [Live](../../index.md#live) · [9.2.3 | Bugfix Patch](526-9-2-3-bugfix-patch.md) &rarr;
+<!-- /nav -->

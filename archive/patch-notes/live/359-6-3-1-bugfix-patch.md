@@ -9,6 +9,10 @@ updated: "2022-10-18T14:23:44+00:00"
 archived: "2026-09-26T02:18:29Z"
 ---
 
+<!-- nav -->
+&larr; [6.3.0 | Mid-Chapter ](355-6-3-0-mid-chapter.md) · [Live](../../index.md#live) · [6.3.2 | Bugfix Patch](362-6-3-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 6.3.1 | Bugfix Patch
 
 ![631Banner.png](359-6-3-1-bugfix-patch/01-631banner.png)
@@ -43,3 +47,7 @@ archived: "2026-09-26T02:18:29Z"
 - Event intro movie might play again after every tally screen in custom game. To workaround the issue, restart the game.
 - A crash occurs when unchecking the Allow DLC Killers option in Custom Games.
 - Bloodpoint Offerings are not burnt when used and do not provide a Bloodpoint bonus.
+
+<!-- nav -->
+&larr; [6.3.0 | Mid-Chapter ](355-6-3-0-mid-chapter.md) · [Live](../../index.md#live) · [6.3.2 | Bugfix Patch](362-6-3-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

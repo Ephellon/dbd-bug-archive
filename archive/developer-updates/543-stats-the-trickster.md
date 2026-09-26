@@ -9,6 +9,10 @@ updated: "2026-04-23T14:00:01+00:00"
 archived: "2026-09-26T02:20:02Z"
 ---
 
+<!-- nav -->
+&larr; [Stats | First Look at Stats in 2026](540-stats-first-look-at-stats-in-2026.md) · [Developer Updates](../index.md#developer-updates) · [Stats | Blood Moon 2026](547-stats-blood-moon-2026.md) &rarr;
+<!-- /nav -->
+
 # Stats | The Trickster
 
 Greetings, Fog Dwellers, and welcome to another round of stats! This time, our stats focus on our recently updated knife-throwing K-Pop star, The Trickster! Without further ado, let’s take a look.
@@ -24,3 +28,7 @@ We hope you’ve enjoyed this round of stats, and we look forward to seeing you 
 Until next time…
 
 The Dead by Daylight Team
+
+<!-- nav -->
+&larr; [Stats | First Look at Stats in 2026](540-stats-first-look-at-stats-in-2026.md) · [Developer Updates](../index.md#developer-updates) · [Stats | Blood Moon 2026](547-stats-blood-moon-2026.md) &rarr;
+<!-- /nav -->

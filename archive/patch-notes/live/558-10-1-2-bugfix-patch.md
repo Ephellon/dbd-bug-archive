@@ -9,6 +9,10 @@ updated: "2026-09-17T15:02:29+00:00"
 archived: "2026-09-26T02:18:02Z"
 ---
 
+<!-- nav -->
+&larr; [10.1.1 Bugfix Patch](557-10-1-1-bugfix-patch.md) · [Live](../../index.md#live) · _newest_ &rarr;
+<!-- /nav -->
+
 # 10.1.2 Bugfix Patch
 
 ![DbD_1012_PatchNotes_HF2_16-9.png](558-10-1-2-bugfix-patch/01-dbd-1012-patchnotes-hf2-16-9.png)
@@ -166,3 +170,7 @@ Dev note: *The Judgment's performance skyrocketed following HF2. We are revertin
 ## Known Issues
 
 - After using a Brand New Part and continuing the interaction, there are no random skill checks while repairing a generator.
+
+<!-- nav -->
+&larr; [10.1.1 Bugfix Patch](557-10-1-1-bugfix-patch.md) · [Live](../../index.md#live) · _newest_ &rarr;
+<!-- /nav -->

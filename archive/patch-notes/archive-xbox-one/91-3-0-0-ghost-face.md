@@ -9,6 +9,10 @@ updated: "2020-02-28T22:10:43+00:00"
 archived: "2026-09-26T02:19:36Z"
 ---
 
+<!-- nav -->
+&larr; [2.7.1 | Hotfix](90-2-7-1-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [3.0.1 | Hotfix](92-3-0-1-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 3.0.0 | Ghost Face
 
 ## Features & Content
@@ -167,3 +171,7 @@ Added event for Evader emblem scoring:
 - Generators in the Tutorials do not show progress until interacted with.
 - The heartbeat and terror radius for The Trapper is missing in the Survivor Tutorial.
 - The new achievement currently cannot be unlocked.
+
+<!-- nav -->
+&larr; [2.7.1 | Hotfix](90-2-7-1-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [3.0.1 | Hotfix](92-3-0-1-hotfix.md) &rarr;
+<!-- /nav -->

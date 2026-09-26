@@ -9,6 +9,10 @@ updated: "2020-03-02T20:11:36+00:00"
 archived: "2026-09-26T02:19:25Z"
 ---
 
+<!-- nav -->
+&larr; [3.5.0 | Mid-Chapter](69-3-5-0-mid-chapter.md) · [Archive: PS4](../../index.md#archive-ps4) · [3.5.2 | Hotfix](71-3-5-2-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 3.5.1 | Hotfix
 
 ## Balance
@@ -46,3 +50,7 @@ The following changes were done based on PTB feedback where it was found that so
 - Fixed an issue that could cause party members to see a corrupted lobby briefly after the Offering burn sequence.
 - Fixed an issue that caused corrupted lobby UI when queuing for a match as a Killer without PS+.
 - Fixed an issue that made it impossible to switch between Killers for the first 10 seconds after queuing for a match.
+
+<!-- nav -->
+&larr; [3.5.0 | Mid-Chapter](69-3-5-0-mid-chapter.md) · [Archive: PS4](../../index.md#archive-ps4) · [3.5.2 | Hotfix](71-3-5-2-hotfix.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2020-03-02T15:20:01+00:00"
 archived: "2026-09-26T02:19:15Z"
 ---
 
+<!-- nav -->
+&larr; [2.6.3 | Ash VS Evil Dead](10-2-6-3-ash-vs-evil-dead.md) · [Archive: Steam](../../index.md#archive-steam) · [3.0.0 | Ghost Face](12-3-0-0-ghost-face.md) &rarr;
+<!-- /nav -->
+
 # 2.7.0 | Mid-Chapter
 
 ## Features & Content
@@ -263,3 +267,7 @@ Added 2 new Brutality score events for The Plague:
 - Fixed an issue that sometimes caused the Killer to lose their add-ons if all Survivors got disconnected on the loading screen.
 - Fixed multiple cases that caused public matches to start with multiple Killers and/or less than 5 generators to repair.
 - Removed the RNG element associated to window placement in the Treatment Theatre map. Each room now has a static window spawn configuration. RNG is now only being applied to the placement of extra openings in the rooms.
+
+<!-- nav -->
+&larr; [2.6.3 | Ash VS Evil Dead](10-2-6-3-ash-vs-evil-dead.md) · [Archive: Steam](../../index.md#archive-steam) · [3.0.0 | Ghost Face](12-3-0-0-ghost-face.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2020-03-02T15:35:23+00:00"
 archived: "2026-09-26T02:19:08Z"
 ---
 
+<!-- nav -->
+&larr; [3.4.2 | Hotfix](19-3-4-2-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [2.1.2 | Hotfix](21-2-1-2-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 3.5.0 | Mid-Chapter
 
 ## Features & Content
@@ -264,3 +268,7 @@ Static Blast is a new mechanic for The Doctor. We removed the Treatment Mode and
 - Misc optimizations in the Treatment Theatre map to improve frame rate.
 - Fixed an issue that caused the Meg AI to die if left of the ground in the first part of the Killer Tutorial.
 - Fixed an issue that allowed input movements on the loading screen into the Tutorial levels.
+
+<!-- nav -->
+&larr; [3.4.2 | Hotfix](19-3-4-2-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [2.1.2 | Hotfix](21-2-1-2-hotfix.md) &rarr;
+<!-- /nav -->

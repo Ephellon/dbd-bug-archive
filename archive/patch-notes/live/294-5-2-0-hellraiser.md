@@ -9,6 +9,10 @@ updated: "2021-09-07T14:56:02+00:00"
 archived: "2026-09-26T02:18:37Z"
 ---
 
+<!-- nav -->
+&larr; [5.1.1 | Bugfix Patch](291-5-1-1-bugfix-patch.md) · [Live](../../index.md#live) · [5.2.1 | Bugfix Patch](295-5-2-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 5.2.0 | Hellraiser
 
 ![520Banner.png](294-5-2-0-hellraiser/01-520banner.png)
@@ -167,3 +171,7 @@ archived: "2026-09-26T02:18:37Z"
 - Fixed an issue that caused the VFX to not appear on the Lament Box during the Lobby's animation or when the match start
 - Fixed an issue that caused the Trickster's blades to be floating next to his hand
 - Fixed an issue that caused the blood VFX to be offset when hitting a Survivor with throwing knives.
+
+<!-- nav -->
+&larr; [5.1.1 | Bugfix Patch](291-5-1-1-bugfix-patch.md) · [Live](../../index.md#live) · [5.2.1 | Bugfix Patch](295-5-2-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

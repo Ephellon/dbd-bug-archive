@@ -9,6 +9,10 @@ updated: "2026-03-17T14:30:07+00:00"
 archived: "2026-09-26T02:18:05Z"
 ---
 
+<!-- nav -->
+&larr; [9.4.2 | Bugfix Patch](536-9-4-2-bugfix-patch.md) · [Live](../../index.md#live) · [9.5.1 | Bugfix Patch](539-9-5-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 9.5.0 | All-Kill: Comeback
 
 ![DbD_950_PatchNotesAssetsRelease_FORUM.png](538-9-5-0-all-kill-comeback/01-dbd-950-patchnotesassetsrelease-forum.png)
@@ -737,3 +741,7 @@ Resident Evil Prestige Badges have been added.
 - Fixed an issue in Trickster's Delusion where the crates with records didn't have collisions
 - Fixed an issue in Trickster's Delusion where the neon signage connected to generators was inconsistent
 - Fixed an issue in Trickster's Delusion where boxes around the market had collisions that were not aligned to the asset
+
+<!-- nav -->
+&larr; [9.4.2 | Bugfix Patch](536-9-4-2-bugfix-patch.md) · [Live](../../index.md#live) · [9.5.1 | Bugfix Patch](539-9-5-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2025-08-14T14:29:01+00:00"
 archived: "2026-09-26T02:18:09Z"
 ---
 
+<!-- nav -->
+&larr; [9.1.1 | Bugfix Patch](517-9-1-1-bugfix-patch.md) · [Live](../../index.md#live) · [9.1.3 | Bugfix Patch](520-9-1-3-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 9.1.2 | Bugfix Patch
 
 ![912_PatchNotes.jpg](519-9-1-2-bugfix-patch/01-912-patchnotes.jpg)
@@ -126,3 +130,7 @@ archived: "2026-09-26T02:18:09Z"
 - Fixed a server crash which could occur when a Survivor unlocked the secret chest in the Nostromo Wreckage map.
 - Fixed an issue where vault auras were not revealed when using the Sharpened Flint add-on on the Scribbled Map.
 - Fixed an issue where the Fog Vial would clip under the ground when dropped.
+
+<!-- nav -->
+&larr; [9.1.1 | Bugfix Patch](517-9-1-1-bugfix-patch.md) · [Live](../../index.md#live) · [9.1.3 | Bugfix Patch](520-9-1-3-bugfix-patch.md) &rarr;
+<!-- /nav -->

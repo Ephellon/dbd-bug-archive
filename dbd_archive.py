@@ -602,6 +602,68 @@ def _sha256_file(path: str) -> str:
 
 
 # --------------------------------------------------------------------------- #
+# Navigation
+# --------------------------------------------------------------------------- #
+
+NAV_OPEN = "<!-- nav -->"
+NAV_CLOSE = "<!-- /nav -->"
+_NAV_BLOCK = re.compile(re.escape(NAV_OPEN) + r".*?" + re.escape(NAV_CLOSE) + r"\n*",
+                        re.DOTALL)
+
+
+def _nav_line(record: dict, older: dict | None, newer: dict | None,
+              index_rel: str) -> str:
+    """One breadcrumb line: older article, the index, newer article."""
+    here = os.path.dirname(record["markdown"])
+
+    def link(target: dict) -> str:
+        rel = os.path.relpath(target["markdown"], here).replace(os.sep, "/")
+        return f"[{target['name']}]({urllib.parse.quote(rel)})"
+
+    parts = [f"&larr; {link(older)}" if older else "&larr; _oldest_"]
+    parts.append(f"[{SECTIONS[record['section']][1]}]({index_rel}#"
+                 f"{slugify(SECTIONS[record['section']][1])})")
+    parts.append(f"{link(newer)} &rarr;" if newer else "_newest_ &rarr;")
+    return f"{NAV_OPEN}\n" + " · ".join(parts) + f"\n{NAV_CLOSE}"
+
+
+def write_navigation(root: str, manifest: dict) -> int:
+    """Rewrite the header/footer nav of every archived article.
+
+    Runs after each sync so articles on either side of a newly added one pick
+    up the new neighbour. Idempotent: unchanged neighbours mean unchanged
+    bytes, so a quiet run leaves the files alone.
+    """
+    by_section: dict[str, list[dict]] = {}
+    for record in manifest["articles"].values():
+        by_section.setdefault(record["section"], []).append(record)
+
+    touched = 0
+    for records in by_section.values():
+        records.sort(key=lambda r: (r["dateInserted"], r["articleID"]))
+        for position, record in enumerate(records):
+            path = os.path.join(root, record["markdown"])
+            if not os.path.exists(path):
+                continue
+            older = records[position - 1] if position else None
+            newer = records[position + 1] if position + 1 < len(records) else None
+            index_rel = os.path.relpath(
+                "index.md", os.path.dirname(record["markdown"])).replace(os.sep, "/")
+            nav = _nav_line(record, older, newer, index_rel)
+
+            with open(path, encoding="utf-8") as fh:
+                text = fh.read()
+            head, marker, body = text.partition("\n---\n")
+            front, body = head + marker, _NAV_BLOCK.sub("", body).strip()
+            updated = f"{front}\n{nav}\n\n{body}\n\n{nav}\n"
+            if updated != text:
+                with open(path, "w", encoding="utf-8") as fh:
+                    fh.write(updated)
+                touched += 1
+    return touched
+
+
+# --------------------------------------------------------------------------- #
 # Index
 # --------------------------------------------------------------------------- #
 
@@ -664,8 +726,11 @@ def main(argv: list[str] | None = None) -> int:
         archiver.archive_section(slug)
 
     archiver.save_manifest()
-    if not args.no_index and not args.dry_run:
-        write_index(root, archiver.manifest)
+    if not args.dry_run:
+        touched = write_navigation(root, archiver.manifest)
+        print(f"Navigation refreshed on {touched} article(s)")
+        if not args.no_index:
+            write_index(root, archiver.manifest)
 
     stats = archiver.stats
     print(f"\nArticles seen {stats['articles']}, written {stats['updated']}, "

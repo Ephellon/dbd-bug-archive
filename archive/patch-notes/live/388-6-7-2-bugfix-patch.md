@@ -9,6 +9,10 @@ updated: "2023-05-18T14:57:29+00:00"
 archived: "2026-09-26T02:18:25Z"
 ---
 
+<!-- nav -->
+&larr; [6.7.1 | Bugfix Patch](387-6-7-1-bugfix-patch.md) · [Live](../../index.md#live) · [7.0.0 | End Transmission](392-7-0-0-end-transmission.md) &rarr;
+<!-- /nav -->
+
 # 6.7.2 | Bugfix Patch
 
 ![660_PTB_PatchNotes_Forumcopie.png](388-6-7-2-bugfix-patch/01-660-ptb-patchnotes-forumcopie.png)
@@ -25,3 +29,7 @@ Update releases: May 18 2023, 11AM ET
 
 - Added two outfits for in-game store.
 - Added some of the charms for Anniversary and Pride celebrations.
+
+<!-- nav -->
+&larr; [6.7.1 | Bugfix Patch](387-6-7-1-bugfix-patch.md) · [Live](../../index.md#live) · [7.0.0 | End Transmission](392-7-0-0-end-transmission.md) &rarr;
+<!-- /nav -->

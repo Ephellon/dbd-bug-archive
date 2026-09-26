@@ -9,6 +9,10 @@ updated: "2020-08-11T14:33:15+00:00"
 archived: "2026-09-26T02:19:28Z"
 ---
 
+<!-- nav -->
+&larr; [4.1.1 | Bugfix Patch](216-4-1-1-bugfix-patch.md) · [Archive: PS4](../../index.md#archive-ps4) · [4.2.0 | Descend Beyond](230-4-2-0-descend-beyond.md) &rarr;
+<!-- /nav -->
+
 # 4.1.2 | Bug fix patch 
 
 *This article was created from a*[*community discussion*](https://forum.deadbydaylight.com/en/discussion/180986/ps4-bug-fix-patch-4-1-2)*.*
@@ -32,3 +36,7 @@ The Overheat mechanic was added to limit The Hillbilly's ability to always use h
 - Fixed an issue where the Nurse could sometimes blink inside hills and get stuck.
 - Fixed an issue causing Killers to be stuck mid-animation after falling from a significant height.
 - Reduce the occurrence of Sync Error code 111 on the Tally screen
+
+<!-- nav -->
+&larr; [4.1.1 | Bugfix Patch](216-4-1-1-bugfix-patch.md) · [Archive: PS4](../../index.md#archive-ps4) · [4.2.0 | Descend Beyond](230-4-2-0-descend-beyond.md) &rarr;
+<!-- /nav -->

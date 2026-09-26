@@ -9,6 +9,10 @@ updated: "2020-03-02T20:21:25+00:00"
 archived: "2026-09-26T02:19:20Z"
 ---
 
+<!-- nav -->
+&larr; [2.6.3 | Ash VS Evil Dead](51-2-6-3-ash-vs-evil-dead.md) · [Archive: PS4](../../index.md#archive-ps4) · [2.7.0 | Mid-Chapter](53-2-7-0-mid-chapter.md) &rarr;
+<!-- /nav -->
+
 # 2.6.4 | Hotfix
 
 ## Balance
@@ -37,3 +41,7 @@ NOTE: Ranks 20-13 pip and double pip stay the same.
 - Fixed an issue that caused the Cleansing audio to play multiple times when a Survivor cleansed from a fountain.
 - Fixed an issue that made it impossible to Ready/Unready in the lobby when another client left after the 15 second timer.
 - Fixed an issue that caused a temporary broken pre-lobby screen when backing out of the Twitch Challenges menu before it had finished loading.
+
+<!-- nav -->
+&larr; [2.6.3 | Ash VS Evil Dead](51-2-6-3-ash-vs-evil-dead.md) · [Archive: PS4](../../index.md#archive-ps4) · [2.7.0 | Mid-Chapter](53-2-7-0-mid-chapter.md) &rarr;
+<!-- /nav -->

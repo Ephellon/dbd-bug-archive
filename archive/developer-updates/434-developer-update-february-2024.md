@@ -9,6 +9,10 @@ updated: "2024-02-19T14:55:43+00:00"
 archived: "2026-09-26T02:20:13Z"
 ---
 
+<!-- nav -->
+&larr; [Developer Update | Stats!](433-developer-update-stats.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | All Things Wicked PTB](436-developer-update-all-things-wicked-ptb.md) &rarr;
+<!-- /nav -->
+
 # Developer Update | February 2024
 
 ![Developer update Totem NEW.png](434-developer-update-february-2024/01-developer-update-totem-new.png)
@@ -134,3 +138,7 @@ We’ve reached the end of this Developer Update. As always, you can get your ha
 Until next time…
 
 The Dead by Daylight team
+
+<!-- nav -->
+&larr; [Developer Update | Stats!](433-developer-update-stats.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | All Things Wicked PTB](436-developer-update-all-things-wicked-ptb.md) &rarr;
+<!-- /nav -->

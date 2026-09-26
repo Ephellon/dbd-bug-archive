@@ -9,6 +9,10 @@ updated: "2020-02-28T22:21:09+00:00"
 archived: "2026-09-26T02:19:38Z"
 ---
 
+<!-- nav -->
+&larr; [3.2.0 | Stranger Things](97-3-2-0-stranger-things.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [3.2.2 | Hotfix](99-3-2-2-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 3.2.1 | Hotfix
 
 ## Balance
@@ -64,3 +68,7 @@ archived: "2026-09-26T02:19:38Z"
 - The End Game Collapse timer is visually desynchronized between clients and host.
 - The Pig's camera shakes every time she performs a regular attack.
 - Un-translated warning message in all non English languages when a Host spectator/Survivor attempts to leave the tally screen in a Custom Game.
+
+<!-- nav -->
+&larr; [3.2.0 | Stranger Things](97-3-2-0-stranger-things.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [3.2.2 | Hotfix](99-3-2-2-hotfix.md) &rarr;
+<!-- /nav -->

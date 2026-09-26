@@ -9,6 +9,10 @@ updated: "2020-02-28T22:09:37+00:00"
 archived: "2026-09-26T02:19:36Z"
 ---
 
+<!-- nav -->
+&larr; [2.6.4 | Hotfix](88-2-6-4-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [2.7.1 | Hotfix](90-2-7-1-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 2.7.0 | Mid-Chapter
 
 ## Features & Content
@@ -203,3 +207,7 @@ Gameplay changes
 - Added a generic display category name for Survivor item add-ons in the Loadout.
 - Fixed an issue that could cause the Survivors' status icon to show as Dead instead of Sacrificed when Sacrificed on a hook.
 - Misc UI improvements.
+
+<!-- nav -->
+&larr; [2.6.4 | Hotfix](88-2-6-4-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [2.7.1 | Hotfix](90-2-7-1-hotfix.md) &rarr;
+<!-- /nav -->

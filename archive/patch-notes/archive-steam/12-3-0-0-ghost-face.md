@@ -9,6 +9,10 @@ updated: "2020-03-02T15:22:19+00:00"
 archived: "2026-09-26T02:19:04Z"
 ---
 
+<!-- nav -->
+&larr; [2.7.0 | Mid-Chapter](11-2-7-0-mid-chapter.md) · [Archive: Steam](../../index.md#archive-steam) · [3.1.0 | Mid-Chapter](13-3-1-0-mid-chapter.md) &rarr;
+<!-- /nav -->
+
 # 3.0.0 | Ghost Face
 
 ## Features & Content
@@ -165,3 +169,7 @@ archived: "2026-09-26T02:19:04Z"
 - Survivors won't be able to see The Plague's vomit on windows.
 - Generators in the Tutorials do not show progress until interacted with.
 - The heartbeat and terror radius for The Trapper is missing in the Survivor Tutorial.
+
+<!-- nav -->
+&larr; [2.7.0 | Mid-Chapter](11-2-7-0-mid-chapter.md) · [Archive: Steam](../../index.md#archive-steam) · [3.1.0 | Mid-Chapter](13-3-1-0-mid-chapter.md) &rarr;
+<!-- /nav -->

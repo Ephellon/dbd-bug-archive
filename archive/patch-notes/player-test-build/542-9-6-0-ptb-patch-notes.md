@@ -9,6 +9,10 @@ updated: "2026-04-07T14:30:07+00:00"
 archived: "2026-09-26T02:18:41Z"
 ---
 
+<!-- nav -->
+&larr; [9.5.0 | PTB Patch Notes](537-9-5-0-ptb-patch-notes.md) · [Player Test Build (PTB)](../../index.md#player-test-build-ptb) · [10.0.0 | Jason PTB Patch Notes](548-10-0-0-jason-ptb-patch-notes.md) &rarr;
+<!-- /nav -->
+
 # 9.6.0 | PTB Patch Notes
 
 ![DbD_960_PTB Patch Notes_FORUM.png](542-9-6-0-ptb-patch-notes/01-dbd-960-ptb-patch-notes-forum.png)
@@ -230,3 +234,7 @@ archived: "2026-09-26T02:18:41Z"
 ## Known Issues
 
 - Flying spectral entities appear in T-pose when casting Flight of the Damned.
+
+<!-- nav -->
+&larr; [9.5.0 | PTB Patch Notes](537-9-5-0-ptb-patch-notes.md) · [Player Test Build (PTB)](../../index.md#player-test-build-ptb) · [10.0.0 | Jason PTB Patch Notes](548-10-0-0-jason-ptb-patch-notes.md) &rarr;
+<!-- /nav -->

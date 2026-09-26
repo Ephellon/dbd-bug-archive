@@ -9,6 +9,10 @@ updated: "2025-03-20T14:58:02+00:00"
 archived: "2026-09-26T02:20:06Z"
 ---
 
+<!-- nav -->
+&larr; [Developer Update | March 2025](494-developer-update-march-2025.md) · [Developer Updates](../index.md#developer-updates) · [Design Preview | The Skull Merchant](497-design-preview-the-skull-merchant.md) &rarr;
+<!-- /nav -->
+
 # Design Preview | Future Plans + Update on The Trickster
 
 ![DbD_DesignPreview-FuturePlans_Banner_1920x1080.png](496-design-preview-future-plans-update-on-the-trickster/01-dbd-designpreview-futureplans-banner-1920x1080.png)
@@ -48,3 +52,7 @@ Keep an eye on this space and our social channels for all the details! Until the
 See you in The Fog!
 
 The Dead by Daylight Team
+
+<!-- nav -->
+&larr; [Developer Update | March 2025](494-developer-update-march-2025.md) · [Developer Updates](../index.md#developer-updates) · [Design Preview | The Skull Merchant](497-design-preview-the-skull-merchant.md) &rarr;
+<!-- /nav -->

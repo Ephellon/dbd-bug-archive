@@ -9,6 +9,10 @@ updated: "2023-04-17T15:08:25+00:00"
 archived: "2026-09-26T02:20:17Z"
 ---
 
+<!-- nav -->
+&larr; [Developer Update | March 2023](382-developer-update-march-2023.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | End Transmission](390-developer-update-end-transmission.md) &rarr;
+<!-- /nav -->
+
 # Developer Update | April 2023
 
 ![271201640_4700475550000980_8828790767346394243_n.jpg](384-developer-update-april-2023/01-271201640-4700475550000980-8828790767346394243-n.jpg)
@@ -115,3 +119,7 @@ With that, we’ve reached the end of the Developer Update. We want to once agai
 Until next time…
 
 The Dead by Daylight team
+
+<!-- nav -->
+&larr; [Developer Update | March 2023](382-developer-update-march-2023.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | End Transmission](390-developer-update-end-transmission.md) &rarr;
+<!-- /nav -->

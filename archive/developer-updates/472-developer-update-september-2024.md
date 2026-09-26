@@ -9,6 +9,10 @@ updated: "2024-09-13T11:58:44+00:00"
 archived: "2026-09-26T02:20:09Z"
 ---
 
+<!-- nav -->
+&larr; [Stats | September 2024](470-stats-september-2024.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | September 2024 PTB](474-developer-update-september-2024-ptb.md) &rarr;
+<!-- /nav -->
+
 # Developer Update | September 2024
 
 ![Developer update Totem NEW.png](472-developer-update-september-2024/01-developer-update-totem-new.png)
@@ -247,3 +251,7 @@ The next update features an especially large number of Perk tweaks & reworks on 
 Until next time…
 
 The Dead by Daylight team
+
+<!-- nav -->
+&larr; [Stats | September 2024](470-stats-september-2024.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | September 2024 PTB](474-developer-update-september-2024-ptb.md) &rarr;
+<!-- /nav -->

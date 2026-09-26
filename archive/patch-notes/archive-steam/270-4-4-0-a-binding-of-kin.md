@@ -9,6 +9,10 @@ updated: "2020-12-02T18:23:09+00:00"
 archived: "2026-09-26T02:19:13Z"
 ---
 
+<!-- nav -->
+&larr; [4.3.2 | Bugfix Patch](260-4-3-2-bugfix-patch.md) · [Archive: Steam](../../index.md#archive-steam) · [4.4.1 | Bugfix Patch](271-4-4-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 4.4.0 | A Binding of Kin
 
 ![440Banner.png](270-4-4-0-a-binding-of-kin/01-440banner.png)
@@ -142,3 +146,7 @@ archived: "2026-09-26T02:19:13Z"
 - Fixed an issue that caused The Trapper not to have any sound effects when stunned
 - Fixed an issue that caused The Nightmare, The Hag, The Trapper and The Demorgorgon not to be able to place traps or portals inside the Blood Lodge
 - Fixed an issue that caused a sound effect to play continually when holding a flashlight on a blinded killer's face
+
+<!-- nav -->
+&larr; [4.3.2 | Bugfix Patch](260-4-3-2-bugfix-patch.md) · [Archive: Steam](../../index.md#archive-steam) · [4.4.1 | Bugfix Patch](271-4-4-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

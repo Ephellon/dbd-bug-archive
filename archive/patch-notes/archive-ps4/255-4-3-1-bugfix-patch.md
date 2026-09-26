@@ -9,6 +9,10 @@ updated: "2020-10-28T14:26:35+00:00"
 archived: "2026-09-26T02:19:30Z"
 ---
 
+<!-- nav -->
+&larr; [4.3.0 | Mid-Chapter](248-4-3-0-mid-chapter.md) · [Archive: PS4](../../index.md#archive-ps4) · [4.3.2 | Bugfix Patch](261-4-3-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 4.3.1 | Bugfix Patch
 
 ![431Banner.png](255-4-3-1-bugfix-patch/01-431banner.png)
@@ -27,3 +31,7 @@ archived: "2026-09-26T02:19:30Z"
 - Fixed an issue that caused Madness audio levels to be incorrect when switching spectated survivors.
 - Fixed an issue that caused the killer's music theme to be heard as a spectator in a custom game lobby.
 - Tentatively fixed an issue that caused the framerate to drop intermittently during Trials.
+
+<!-- nav -->
+&larr; [4.3.0 | Mid-Chapter](248-4-3-0-mid-chapter.md) · [Archive: PS4](../../index.md#archive-ps4) · [4.3.2 | Bugfix Patch](261-4-3-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

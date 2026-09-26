@@ -9,6 +9,10 @@ updated: "2022-07-19T14:30:21+00:00"
 archived: "2026-09-26T02:18:31Z"
 ---
 
+<!-- nav -->
+&larr; [6.0.2 | Bugfix Patch](339-6-0-2-bugfix-patch.md) · [Live](../../index.md#live) · [6.1.1 | Bugfix Patch](343-6-1-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 6.1.0 | Mid-Chapter 
 
 ![banner[1].png](342-6-1-0-mid-chapter/01-banner-5b1-5d.png)
@@ -384,3 +388,7 @@ archived: "2026-09-26T02:18:31Z"
 - Bloodweb cap has been increased to 2 million bloodpoint, even though the tooltip still read as 1 million.
 - The matchmaking incentives text is present in Play as Killer without having the BloodPoint Bonus.
 - Terror Radius feedback on *Spine Chill* functions in reverse (ie Drains as the TR gets louder, instead of filling
+
+<!-- nav -->
+&larr; [6.0.2 | Bugfix Patch](339-6-0-2-bugfix-patch.md) · [Live](../../index.md#live) · [6.1.1 | Bugfix Patch](343-6-1-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

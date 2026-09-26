@@ -9,6 +9,10 @@ updated: "2021-02-16T15:24:53+00:00"
 archived: "2026-09-26T02:19:14Z"
 ---
 
+<!-- nav -->
+&larr; [4.5.0 | Mid-Chapter](274-4-5-0-mid-chapter.md) · [Archive: Steam](../../index.md#archive-steam) · [4.5.2 | Bugfix Patch](276-4-5-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 4.5.1 | Bugfix Patch
 
 ![451Banner.png](275-4-5-1-bugfix-patch/01-451banner.png)
@@ -37,3 +41,7 @@ PS5 only:
 ## Known Issues
 
 - Killers can't see their own Charms on hooks.
+
+<!-- nav -->
+&larr; [4.5.0 | Mid-Chapter](274-4-5-0-mid-chapter.md) · [Archive: Steam](../../index.md#archive-steam) · [4.5.2 | Bugfix Patch](276-4-5-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2022-10-26T18:48:33+00:00"
 archived: "2026-09-26T02:18:29Z"
 ---
 
+<!-- nav -->
+&larr; [6.3.1 | Bugfix Patch](359-6-3-1-bugfix-patch.md) · [Live](../../index.md#live) · [6.4.0 | Forged in Fog](365-6-4-0-forged-in-fog.md) &rarr;
+<!-- /nav -->
+
 # 6.3.2 | Bugfix Patch
 
 ![patchnotesasset.png](362-6-3-2-bugfix-patch/01-patchnotesasset.png)
@@ -40,3 +44,7 @@ archived: "2026-09-26T02:18:29Z"
 ### KNOWN ISSUES
 
 - Occasionally the Escape Artist Challenge from the Haunted by Daylight Event does not progress for some users
+
+<!-- nav -->
+&larr; [6.3.1 | Bugfix Patch](359-6-3-1-bugfix-patch.md) · [Live](../../index.md#live) · [6.4.0 | Forged in Fog](365-6-4-0-forged-in-fog.md) &rarr;
+<!-- /nav -->

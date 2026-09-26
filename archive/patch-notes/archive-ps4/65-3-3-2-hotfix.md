@@ -9,6 +9,10 @@ updated: "2020-03-02T20:06:48+00:00"
 archived: "2026-09-26T02:19:23Z"
 ---
 
+<!-- nav -->
+&larr; [3.2.2 | Hotfix](64-3-2-2-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [3.4.0 | Cursed Legacy](66-3-4-0-cursed-legacy.md) &rarr;
+<!-- /nav -->
+
 # 3.3.2 | Hotfix
 
 ## Bug Fixes
@@ -35,3 +39,7 @@ archived: "2026-09-26T02:19:23Z"
 - Fixed an issue that allowed users in a Custom Game lobby to continue to switch roles after being Ready, leading to multiple results.
 - Fixed an issue that caused The Nightmare not to lose Bloodlust when placing a Dream Snare while in a chase.
 - Fixed an issue that caused The Clown's gas bottles to visually go through Survivors.
+
+<!-- nav -->
+&larr; [3.2.2 | Hotfix](64-3-2-2-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [3.4.0 | Cursed Legacy](66-3-4-0-cursed-legacy.md) &rarr;
+<!-- /nav -->

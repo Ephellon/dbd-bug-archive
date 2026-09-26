@@ -9,8 +9,16 @@ updated: "2020-03-02T14:34:46+00:00"
 archived: "2026-09-26T02:19:01Z"
 ---
 
+<!-- nav -->
+&larr; [3.5.0 | Mid-Chapter](20-3-5-0-mid-chapter.md) · [Archive: Steam](../../index.md#archive-steam) · [2.5.3 | Hotfix](22-2-5-3-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 2.1.2 | Hotfix
 
 ## Features & Content
 
 - Content - Extending the BBQ event personal challenge until Thursday August 23rd 3:00 pm UTC
+
+<!-- nav -->
+&larr; [3.5.0 | Mid-Chapter](20-3-5-0-mid-chapter.md) · [Archive: Steam](../../index.md#archive-steam) · [2.5.3 | Hotfix](22-2-5-3-hotfix.md) &rarr;
+<!-- /nav -->

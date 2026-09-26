@@ -9,6 +9,10 @@ updated: "2020-03-02T19:24:59+00:00"
 archived: "2026-09-26T02:19:18Z"
 ---
 
+<!-- nav -->
+&larr; [2.3.2 | Hotfix](43-2-3-2-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [2.4.0 | Darkness Among Us](45-2-4-0-darkness-among-us.md) &rarr;
+<!-- /nav -->
+
 # 2.3.3 | Hotfix
 
 ## Balance
@@ -23,3 +27,7 @@ archived: "2026-09-26T02:19:18Z"
 - Fixed an issue that caused The Spirit's husk to play a running animation after the power would end.
 - Fixed an issue that caused the Hallowed Blight's event Vial to be displayed in the HUD after the event's completion.
 - Minor localization and translation improvements.
+
+<!-- nav -->
+&larr; [2.3.2 | Hotfix](43-2-3-2-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [2.4.0 | Darkness Among Us](45-2-4-0-darkness-among-us.md) &rarr;
+<!-- /nav -->

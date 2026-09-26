@@ -9,6 +9,10 @@ updated: "2024-06-25T12:26:33+00:00"
 archived: "2026-09-26T02:20:10Z"
 ---
 
+<!-- nav -->
+&larr; [Developer Update | May 2024 PTB](451-developer-update-may-2024-ptb.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | June 2024 PTB](458-developer-update-june-2024-ptb.md) &rarr;
+<!-- /nav -->
+
 # Developer Update | June 2024
 
 ![Header.png](455-developer-update-june-2024/01-header.png)
@@ -184,3 +188,7 @@ The 8.1.0 Update approaches! Read on as we divulge all the major changes making 
 Until next time…
 
 The Dead by Daylight team
+
+<!-- nav -->
+&larr; [Developer Update | May 2024 PTB](451-developer-update-may-2024-ptb.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | June 2024 PTB](458-developer-update-june-2024-ptb.md) &rarr;
+<!-- /nav -->

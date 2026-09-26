@@ -9,6 +9,10 @@ updated: "2020-02-28T22:04:41+00:00"
 archived: "2026-09-26T02:19:34Z"
 ---
 
+<!-- nav -->
+&larr; [2.5.1 | Hotfix](83-2-5-1-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [2.5.4 | Hotfix](85-2-5-4-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 2.5.3 | Hotfix
 
 ## Bug Fixes
@@ -18,3 +22,7 @@ archived: "2026-09-26T02:19:34Z"
 - Fixed an issue that caused Bloodpoints to visually not be refunded properly when swapping characters while purchasing a node in the Bloodweb.
 - Fixed an issue that caused the Madness icon meter not to show progress to the next tier when playing against the Doctor.
 - Reverted the Spanish descriptions for Leader, Technician and Distortion, that were erroneously displaying the Lunar Event objective text.
+
+<!-- nav -->
+&larr; [2.5.1 | Hotfix](83-2-5-1-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [2.5.4 | Hotfix](85-2-5-4-hotfix.md) &rarr;
+<!-- /nav -->

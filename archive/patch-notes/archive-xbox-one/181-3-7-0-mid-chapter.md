@@ -9,6 +9,10 @@ updated: "2020-04-28T14:27:55+00:00"
 archived: "2026-09-26T02:19:42Z"
 ---
 
+<!-- nav -->
+&larr; [3.6.2 | Hotfix](175-3-6-2-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [3.7.1 | Hotfix](185-3-7-1-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 3.7.0 | Mid-Chapter
 
 ## FEATURES & CONTENT
@@ -152,3 +156,7 @@ For more info click here: [Dev Update April 2020](https://forum.deadbydaylight.
 
 - The Cannibal: Polished the prestige weapon skin.
 - Fixed various clipping issues
+
+<!-- nav -->
+&larr; [3.6.2 | Hotfix](175-3-6-2-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [3.7.1 | Hotfix](185-3-7-1-hotfix.md) &rarr;
+<!-- /nav -->

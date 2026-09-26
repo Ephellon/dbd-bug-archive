@@ -9,6 +9,10 @@ updated: "2023-10-18T15:04:46+00:00"
 archived: "2026-09-26T02:18:21Z"
 ---
 
+<!-- nav -->
+&larr; [7.3.0 | Mid-Chapter](413-7-3-0-mid-chapter.md) · [Live](../../index.md#live) · [7.3.2 | Bugfix Patch](415-7-3-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 7.3.1 | Bugfix Patch
 
 ![dead-by-daylight-update-7-3-1-banner.jpg](414-7-3-1-bugfix-patch/01-dead-by-daylight-update-7-3-1-banner.jpg)
@@ -117,3 +121,7 @@ archived: "2026-09-26T02:18:21Z"
 
 - When The Oni goes through an open Unstable Rift teleporter, parts of its character model will become visible and clip through the camera.
 - When completing a Trial as either Survivor or Killer the tally screen does not show the expected result.
+
+<!-- nav -->
+&larr; [7.3.0 | Mid-Chapter](413-7-3-0-mid-chapter.md) · [Live](../../index.md#live) · [7.3.2 | Bugfix Patch](415-7-3-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

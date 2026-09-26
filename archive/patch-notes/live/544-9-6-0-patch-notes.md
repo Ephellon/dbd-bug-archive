@@ -9,6 +9,10 @@ updated: "2026-04-28T14:30:55+00:00"
 archived: "2026-09-26T02:18:04Z"
 ---
 
+<!-- nav -->
+&larr; [9.5.2 | Bugfix Patch](541-9-5-2-bugfix-patch.md) · [Live](../../index.md#live) · [9.6.1 | Bugfix Patch](545-9-6-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 9.6.0 | Patch Notes
 
 ![DbD_960_Patch Notes_FORUM.png](544-9-6-0-patch-notes/01-dbd-960-patch-notes-forum.png)
@@ -434,3 +438,7 @@ archived: "2026-09-26T02:18:04Z"
 - On Switch only, The Nightmare's Dream Snare attack can trigger distorted audio for nearby Survivors.
 - On Switch only, the majority of Killers and Survivors' hair are missing, transparent or flickering.
 - On Switch only, The Huntress' hunting hatchets are invisible in her left hand.
+
+<!-- nav -->
+&larr; [9.5.2 | Bugfix Patch](541-9-5-2-bugfix-patch.md) · [Live](../../index.md#live) · [9.6.1 | Bugfix Patch](545-9-6-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2025-07-02T14:30:01+00:00"
 archived: "2026-09-26T02:18:09Z"
 ---
 
+<!-- nav -->
+&larr; [9.0.1 | Bugfix Patch](511-9-0-1-bugfix-patch.md) · [Live](../../index.md#live) · [9.1.0 | The Walking Dead](516-9-1-0-the-walking-dead.md) &rarr;
+<!-- /nav -->
+
 # 9.0.2 | Bugfix Patch
 
 ![Ketchup_PatchNotes_HF2_169.jpg](512-9-0-2-bugfix-patch/01-ketchup-patchnotes-hf2-169.jpg)
@@ -98,3 +102,7 @@ archived: "2026-09-26T02:18:09Z"
 
 - The Chase music is missing from the Survivor POV when being chased by Victor. The previous fix done for the Chapter 9.0.1 Hot Fix 1 release has been reverted whilst this issue is being addressed.
 - The Animatronic can be blinded during the Security Room interrupt grab.
+
+<!-- nav -->
+&larr; [9.0.1 | Bugfix Patch](511-9-0-1-bugfix-patch.md) · [Live](../../index.md#live) · [9.1.0 | The Walking Dead](516-9-1-0-the-walking-dead.md) &rarr;
+<!-- /nav -->

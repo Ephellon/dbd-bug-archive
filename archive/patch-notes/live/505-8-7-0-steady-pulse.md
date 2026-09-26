@@ -9,6 +9,10 @@ updated: "2025-05-06T14:52:59+00:00"
 archived: "2026-09-26T02:18:11Z"
 ---
 
+<!-- nav -->
+&larr; [8.6.2 | Bugfix Patch](502-8-6-2-bugfix-patch.md) · [Live](../../index.md#live) · [8.7.1 | Bugfix Patch](506-8-7-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 8.7.0 | Steady Pulse
 
 ![870_PatchNotes_ReleaseForum.jpg](505-8-7-0-steady-pulse/01-870-patchnotes-releaseforum.jpg)
@@ -264,3 +268,7 @@ The result? More believable, responsive characters that feel grounded in the wor
 - Fixed an issue in Badham Preschool where three generators would spawn in the same house.
 - Fixed an issue where the Spirit's Husk was missing the Terror Radius if a Survivor entered the Terror Radius while the Spirit used her ability.
 - Fixed an issue where Survivors lose the Dredge's Nightfall effect after the Dredge performed a Mori.
+
+<!-- nav -->
+&larr; [8.6.2 | Bugfix Patch](502-8-6-2-bugfix-patch.md) · [Live](../../index.md#live) · [8.7.1 | Bugfix Patch](506-8-7-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

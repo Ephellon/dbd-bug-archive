@@ -9,6 +9,10 @@ updated: "2021-08-10T14:58:02+00:00"
 archived: "2026-09-26T02:18:37Z"
 ---
 
+<!-- nav -->
+&larr; [5.1.0 | Mid-Chapter](290-5-1-0-mid-chapter.md) · [Live](../../index.md#live) · [5.2.0 | Hellraiser](294-5-2-0-hellraiser.md) &rarr;
+<!-- /nav -->
+
 # 5.1.1 | Bugfix Patch
 
 ![511Banner.png](291-5-1-1-bugfix-patch/01-511banner.png)
@@ -83,3 +87,7 @@ The Trickster's performance is still lower than we want him after the 5.1.0 rele
 
 - Blood Lodge and The Game maps are disabled
 - The Executioner's rear may still be too flat
+
+<!-- nav -->
+&larr; [5.1.0 | Mid-Chapter](290-5-1-0-mid-chapter.md) · [Live](../../index.md#live) · [5.2.0 | Hellraiser](294-5-2-0-hellraiser.md) &rarr;
+<!-- /nav -->

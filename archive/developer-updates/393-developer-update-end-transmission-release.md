@@ -9,6 +9,10 @@ updated: "2023-06-20T13:58:37+00:00"
 archived: "2026-09-26T02:20:16Z"
 ---
 
+<!-- nav -->
+&larr; [Developer Update | End Transmission](390-developer-update-end-transmission.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | July 2023](397-developer-update-july-2023.md) &rarr;
+<!-- /nav -->
+
 # Developer Update | End Transmission Release
 
 ![Developer update-1920x1080-TOTEM-idea copy.png](393-developer-update-end-transmission-release/01-developer-update-1920x1080-totem-idea-copy.png)
@@ -40,3 +44,7 @@ Each of the changes mentioned in this post will be available in the upcoming 7.0
 Until next time…
 
 The Dead by Daylight team
+
+<!-- nav -->
+&larr; [Developer Update | End Transmission](390-developer-update-end-transmission.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | July 2023](397-developer-update-july-2023.md) &rarr;
+<!-- /nav -->

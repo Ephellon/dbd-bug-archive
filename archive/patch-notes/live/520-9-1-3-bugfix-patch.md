@@ -9,6 +9,10 @@ updated: "2025-08-26T15:18:38+00:00"
 archived: "2026-09-26T02:18:08Z"
 ---
 
+<!-- nav -->
+&larr; [9.1.2 | Bugfix Patch](519-9-1-2-bugfix-patch.md) · [Live](../../index.md#live) · [9.2.0 | Sinister Grace](523-9-2-0-sinister-grace.md) &rarr;
+<!-- /nav -->
+
 # 9.1.3 | Bugfix Patch
 
 ![913_PatchNotes_FORUM.jpg](520-9-1-3-bugfix-patch/01-913-patchnotes-forum.jpg)
@@ -32,3 +36,7 @@ archived: "2026-09-26T02:18:08Z"
 - Fixed an issue where Survivors could use the Finesse perk infinitely.
 - Fixed an issue where the Fog Vial's fog blocked certain Killers' projectiles.
 - Fixed an issue where Survivors appeared to be floating in the lobby.
+
+<!-- nav -->
+&larr; [9.1.2 | Bugfix Patch](519-9-1-2-bugfix-patch.md) · [Live](../../index.md#live) · [9.2.0 | Sinister Grace](523-9-2-0-sinister-grace.md) &rarr;
+<!-- /nav -->

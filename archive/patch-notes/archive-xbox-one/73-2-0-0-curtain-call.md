@@ -9,6 +9,10 @@ updated: "2020-02-28T21:51:33+00:00"
 archived: "2026-09-26T02:19:31Z"
 ---
 
+<!-- nav -->
+&larr; [1.9.4 - 1.9.4.1 | Emblems](72-1-9-4-1-9-4-1-emblems.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [2.1.0 | Mid-Chapter](74-2-1-0-mid-chapter.md) &rarr;
+<!-- /nav -->
+
 # 2.0.0 | Curtain Call
 
 ## Features & Content
@@ -215,3 +219,7 @@ Killer related
 - Fixed a typo in the Adept Hag achievement
 - Updated the description for the Risk It All achievement
 - Fixed an issue that could cause a Bloodweb node to spawn with no path to purchase it
+
+<!-- nav -->
+&larr; [1.9.4 - 1.9.4.1 | Emblems](72-1-9-4-1-9-4-1-emblems.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [2.1.0 | Mid-Chapter](74-2-1-0-mid-chapter.md) &rarr;
+<!-- /nav -->

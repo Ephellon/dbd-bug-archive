@@ -9,6 +9,10 @@ updated: "2021-07-27T14:28:47+00:00"
 archived: "2026-09-26T02:18:37Z"
 ---
 
+<!-- nav -->
+&larr; [5.0.2 | Resident Evil](288-5-0-2-resident-evil.md) · [Live](../../index.md#live) · [5.1.1 | Bugfix Patch](291-5-1-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 5.1.0 | Mid-Chapter
 
 ![510Banner.png](290-5-1-0-mid-chapter/01-510banner.png)
@@ -206,3 +210,7 @@ Switch only:
 - Some strings related to Tome / Rift VIII are not localized to non-English languages.
 - Male Legendary characters will not have facial idle animations in-game, they'll just use their default idle/injured idle throughout the game.
 - Equipping an item in the store and quitting the game, will not save this customization item next time the game is launched. Consoles only.
+
+<!-- nav -->
+&larr; [5.0.2 | Resident Evil](288-5-0-2-resident-evil.md) · [Live](../../index.md#live) · [5.1.1 | Bugfix Patch](291-5-1-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2026-05-25T17:00:17+00:00"
 archived: "2026-09-26T02:20:01Z"
 ---
 
+<!-- nav -->
+&larr; [Stats | The Trickster](543-stats-the-trickster.md) · [Developer Updates](../index.md#developer-updates) · [PTB To Live Changes: The Slasher](549-ptb-to-live-changes-the-slasher.md) &rarr;
+<!-- /nav -->
+
 # Stats | Blood Moon 2026
 
 Warm greetings, Fog Dwellers. The time has come once more for stats, with a spotlight this time on our 2026 Blood Moon Event! Let’s dive right in.
@@ -26,3 +30,7 @@ You can let us know in [Feedback & Suggestions](https://forums.bhvr.com/dead-by-
 Until next time…
 
 The Dead by Daylight Team
+
+<!-- nav -->
+&larr; [Stats | The Trickster](543-stats-the-trickster.md) · [Developer Updates](../index.md#developer-updates) · [PTB To Live Changes: The Slasher](549-ptb-to-live-changes-the-slasher.md) &rarr;
+<!-- /nav -->

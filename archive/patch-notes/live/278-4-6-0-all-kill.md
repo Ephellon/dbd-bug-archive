@@ -9,6 +9,10 @@ updated: "2021-03-30T14:32:03+00:00"
 archived: "2026-09-26T02:18:39Z"
 ---
 
+<!-- nav -->
+&larr; _oldest_ · [Live](../../index.md#live) · [4.6.1 | Bugfix Patch](280-4-6-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 4.6.0 | All-Kill
 
 ![460Banner.png](278-4-6-0-all-kill/01-460banner.png)
@@ -165,3 +169,7 @@ Menus
 **The Blight:**
 
 - Updated rush hitbox to be higher and narrower in order to reduce collisions with objects on the edge of the player's screen or out of view
+
+<!-- nav -->
+&larr; _oldest_ · [Live](../../index.md#live) · [4.6.1 | Bugfix Patch](280-4-6-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2020-03-02T15:28:10+00:00"
 archived: "2026-09-26T02:19:06Z"
 ---
 
+<!-- nav -->
+&larr; [3.1.0 | Mid-Chapter](13-3-1-0-mid-chapter.md) · [Archive: Steam](../../index.md#archive-steam) · [3.3.1 | Mid-Chapter](15-3-3-1-mid-chapter.md) &rarr;
+<!-- /nav -->
+
 # 3.2.0 | Stranger Things
 
 ## Features & Content
@@ -226,3 +230,7 @@ archived: "2026-09-26T02:19:06Z"
 - Misc LOD fixed in The Underground Complex map.
 - Misc localization improvements.
 - Misc audio improvements.
+
+<!-- nav -->
+&larr; [3.1.0 | Mid-Chapter](13-3-1-0-mid-chapter.md) · [Archive: Steam](../../index.md#archive-steam) · [3.3.1 | Mid-Chapter](15-3-3-1-mid-chapter.md) &rarr;
+<!-- /nav -->

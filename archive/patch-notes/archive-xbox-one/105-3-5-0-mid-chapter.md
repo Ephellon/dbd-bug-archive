@@ -9,6 +9,10 @@ updated: "2020-02-28T22:24:28+00:00"
 archived: "2026-09-26T02:19:40Z"
 ---
 
+<!-- nav -->
+&larr; [3.4.2 | Hotfix](104-3-4-2-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [3.5.1 | Hotfix](106-3-5-1-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 3.5.0 | Mid-Chapter
 
 ## Features & Content
@@ -210,3 +214,7 @@ Static Blast is a new mechanic for The Doctor. We removed the Treatment Mode and
 - Survivors may get stuck together after healing a downed Survivor while against a wall.
 - The Hag's red stain becomes brighter when teleporting to a trap.
 - Small FPS drop when there are multiple action prompts cycling on screen for Killers and Survivors.
+
+<!-- nav -->
+&larr; [3.4.2 | Hotfix](104-3-4-2-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [3.5.1 | Hotfix](106-3-5-1-hotfix.md) &rarr;
+<!-- /nav -->

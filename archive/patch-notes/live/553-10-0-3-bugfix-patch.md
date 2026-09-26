@@ -9,6 +9,10 @@ updated: "2026-07-21T14:33:02+00:00"
 archived: "2026-09-26T02:18:03Z"
 ---
 
+<!-- nav -->
+&larr; [10.0.2 | Bugfix Patch](552-10-0-2-bugfix-patch.md) · [Live](../../index.md#live) · [10.1.0 | Chorus of Sin](556-10-1-0-chorus-of-sin.md) &rarr;
+<!-- /nav -->
+
 # 10.0.3 | Bugfix Patch
 
 *This article was created from a*[*community discussion*](https://forums.bhvr.com/dead-by-daylight/discussion/470166/10-0-3-bugfix-patch).
@@ -150,3 +154,7 @@ The Summer Screams event will be live from July 28th 11:00EDT - August 18th 11:0
 
 - Stake Out tokens are sometimes consumed by Snap Out of It skillchecks when facing The Doctor.
   - *Dev Note: This is unintended and will be fixed in a future release.*
+
+<!-- nav -->
+&larr; [10.0.2 | Bugfix Patch](552-10-0-2-bugfix-patch.md) · [Live](../../index.md#live) · [10.1.0 | Chorus of Sin](556-10-1-0-chorus-of-sin.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2026-08-25T14:32:19+00:00"
 archived: "2026-09-26T02:18:02Z"
 ---
 
+<!-- nav -->
+&larr; [10.0.3 | Bugfix Patch](553-10-0-3-bugfix-patch.md) · [Live](../../index.md#live) · [10.1.1 Bugfix Patch](557-10-1-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 10.1.0 | Chorus of Sin
 
 *This article was created from a*[*community discussion*](https://forums.bhvr.com/dead-by-daylight/discussion/471465/10-1-0-chorus-of-sin).
@@ -390,3 +394,7 @@ archived: "2026-09-26T02:18:02Z"
 - Deathbound prematurely deactivates when another survivor completes a healing action
 - The Onryo can be seen more than 24 meters away while demanifested in some cases
 - Mettle of Man perk is activating one hit sooner than it should.
+
+<!-- nav -->
+&larr; [10.0.3 | Bugfix Patch](553-10-0-3-bugfix-patch.md) · [Live](../../index.md#live) · [10.1.1 Bugfix Patch](557-10-1-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

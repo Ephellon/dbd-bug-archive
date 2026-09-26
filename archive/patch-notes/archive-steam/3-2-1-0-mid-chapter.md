@@ -9,6 +9,10 @@ updated: "2020-03-02T15:07:43+00:00"
 archived: "2026-09-26T02:19:00Z"
 ---
 
+<!-- nav -->
+&larr; [2.0.0 | Curtain Call](2-2-0-0-curtain-call.md) · [Archive: Steam](../../index.md#archive-steam) · [2.1.1 | Hotfix](4-2-1-1-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 2.1.0 | Mid-Chapter
 
 ## Features & Content
@@ -205,3 +209,7 @@ The number of pips that players receives back when the rank reset occurs has bee
 - Fixed an issue that could cause a crash when the user quit the game by spamming the "B" and "A" buttons on a Xbox360/Xbox One controller
 - Fixed multiple issues that could cause the menus to become unresponsive when opening and closing any of the lobby buttons
 - Integrated Simplified Chinese and Korean community translations
+
+<!-- nav -->
+&larr; [2.0.0 | Curtain Call](2-2-0-0-curtain-call.md) · [Archive: Steam](../../index.md#archive-steam) · [2.1.1 | Hotfix](4-2-1-1-hotfix.md) &rarr;
+<!-- /nav -->

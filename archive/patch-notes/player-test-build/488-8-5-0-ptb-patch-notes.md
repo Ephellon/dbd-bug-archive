@@ -9,6 +9,10 @@ updated: "2025-01-08T15:28:14+00:00"
 archived: "2026-09-26T02:18:44Z"
 ---
 
+<!-- nav -->
+&larr; [8.4.0 | PTB Patch Notes](479-8-4-0-ptb-patch-notes.md) · [Player Test Build (PTB)](../../index.md#player-test-build-ptb) · [8.6.0 | PTB Patch Notes](495-8-6-0-ptb-patch-notes.md) &rarr;
+<!-- /nav -->
+
 # 8.5.0 | PTB Patch Notes
 
 ![HOTDOG_PTB_FORUMs.jpg](488-8-5-0-ptb-patch-notes/01-hotdog-ptb-forums.jpg)
@@ -252,3 +256,7 @@ archived: "2026-09-26T02:18:44Z"
 - Fixed an issue that caused the Honor the Bloodline achievement/trophy to be unlocked when taking control of Victor when playing as the Twins.
 - Fixed an issue that caused the exit gates to power on when the last Survivor escapes through the hatch.
 - Fixed an issue that caused the Unhooking and Self-Unhooking animations to be interrupted by a Killer's basic attack.
+
+<!-- nav -->
+&larr; [8.4.0 | PTB Patch Notes](479-8-4-0-ptb-patch-notes.md) · [Player Test Build (PTB)](../../index.md#player-test-build-ptb) · [8.6.0 | PTB Patch Notes](495-8-6-0-ptb-patch-notes.md) &rarr;
+<!-- /nav -->

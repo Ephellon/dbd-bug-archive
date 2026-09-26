@@ -9,6 +9,10 @@ updated: "2020-02-28T22:11:14+00:00"
 archived: "2026-09-26T02:19:37Z"
 ---
 
+<!-- nav -->
+&larr; [3.0.1 | Hotfix](92-3-0-1-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [3.1.0 | Mid-Chapter](94-3-1-0-mid-chapter.md) &rarr;
+<!-- /nav -->
+
 # 3.0.2 | Hotfix
 
 ## Balance
@@ -29,3 +33,7 @@ archived: "2026-09-26T02:19:37Z"
 - Fixed an issue that caused the Killer carrying a Survivor music to be missing.
 - Adjusted music & sound balance to fix issues with in-game audio. This will improve the compatibility of the game's audio output with headphones emulating surround sound.
 - Misc cosmetic improvements
+
+<!-- nav -->
+&larr; [3.0.1 | Hotfix](92-3-0-1-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [3.1.0 | Mid-Chapter](94-3-1-0-mid-chapter.md) &rarr;
+<!-- /nav -->

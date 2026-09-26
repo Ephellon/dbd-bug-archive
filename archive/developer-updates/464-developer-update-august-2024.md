@@ -9,6 +9,10 @@ updated: "2024-08-02T17:16:38+00:00"
 archived: "2026-09-26T02:20:09Z"
 ---
 
+<!-- nav -->
+&larr; [Stats | July 2024](460-stats-july-2024.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | August 2024 PTB](467-developer-update-august-2024-ptb.md) &rarr;
+<!-- /nav -->
+
 # Developer Update | August 2024
 
 ![Developer update-1920x1080-TOTEM-idea.png](464-developer-update-august-2024/01-developer-update-1920x1080-totem-idea.png)
@@ -141,3 +145,7 @@ The 8.2.0 Update is on the way! In this post, we’ll reveal the various gamepla
 
 Until next time…  
  The Dead by Daylight team
+
+<!-- nav -->
+&larr; [Stats | July 2024](460-stats-july-2024.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | August 2024 PTB](467-developer-update-august-2024-ptb.md) &rarr;
+<!-- /nav -->

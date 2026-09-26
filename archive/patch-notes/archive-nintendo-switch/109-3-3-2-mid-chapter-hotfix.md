@@ -9,6 +9,10 @@ updated: "2020-02-28T21:37:55+00:00"
 archived: "2026-09-26T02:19:46Z"
 ---
 
+<!-- nav -->
+&larr; [3.2.2 | Hotfix](108-3-2-2-hotfix.md) · [Archive: Nintendo Switch](../../index.md#archive-nintendo-switch) · [3.4.0 | Cursed Legacy](110-3-4-0-cursed-legacy.md) &rarr;
+<!-- /nav -->
+
 # 3.3.2 | Mid-chapter & Hotfix
 
 ## Features & Content
@@ -179,3 +183,7 @@ archived: "2026-09-26T02:19:46Z"
 - Currency icons are tiny in purchase prompts.
 - Some Switch devices cannot access the Customer Support or Forum browsers.
 - Multiple location indicators have incorrect or missing visuals.
+
+<!-- nav -->
+&larr; [3.2.2 | Hotfix](108-3-2-2-hotfix.md) · [Archive: Nintendo Switch](../../index.md#archive-nintendo-switch) · [3.4.0 | Cursed Legacy](110-3-4-0-cursed-legacy.md) &rarr;
+<!-- /nav -->

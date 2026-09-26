@@ -9,6 +9,10 @@ updated: "2024-03-13T12:06:25+00:00"
 archived: "2026-09-26T02:18:19Z"
 ---
 
+<!-- nav -->
+&larr; [7.5.1 | Bugfix Patch](432-7-5-1-bugfix-patch.md) · [Live](../../index.md#live) · [7.6.1 | Bugfix Patch](439-7-6-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 7.6.0 | All Things Wicked
 
 ![CA_DBD_0224_Applepie_Patch_Notes_Assets_Release_FORUM.png](437-7-6-0-all-things-wicked/01-ca-dbd-0224-applepie-patch-notes-assets-release-forum.png)
@@ -411,3 +415,7 @@ Increased Blindness duration for the Add-On to 60 seconds *(was 45 seconds)*.
 - Fixed an issue that caused the Undetectable Status Effect from the Insidious Perk to be applied before the Perk charge duration finished.
 - Fixed an issue that caused thePotential Energy Perk not to gain Tokens when repairing a Generator with a Toolbox until it was depleted.
 - Fixed an issue that caused the progress bar to appear full if repairing a Xenomorph Flame Turret more than once.
+
+<!-- nav -->
+&larr; [7.5.1 | Bugfix Patch](432-7-5-1-bugfix-patch.md) · [Live](../../index.md#live) · [7.6.1 | Bugfix Patch](439-7-6-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

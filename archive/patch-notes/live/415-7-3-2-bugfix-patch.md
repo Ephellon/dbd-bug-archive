@@ -9,6 +9,10 @@ updated: "2023-10-26T14:53:57+00:00"
 archived: "2026-09-26T02:18:21Z"
 ---
 
+<!-- nav -->
+&larr; [7.3.1 | Bugfix Patch](414-7-3-1-bugfix-patch.md) · [Live](../../index.md#live) · [7.3.3 | Bugfix Patch](417-7-3-3-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 7.3.2 | Bugfix Patch
 
 ![PatchNotesBanner732.jpg](415-7-3-2-bugfix-patch/01-patchnotesbanner732.jpg)
@@ -78,3 +82,7 @@ The maximum number of pallets spawned in the Shattered Square Map has been incre
 ## Misc
 
 - Fixed an issue that could disconnect players mid-trial.
+
+<!-- nav -->
+&larr; [7.3.1 | Bugfix Patch](414-7-3-1-bugfix-patch.md) · [Live](../../index.md#live) · [7.3.3 | Bugfix Patch](417-7-3-3-bugfix-patch.md) &rarr;
+<!-- /nav -->

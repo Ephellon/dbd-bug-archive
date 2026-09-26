@@ -9,6 +9,10 @@ updated: "2024-06-19T15:26:45+00:00"
 archived: "2026-09-26T02:18:16Z"
 ---
 
+<!-- nav -->
+&larr; [8.0.1 | Bugfix Patch](453-8-0-1-bugfix-patch.md) · [Live](../../index.md#live) · [8.1.0 | Tomb Raider](459-8-1-0-tomb-raider.md) &rarr;
+<!-- /nav -->
+
 # 8.0.2 | Bugfix Patch
 
 ![CA_DBD_0424_Churros_Patch_Notes_Assets_Bugfix02_FORUM.png](454-8-0-2-bugfix-patch/01-ca-dbd-0424-churros-patch-notes-assets-bugfix02-forum.png)
@@ -86,3 +90,7 @@ archived: "2026-09-26T02:18:16Z"
 - Medkits now fully deplete when self-healing to 100% with no add-ons
 - Fixed an issue that caused the Entity window blocking effects not to block a window that was just unblocked after 3 consecutive rushed vaults
 - Survivors no longer get stuck in the hooked state when the killer is interrupted
+
+<!-- nav -->
+&larr; [8.0.1 | Bugfix Patch](453-8-0-1-bugfix-patch.md) · [Live](../../index.md#live) · [8.1.0 | Tomb Raider](459-8-1-0-tomb-raider.md) &rarr;
+<!-- /nav -->

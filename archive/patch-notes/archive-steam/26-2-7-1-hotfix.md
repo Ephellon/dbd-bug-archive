@@ -9,6 +9,10 @@ updated: "2020-03-02T15:21:14+00:00"
 archived: "2026-09-26T02:19:04Z"
 ---
 
+<!-- nav -->
+&larr; [2.6.4 | Hotfix](25-2-6-4-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [3.0.1 | Hotfix](27-3-0-1-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 2.7.1 | Hotfix
 
 ## Bug Fixes
@@ -40,3 +44,7 @@ archived: "2026-09-26T02:19:04Z"
 - Fixed an issue that prevented The Plague scoring points in the Chaser emblem when downing Survivors with Corrupt Purge
 - Fixed an issue that caused the camera to shake from EGS during tally screen
 - Fixed an issue that caused Nea's Prestige and Legacy torso to have missing textures on her arms.
+
+<!-- nav -->
+&larr; [2.6.4 | Hotfix](25-2-6-4-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [3.0.1 | Hotfix](27-3-0-1-hotfix.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2025-09-30T14:51:54+00:00"
 archived: "2026-09-26T02:18:08Z"
 ---
 
+<!-- nav -->
+&larr; [9.2.0 | Sinister Grace](523-9-2-0-sinister-grace.md) · [Live](../../index.md#live) · [9.2.2 | Bugfix Patch](525-9-2-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 9.2.1 | Bugfix Patch
 
 ![921_PatchNotes_FORUM.png](524-9-2-1-bugfix-patch/01-921-patchnotes-forum.png)
@@ -134,3 +138,7 @@ archived: "2026-09-26T02:18:08Z"
 - Fixed an issue where the status of the autoplay checkbox in The Tomes to not be saved when rebooting the game.
 - Fixed an issue that caused a crash when switching between tabs in the Store.
 - Fixed an issue where anonymous mode would disable licensed music when active.
+
+<!-- nav -->
+&larr; [9.2.0 | Sinister Grace](523-9-2-0-sinister-grace.md) · [Live](../../index.md#live) · [9.2.2 | Bugfix Patch](525-9-2-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

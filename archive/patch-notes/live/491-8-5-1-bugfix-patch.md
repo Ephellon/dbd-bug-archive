@@ -9,6 +9,10 @@ updated: "2025-02-04T15:28:39+00:00"
 archived: "2026-09-26T02:18:12Z"
 ---
 
+<!-- nav -->
+&larr; [8.5.0 | Mid-Chapter](490-8-5-0-mid-chapter.md) · [Live](../../index.md#live) · [8.5.2 | Bugfix Patch](492-8-5-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 8.5.1 | Bugfix Patch
 
 ![PatchNotes_851_Forum.jpg](491-8-5-1-bugfix-patch/01-patchnotes-851-forum.jpg)
@@ -116,3 +120,7 @@ archived: "2026-09-26T02:18:12Z"
 
 - Fixed an issue that caused some players to be unable to matchmake as Survivors.
 - Optimized the logic used to handle status effects during gameplay to improve general performance.
+
+<!-- nav -->
+&larr; [8.5.0 | Mid-Chapter](490-8-5-0-mid-chapter.md) · [Live](../../index.md#live) · [8.5.2 | Bugfix Patch](492-8-5-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2024-11-04T15:59:56+00:00"
 archived: "2026-09-26T02:18:14Z"
 ---
 
+<!-- nav -->
+&larr; [8.3.1 | Bugfix Patch](476-8-3-1-bugfix-patch.md) · [Live](../../index.md#live) · [8.4.0 | Doomed Course](482-8-4-0-doomed-course.md) &rarr;
+<!-- /nav -->
+
 # 8.3.2 | Bugfix Patch
 
 ![832_Forums.jpg](477-8-3-2-bugfix-patch/01-832-forums.jpg)
@@ -120,3 +124,7 @@ archived: "2026-09-26T02:18:14Z"
 ADDENDUM
 
 November 4th 11am ET: Update to Playstation 5 only, to prevent potential graphical issues on PS5 Pro. This does not affect crossplay.
+
+<!-- nav -->
+&larr; [8.3.1 | Bugfix Patch](476-8-3-1-bugfix-patch.md) · [Live](../../index.md#live) · [8.4.0 | Doomed Course](482-8-4-0-doomed-course.md) &rarr;
+<!-- /nav -->

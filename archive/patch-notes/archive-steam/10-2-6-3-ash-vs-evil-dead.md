@@ -9,6 +9,10 @@ updated: "2020-03-02T15:15:39+00:00"
 archived: "2026-09-26T02:19:04Z"
 ---
 
+<!-- nav -->
+&larr; [2.6.0 | Demise of the Faithful](9-2-6-0-demise-of-the-faithful.md) · [Archive: Steam](../../index.md#archive-steam) · [2.7.0 | Mid-Chapter](11-2-7-0-mid-chapter.md) &rarr;
+<!-- /nav -->
+
 # 2.6.3 | Ash VS Evil Dead
 
 ## Features & Content
@@ -39,3 +43,7 @@ With feedback from the PTB and Live, we have changed the Decisive Strike stun ti
 - Fixed some instances of infinite loading screens.
 
 With this update, we have identified some causes for crashes and the infinite loading screen bug. We are continuing to investigate the issue.
+
+<!-- nav -->
+&larr; [2.6.0 | Demise of the Faithful](9-2-6-0-demise-of-the-faithful.md) · [Archive: Steam](../../index.md#archive-steam) · [2.7.0 | Mid-Chapter](11-2-7-0-mid-chapter.md) &rarr;
+<!-- /nav -->

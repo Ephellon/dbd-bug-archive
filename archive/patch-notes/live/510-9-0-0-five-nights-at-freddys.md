@@ -9,6 +9,10 @@ updated: "2025-06-17T16:12:48+00:00"
 archived: "2026-09-26T02:18:10Z"
 ---
 
+<!-- nav -->
+&larr; [8.7.2 | Bugfix Patch](508-8-7-2-bugfix-patch.md) · [Live](../../index.md#live) · [9.0.1 | Bugfix Patch](511-9-0-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 9.0.0 | Five Nights at Freddy's
 
 ![900_PatchNotes_Forum.jpg](510-9-0-0-five-nights-at-freddys/01-900-patchnotes-forum.jpg)
@@ -538,3 +542,7 @@ archived: "2026-09-26T02:18:10Z"
 - Phantom Fear has no effect on add-ons that create a Terror Radius.
 - Survivor directional SFX may not work properly.
 - Killers selecting The Animatronic will crash when loading into a lobby on the Switch 2 platform only.
+
+<!-- nav -->
+&larr; [8.7.2 | Bugfix Patch](508-8-7-2-bugfix-patch.md) · [Live](../../index.md#live) · [9.0.1 | Bugfix Patch](511-9-0-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

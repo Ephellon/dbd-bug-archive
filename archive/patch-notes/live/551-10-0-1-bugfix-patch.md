@@ -9,6 +9,10 @@ updated: "2026-06-23T17:40:51+00:00"
 archived: "2026-09-26T02:18:03Z"
 ---
 
+<!-- nav -->
+&larr; [10.0.0 | Jason Patch Notes](550-10-0-0-jason-patch-notes.md) · [Live](../../index.md#live) · [10.0.2 | Bugfix Patch](552-10-0-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 10.0.1 | Bugfix Patch 
 
 ![DbD_Sushi_PatchNotes_1001_16-9.png](551-10-0-1-bugfix-patch/01-dbd-sushi-patchnotes-1001-16-9.png)
@@ -177,3 +181,7 @@ See the in-game Gameplay Details for more information.
 ## Known Issues
 
 - During Regular and Custom Trials, Spectator will not be able to leave until Trial ends (Spectator will leave automatically right after).
+
+<!-- nav -->
+&larr; [10.0.0 | Jason Patch Notes](550-10-0-0-jason-patch-notes.md) · [Live](../../index.md#live) · [10.0.2 | Bugfix Patch](552-10-0-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

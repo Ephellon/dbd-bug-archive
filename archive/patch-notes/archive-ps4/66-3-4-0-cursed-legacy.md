@@ -9,6 +9,10 @@ updated: "2020-03-02T20:07:23+00:00"
 archived: "2026-09-26T02:19:24Z"
 ---
 
+<!-- nav -->
+&larr; [3.3.2 | Hotfix](65-3-3-2-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [3.4.1 | Hotfix](67-3-4-1-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 3.4.0 | Cursed Legacy
 
 ## Features & Content
@@ -153,3 +157,7 @@ archived: "2026-09-26T02:19:24Z"
 - Fixed an issue that caused the level to reload each time the current Archive level was selected.
 - Fixed an issue that caused the lobby UI to reposition itself when selecting any sub-category in the Loadout.
 - Misc UI improvements.
+
+<!-- nav -->
+&larr; [3.3.2 | Hotfix](65-3-3-2-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [3.4.1 | Hotfix](67-3-4-1-hotfix.md) &rarr;
+<!-- /nav -->

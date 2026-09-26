@@ -9,6 +9,10 @@ updated: "2020-03-02T20:06:05+00:00"
 archived: "2026-09-26T02:19:23Z"
 ---
 
+<!-- nav -->
+&larr; [3.2.1 | Hotfix](62-3-2-1-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [3.2.2 | Hotfix](64-3-2-2-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 3.3.0 | Mid-Chapter
 
 ## Features & Content
@@ -189,3 +193,7 @@ archived: "2026-09-26T02:19:23Z"
 - Survivor shadow models can be seen in front of bubble indicators.
 - Users can sometimes crash while in the Collection tab in the Archives menu.
 - Rift Fragment experience is not updated in the Archives Widget when in the tally screen if there is no active challenge.
+
+<!-- nav -->
+&larr; [3.2.1 | Hotfix](62-3-2-1-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [3.2.2 | Hotfix](64-3-2-2-hotfix.md) &rarr;
+<!-- /nav -->

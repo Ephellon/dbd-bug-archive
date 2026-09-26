@@ -9,6 +9,10 @@ updated: "2020-03-11T16:26:41+00:00"
 archived: "2026-09-26T02:19:08Z"
 ---
 
+<!-- nav -->
+&larr; [3.5.2 | Hotfix](33-3-5-2-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [3.6.1 | Hotfix](170-3-6-1-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 3.6.0 | Chains of Hate
 
 ## Features & Content
@@ -298,3 +302,7 @@ Interview Tape: Range increased from 20 meters to 24 meters
 - Fixed the Hag's animation when breaking through a breakable wall.
 - Fixed an issue that caused the Harpoon to pass through a hooked Survivor.
 - Fixed an issue that caused the perk Saboteur to not be put on cooldown when depleting a toolbox while sabotaging a hook.
+
+<!-- nav -->
+&larr; [3.5.2 | Hotfix](33-3-5-2-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [3.6.1 | Hotfix](170-3-6-1-hotfix.md) &rarr;
+<!-- /nav -->

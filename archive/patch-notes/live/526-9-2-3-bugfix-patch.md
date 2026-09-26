@@ -9,6 +9,10 @@ updated: "2025-10-21T14:30:07+00:00"
 archived: "2026-09-26T02:18:07Z"
 ---
 
+<!-- nav -->
+&larr; [9.2.2 | Bugfix Patch](525-9-2-2-bugfix-patch.md) · [Live](../../index.md#live) · [9.3.0 | Mid-Chapter](529-9-3-0-mid-chapter.md) &rarr;
+<!-- /nav -->
+
 # 9.2.3 | Bugfix Patch
 
 ![923-FORUM.png](526-9-2-3-bugfix-patch/01-923-forum.png)
@@ -111,3 +115,7 @@ archived: "2026-09-26T02:18:07Z"
 - Fixed an issue where the taskbar icon would not flash when the application was unfocused and a Trial had started.
 - Fixed an issue where the Survivor tutorial was not able to be completed when the End Game Collapse ended after opening the exit gate.
 - Fixed an issue where the Killer's match result could appear on screen briefly before the match ended.
+
+<!-- nav -->
+&larr; [9.2.2 | Bugfix Patch](525-9-2-2-bugfix-patch.md) · [Live](../../index.md#live) · [9.3.0 | Mid-Chapter](529-9-3-0-mid-chapter.md) &rarr;
+<!-- /nav -->

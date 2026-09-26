@@ -9,6 +9,10 @@ updated: "2025-11-25T15:31:06+00:00"
 archived: "2026-09-26T02:18:07Z"
 ---
 
+<!-- nav -->
+&larr; [9.2.3 | Bugfix Patch](526-9-2-3-bugfix-patch.md) · [Live](../../index.md#live) · [9.3.2 | Bugfix Patch](530-9-3-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 9.3.0 | Mid-Chapter
 
 ![930_PatchNotes_FORUM.png](529-9-3-0-mid-chapter/01-930-patchnotes-forum.png)
@@ -368,3 +372,7 @@ archived: "2026-09-26T02:18:07Z"
 - Fixed an issue where a Survivor bot could become invisible to The Knight after being downed by The Assassin.
 - Fixed an issue where Killers with special pallet breaking attacks wouldn't break pallets if they were dropped early.
 - Fixed an issue where The Ghoul could become stuck when performing a leap at a Survivor entering a locker.
+
+<!-- nav -->
+&larr; [9.2.3 | Bugfix Patch](526-9-2-3-bugfix-patch.md) · [Live](../../index.md#live) · [9.3.2 | Bugfix Patch](530-9-3-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

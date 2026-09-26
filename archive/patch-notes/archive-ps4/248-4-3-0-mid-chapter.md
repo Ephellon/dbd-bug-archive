@@ -9,6 +9,10 @@ updated: "2020-10-20T14:24:39+00:00"
 archived: "2026-09-26T02:19:29Z"
 ---
 
+<!-- nav -->
+&larr; [4.2.2 | Bugfix Patch](240-4-2-2-bugfix-patch.md) · [Archive: PS4](../../index.md#archive-ps4) · [4.3.1 | Bugfix Patch](255-4-3-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 4.3.0 | Mid-Chapter
 
 ![430UpdateBanner.png](248-4-3-0-mid-chapter/01-430updatebanner.png)
@@ -114,3 +118,7 @@ At the moment, the cost of missing a Punishment of the Damned attack is too high
 ## KNOWN ISSUES
 
 - The Killer will sometimes see an incorrect animation during the start of match camera pan.
+
+<!-- nav -->
+&larr; [4.2.2 | Bugfix Patch](240-4-2-2-bugfix-patch.md) · [Archive: PS4](../../index.md#archive-ps4) · [4.3.1 | Bugfix Patch](255-4-3-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

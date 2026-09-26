@@ -9,6 +9,10 @@ updated: "2023-01-03T16:55:45+00:00"
 archived: "2026-09-26T02:20:19Z"
 ---
 
+<!-- nav -->
+&larr; [Developer Update | October 2022](363-developer-update-october-2022.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | Year 7 Roadmap Additions](372-developer-update-year-7-roadmap-additions.md) &rarr;
+<!-- /nav -->
+
 # Developer Update | January 2023
 
 ![Announcement.png](369-developer-update-january-2023/01-announcement.png)
@@ -190,3 +194,7 @@ With that, we’ve reached the end of the first Developer Update of the year. Ev
 Until next time…
 
 The Dead by Daylight team
+
+<!-- nav -->
+&larr; [Developer Update | October 2022](363-developer-update-october-2022.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | Year 7 Roadmap Additions](372-developer-update-year-7-roadmap-additions.md) &rarr;
+<!-- /nav -->

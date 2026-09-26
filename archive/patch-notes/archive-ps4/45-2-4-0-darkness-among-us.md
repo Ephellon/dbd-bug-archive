@@ -9,6 +9,10 @@ updated: "2020-03-02T19:27:40+00:00"
 archived: "2026-09-26T02:19:18Z"
 ---
 
+<!-- nav -->
+&larr; [2.3.3 | Hotfix](44-2-3-3-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [2.5.0 | Mid-Chapter](46-2-5-0-mid-chapter.md) &rarr;
+<!-- /nav -->
+
 # 2.4.0 | Darkness Among Us
 
 ## Dev Notes
@@ -149,3 +153,7 @@ The portrait icon in the bottom-left of the screen indicates the amount of time 
 - Fixed an issue that made it impossible to unlock the "Where Did They Go!?" trophy as a Survivor and caused the Killer to unlock it instead.
 - Fixed an issue that made it possible to unlock the "Risk It All" trophy with event items.
 - Translated the Platinum Trophy in all supported languages.
+
+<!-- nav -->
+&larr; [2.3.3 | Hotfix](44-2-3-3-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [2.5.0 | Mid-Chapter](46-2-5-0-mid-chapter.md) &rarr;
+<!-- /nav -->

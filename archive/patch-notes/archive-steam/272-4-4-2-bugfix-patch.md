@@ -9,6 +9,10 @@ updated: "2020-12-16T18:27:16+00:00"
 archived: "2026-09-26T02:19:13Z"
 ---
 
+<!-- nav -->
+&larr; [4.4.1 | Bugfix Patch](271-4-4-1-bugfix-patch.md) · [Archive: Steam](../../index.md#archive-steam) · [4.5.0 | Mid-Chapter](274-4-5-0-mid-chapter.md) &rarr;
+<!-- /nav -->
+
 # 4.4.2 | Bugfix Patch
 
 ![442Banner.png](272-4-4-2-bugfix-patch/01-442banner.png)
@@ -63,3 +67,7 @@ archived: "2026-09-26T02:19:13Z"
 ## Known Issues
 
 - Flashlight beam stays narrow after successfully blinding the Killer.
+
+<!-- nav -->
+&larr; [4.4.1 | Bugfix Patch](271-4-4-1-bugfix-patch.md) · [Archive: Steam](../../index.md#archive-steam) · [4.5.0 | Mid-Chapter](274-4-5-0-mid-chapter.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2020-03-02T15:35:55+00:00"
 archived: "2026-09-26T02:19:08Z"
 ---
 
+<!-- nav -->
+&larr; [3.2.2 | Hotfix](31-3-2-2-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [3.5.2 | Hotfix](33-3-5-2-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 3.5.1 | Hotfix
 
 ## Balance
@@ -46,3 +50,7 @@ The following changes were done based on PTB feedback where it was found that so
 - Fixed an issue that could cause party members to see a corrupted lobby briefly after the Offering burn sequence.
 - Fixed an issue that caused an incorrect chat message when the Custom Game host returns to lobby.
 - Fixed an issue that caused players to automatically unlock the ranking achievements without meeting the requirements.
+
+<!-- nav -->
+&larr; [3.2.2 | Hotfix](31-3-2-2-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [3.5.2 | Hotfix](33-3-5-2-hotfix.md) &rarr;
+<!-- /nav -->

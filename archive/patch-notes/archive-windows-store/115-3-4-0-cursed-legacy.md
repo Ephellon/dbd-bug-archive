@@ -9,6 +9,10 @@ updated: "2020-02-28T21:33:45+00:00"
 archived: "2026-09-26T02:19:53Z"
 ---
 
+<!-- nav -->
+&larr; _oldest_ · [Archive: Windows Store](../../index.md#archive-windows-store) · [3.4.1 | Hotfix](116-3-4-1-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 3.4.0 | Cursed Legacy
 
 ## Features & Content
@@ -159,3 +163,7 @@ archived: "2026-09-26T02:19:53Z"
 - Fixed an issue that caused the level to reload each time the current Archive level was selected.
 - Fixed an issue that caused the lobby UI to reposition itself when selecting any sub-category in the Loadout.
 - Misc UI improvements.
+
+<!-- nav -->
+&larr; _oldest_ · [Archive: Windows Store](../../index.md#archive-windows-store) · [3.4.1 | Hotfix](116-3-4-1-hotfix.md) &rarr;
+<!-- /nav -->

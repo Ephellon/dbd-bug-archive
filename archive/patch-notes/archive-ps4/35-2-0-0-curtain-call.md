@@ -9,6 +9,10 @@ updated: "2020-03-02T19:15:42+00:00"
 archived: "2026-09-26T02:19:15Z"
 ---
 
+<!-- nav -->
+&larr; [1.9.4 - 1.9.4.1 | Emblems](34-1-9-4-1-9-4-1-emblems.md) · [Archive: PS4](../../index.md#archive-ps4) · [2.1.0 | Mid-Chapter](36-2-1-0-mid-chapter.md) &rarr;
+<!-- /nav -->
+
 # 2.0.0 | Curtain Call
 
 ## Features & Content
@@ -216,3 +220,7 @@ The following scoring events have had their initial Bloodpoints reward increased
 - Fixed an issue that caused the title to become extremely laggy when clients were continuously switching characters in a lobby
 - Fixed an issue that could cause the Bloodweb to become unresponsive for a short while after leveling up
 - Updated the description for the Risk It All trophy
+
+<!-- nav -->
+&larr; [1.9.4 - 1.9.4.1 | Emblems](34-1-9-4-1-9-4-1-emblems.md) · [Archive: PS4](../../index.md#archive-ps4) · [2.1.0 | Mid-Chapter](36-2-1-0-mid-chapter.md) &rarr;
+<!-- /nav -->

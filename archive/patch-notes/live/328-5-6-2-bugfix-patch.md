@@ -9,6 +9,10 @@ updated: "2022-03-23T15:26:28+00:00"
 archived: "2026-09-26T02:18:33Z"
 ---
 
+<!-- nav -->
+&larr; [5.6.1 | Bugfix Patch](327-5-6-1-bugfix-patch.md) · [Live](../../index.md#live) · [5.7.0 | Mid-Chapter](330-5-7-0-mid-chapter.md) &rarr;
+<!-- /nav -->
+
 # 5.6.2 | Bugfix Patch
 
 ![562Banner.png](328-5-6-2-bugfix-patch/01-562banner.png)
@@ -40,3 +44,7 @@ archived: "2026-09-26T02:18:33Z"
 ## Known Issues
 
 - Killer sound effects are missing when going from the Play as Killer menu to the Store. Swapping to a different Killer in the Store will fix the issue.
+
+<!-- nav -->
+&larr; [5.6.1 | Bugfix Patch](327-5-6-1-bugfix-patch.md) · [Live](../../index.md#live) · [5.7.0 | Mid-Chapter](330-5-7-0-mid-chapter.md) &rarr;
+<!-- /nav -->

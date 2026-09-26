@@ -9,6 +9,10 @@ updated: "2020-09-08T15:09:59+00:00"
 archived: "2026-09-26T02:19:11Z"
 ---
 
+<!-- nav -->
+&larr; [4.1.3 | Bugfix Patch](227-4-1-3-bugfix-patch.md) · [Archive: Steam](../../index.md#archive-steam) · [4.2.1 | Bugfix Patch](233-4-2-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 4.2.0 | Descend Beyond
 
 ![420UpdateBanner.png](228-4-2-0-descend-beyond/01-420updatebanner.png)
@@ -215,3 +219,7 @@ Unchanged from PTB
 - Reduced the number of occurrences of Save Game Error 112.
 - Make the errors more explicit when the game fails to grant/withdraw Bloodpoints.
 - Fixed an issue that caused the Bloodweb to be usable without consuming Bloodpoints.
+
+<!-- nav -->
+&larr; [4.1.3 | Bugfix Patch](227-4-1-3-bugfix-patch.md) · [Archive: Steam](../../index.md#archive-steam) · [4.2.1 | Bugfix Patch](233-4-2-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

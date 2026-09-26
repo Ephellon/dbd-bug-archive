@@ -9,6 +9,10 @@ updated: "2020-03-02T15:28:57+00:00"
 archived: "2026-09-26T02:19:06Z"
 ---
 
+<!-- nav -->
+&larr; [3.1.1 | Hotfix](29-3-1-1-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [3.2.2 | Hotfix](31-3-2-2-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 3.2.1 | Hotfix
 
 ## Balance
@@ -64,3 +68,7 @@ archived: "2026-09-26T02:19:06Z"
 - The End Game Collapse timer is visually desynchronized between clients and host.
 - The Pig's camera shakes every time she performs a regular attack.
 - Un-translated warning message in all non English languages when a Host spectator/Survivor attempts to leave the tally screen in a Custom Game.
+
+<!-- nav -->
+&larr; [3.1.1 | Hotfix](29-3-1-1-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [3.2.2 | Hotfix](31-3-2-2-hotfix.md) &rarr;
+<!-- /nav -->

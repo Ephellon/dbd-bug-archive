@@ -9,6 +9,10 @@ updated: "2021-12-07T15:25:38+00:00"
 archived: "2026-09-26T02:18:35Z"
 ---
 
+<!-- nav -->
+&larr; [5.4.0 | Portrait of a Murder](306-5-4-0-portrait-of-a-murder.md) · [Live](../../index.md#live) · [5.4.2 | Bugfix Patch](308-5-4-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 5.4.1 | Bugfix Patch
 
 ![541Banner.png](307-5-4-1-bugfix-patch/01-541banner.png)
@@ -34,3 +38,7 @@ archived: "2026-09-26T02:18:35Z"
 - Fixed an issue that caused the spotlight to be delayed when fully repairing a short pole or yellow generator
 - Fixed an issue that cause the black ink VFX to be missing from the survivor's eyes and mouth when getting Mori'ed by the Artist.
 - Fixed an issue that caused Coup de Grace to get too many tokens
+
+<!-- nav -->
+&larr; [5.4.0 | Portrait of a Murder](306-5-4-0-portrait-of-a-murder.md) · [Live](../../index.md#live) · [5.4.2 | Bugfix Patch](308-5-4-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

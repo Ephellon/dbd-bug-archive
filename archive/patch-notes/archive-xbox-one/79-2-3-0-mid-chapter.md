@@ -9,6 +9,10 @@ updated: "2020-02-28T22:00:26+00:00"
 archived: "2026-09-26T02:19:33Z"
 ---
 
+<!-- nav -->
+&larr; [2.2.1 | Hotfix](78-2-2-1-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [2.3.2 | Hotfix](80-2-3-2-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 2.3.0 | Mid-Chapter
 
 ## Features & Content
@@ -176,3 +180,7 @@ Specific Changes
 - Fixed an issue that caused the title to hang when pressing the Character Info button at the same time as leaving the tally screen in Kill Your Friends
 - Fixed an issue that made it impossible to acquire any of the escaping achievements if the user escaped through the hatch with less than 5 generators repaired
 - Fixed an issue that caused the Global Player Level to become corrupted after switching profiles
+
+<!-- nav -->
+&larr; [2.2.1 | Hotfix](78-2-2-1-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [2.3.2 | Hotfix](80-2-3-2-hotfix.md) &rarr;
+<!-- /nav -->

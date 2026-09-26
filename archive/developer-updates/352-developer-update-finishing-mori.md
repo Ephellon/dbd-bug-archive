@@ -9,6 +9,10 @@ updated: "2022-09-22T14:51:31+00:00"
 archived: "2026-09-26T02:20:19Z"
 ---
 
+<!-- nav -->
+&larr; [Developer Update | August 23, 2022](348-developer-update-august-23-2022.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | October 2022](363-developer-update-october-2022.md) &rarr;
+<!-- /nav -->
+
 # Developer Update | Finishing Mori
 
 ![Announcement.png](352-developer-update-finishing-mori/01-announcement.png)
@@ -59,3 +63,7 @@ The Finishing Mori system, anti-slugging mechanic, and other changes mentioned i
 Until next time…
 
 The Dead by Daylight team
+
+<!-- nav -->
+&larr; [Developer Update | August 23, 2022](348-developer-update-august-23-2022.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | October 2022](363-developer-update-october-2022.md) &rarr;
+<!-- /nav -->

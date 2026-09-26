@@ -9,6 +9,10 @@ updated: "2020-02-28T22:15:51+00:00"
 archived: "2026-09-26T02:19:38Z"
 ---
 
+<!-- nav -->
+&larr; [3.1.2 | Hotfix](96-3-1-2-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [3.2.1 | Hotfix](98-3-2-1-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 3.2.0 | Stranger Things
 
 ## Features & Content
@@ -144,3 +148,7 @@ archived: "2026-09-26T02:19:38Z"
 **UI & HUD**
 
 - Misc UI improvements.
+
+<!-- nav -->
+&larr; [3.1.2 | Hotfix](96-3-1-2-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [3.2.1 | Hotfix](98-3-2-1-hotfix.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2023-12-05T15:36:07+00:00"
 archived: "2026-09-26T02:18:20Z"
 ---
 
+<!-- nav -->
+&larr; [7.4.0 | Chucky](421-7-4-0-chucky.md) · [Live](../../index.md#live) · [7.4.2 | Bugfix Patch](424-7-4-2-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 7.4.1 | Bugfix Patch
 
 ![bugfix1.png](422-7-4-1-bugfix-patch/01-bugfix1.png)
@@ -82,3 +86,7 @@ archived: "2026-09-26T02:18:20Z"
 - Fixed an edge case where switching between characters with an identical Perk inventory except for Perk levels would fail to update the inventory.
 - Fixed the Store Banner subtitle in the Featured section so that it's not cut before the end in certain languages.
 - Fixed an issue in the Archives Rift menu where the Auric Cell Reward preview stayed displayed after selecting a Blood Point Reward.
+
+<!-- nav -->
+&larr; [7.4.0 | Chucky](421-7-4-0-chucky.md) · [Live](../../index.md#live) · [7.4.2 | Bugfix Patch](424-7-4-2-bugfix-patch.md) &rarr;
+<!-- /nav -->

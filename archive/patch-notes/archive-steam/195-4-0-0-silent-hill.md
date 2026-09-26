@@ -9,6 +9,10 @@ updated: "2020-06-16T14:30:02+00:00"
 archived: "2026-09-26T02:19:10Z"
 ---
 
+<!-- nav -->
+&larr; [3.7.2 | Hotfix](189-3-7-2-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [4.0.2 | Hotfix](204-4-0-2-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 4.0.0 | Silent Hill
 
 ## Features & Content
@@ -98,3 +102,7 @@ archived: "2026-09-26T02:19:10Z"
 - Midwich Elementary School: Fixed various areas when the Survivor were unable to unhook other Survivors from the Executioner's Death Bed.
 - Midwich Elementary School: Fixed an issue that prevented accessing one side of a Generator.
 - Soul Guard: Fixed an issue that caused the Perk to continue to trigger its effect after the hex totem has been cleansed.
+
+<!-- nav -->
+&larr; [3.7.2 | Hotfix](189-3-7-2-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [4.0.2 | Hotfix](204-4-0-2-hotfix.md) &rarr;
+<!-- /nav -->

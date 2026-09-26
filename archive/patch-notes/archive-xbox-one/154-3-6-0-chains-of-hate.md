@@ -9,6 +9,10 @@ updated: "2020-03-10T15:00:17+00:00"
 archived: "2026-09-26T02:19:41Z"
 ---
 
+<!-- nav -->
+&larr; [3.5.2 | Hotfix](107-3-5-2-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [3.6.1 | Hotfix](169-3-6-1-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 3.6.0 | Chains of Hate
 
 ## Features & Content
@@ -252,3 +256,7 @@ Interview Tape: Range increased from 20 meters to 24 meters
 - Fixed an issue that caused Survivors carrying a toolbox when injured while running to make the Survivors' footsteps play more often.
 - The Underground Complex: Fixed some floors that would trigger a wet footprint sound.
 - Father Campbell's Chapel: Polished the audio when inside the chapel.
+
+<!-- nav -->
+&larr; [3.5.2 | Hotfix](107-3-5-2-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [3.6.1 | Hotfix](169-3-6-1-hotfix.md) &rarr;
+<!-- /nav -->

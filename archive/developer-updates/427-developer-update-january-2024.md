@@ -9,6 +9,10 @@ updated: "2024-01-08T17:06:21+00:00"
 archived: "2026-09-26T02:20:14Z"
 ---
 
+<!-- nav -->
+&larr; [Developer Update | November 2023 PTB](420-developer-update-november-2023-ptb.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | January 2024 PTB](429-developer-update-january-2024-ptb.md) &rarr;
+<!-- /nav -->
+
 # Developer Update | January 2024
 
 ![Developer-update-2024 (1).jpg](427-developer-update-january-2024/01-developer-update-2024-281-29.jpg)
@@ -224,3 +228,7 @@ As always, we’ll take the time to read through your feedback and make further 
 Until next time…
 
 The Dead by Daylight team
+
+<!-- nav -->
+&larr; [Developer Update | November 2023 PTB](420-developer-update-november-2023-ptb.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | January 2024 PTB](429-developer-update-january-2024-ptb.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2020-03-02T15:09:55+00:00"
 archived: "2026-09-26T02:19:02Z"
 ---
 
+<!-- nav -->
+&larr; [2.1.2 | Hotfix](21-2-1-2-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [2.5.4 | Hotfix](23-2-5-4-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 2.5.3 | Hotfix
 
 ## Bug Fixes
@@ -19,3 +23,7 @@ archived: "2026-09-26T02:19:02Z"
 - Fixed an issue that caused the Madness icon meter not to show progress to the next tier when playing against the Doctor.
 - Reverted the Spanish descriptions for Leader, Technician and Distortion, that were erroneously displaying the Lunar Event objective text.
 - Fixed an issue that could cause a crash in the tally screen of a Kill Your Friends match.
+
+<!-- nav -->
+&larr; [2.1.2 | Hotfix](21-2-1-2-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [2.5.4 | Hotfix](23-2-5-4-hotfix.md) &rarr;
+<!-- /nav -->

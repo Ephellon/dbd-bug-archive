@@ -9,6 +9,10 @@ updated: "2022-04-27T14:40:40+00:00"
 archived: "2026-09-26T02:18:26Z"
 ---
 
+<!-- nav -->
+&larr; [5.6.2 | Bugfix Patch](328-5-6-2-bugfix-patch.md) · [Live](../../index.md#live) · [5.7.1 | Bugfix Patch](331-5-7-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 5.7.0 | Mid-Chapter
 
 ![570ptbbanner.jpg](330-5-7-0-mid-chapter/01-570ptbbanner.jpg)
@@ -319,3 +323,7 @@ UI Update - Added an indicator to the Searching for Friends popup when loading d
 - Meg is sometimes unable to Vault in the Killer Tutorial.
 - There is a one sided collision preventing smooth passage in the Eyrie of the crows map.
 - The Credits appear as a placeholder text string in all non-English languages on PS5, Switch and Stadia platforms.
+
+<!-- nav -->
+&larr; [5.6.2 | Bugfix Patch](328-5-6-2-bugfix-patch.md) · [Live](../../index.md#live) · [5.7.1 | Bugfix Patch](331-5-7-1-bugfix-patch.md) &rarr;
+<!-- /nav -->

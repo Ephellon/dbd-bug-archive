@@ -9,6 +9,10 @@ updated: "2026-06-10T17:01:49+00:00"
 archived: "2026-09-26T02:20:01Z"
 ---
 
+<!-- nav -->
+&larr; [Stats | Blood Moon 2026](547-stats-blood-moon-2026.md) · [Developer Updates](../index.md#developer-updates) · [Stats | Global Stats](554-stats-global-stats.md) &rarr;
+<!-- /nav -->
+
 # PTB To Live Changes: The Slasher
 
 ![DbD_1000_PatchNotes_PTBtoLive_16-9.png](549-ptb-to-live-changes-the-slasher/01-dbd-1000-patchnotes-ptbtolive-16-9.png)
@@ -65,3 +69,7 @@ We want to thank everyone who took the time to write down their feedback after p
 Until next time…
 
 The Dead by Daylight team
+
+<!-- nav -->
+&larr; [Stats | Blood Moon 2026](547-stats-blood-moon-2026.md) · [Developer Updates](../index.md#developer-updates) · [Stats | Global Stats](554-stats-global-stats.md) &rarr;
+<!-- /nav -->

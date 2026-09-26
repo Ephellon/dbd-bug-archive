@@ -9,6 +9,10 @@ updated: "2024-04-12T13:55:08+00:00"
 archived: "2026-09-26T02:20:12Z"
 ---
 
+<!-- nav -->
+&larr; [Developer Update | March 2024](440-developer-update-march-2024.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | April 2024 PTB](444-developer-update-april-2024-ptb.md) &rarr;
+<!-- /nav -->
+
 # Stats | March 2024
 
 ![HILLBILLY.png](443-stats-march-2024/01-hillbilly.png)
@@ -32,3 +36,7 @@ It has been nearly 5 years since the End Game Collapse was introduced. Since the
 For those who find themselves on the hook at the end of the match: The outlook is not very good. Nearly twice as many Survivors die at the end of the match than are saved.
 
 We’d love to share a mix of insightful and fun stats more regularly in the future. If you have suggestions for different kinds of data you’d like to know, be sure to let us know!
+
+<!-- nav -->
+&larr; [Developer Update | March 2024](440-developer-update-march-2024.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | April 2024 PTB](444-developer-update-april-2024-ptb.md) &rarr;
+<!-- /nav -->

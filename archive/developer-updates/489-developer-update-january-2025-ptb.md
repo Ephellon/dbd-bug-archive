@@ -9,6 +9,10 @@ updated: "2025-01-27T16:27:15+00:00"
 archived: "2026-09-26T02:20:07Z"
 ---
 
+<!-- nav -->
+&larr; [Developer Update | January 2025](487-developer-update-january-2025.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | March 2025](494-developer-update-march-2025.md) &rarr;
+<!-- /nav -->
+
 # Developer Update | January 2025 PTB
 
 ![DevUpdate_January2025.png](489-developer-update-january-2025-ptb/01-devupdate-january2025.png)
@@ -90,3 +94,7 @@ We’ve also tweaked the numbers of **Beast of Prey**. In its previous state, ma
 That’s it for today’s Dev Update. We hope you enjoy the changes coming to Dead by Daylight and remember that we’re always listening to your feedback. Thank you for spending your time with us in The Fog!
 
 The Dead by Daylight Team
+
+<!-- nav -->
+&larr; [Developer Update | January 2025](487-developer-update-january-2025.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | March 2025](494-developer-update-march-2025.md) &rarr;
+<!-- /nav -->

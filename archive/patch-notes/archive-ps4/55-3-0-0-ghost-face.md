@@ -9,6 +9,10 @@ updated: "2020-03-02T19:51:07+00:00"
 archived: "2026-09-26T02:19:21Z"
 ---
 
+<!-- nav -->
+&larr; [2.7.1 | Hotfix](54-2-7-1-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [3.0.1 | Hotfix](56-3-0-1-hotfix.md) &rarr;
+<!-- /nav -->
+
 # 3.0.0 | Ghost Face
 
 ## Features & Content
@@ -163,3 +167,7 @@ archived: "2026-09-26T02:19:21Z"
 - Survivors won't be able to see The Plague's vomit on windows.
 - Generators in the Tutorials do not show progress until interacted with.
 - The heartbeat and terror radius for The Trapper is missing in the Survivor Tutorial.
+
+<!-- nav -->
+&larr; [2.7.1 | Hotfix](54-2-7-1-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [3.0.1 | Hotfix](56-3-0-1-hotfix.md) &rarr;
+<!-- /nav -->

@@ -9,6 +9,10 @@ updated: "2022-03-08T22:43:12+00:00"
 archived: "2026-09-26T02:18:33Z"
 ---
 
+<!-- nav -->
+&larr; [5.5.2 | Bugfix Patch](323-5-5-2-bugfix-patch.md) · [Live](../../index.md#live) · [5.6.1 | Bugfix Patch](327-5-6-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
+
 # 5.6.0 | Sadako Rising
 
 ![PatchNotesBanner560.png](325-5-6-0-sadako-rising/01-patchnotesbanner560.png)
@@ -163,3 +167,7 @@ archived: "2026-09-26T02:18:33Z"
 - Two Generators can't be damaged by the Killer from one side in Backwater Swamp.
 - Missing UI and Survivor model when coming back to Lobby from the Archives. Re-entering the lobby (going to the Store and back, Main Menu and back, etc.) should correct the issue.
 - Wake Up perk has been disabled due to a bug.
+
+<!-- nav -->
+&larr; [5.5.2 | Bugfix Patch](323-5-5-2-bugfix-patch.md) · [Live](../../index.md#live) · [5.6.1 | Bugfix Patch](327-5-6-1-bugfix-patch.md) &rarr;
+<!-- /nav -->
