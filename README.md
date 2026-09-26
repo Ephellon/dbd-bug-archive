@@ -6,8 +6,8 @@ before their scheduled removal in October 2026.
 
 The <img width="38" height="36" alt="image" align="middle" src="https://github.com/user-attachments/assets/734c7c58-0e18-49b8-b08f-cc12314c8d3a" /> (Outline button) at the top right of this module can provide a Table of Contents layout for easier navigation.
 
-Everything under [`archive/`](archive/) is plain Markdown with the original
-images saved beside it. Start at [`archive/index.md`](archive/index.md).
+Start at [`archive/index.md`](archive/index.md). Everything under [`archive/`](archive/) is plain Markdown with the original
+images saved beside it.
 
 > This repository is a preservation effort. It is not affiliated with, endorsed
 > by, or supported by Behaviour Interactive.
