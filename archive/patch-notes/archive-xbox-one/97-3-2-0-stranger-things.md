@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/97-3-2-0-stranger-
 author: "Peanits"
 published: "2020-02-28T20:16:45+00:00"
 updated: "2020-02-28T22:15:51+00:00"
-archived: "2026-09-26T02:19:38Z"
+archived: "2026-09-26T16:42:03Z"
 ---
 
 <!-- summary -->
@@ -25,7 +25,7 @@ Alongside the new content, the patch merges friend-grouping into survivor play, 
 
 ## Features & Content
 
-- Feature - Added 2 new Status Effects; Oblivious (Survivor) and Undetectable (Killer). Currently, these status effects are applied to the new Killer, The Demogorgon, and The Nightmare.
+- Feature - Added 2 new Status Effects; Oblivious (Survivor) and Undetectable (Killer). Currently, these status effects are applied to the new Killer, The Demogorgon, and The Nightmare.
   - Oblivious: The Survivor is oblivious to the imminent danger of a nearby Killer. They do not hear The Killer's terror radius and they are not considered as being within the terror radius for power or perk effects.
   - Undetectable: The Killer enters a stealth-like mode which suppresses their red stain and terror radius, and blocks all Survivor aura-reading abilities.
 - Content - Added a new Killer (The Demogorgon).
@@ -45,14 +45,14 @@ Alongside the new content, the patch merges friend-grouping into survivor play, 
 
 **The Nightmare**
 
-- The Nightmare now applies the Oblivious status effect to Survivors when he brings them into the Dream World and they remain Oblivious for the entire duration that they spend in the Dream World. This is indicated to Survivors by the status effect icon on the right side of the screen. This change makes it so that The Nightmare has a constant 32 meter terror radius, however, Survivors do not hear it when they are in the Dream World. Survivors still hear The Nightmare's lullaby when they are in the Dream World, however, they are no longer affected by terror radius based conditions for perks (such as Coulrophobia or Overwhelming Presence). As a Survivor, if you do not hear The Killer's terror radius, you are not considered to be within The Killer's terror radius.
+- The Nightmare now applies the Oblivious status effect to Survivors when he brings them into the Dream World and they remain Oblivious for the entire duration that they spend in the Dream World. This is indicated to Survivors by the status effect icon on the right side of the screen. This change makes it so that The Nightmare has a constant 32 meter terror radius, however, Survivors do not hear it when they are in the Dream World. Survivors still hear The Nightmare's lullaby when they are in the Dream World, however, they are no longer affected by terror radius based conditions for perks (such as Coulrophobia or Overwhelming Presence). As a Survivor, if you do not hear The Killer's terror radius, you are not considered to be within The Killer's terror radius.
 
 **Misc Gameplay changes**
 
 - Increased the amount of perks available in the players Bloodweb, starting at level 40.
 - Added 2 new score events when escaping and dying as the Obsession in the Survival category.
 - Added a new glow effect to Survivors' health bar when bleeding out, carried and hooked. This is used to indicate that the health bar depletion is paused.
-- Added a debuff icon, similar to The Trappers Honing Stone add-on, when affected by The Nightmare's Red Paint Brush, Swing Chains, Jump Rope and Outdoor Rope add-ons.
+- Added a debuff icon, similar to The Trappers Honing Stone add-on, when affected by The Nightmare's Red Paint Brush, Swing Chains, Jump Rope and Outdoor Rope add-ons.
 - Adjusted the distance at which the player hears the Entity window blocker audio from 16 meters to 8 meters.
 
 **Art changes**
@@ -60,12 +60,12 @@ Alongside the new content, the patch merges friend-grouping into survivor play, 
 - Reworked the hair on Meg's Game Set Match head customization items.
 - Adjusted the dynamic animation on the pony tail for Meg's Teen Angst head customization item.
 - Added the band aid on Meg's knee for the Tempo Runner outfit. Icons have also been updated to reflect this.
-- Reworked the hair on Jake's Sharp Mustache Jake and Old Man Jake head customization items.
+- Reworked the hair on Jake's Sharp Mustache Jake and Old Man Jake head customization items.
 - Optimization of hair materials.
 
 **Survivor perk changes**
 
-- Left Behind: When you are the last Survivor alive in the trial, the hatch aura is revealed to you within a 24/28/32 meter range.
+- Left Behind: When you are the last Survivor alive in the trial, the hatch aura is revealed to you within a 24/28/32 meter range.
 - Dark Sense: Now triggers from any generator completion instead of only generators completed by the perk owner.
 
 **Killer perk changes**
@@ -80,7 +80,7 @@ Alongside the new content, the patch merges friend-grouping into survivor play, 
 - Fixed an issue that caused The Clowns bottles not to have an impact sound when directly hitting a Survivor.
 - Fixed an issue that caused The Hag's Dead Fly Mud add-on not to have the correct teleport range.
 - Fixed an issue that caused The Hag's add-ons to have the wrong power name displayed.
-- Fixed an issue that caused The Shape's add-ons to have the wrong power name displayed.
+- Fixed an issue that caused The Shape's add-ons to have the wrong power name displayed.
 - Fixed an issue that caused The Wraith's weapon to hide auras while Cloaked.
 - Fixed an issue that caused The Spirit's weapon to hide auras when it was deconstructing and invisible.
 - Fixed an issue that visually caused The Ghost Face's model to shrink for a few frames at the end of his mori.

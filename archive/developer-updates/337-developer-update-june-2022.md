@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/337-developer-upda
 author: "Peanits"
 published: "2022-06-20T16:15:29+00:00"
 updated: "2022-06-22T17:16:26+00:00"
-archived: "2026-09-26T02:20:21Z"
+archived: "2026-09-26T16:43:29Z"
 ---
 
 <!-- summary -->
@@ -39,7 +39,7 @@ Collecting all the perks has been an important goal for many players. However, s
 
 In the current system, you must reach level 40 on a given character to unlock all their teachable perks, then find those perks in the Bloodwebs of every other character.
 
-In order to unlock all the new perks on every character by the time next Chapter releases, you would need to play an estimated average of 4.1 hours *every day.*With this new system, that estimate decreases to an average of 1.01 hours each day – and that’s not even factoring in Bloodpoint bonuses from events, perks, or offerings.
+In order to unlock all the new perks on every character by the time next Chapter releases, you would need to play an estimated average of 4.1 hours *every day.* With this new system, that estimate decreases to an average of 1.01 hours each day – and that’s not even factoring in Bloodpoint bonuses from events, perks, or offerings.
 
 In other words, this is the single largest reduction to grind we’ve ever made, cutting it by roughly **75%**.
 
@@ -103,7 +103,7 @@ Matchmaking incentives are unique to you and dependent on your matchmaking ratin
 
 Playing in a group can also net you a bonus if Survivors are needed at the time. However, this will only apply if your group’s average matchmaking rating is currently in demand. We believe these matchmaking incentives will improve both queue times and the matchmaker’s ability to create quality matches.
 
-**Heads up:**Matchmaking incentives will be disabled if cross-play is turned off. As most players play with crossplay on, the system would be highly susceptible to manipulation, and switching roles would have a negligible effect on matchmaking. If you’d like to take advantage of these incentives, we strongly recommend turning on cross-play through the settings menu.
+**Heads up:** Matchmaking incentives will be disabled if cross-play is turned off. As most players play with crossplay on, the system would be highly susceptible to manipulation, and switching roles would have a negligible effect on matchmaking. If you’d like to take advantage of these incentives, we strongly recommend turning on cross-play through the settings menu.
 
 ![GAMEPLAY.png](337-developer-update-june-2022/05-gameplay.png)
 
@@ -113,11 +113,11 @@ Some of the most consistent feedback we receive centers around the perk meta. A 
 
 In the past, we’ve addressed individual perks through various updates, but the odd meta change is not enough to shake things up. In this update, we are reworking and rebalancing 39 perks, meta included. We aim to reduce the reliance on the current meta while also providing many new options to experiment with.
 
-Before we can make meaningful changes to the meta, we needed to look at *why*these perks are so heavily used in the first place. While some perks are popular because of their strength, others are popular because they reduce the likelihood of an “unfun” situation. Therefore, we’ve prepared a few baseline changes to address some of these core gameplay issues.
+Before we can make meaningful changes to the meta, we needed to look at *why* these perks are so heavily used in the first place. While some perks are popular because of their strength, others are popular because they reduce the likelihood of an “unfun” situation. Therefore, we’ve prepared a few baseline changes to address some of these core gameplay issues.
 
 ### Generator Speeds
 
-When looking at the perks most used by Killers, there’s a very clear trend: any perk that helps prevent generators from being powered - *slowdown perks for short* - are favored. **CorruptIntervention**,**Pop Goes the Weasel**,**Scourge Hook: Pain Resonance**, and **Hex: Ruin** are a few notable examples, and each are amongst the most popular perks.
+When looking at the perks most used by Killers, there’s a very clear trend: any perk that helps prevent generators from being powered - *slowdown perks for short* - are favored. **Corrupt** **Intervention**, **Pop Goes the Weasel**, **Scourge Hook: Pain Resonance**, and **Hex: Ruin** are a few notable examples, and each are amongst the most popular perks.
 
 Many players feel like generators are powered too quickly without these perks, so we knew we needed to look at generators before making any perk changes. Slowdown perks should be an option, but not the only option to stay competitive.
 
@@ -125,7 +125,7 @@ Many players feel like generators are powered too quickly without these perks, s
 
 The time it takes to complete a generator hasn’t been changed in a long time, but it’s clear that they are being powered quicker than we’d like. By slowing them down slightly, we hope to give Killers a bigger window to interrupt Survivors, particularly at the beginning of a trial.
 
-**Second:**Kicking a generator will now instantly remove 2.5% of the maximum progress.
+**Second:** Kicking a generator will now instantly remove 2.5% of the maximum progress.
 
 This change makes kicking generators more meaningful, even if a Survivor stops it from regressing shortly after. Additionally, Survivors must now decide whether they should tap a generator to prevent regression, as this allows the Killer to kick it again and knock off even more progress.
 
@@ -133,7 +133,7 @@ With these two changes, we hope to reduce the reliance on passive slowdown mecha
 
 ### General Killer Improvements
 
-The average kill rates (how many Survivors are killed each trial, on average) are a little lower than we’d like – a sentiment echoed by many community members*.*To ensure the Killer feels like an unstoppable force to be feared, we’re making slight improvements to many aspects of Killer gameplay.
+The average kill rates (how many Survivors are killed each trial, on average) are a little lower than we’d like – a sentiment echoed by many community members*.* To ensure the Killer feels like an unstoppable force to be feared, we’re making slight improvements to many aspects of Killer gameplay.
 
 We’ve reduced the time it takes to break walls and pallets by 10% (now 2.34 seconds, previously 2.6). Generators can also be kicked 10% faster than before (now 1.8 seconds, was 2 seconds). While these changes may seem small, a fraction of second can be the difference between hitting a Survivor and them reaching a pallet.
 
@@ -147,7 +147,7 @@ Though slight, these changes affect every Killer and can have ramifications on t
 
 ### Camping & Tunneling
 
-On the Survivor side, there is a clear preference for perks that grant a second chance. **Borrowed Time**, **Decisive Strike**, **Dead Hard,**and perks of that nature help a Survivor avoid certain death, leading to an extreme usage rate.
+On the Survivor side, there is a clear preference for perks that grant a second chance. **Borrowed Time**, **Decisive Strike**, **Dead Hard,** and perks of that nature help a Survivor avoid certain death, leading to an extreme usage rate.
 
 A benefit of these *second chance* perks is how that they help prevent unfun situations, namely being camped or tunneled out of the game (repeatedly being targeted after being unhooked). In order to incentivize a meaningful change to the meta, it was clear that we needed to address these controversial tactics. Second chance perks should be nice to have, not essential to ensuring enjoyable gameplay.
 
@@ -155,7 +155,7 @@ Moving forward, Survivors will receive a 5 second Endurance effect after being u
 
 Additionally, the unhooked Survivor will receive a 7% Haste effect for 5 seconds. This will make them harder to catch and encourage Killers to shift focus to the unhooking Survivor.
 
-Both effects will be cancelled prematurely if the unhooked Survivor performs what we now call a **Conspicuous Action**. These are interactions – *other than being chased –*that would improve your chances of survival. This includes:
+Both effects will be cancelled prematurely if the unhooked Survivor performs what we now call a **Conspicuous Action**. These are interactions – *other than being chased –* that would improve your chances of survival. This includes:
 
 - Repairing a generator
 - Healing yourself or others
@@ -176,13 +176,13 @@ We understand that many of you have grown attached to your favourite perks and l
 
 It’s also important to note that not every meta perk is equal, and each was considered on a case-by-case basis. So, what are Dead by Daylight’s meta perks? By referencing both community feedback and internal data, we can see that some perks stand above the rest.
 
-For Killers: **Barbecue and Chilli**, **Hex: Ruin**,**Pop Goes the Weasel,Corrupt Intervention**, **Tinkerer**, **Hex: No One Escapes Death**, and **Scourge Hook: Pain Resonance**.
+For Killers: **Barbecue and Chilli**, **Hex: Ruin**, **Pop Goes the Weasel,** **Corrupt Intervention**, **Tinkerer**, **Hex: No One Escapes Death**, and **Scourge Hook: Pain Resonance**.
 
 For Survivors: **Dead Hard**, **Borrowed Time**, **Decisive Strike**, **Iron Will**, **Self-Care**, and **Spine Chill.**
 
 We’d like to share these graphs showcasing the ten most frequently used perks for both roles. These charts alone do not explain why the meta exists – for that, we turn to community feedback – but hopefully they provide context for how heavily these perks are used.
 
-![perkusagebymmr-survivors-fullscreen.jpg](337-developer-update-june-2022/07-perkusagebymmr-survivors-fullscreen.jpg)    ![perkusagebymmr-killers.jpg](337-developer-update-june-2022/08-perkusagebymmr-killers.jpg)
+![perkusagebymmr-survivors-fullscreen.jpg](337-developer-update-june-2022/07-perkusagebymmr-survivors-fullscreen.jpg) ![perkusagebymmr-killers.jpg](337-developer-update-june-2022/08-perkusagebymmr-killers.jpg)
 
 ### Killer Meta Perks
 
@@ -484,7 +484,7 @@ Hope is great for those who like to make late game saves, but the limited durati
 
 **Overzealous**
 
-In its current state, cleansing a totem grants you a repair speed bonus of **6%/7%/8%.**Now, that bonus doubles if you cleanse a Hex totem.
+In its current state, cleansing a totem grants you a repair speed bonus of **6%/7%/8%.** Now, that bonus doubles if you cleanse a Hex totem.
 
 ![WGLF.png](337-developer-update-june-2022/47-wglf.png)
 

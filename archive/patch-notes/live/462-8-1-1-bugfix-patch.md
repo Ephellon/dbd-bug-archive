@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/462-8-1-1-bugfix-p
 author: "Peanits"
 published: "2024-07-24T14:25:39+00:00"
 updated: "2024-07-24T14:25:39+00:00"
-archived: "2026-09-26T02:18:16Z"
+archived: "2026-09-26T16:40:22Z"
 ---
 
 <!-- summary -->
@@ -30,20 +30,20 @@ Mount Ormond Resort receives its third map variation and Backwater Swamp maps re
 
 ![PatchNotesDividerSmolWhite.png](462-8-1-1-bugfix-patch/02-patchnotesdividersmolwhite.png)
 
-### Killer Perk Updates
+### Killer Perk Updates
 
 - **Stridor**  
-   Increased the grunts of pain to 30/40/50%. *(was 25/50/50%)*  
-   Increased regular breathing to 15/20/25%. *(was 0/0/25%)*  
-   The bonuses granted by the perk are additive. *(was multiplicative)*
+   Increased the grunts of pain to 30/40/50%. *(was 25/50/50%)*  
+   Increased regular breathing to 15/20/25%. *(was 0/0/25%)*  
+   The bonuses granted by the perk are additive. *(was multiplicative)*
 
 ![PatchNotesDividerSmolWhite.png](462-8-1-1-bugfix-patch/03-patchnotesdividersmolwhite.png)
 
-### Killer Updates
+### Killer Updates
 
 #### The Singularity
 
-- Holding the Ability button when taking control of a Biopod will cause it to automatically aim at the nearest Survivor. Tapping the button will take control normally.
+- Holding the Ability button when taking control of a Biopod will cause it to automatically aim at the nearest Survivor. Tapping the button will take control normally.
 - Reduced the time it takes to destroy a Biopod to 0.75 seconds (was 1.5 seconds).
 
 ![PatchNotesDividerSmolWhite.png](462-8-1-1-bugfix-patch/04-patchnotesdividersmolwhite.png)
@@ -51,9 +51,9 @@ Mount Ormond Resort receives its third map variation and Backwater Swamp maps re
 #### Events & Archives
 
 - Game Mode: 2V8 begins July 25 at 11:00:00 Eastern  
-   Team together as survivors, or, for the first time, as a killer duo.  
+   Team together as survivors, or, for the first time, as a killer duo.  
    Use the new Skill and Class systems to define your loadout.  
-   A single disconnected killer can be replaced by a Killer Bot.
+   A single disconnected killer can be replaced by a Killer Bot.
 - The mode features unique, larger-than-ever Map variations  
    Suffocation Pit  
    Azarov's Resting Place  
@@ -80,22 +80,22 @@ Mount Ormond Resort receives its third map variation and Backwater Swamp maps re
 
 ### Archives
 
-- Fix an issue where the Killer Archive challenge "Knockout (Remix) was not randomizing perk after a disconnect.
+- Fix an issue where the Killer Archive challenge "Knockout (Remix) was not randomizing perk after a disconnect.
 - Fix an issue where "Core Memory" and "Glyph" Archive challenges were not appearing in the Trial after a disconnect.
 
 ### Bots
 
-- Leaving a Custom Game with 4 Survivor Bots correctly ends the match, no longer allowing spectating.
+- Leaving a Custom Game with 4 Survivor Bots correctly ends the match, no longer allowing spectating.
 
 ### Characters
 
-- Fixed an issue that caused some survivors to not play certain idle animations in the lobby.
-- Fixed an issue that caused The Lich's grab locker animation to stutter when grabbing a survivor out of a locker.
-- Fixed an issue that caused survivors to briefly play the downed animation when getting injured the first time.
-- Fixed an issue that caused survivors to become stuck in a floating animation after being released by The Mastermind.
+- Fixed an issue that caused some survivors to not play certain idle animations in the lobby.
+- Fixed an issue that caused The Lich's grab locker animation to stutter when grabbing a survivor out of a locker.
+- Fixed an issue that caused survivors to briefly play the downed animation when getting injured the first time.
+- Fixed an issue that caused survivors to become stuck in a floating animation after being released by The Mastermind.
 - Fixed an issue that caused The Executioner to have his head missing when performing a Mori.
-- Fixed an issue that caused The Executioner's Cage of Atonement ability repeated usages to slow or stop the bleed-out of a Survivor.
-- Fixed an Issue that prevented the Survivors Gate opening animations to be played when a flashlight was equipped
+- Fixed an issue that caused The Executioner's Cage of Atonement ability repeated usages to slow or stop the bleed-out of a Survivor.
+- Fixed an Issue that prevented the Survivors Gate opening animations to be played when a flashlight was equipped
 - Fixed an issue that caused flashlights to be unusable after previously using a Flash Grenade or Firecracker item.
 
 ### Environment/Maps
@@ -106,13 +106,13 @@ Mount Ormond Resort receives its third map variation and Backwater Swamp maps re
 - Fixed an issue in Crotus Prenn Asylum where the Trapper could hide traps under debris
 - Global task cleanup a variety of collisions in different maps
 - Fixed an issue in Midwich School where an object would block players from moving
-- Fix an issue on Backwater Swamp maps where survivors were immune to killer's basic attack while standing next to a boat.
+- Fix an issue on Backwater Swamp maps where survivors were immune to killer's basic attack while standing next to a boat.
 
 ### Perks
 
-- Survivors with Dead Hard or Borrowed Time now correctly get endurance off the hook
-- Resourceful no longer gains progress when picking up an item previously swapped into a Chest by another Survivor
-- Sparks from Hex: Ruin no longer remain on the generator after failing a skill check,
+- Survivors with Dead Hard or Borrowed Time now correctly get endurance off the hook
+- Resourceful no longer gains progress when picking up an item previously swapped into a Chest by another Survivor
+- Sparks from Hex: Ruin no longer remain on the generator after failing a skill check,
 
 ### UI
 
@@ -122,17 +122,17 @@ Mount Ormond Resort receives its third map variation and Backwater Swamp maps re
 ### Misc
 
 - Improved data consistency after finishing a Trial.
-- Survivor no longer T-poses and bounces down from a the hook briefly when the unhook animation is interrupted
-- Fixed an Issue where the Generator count would decrease when a Survivor left the Tally screen of an ongoing Trial
+- Survivor no longer T-poses and bounces down from a the hook briefly when the unhook animation is interrupted
+- Fixed an Issue where the Generator count would decrease when a Survivor left the Tally screen of an ongoing Trial
 - Fixed Gamepad input conflict between the Lobby MatchMaking button (Play or Cancel) and the Lobby Customizations menu when trying to buy an item with Auric Cells.
 
-![PatchNotesDivider.png](462-8-1-1-bugfix-patch/07-patchnotesdivider.png)  **Known Issues**
+![PatchNotesDivider.png](462-8-1-1-bugfix-patch/07-patchnotesdivider.png) **Known Issues**
 
 - Performance issues with FPS drops in 2v8 mode on Switch. *Dev Note: We would like our Switch players to have the opportunity to play 2v8, but we are aware that the performance is not where we would like it to be unfortunately, due to the technical limitations of running a 10 player game.*
 - Holding an item while crafting a Flash grenade from the Flashbang perk will result in the equipped item being lost.
-- Some assets in the Azarov's Resting Place map are missing collision.
+- Some assets in the Azarov's Resting Place map are missing collision.
 - Placeholder tiles may spawn in the Shelter Woods map.
-- Dead Hard perk does not give Endurance if the perk Off The Record is triggered.
+- Dead Hard perk does not give Endurance if the perk Off The Record is triggered.
 
 <!-- nav -->
 &larr; [8.1.0 | Tomb Raider](459-8-1-0-tomb-raider.md) · [Live](../../index.md#live) · [8.1.1a | Hotfix](463-8-1-1a-hotfix.md) &rarr;

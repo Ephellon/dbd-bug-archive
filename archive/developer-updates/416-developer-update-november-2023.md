@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/416-developer-upda
 author: "Peanits"
 published: "2023-11-02T13:55:34+00:00"
 updated: "2023-11-02T13:55:34+00:00"
-archived: "2026-09-26T02:20:15Z"
+archived: "2026-09-26T16:43:11Z"
 ---
 
 <!-- summary -->
@@ -47,11 +47,11 @@ When he’s not working on his next album, he’s following his other passion: T
 
 ### Rapid Fire
 
-The Trickster’s fast-paced attacks are what set him apart from other ranged Killers, so we wanted to focus on this rapid fire ‘machine gun’ gameplay for this update. We asked ourselves: What’s better than throwing a bunch of knives? Answer: *Throwingeven more knives.*
+The Trickster’s fast-paced attacks are what set him apart from other ranged Killers, so we wanted to focus on this rapid fire ‘machine gun’ gameplay for this update. We asked ourselves: What’s better than throwing a bunch of knives? Answer: *Throwing* *even more knives.*
 
-**The Tricksternow throws 4 Blades per second** (was 3 Blades per second) by default, and his **throw rate no longer increases with each Blade thrown**.
+**The Trickster** **now throws 4 Blades per second** (was 3 Blades per second) by default, and his **throw rate no longer increases with each Blade thrown**.
 
-To keep this feeling fair for Survivors, **we have also increased the laceration meter to 8 hits** (was 6), as well as **decreased the time before it decays to 10 seconds**(was 15). This means that the laceration meter will fill at the same rate as before, but successfully dodging Blades will be a little more rewarding.
+To keep this feeling fair for Survivors, **we have also increased the laceration meter to 8 hits** (was 6), as well as **decreased the time before it decays to 10 seconds** (was 15). This means that the laceration meter will fill at the same rate as before, but successfully dodging Blades will be a little more rewarding.
 
 Lastly, recoil when rapidly throwing Blades can be tricky to deal with, particularly for those playing with a controller. Therefore, **we have removed recoil entirely**.
 
@@ -78,13 +78,13 @@ These changes will make Main Event available much more often but require the Kil
 
 Lastly, we have reviewed the effects of a handful of his Add-ons:
 
-- **Memento Blades:*New Effect –*Decreases time between Blade throws by 5%.
+- **Memento Blades:** *New Effect –* Decreases time between Blade throws by 5%.
 - **Inferno Wires:** Increases duration of Main Event by 40% (was 25%).
-- **Ji-Woon’s Autograph:*New Effect -* Decreases the number of Blades required to charge Main Event by 1.
+- **Ji-Woon’s Autograph:** *New Effect -* Decreases the number of Blades required to charge Main Event by 1.
 - **Tequila Moonrock:** Increases duration of Main Event by 60% (was 50%).
-- **Fizz-Spin Soda:*New Effect -* Decreases the number of Blades required to reach Main Event by 2.
+- **Fizz-Spin Soda:** *New Effect -* Decreases the number of Blades required to reach Main Event by 2.
 - **Waiting for You Watch:** Increases the duration of Main Event by 0.25 seconds for each Blade hit while it is active (was 0.4 seconds).
-- **Iridescent Photocard:*New Effect -* For each consecutive Blade hit, gain a stackable 1% Haste effect, up to a maximum of 7%. This bonus is lost when missing a Blade or putting a Survivor into the dying state.
+- **Iridescent Photocard:** *New Effect -* For each consecutive Blade hit, gain a stackable 1% Haste effect, up to a maximum of 7%. This bonus is lost when missing a Blade or putting a Survivor into the dying state.
 
 ![Perks.png](416-developer-update-november-2023/05-perks.png)
 

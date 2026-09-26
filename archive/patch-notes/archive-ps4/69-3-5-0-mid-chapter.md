@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/69-3-5-0-mid-chapt
 author: "Peanits"
 published: "2020-02-28T19:37:42+00:00"
 updated: "2020-03-02T20:10:13+00:00"
-archived: "2026-09-26T02:19:24Z"
+archived: "2026-09-26T16:41:47Z"
 ---
 
 <!-- summary -->
@@ -28,7 +28,7 @@ The update adds a Compendium page to the Archives for revisiting past Tomes, int
 - Feature - Removed the invert camera in-game keybinding and from the Controls menu. This option is still available in the Settings menu.
 - Content - Updated the Treatment Theatre map (see details below in the BALANCE section).
 - Content - Removed Twitch Challenges feature.
-- Content - Removed Dutch & Swedish language support.
+- Content - Removed Dutch & Swedish language support.
 - Content - Disabled the Cursed Legacy thematic lobby.
 
 ## Balance
@@ -52,11 +52,11 @@ The update adds a Compendium page to the Archives for revisiting past Tomes, int
 - "Order" - Class II add-on: Moderately increases the Madness inflicted by Static Blast.
 - "Order" - Carter's Notes add-on: Considerably increases the Madness inflicted by Static Blast.
 - "Calm" - Class I add-on: Slightly increases terror radius while Static Blast is ready. Slightly decreases terror radius while Static Blast is on cooldown.
-- "Calm" - Class II add-on: Moderately increases terror radius while Static Blast is ready. Moderately decreases terror radius while Static Blast is on cooldown.
-- "Calm" - Carter's Notes add-on: Considerably increases terror radius while Static Blast is ready. Considerably decreases terror radius while Static Blast is on cooldown.
+- "Calm" - Class II add-on: Moderately increases terror radius while Static Blast is ready. Moderately decreases terror radius while Static Blast is on cooldown.
+- "Calm" - Carter's Notes add-on: Considerably increases terror radius while Static Blast is ready. Considerably decreases terror radius while Static Blast is on cooldown.
 - Moldy Electrode add-on: Slightly increases charge time and attack range of Shock Therapy.
-- Polished Electrode add-on: Moderately increases charge time and attack range of Shock Therapy.
-- High-Stimulus add-on: Considerably increases charge time and attack range of Shock Therapy.
+- Polished Electrode add-on: Moderately increases charge time and attack range of Shock Therapy.
+- High-Stimulus add-on: Considerably increases charge time and attack range of Shock Therapy.
 - Interview Tape add-on: Rarity changed from Uncommon to Rare.
 - "Obedience" - Carter's Notes add-on: Rarity changed from Very Rare to Rare. Skill checks have a considerable chance to turn counter-clockwise for Survivors with Madness 2/3.
 - Scrapped Tape: Name changed to Iridescent Queen. Rarity changed from Uncommon to Ultra Rare. Survivors hit with Shock Therapy or Static Blast acquire a lingering Static Charge. If a Survivor with Static Charge is within 4 meters of another Survivor, the Survivor receives a shock with identical effects as the Shock Therapy and Static Blast.
@@ -132,7 +132,7 @@ Static Blast is a new mechanic for The Doctor. We removed the Treatment Mode and
 - Fixed an issue that made it impossible to interact with a specific chest of Jigsaw box when it spawned facing a Buddha statue in the Sanctum of Wrath map.
 - Fixed an issue that made it difficult for The Nurse to blink in or around the gazebo tile in the Yamaoka Estate maps.
 - Fixed an issue that made it difficult for The Nurse to blink in or around the shrine tile in the Yamaoka Estate maps.
-- Fixed an issue that made it impossible for The Nurse to blink around the shack tile in the Backwater Swamp maps.
+- Fixed an issue that made it impossible for The Nurse to blink around the shack tile in the Backwater Swamp maps.
 - Fixed an issue that caused the small boats in the Backwater Swamp maps to have incorrect textures.
 - Fixed an issue that caused some trees to have the wrong textures on their base in the Backwater Swamp maps.
 - Fixed an issue that caused the tops of the corn to appear black in the Coldwind Farm maps.
@@ -146,11 +146,11 @@ Static Blast is a new mechanic for The Doctor. We removed the Treatment Mode and
 - Fixed an issue that caused players to be floating above the ground on most tiles in the Mount Ormond Resort map.
 - Fixed an issue that caused multiple Killer belongings to be offset or floating when spawned on the watch tower in the Mount Ormond Resort map.
 - Fixed an issue that caused multiple texture issues on the hills in the Mount Ormond Resort map.
-- Fixed an issue that caused the windows and walls to be misaligned in the 2 story house in the Badham Preschool maps.
+- Fixed an issue that caused the windows and walls to be misaligned in the 2 story house in the Badham Preschool maps.
 - Fixed an issue that caused the boarded windows to appear very dark in the Badham Preschool and Lampkin Lane maps.
 - Fixed an issue that made it impossible to vault through a fence window on one side in the Lampkin Lane map.
 - Fixed an issue that caused a log pile to be lacking hitbox collision, allowing projectiles and The Cannibals chainsaw not to detect collision in the Lampkin Lane map.
-- Moved the generator on the top floor of a 2 story house in the Lampkin Lane map that caused players to undesirably vault the window instead of repair.
+- Moved the generator on the top floor of a 2 story house in the Lampkin Lane map that caused players to undesirably vault the window instead of repair.
 - Darkened the grass texture in the Lampkin Lane map.
 - Misc LOD fixes and improvements.
 

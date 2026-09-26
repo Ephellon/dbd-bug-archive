@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/294-5-2-0-hellrais
 author: "Peanits"
 published: "2021-09-07T14:28:29+00:00"
 updated: "2021-09-07T14:56:02+00:00"
-archived: "2026-09-26T02:18:37Z"
+archived: "2026-09-26T16:40:50Z"
 ---
 
 <!-- summary -->
@@ -28,7 +28,7 @@ The bulk of the patch is performance and stability work—fixes for audio cues, 
 ## Features
 
 - Added an new Killer - The Cenobite
-- Match Results - When players leave a Trial with a Limited Item (Example: The Nemesis's Vaccine) they will now be notified that they do not get to keep it. *It has been consumed by The Entity.*
+- Match Results - When players leave a Trial with a Limited Item (Example: The Nemesis's Vaccine) they will now be notified that they do not get to keep it. *It has been consumed by The Entity.*
 - Large Text Settings - The players can enable this option to enlarge all texts in the HUD, increasing readability.
 - Skill Based Matchmaking will be enabled separately on September 8th at 11:00AM EDT.
 - Visual Update of the Pallet
@@ -69,24 +69,24 @@ The bulk of the patch is performance and stability work—fixes for audio cues, 
 - Fixed an issue that may cause a hitch to occur when using the Dead Hard perk.
 - Fixed an issue that may cause Dead Hard's invulnerability not to coincide with the dash effect.
 - Fixed an issue that rarely caused survivors to keep some status effects, such as Lithe's speed boost, for the remainder of the trial. The icon may now remain, but the effect will not be applied.
-- Fixed an issue that caused bubble indicators not to appear for the Doctor when survivors reach a new madness level, scream while in tier 3 Madness, or fail Snap Out of It skill checks.
+- Fixed an issue that caused bubble indicators not to appear for the Doctor when survivors reach a new madness level, scream while in tier 3 Madness, or fail Snap Out of It skill checks.
 - Fixed an issue that caused the exit gates to be permanently blocked after Victor is removed if he pounces on a Survivor near the exit gate.
 - Fixed an issue that caused survivors not to be revealed by Killer Instinct when performing actions near Victor.
 - Fixed an issue that caused teachable perks to not be unlocked after being bought in the shrine.
-- Fixed an issue that caused bots to not always heal each other when next to a generator.
+- Fixed an issue that caused bots to not always heal each other when next to a generator.
 - Fixed an issue that sometimes caused survivor bots to get stuck in front of a killer blocking a vault point.
 - Fixed an issue that caused player names containing a '#' to get truncated in game and on the tally screen.
 - Fixed an issue that could cause a wrong benevolent emblem to be assigned.
 - Fixed an issue that caused the unbreakable set to be breakable by the cosmetics previews in the store.
 - Fixed an issue that caused purchases to fail when buying multiple items in a row in the store.
-- Fixed an issue that caused frame hitches when a generator is repaired.
+- Fixed an issue that caused frame hitches when a generator is repaired.
 - Fixed an issue that caused frame hitches when a survivor is healed.
-- Fixed an issue that caused the hook count and the generator count to overlap each other when spectating a custom game.
+- Fixed an issue that caused the hook count and the generator count to overlap each other when spectating a custom game.
 - Fixed an issue that caused the pause menu to open and close constantly when holding the Escape key.
 - Fixed an issue that caused the Tricksters' charge indicator to carry over to other Killers after completing a match.
 - Fixed an issue that caused the Prove Thyself icon to be displayed more than once in the HUD
 - Fixed an issue that caused one hatch in the Treatment Theatre that can't be opened with keys
-- Fixed an issue that caused one side of generator cannot be repaired from Hawkins tile
+- Fixed an issue that caused one side of generator cannot be repaired from Hawkins tile
 - Fixed an issue that caused a survivor can remain stuck near one of the building in Dead Dawg Saloon
 - Fixed an issue that caused the Nurse and Cenobite to teleport out of bounds on top of the basement in the east wing
 - Fixed an issue that caused survivor to clip into the stairs when cleansing a totem found under the stairs in some rooms in the Underground Complex
@@ -173,7 +173,7 @@ The bulk of the patch is performance and stability work—fixes for audio cues, 
 - Fixed an issue that caused the Chain Hunt character portrait to disappear when a survivor enters a locker.
 - Fixed an issue that caused a chain to appear on the left side of the screen while controlling the Gateway projectile as the Cenobite.
 - Fixed an issue that caused the Cenobite's weapon to stay visible when going to a menu with the Cenobite selected
-- Fixed an issue that caused the survivor's hand to be bleeding when repairing a generator
+- Fixed an issue that caused the survivor's hand to be bleeding when repairing a generator
 - Fixed an issue that caused an explosion of blood when the survivor are struck by the Killer weapon
 - Fixed an issue that caused the visual effect for the Scourge Hook to not appear on Macmillan Estate map
 - Fixed an issue that caused the VFX to not appear on the Lament Box during the Lobby's animation or when the match start

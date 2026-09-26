@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/215-4-1-1-bug-fix-
 author: "PatBrutal"
 published: "2020-08-05T14:31:05+00:00"
 updated: "2020-08-05T14:31:05+00:00"
-archived: "2026-09-26T02:19:11Z"
+archived: "2026-09-26T16:41:30Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Aura visuals were swapped back to a more legible version after complaints about 
 
 # 4.1.1 | Bug fix Patch
 
-*This article was created from a*[*community discussion*](https://forum.deadbydaylight.com/en/discussion/177553/pc-4-1-1-bugfix-patch)*.*
+*This article was created from a* [*community discussion*](https://forum.deadbydaylight.com/en/discussion/177553/pc-4-1-1-bugfix-patch)*.*
 
 ![411Banner.png](215-4-1-1-bug-fix-patch/01-411banner.png)
 
@@ -47,7 +47,7 @@ Now the Primer Bulb and Spark Plug add-ons will now increase rate at which Chain
 
 **Primer Bulb:**
 
-- Moderately increases the rate at which charges replenish
+- Moderately increases the rate at which charges replenish
 
 Long Guide Bar and The Grease add-ons to increase the maximum rev before triggering a tantrum. This means you have more maneuverability around loops while revving your chainsaw.
 
@@ -87,7 +87,7 @@ Finally, we've updated Speed Limiter to grant you even more bloodpoints on Chain
 **Speed Limiter:**
 
 - Get 100% more points for Chainsaw score events.
-- Updated rarity to Common (from Uncommon)
+- Updated rarity to Common (from Uncommon)
 
 ![PatchNotesDividerSmolWhite.png](215-4-1-1-bug-fix-patch/03-patchnotesdividersmolwhite.png)
 
@@ -174,8 +174,8 @@ Like The Cannibal's Speed Limiter, we've increased the bloodpoint bonus and chan
 - Fixed an issue causing some items to be depleted just before they run out of charges.
 - Fixed an issue causing Nancy Wheeler's facial animations to not play correctly.
 - Fixed an issue causing offerings to be consumed when the player switches characters in an online lobby.
-- Fixed an issue causing the Wraith's **Blind Warrior - Mud** add-on to not inflict blindness.
-- Fixed an issue causing Hillbilly's chainsaw to hit through a counter on the **Treatment Theatre** map.
+- Fixed an issue causing the Wraith's **Blind Warrior - Mud** add-on to not inflict blindness.
+- Fixed an issue causing Hillbilly's chainsaw to hit through a counter on the **Treatment Theatre** map.
 - Fixed an issue causing various problems with the Cannibal's tantrum under poor network conditions.
 
 <!-- nav -->

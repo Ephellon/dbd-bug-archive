@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/512-9-0-2-bugfix-p
 author: "Mandy"
 published: "2025-07-02T14:30:01+00:00"
 updated: "2025-07-02T14:30:01+00:00"
-archived: "2026-09-26T02:18:09Z"
+archived: "2026-09-26T16:40:14Z"
 ---
 
 <!-- summary -->
@@ -27,12 +27,12 @@ Animatronic add-ons were rebalanced: Security Guard’s Badge now reduces effect
 
 ### The Animatronic Add-Ons
 
-- **Security Guard’s Badge**Decreased effect to 25% *(was 50%)*
-- **Streamers**Decreased effect to 15% *(was 20%)*
-- **Party Hat**Increased duration to -20%*(was -50%)*
-- **Bonnie’s Guitar Strings**Decreased undetectable duration to -100% *(was -50%)*
-- **Foxy’s Hook**Increased duration to 6 seconds*(was 3s)*
-- **Endo CPU**Increased break speeds to 40% *(was 25%)*
+- **Security Guard’s Badge** Decreased effect to 25% *(was 50%)*
+- **Streamers** Decreased effect to 15% *(was 20%)*
+- **Party Hat** Increased duration to -20% *(was -50%)*
+- **Bonnie’s Guitar Strings** Decreased undetectable duration to -100% *(was -50%)*
+- **Foxy’s Hook** Increased duration to 6 seconds *(was 3s)*
+- **Endo CPU** Increased break speeds to 40% *(was 25%)*
 
 ![image.png](512-9-0-2-bugfix-patch/02-image.png)
 

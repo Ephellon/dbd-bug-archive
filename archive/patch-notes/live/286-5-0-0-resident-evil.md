@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/286-5-0-0-resident
 author: "Peanits"
 published: "2021-06-15T14:26:44+00:00"
 updated: "2021-06-15T17:29:40+00:00"
-archived: "2026-09-26T02:18:38Z"
+archived: "2026-09-26T16:40:52Z"
 ---
 
 <!-- summary -->
@@ -42,7 +42,7 @@ Balance is tweaked for Demogorgon add-ons, Franklin’s Demise, Lucky Break and 
 
 ## Content
 
-- Trapper Visual Update: New Mesh and Textures for Circus Strongman Blast Furnace and Trapper Based outfits and their variants
+- Trapper Visual Update: New Mesh and Textures for Circus Strongman Blast Furnace and Trapper Based outfits and their variants
 
 ![PatchNotesDividerSmolWhite.png](286-5-0-0-resident-evil/03-patchnotesdividersmolwhite.png)
 
@@ -61,7 +61,7 @@ Balance is tweaked for Demogorgon add-ons, Franklin’s Demise, Lucky Break and 
 - Demogorgon add-on "Rat Tail" bonus increased to 35% (from 25%).
 - The perk "Franklin's Demise" will no longer destroy items. Instead, it will drain charge from items over time and leave them empty.
 - Increased the duration of the perk "Lucky Break" to 40/50/60 seconds (up from 35/40/45).
-- Readjusted maximum turn rate per frame during Blight’s rush at large look angles.
+- Readjusted maximum turn rate per frame during Blight’s rush at large look angles.
 
 ![PatchNotesDivider.png](286-5-0-0-resident-evil/05-patchnotesdivider.png)
 
@@ -69,12 +69,12 @@ Balance is tweaked for Demogorgon add-ons, Franklin’s Demise, Lucky Break and 
 
 **Perks & Powers**
 
-- Fixed an issue that could cause fully regressed generators to remain highlighted in yellow when using the perk Surveillance.
+- Fixed an issue that could cause fully regressed generators to remain highlighted in yellow when using the perk Surveillance.
 - Fixed an issue that could prevent the perk Insidious from deactivating when using the Spirit's phase walk.
 - Fixed an issue that could allow survivors to use emotes or drop items to prevent the Shape's standing mori.
-- Fixed an issue that could prevent the Shape's terror radius from properly updating while in Evil Within tier 3.
+- Fixed an issue that could prevent the Shape's terror radius from properly updating while in Evil Within tier 3.
 - Fixed an issue that could cause inconsistent behaviour when using The Nightmare add-on "Black Box."
-- Fixed an issue that could sometimes cause the terror radius to be heard when the Killer is affected by the Undetectable status effect.
+- Fixed an issue that could sometimes cause the terror radius to be heard when the Killer is affected by the Undetectable status effect.
 - Fixed an issue that prevented the Ranger Med-Kit item from increasing the size of great skill check zones.
 
 **Maps & Collisions**
@@ -90,17 +90,17 @@ Balance is tweaked for Demogorgon add-ons, Franklin’s Demise, Lucky Break and 
 - Fixed an issue that could prevent the Killer from entering the basement in Coal Tower.
 - Fixed an issue that could cause survivors to become stuck in a log in the Pale Rose.
 - Fixed an issue that could display incorrect lighting on crows in Coldwind Farm maps.
-- Fixed an issue that could prevent survivors from repairing one of the sides of a generator in Midwich's locker room.
-- Fixed an issue that could prevent survivors from repairing one of the sides of a generator in Lery's Memorial Institute.
+- Fixed an issue that could prevent survivors from repairing one of the sides of a generator in Midwich's locker room.
+- Fixed an issue that could prevent survivors from repairing one of the sides of a generator in Lery's Memorial Institute.
 - Fixed an issue that could allow the Nurse to blink behind the rubble blocking basement entrances.
 - Fixed an issue that prevent the Killer from going up the ramp in Crotus Prenn Asylum.
 - Fixed an issue that could allow survivors to vault through a closed window on the second floor in Lery's Memorial Institute.
 
 **Animations & Customizations**
 
-- Fixed an issue with David King's 'Hard Headlights' and 'My Body, My Rules' customizations. They created a noticeable gap in his torso when worn together.
-- Fixed an issue with Nemesis's default outfit that could cause him to become invisible.
-- Fixed an issue with The Oni's Demon's End outfit that could prevent him from playing some of his lobby animations.
+- Fixed an issue with David King's 'Hard Headlights' and 'My Body, My Rules' customizations. They created a noticeable gap in his torso when worn together.
+- Fixed an issue with Nemesis's default outfit that could cause him to become invisible.
+- Fixed an issue with The Oni's Demon's End outfit that could prevent him from playing some of his lobby animations.
 - Fixed an issue that could prevent the fire effects in certain Oni outfits from stopping properly when changing outfits.
 - Fixed an issue that could cause Yun-Jin's Midnight Fashionista torso to clip with other leg cosmetics.
 - Fixed an issue that could cause Yun-Jin's Midnight Fashionista pants to clip with other torso cosmetics.
@@ -185,10 +185,10 @@ Balance is tweaked for Demogorgon add-ons, Franklin’s Demise, Lucky Break and 
 - Fixed an issue that could cause an unreachable pallet to spawn in the exit gate in the Raccoon Police Department.
 - Fixed an issue that could cause survivors to become stuck in the police vehicle when escaping the trial in Raccoon Police Department.
 - Fixed an issue that could cause flashlight beams to briefly point in an incorrect direction when activated.
-- Fixed an issue that could cause a conflict between the generator auras from the perks Blast Mine and Repressed Alliance.
+- Fixed an issue that could cause a conflict between the generator auras from the perks Blast Mine and Repressed Alliance.
 - Fixed an issue that could allow survivors to bring vaccine and flashbangs out of the trial in custom matches.
 - Fixed an issue that could cause a crash when loading into swamp maps.
-- Fixed various collision issues in the Raccoon Police Department.
+- Fixed various collision issues in the Raccoon Police Department.
 - Fixed various issues with zombie AI and nav meshes.
 
 <!-- nav -->

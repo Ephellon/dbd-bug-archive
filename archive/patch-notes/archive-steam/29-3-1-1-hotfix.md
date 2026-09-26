@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/29-3-1-1-hotfix"
 author: "Peanits"
 published: "2020-02-28T17:45:42+00:00"
 updated: "2020-03-02T15:26:43+00:00"
-archived: "2026-09-26T02:19:05Z"
+archived: "2026-09-26T16:41:25Z"
 ---
 
 <!-- summary -->
@@ -57,7 +57,7 @@ The Nightmare’s HUD now supports multi-row action prompts, item and offering i
 
 ## Balance
 
-- The Pig: The movement speed curves for crouching and uncrouching have been adjusted to transition between normal speed and crouched speed more smoothly. The overall average speed while performing these interactions has been slightly increased. *\*Note: This change was introduced in 3.1.0 but was originally omitted from the patch notes.*
+- The Pig: The movement speed curves for crouching and uncrouching have been adjusted to transition between normal speed and crouched speed more smoothly. The overall average speed while performing these interactions has been slightly increased. *\*Note: This change was introduced in 3.1.0 but was originally omitted from the patch notes.*
 
 <!-- nav -->
 &larr; [3.0.2 | Hotfix](28-3-0-2-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [3.2.1 | Hotfix](30-3-2-1-hotfix.md) &rarr;

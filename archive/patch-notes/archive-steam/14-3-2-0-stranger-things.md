@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/14-3-2-0-stranger-
 author: "Peanits"
 published: "2020-02-28T17:30:03+00:00"
 updated: "2020-03-02T15:28:10+00:00"
-archived: "2026-09-26T02:19:06Z"
+archived: "2026-09-26T16:41:25Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ Stranger Things adds the Demogorgon killer, Nancy Wheeler and Steve Harrington s
 
 ## Features & Content
 
-- Feature - Added 2 new Status Effects; Oblivious (Survivor) and Undetectable (Killer). Currently, these status effects are applied to the new Killer, The Demogorgon, and The Nightmare.
+- Feature - Added 2 new Status Effects; Oblivious (Survivor) and Undetectable (Killer). Currently, these status effects are applied to the new Killer, The Demogorgon, and The Nightmare.
   - Oblivious: The Survivor is oblivious to the imminent danger of a nearby Killer. They do not hear The Killer's terror radius and they are not considered as being within the terror radius for power or perk effects.
   - Undetectable: The Killer enters a stealth-like mode which suppresses their red stain and terror radius, and blocks all Survivor aura-reading abilities.
 - Content - Added a new Killer (The Demogorgon).
@@ -42,14 +42,14 @@ Stranger Things adds the Demogorgon killer, Nancy Wheeler and Steve Harrington s
 
 **The Nightmare**
 
-- The Nightmare now applies the Oblivious status effect to Survivors when he brings them into the Dream World and they remain Oblivious for the entire duration that they spend in the Dream World. This is indicated to Survivors by the status effect icon on the right side of the screen. This change makes it so that The Nightmare has a constant 32 meter terror radius, however, Survivors do not hear it when they are in the Dream World. Survivors still hear The Nightmare's lullaby when they are in the Dream World, however, they are no longer affected by terror radius based conditions for perks (such as Coulrophobia or Overwhelming Presence). As a Survivor, if you do not hear The Killer's terror radius, you are not considered to be within The Killer's terror radius.
+- The Nightmare now applies the Oblivious status effect to Survivors when he brings them into the Dream World and they remain Oblivious for the entire duration that they spend in the Dream World. This is indicated to Survivors by the status effect icon on the right side of the screen. This change makes it so that The Nightmare has a constant 32 meter terror radius, however, Survivors do not hear it when they are in the Dream World. Survivors still hear The Nightmare's lullaby when they are in the Dream World, however, they are no longer affected by terror radius based conditions for perks (such as Coulrophobia or Overwhelming Presence). As a Survivor, if you do not hear The Killer's terror radius, you are not considered to be within The Killer's terror radius.
 
 **Misc Gameplay changes**
 
 - Increased the amount of perks available in the players Bloodweb, starting at level 40.
 - Added 2 new score events when escaping and dying as the Obsession in the Survival category.
 - Added a new glow effect to Survivors' health bar when bleeding out, carried and hooked. This is used to indicate that the health bar depletion is paused.
-- Added a debuff icon, similar to The Trappers Honing Stone add-on, when affected by The Nightmare's Red Paint Brush, Swing Chains, Jump Rope and Outdoor Rope add-ons.
+- Added a debuff icon, similar to The Trappers Honing Stone add-on, when affected by The Nightmare's Red Paint Brush, Swing Chains, Jump Rope and Outdoor Rope add-ons.
 - Adjusted the distance at which the player hears the Entity window blocker audio from 16 meters to 8 meters.
 
 **Art changes**
@@ -57,12 +57,12 @@ Stranger Things adds the Demogorgon killer, Nancy Wheeler and Steve Harrington s
 - Reworked the hair on Meg's Game Set Match head customization items.
 - Adjusted the dynamic animation on the pony tail for Meg's Teen Angst head customization item.
 - Added the band aid on Meg's knee for the Tempo Runner outfit. Icons have also been updated to reflect this.
-- Reworked the hair on Jake's Sharp Mustache Jake and Old Man Jake head customization items.
+- Reworked the hair on Jake's Sharp Mustache Jake and Old Man Jake head customization items.
 - Optimization of hair materials.
 
 **Survivor perk changes**
 
-- Left Behind: When you are the last Survivor alive in the trial, the hatch aura is revealed to you within a 24/28/32 meter range.
+- Left Behind: When you are the last Survivor alive in the trial, the hatch aura is revealed to you within a 24/28/32 meter range.
 - Dark Sense: Now triggers from any generator completion instead of only generators completed by the perk owner.
 
 **Killer perk changes**
@@ -77,7 +77,7 @@ Stranger Things adds the Demogorgon killer, Nancy Wheeler and Steve Harrington s
 - Fixed an issue that caused The Clowns bottles not to have an impact sound when directly hitting a Survivor.
 - Fixed an issue that caused The Hag's Dead Fly Mud add-on not to have the correct teleport range.
 - Fixed an issue that caused The Hag's add-ons to have the wrong power name displayed.
-- Fixed an issue that caused The Shape's add-ons to have the wrong power name displayed.
+- Fixed an issue that caused The Shape's add-ons to have the wrong power name displayed.
 - Fixed an issue that caused The Wraith's weapon to hide auras while Cloaked.
 - Fixed an issue that caused The Spirit's weapon to hide auras when it was deconstructing and invisible.
 - Fixed an issue that visually caused The Ghost Face's model to shrink for a few frames at the end of his mori.
@@ -159,9 +159,9 @@ Stranger Things adds the Demogorgon killer, Nancy Wheeler and Steve Harrington s
 
 - The recovery time when missing a Shred attack has been increased by 0.25 seconds, making a total of 2.25 seconds.
 - The Demogorgon cannot attack or charge Of the Abyss during the cancel of Of The Abyss.
-- Increased the distance at which a Portal can be placed near Exit switches from 1 meter to 4 meters.
+- Increased the distance at which a Portal can be placed near Exit switches from 1 meter to 4 meters.
 - Killer Instinct will no longer trigger on hooked Survivors.
-- Reduced The Demogorgon's walking footsteps sound attenuation from 19 meters to 16 meters.
+- Reduced The Demogorgon's walking footsteps sound attenuation from 19 meters to 16 meters.
 - Reduced Portal sound range (spawning, cleansing, opening, closing) from 16 meters to 8 meters.
 - Reworked the audio on Nancy and Steve.
 - Added a vignette on screen for Survivors while in contact with a portal.
@@ -170,7 +170,7 @@ Stranger Things adds the Demogorgon killer, Nancy Wheeler and Steve Harrington s
 **Add-on changes**
 
 - Black Heart's effect that decreases charge time for Pounce Attack & Upside Down interaction was changed to "Slightly decrease the Shredded Attack miss cooldown (-0.25sec)" instead.
-- Mew's Guts' effect that decreases charge time for Pounce Attack & Upside Down interaction was changed to "Slightly decrease the Shredded Attack miss cooldown (-0.25sec)" instead.
+- Mew's Guts' effect that decreases charge time for Pounce Attack & Upside Down interaction was changed to "Slightly decrease the Shredded Attack miss cooldown (-0.25sec)" instead.
 - Unique Wedding Ring: Change the rarity from Ultra Rare to Very Rare.
 
 **The Underground Complex**
@@ -224,11 +224,11 @@ Stranger Things adds the Demogorgon killer, Nancy Wheeler and Steve Harrington s
 - Fixed an issue that made it impossible to cleanse a totem on the Arch tile in the Temple of Purgation map.
 - Fixed an issue that made it impossible for The Nurse to blink on the catwalk on the first floor of the Rift Lab in The Underground Complex map.
 - Fixed multiple issues that made it impossible to interact with generators from one side in The Underground Complex map.
-- Fixed multiple instances that prevented Killers from picking up Survivors underneath stair cases in The Underground Complex map.
+- Fixed multiple instances that prevented Killers from picking up Survivors underneath stair cases in The Underground Complex map.
 - Fixed multiple instances that prevented Survivors from sabotaging specific hooks in The Underground Complex map.
 - Fixed an issue that made it impossible to cleanse a specific totem in The Underground Complex map.
 - Fixed an issue that caused the Entity VFX not to appear on certain hooks in The Underground Complex map.
-- Fixed an issue that caused a hatch to spawn in a closed door in between 2 tiles in The Underground Complex map.
+- Fixed an issue that caused a hatch to spawn in a closed door in between 2 tiles in The Underground Complex map.
 - Fixed an issue that caused The Spirit's hair to have transparency and LOD issues.
 - Fixed an issue that caused hair textures to render poorly on Low quality graphic settings.
 - Fixed an issue that caused players to appear in the lobby in default clothing when joining the lobby through an invite.

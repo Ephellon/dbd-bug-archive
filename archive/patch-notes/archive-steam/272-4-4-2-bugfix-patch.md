@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/272-4-4-2-bugfix-p
 author: "Peanits"
 published: "2020-12-16T15:26:50+00:00"
 updated: "2020-12-16T18:27:16+00:00"
-archived: "2026-09-26T02:19:13Z"
+archived: "2026-09-26T16:41:34Z"
 ---
 
 <!-- summary -->
@@ -33,7 +33,7 @@ Victor’s recall timer has been reduced to 30 seconds after detaching from Char
 
 - Fixed an issue where the store UI would not update properly when Outfit sales are active
 - Fixed an issue on multiple maps, where there are tiles with extremely bright lighting in various colors.
-- Fixed an issue that caused the Flashlight to work inconsistently over pallets and other objects in the environment.
+- Fixed an issue that caused the Flashlight to work inconsistently over pallets and other objects in the environment.
 - Fixed an issue that caused Barbecue & Chili's bonus bloodpoints not to be granted when controlling Victor when the game ends.
 - Fixed an issue that caused the Twins not to recover their add-ons when using the Black Ward offering and controlling Victor when the game ends.
 - Fixed an issue that caused Victor to always count as being in close hook proximity for Chaser emblem scoring.

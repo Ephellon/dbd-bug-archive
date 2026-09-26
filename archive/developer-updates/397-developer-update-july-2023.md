@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/397-developer-upda
 author: "Peanits"
 published: "2023-07-04T15:28:06+00:00"
 updated: "2023-07-04T17:04:12+00:00"
-archived: "2026-09-26T02:20:16Z"
+archived: "2026-09-26T16:43:16Z"
 ---
 
 <!-- summary -->
@@ -63,7 +63,7 @@ When The Onryo is Demanifested, she can Project herself to any powered TV around
 
 - **Projecting to a TV now applies ¾ of a stack of Condemned to *all Survivors not carrying a Cursed Tape*** (was 1 stack to nearby Survivors).
 - **The time a TV is disabled after The Onryo Projects to it has been reduced to 70 seconds** (was 100 seconds). This can be further reduced using Add-ons.
-- **The time a TV is disabled after a Survivor removes the Cursed Tape has been increased to 90 seconds**(was 60 seconds).
+- **The time a TV is disabled after a Survivor removes the Cursed Tape has been increased to 90 seconds** (was 60 seconds).
 - **Projection now has a 15 second cooldown.** Since there is no longer a range limit on the Condemned effect, we need to limit how frequently this can happen.
 
 Combined, these changes make it much easier to spread Condemned while using your Power in a way that feels natural.
@@ -139,7 +139,7 @@ Hangman’s Trick finds itself in a tricky spot. Its range is fairly small given
 
 Territorial Imperative’s short aura reading duration can make it easy to miss. Add on to that the fairly large distance requirement and it quickly becomes very tricky to use effectively.
 
-**We have increased the duration of the aura reveal to 4/5/6 seconds**(was 3).**We have also lowered the distance the Killer must be from the basement entrance to 24 meters**(was 32 meters). **To give Survivors an opportunity to sneak in for a rescue, we have increased the cooldown of Territorial Imperative to 45 seconds.**
+**We have increased the duration of the aura reveal to 4/5/6 seconds** (was 3). **We have also lowered the distance the Killer must be from the basement entrance to 24 meters** (was 32 meters). **To give Survivors an opportunity to sneak in for a rescue, we have increased the cooldown of Territorial Imperative to 45 seconds.**
 
 **Remember Me**
 
@@ -179,13 +179,13 @@ Few things are more crushing that installing Blast Mine on a generator only for 
 
 Wiretap is in a similar position to Blast Mine, but we also wanted to take the opportunity to standardize how these sorts of perks work.
 
-**We have increased the duration of Wiretap to 100/110/120 seconds**(was 60/70/80 seconds).**We have also normalized the activation requirements and text descriptions between Blast Mine and Wiretap, meaning Wiretap will now activate after 50% worth of generator repairs** (was 33%).
+**We have increased the duration of Wiretap to 100/110/120 seconds** (was 60/70/80 seconds). **We have also normalized the activation requirements and text descriptions between Blast Mine and Wiretap, meaning Wiretap will now activate after 50% worth of generator repairs** (was 33%).
 
 **Saboteur**
 
 The hook-breaking heroes out there will know that even a fraction of a second can make the difference between sabotaging the hook and getting hit. When you swing in for the save, you want to get the job done as quickly as possible.
 
-**We have reduced the time it takes to sabotage a hook without a toolbox to 2.3 seconds**(was 2.5 seconds). **We have also adjusted the cooldown for the perk to 70/65/60 seconds**(was 90/75/60 seconds) **so Tier 1 & 2 versions of the Perk can be used more frequently**.
+**We have reduced the time it takes to sabotage a hook without a toolbox to 2.3 seconds** (was 2.5 seconds). **We have also adjusted the cooldown for the perk to 70/65/60 seconds** (was 90/75/60 seconds) **so Tier 1 & 2 versions of the Perk can be used more frequently**.
 
 **Clairvoyance**
 
@@ -239,13 +239,13 @@ This Add-on – which increases The Spirit’s movement speed while using Yamaok
 
 This Add-on triggers Killer Instinct on Survivors who come within 4 meters of The Spirit while she is in Yamaoka’s Haunting. Any information about a Survivor’s location is crucial while The Spirit is using her Power, and given its fairly large range, this Add-on has been overperforming.
 
-**We have reduced the Killer Instinct range of Dried Cherry Blossom to 3 meters**(was 4 meters).
+**We have reduced the Killer Instinct range of Dried Cherry Blossom to 3 meters** (was 4 meters).
 
 **Yakuyoke Amulet, Shiawase Amulet and Kaiun Talisman**
 
 Each of these Add-ons increase the duration of Yamaoka’s Haunting. However, since The Spirit’s Power recharges over a set time regardless of duration, this also meant that these Add-ons had a hidden secondary effect of making her Power recharge faster.
 
-**These Add-ons will no longer cause Yamaoka’s Haunting to recharge faster.**Their respective duration increases remain unchanged.
+**These Add-ons will no longer cause Yamaoka’s Haunting to recharge faster.** Their respective duration increases remain unchanged.
 
 **Origami Crane**
 

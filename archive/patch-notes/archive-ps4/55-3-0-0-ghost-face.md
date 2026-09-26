@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/55-3-0-0-ghost-fac
 author: "Peanits"
 published: "2020-02-28T18:57:55+00:00"
 updated: "2020-03-02T19:51:07+00:00"
-archived: "2026-09-26T02:19:21Z"
+archived: "2026-09-26T16:41:43Z"
 ---
 
 <!-- summary -->
@@ -72,23 +72,23 @@ Ghost Face joins the roster, bringing new lobby character rotation and fresh men
 
 **Survivor perk changes:**
 
-- Streetwise: Increased efficiency values to 15%/20%/25% up from 10%/12%/15%.
-- Windows of Opportunity: Reduced cooldown values to 30/25/20 seconds down from 60/50/40.
+- Streetwise: Increased efficiency values to 15%/20%/25% up from 10%/12%/15%.
+- Windows of Opportunity: Reduced cooldown values to 30/25/20 seconds down from 60/50/40.
 - Mettle of Man: We have changed the condition for getting tokens. It is no longer for being hit by a Killer's basic attack. Instead earn tokens by taking "Protection Hits". It still requires 3 tokens to activate. Survivors will still need to be injured in order to trigger the Endurance effect and avoid being put into the dying state. This means that Mettle of Man will require more work from the Survivor to trigger Mettle of Man's Endurance status effect.
 - Unbreakable: Increased recovery speed to 25%/30%/35% up from 15%/20%/25%.
 
 **Killer perk changes:**
 
 - Pop Goes The Weasel: Changed Regression values from 15%/20%/25% to a flat 25% across all tiers. Changed window of activation from 30 seconds to 40/50/60 seconds.
-- Territorial Imperative: Reduced cooldown to 30/25/20 seconds down from 60/45/30.
-- Enduring: Updated Enduring to a flat reduction in pallet stun duration of 40/45/50% rather than an increase to stun recovery speed of 55/65/75%. Enduring will now only affect pallet stuns.
+- Territorial Imperative: Reduced cooldown to 30/25/20 seconds down from 60/45/30.
+- Enduring: Updated Enduring to a flat reduction in pallet stun duration of 40/45/50% rather than an increase to stun recovery speed of 55/65/75%. Enduring will now only affect pallet stuns.
 
 ## Bug Fixes
 
 **Killer related:**
 
 - Fixed an issue that could cause Survivors to become stuck for the rest of the match when The Trapper placed a bear trap under them while they were already performing an interaction.
-- Fixed an issue that caused The Clown's Redhead's Pinky Finger add-on to apply the Exposed status effect on Survivors without a direct bottle hit.
+- Fixed an issue that caused The Clown's Redhead's Pinky Finger add-on to apply the Exposed status effect on Survivors without a direct bottle hit.
 - Fixed an issue that could cause permanent Exhaustion when affected by The Clown's gas bottles with the Solvent Jug add-on equipped.
 - Fixed an issue that caused The Clown to clip through most vaulting windows.
 - Fixed an issue that caused The Shape's camera to become slanted and allowed him to walk on assets when cancelling his mori.
@@ -113,7 +113,7 @@ Ghost Face joins the roster, bringing new lobby character rotation and fresh men
 - Fixed an issue that allowed Survivor to cleanse the hill totem from on top of the rocks in the Mount Ormond Resort map.
 - Fixed an issue that caused the Entity not to appear on a specific hook in The Temple of Purgation map.
 - Fixed an issue that made it impossible for The Nurse to blink around the exterior of the temple tile in the Temple of Purgation map.
-- Fixed an issue that made it impossible for The Nurse to blink around the exit tiles in the Temple of Purgation map.
+- Fixed an issue that made it impossible for The Nurse to blink around the exit tiles in the Temple of Purgation map.
 - Misc LOD fixes.
 
 **Perks:**
@@ -127,7 +127,7 @@ Ghost Face joins the roster, bringing new lobby character rotation and fresh men
 
 - Fixed an issue that could cause a disconnect or make it impossible to execute a mori when the Survivor was recovering.
 - Fixed an issue that caused only Billy's hair to show in the Jigsaw box aura when within 5 meters.
-- Fixed an issue that caused Claudette with the Side-parted Curls head customization not to trigger Hag traps.
+- Fixed an issue that caused Claudette with the Side-parted Curls head customization not to trigger Hag traps.
 - Adjusted the bear trap interaction zone that caused Survivors to snap into the disarm trap animation.
 - Fixed an issue that caused Survivors vaulting over windows during the Dream State transition to clip through the window.
 - Fixed an issue that caused the Entity blocker to sometimes not block windows.
@@ -135,7 +135,7 @@ Ghost Face joins the roster, bringing new lobby character rotation and fresh men
 - Fixed an issue that caused the Survivor camera to become offset when interrupted entering a locker by the Killer.
 - Fixed an issue that caused Survivors to appear floating in lobbies and on the tally screen.
 - Adjusted the flashlight items aim when held by Ash's Ashy Slashy hand customization item to be more in line with regular cosmetics.
-- Adjusted the smoke opacity LODs that caused the hatch and Hex totem VFX to be visible from far away.
+- Adjusted the smoke opacity LODs that caused the hatch and Hex totem VFX to be visible from far away.
 - Fixed an issue that caused the notification bubble for a Survivor stepping in a bear trap to be misplaced and wobble.
 - Fixed an issue that caused Survivors to lose their Offerings if the Killer disconnected right after the offering burn screen.
 - Fixed an issue that caused the Sealed Envelope Offering to not be personal.
@@ -155,7 +155,7 @@ Ghost Face joins the roster, bringing new lobby character rotation and fresh men
 - Fixed an issue that caused The Shape's stinger theme to play and overlap the menu music.
 - Adjusted Ash's VO in the menus.
 - Fixed multiple audio issues related to the environments.
-- Minor localization and translation improvements.
+- Minor localization and translation improvements.
 
 **UI & HUD:**
 

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/380-developer-upda
 author: "Peanits"
 published: "2023-03-17T13:55:25+00:00"
 updated: "2023-05-31T17:51:01+00:00"
-archived: "2026-09-26T02:20:18Z"
+archived: "2026-09-26T16:43:20Z"
 ---
 
 <!-- summary -->
@@ -63,7 +63,7 @@ That said, this will limit how often The Skull Merchant can deploy new drones. T
 
 First, to ensure Survivors cannot hold a Claw Trap indefinitely to deny her from using her Power, *Claw Traps will now be instantly destroyed as soon as their battery expires*, and *Claw Trap batteries will no longer refill when entering an active zone*. This way, Claw Traps will *always* return after a set amount of time.
 
-Second,*drones will enter an unhackable state whenever a Survivor with a Claw Trap is near*. This will prevent a single Survivor from running around and disabling every drone, meaning the Killer will always have some combination of four Claw Traps or drones available to them. Combined with the changes to Claw Traps mentioned above, The Skull Merchant will always get value out of her ability whether it’s through deployed drones or traps.
+Second, *drones will enter an unhackable state whenever a Survivor with a Claw Trap is near*. This will prevent a single Survivor from running around and disabling every drone, meaning the Killer will always have some combination of four Claw Traps or drones available to them. Combined with the changes to Claw Traps mentioned above, The Skull Merchant will always get value out of her ability whether it’s through deployed drones or traps.
 
 ### Add-ons
 
@@ -79,7 +79,7 @@ Since this Add-on has been incorporated into the Killer’s base kit, it needed 
 
 *This Add-on has been changed to Ultra Rare to match its high effectiveness.*
 
-*Since Claw Traps now provide a Haste effect, this would make the Killer**very fast**at the start of the match in addition to revealing the Survivors’ positions. Therefore, we have reduced the duration of the Claw Traps Survivors spawn with to 40% of the normal battery life (was 150%).*
+*Since Claw Traps now provide a Haste effect, this would make the Killer* ***very fast*** *at the start of the match in addition to revealing the Survivors’ positions. Therefore, we have reduced the duration of the Claw Traps Survivors spawn with to 40% of the normal battery life (was 150%).*
 
 **Prototype Rotor**
 

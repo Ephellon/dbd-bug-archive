@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/406-7-2-1-bugfix-p
 author: "Peanits"
 published: "2023-09-05T14:28:19+00:00"
 updated: "2023-09-05T14:28:19+00:00"
-archived: "2026-09-26T02:18:22Z"
+archived: "2026-09-26T16:40:30Z"
 ---
 
 <!-- summary -->
@@ -44,13 +44,13 @@ Update Releases: 11AM ET
 - The Xenomorph no longer has an animation stutter upon entering a tunnel.
 - The Xenomorph is no longer able to perform a Tail Attack against Survivors who have escaped through the Exit Gate.
 - Survivors now correctly play an animation when interrupted from interacting with the Flame Turret.
-- The Xenomorph is no longer able to see Generators, Lockers, and Survivors during transitions in and out of tunnels.
+- The Xenomorph is no longer able to see Generators, Lockers, and Survivors during transitions in and out of tunnels.
 - The Oni Outfit "The Minotaur" is no longer missing horns and teeth during a Mori.
 - When a Survivor sabotages a Hook, their head no longer clips inside the Hook.
 - Fixed an issue that caused Ellen Ripley's Very Rare 'Out Of Uniform' t-shirt to clip through her arm during certain animations.
 - Fixed an issue where The Trickster's arm would clip into the camera with certain Cosmetics after a Survivor escapes from his grasp.
 - Fixed an issue with The Cenobite Add-On "Greasy Black Lens", which would fail to reveal the Survivor hit by a possessed chain.
-- Fixed an issue with The Doctor madness effect where some of the Doctor illusions would sometimes spawn in the floor or outside of the levels.
+- Fixed an issue with The Doctor madness effect where some of the Doctor illusions would sometimes spawn in the floor or outside of the levels.
 - Fixed an issue where The Xenomorph was able to see Survivors in Tunnels, located on 2nd floor, if they were standing in the path
 - Fixed an issue where The Xenomorph tail was missing while in Crawler Mode
 
@@ -64,8 +64,8 @@ Update Releases: 11AM ET
 - Fixed an issue with the vaulting in Junkyard that affected the animation of the female characters
 - Fixed an issue where a branch is floating over the Skull Merchant base
 - Fixed an issue where small branches were blocking killers with chainsaws in Eyrie of Crows
-- Fixed an issue where the killer could not grab a survivor off a generator in Thompson's House map
-- Fixed an issue where Killers could not grab survivor from a generator in Badham Preschool map
+- Fixed an issue where the killer could not grab a survivor off a generator in Thompson's House map
+- Fixed an issue where Killers could not grab survivor from a generator in Badham Preschool map
 - Fixed an issue in Nostromo Wreckage map where an invisible collision would block characters
 - Fixed an issue in Dead Dawg Saloon where an entrance was not blocked as intended
 - Fixed an issue where the lighting on Haddonfield and in Nostromo Wreckage would change after The Xenomorph exited the Tunnels
@@ -75,7 +75,7 @@ Update Releases: 11AM ET
 
 - Footsteps are no longer silent when walking while Light-Footed is equipped.
 - Blood Rush is no longer active after being downed by the Killer.
-- Blast Mine can no longer be placed on a Generator blocked by Repressed Alliance.
+- Blast Mine can no longer be placed on a Generator blocked by Repressed Alliance.
 
 ### UI
 

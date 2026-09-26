@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/518-stats-9th-anni
 author: "ThatRyanB"
 published: "2025-08-08T17:00:24+00:00"
 updated: "2025-08-08T17:00:24+00:00"
-archived: "2026-09-26T02:20:04Z"
+archived: "2026-09-26T16:42:43Z"
 ---
 
 <!-- summary -->

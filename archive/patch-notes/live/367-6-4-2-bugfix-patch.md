@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/367-6-4-2-bugfix-p
 author: "Omnia"
 published: "2022-12-06T15:29:31+00:00"
 updated: "2022-12-15T14:09:37+00:00"
-archived: "2026-09-26T02:18:28Z"
+archived: "2026-09-26T16:40:39Z"
 ---
 
 <!-- summary -->
@@ -31,7 +31,7 @@ The Knight’s guards now apply the Killer’s default 2.5% generator regression
 
 **THE KNIGHT**
 
-- **BUFF:** When Guards damage Generators, they now apply the Killer’s default **2.5%** regression loss. This regression is not affected by Perks.
+- **BUFF:** When Guards damage Generators, they now apply the Killer’s default **2.5%** regression loss. This regression is not affected by Perks.
 
 ![patchnotesdivider copie.png](367-6-4-2-bugfix-patch/02-patchnotesdivider-copie.png)
 
@@ -56,22 +56,22 @@ The Knight’s guards now apply the Killer’s default 2.5% generator regression
 
 **SURVIVOR PERKS**
 
-- The Knight’s Guardia Compagnia no longer makes the Terror Radius indicator disappear from the Spine Chill icon.
+- The Knight’s Guardia Compagnia no longer makes the Terror Radius indicator disappear from the Spine Chill icon.
 - Spine Chill no longer grants a repair bonus when a Survivor is in the line of sight of The Knight’s Path Drawing Orb.
 
 **MAPS**
 
 - Beef Tallow Mixture (Map Offering for **The Decimated Borgo Realm**) has been re-enabled.
-- A hook-free dead zone in one corner of the **Temple of Purgation**Map has been fixed.
-- A Totem no longer accidentally spawns inside a Locker in **The Game** Map.
-- Removed impassable spaces on the**Ironworks of Misery.**
-- An invisible collision spot in the **Autohaven Wrecker's** Realm has been fixed.
-- Fixed an irregular Pallet spawn issue in the **Autohaven Wrecker's**Realm.
-- Removed spaces where Killers could not pass between objects (trees, rocks) on the **Crotus Prenn Asylum Map**.
-- A maze tile on the **Garden of Joy**Map no longer accidentally spawns without windows.
-- Reduced the number of Pallets in **TheShattered Square** Map.
-- Fixed an issue where two Pallets spawned at the same time in **TheShattered Square**Map.
-- Edge objects now spawn as intended in **TheShattered Square**Map.
+- A hook-free dead zone in one corner of the **Temple of Purgation** Map has been fixed.
+- A Totem no longer accidentally spawns inside a Locker in **The Game** Map.
+- Removed impassable spaces on the **Ironworks of Misery.**
+- An invisible collision spot in the **Autohaven Wrecker's** Realm has been fixed.
+- Fixed an irregular Pallet spawn issue in the **Autohaven Wrecker's** Realm.
+- Removed spaces where Killers could not pass between objects (trees, rocks) on the **Crotus Prenn Asylum Map**.
+- A maze tile on the **Garden of Joy** Map no longer accidentally spawns without windows.
+- Reduced the number of Pallets in **The** **Shattered Square** Map.
+- Fixed an issue where two Pallets spawned at the same time in **The** **Shattered Square** Map.
+- Edge objects now spawn as intended in **The** **Shattered Square** Map.
 
 **MISC**
 

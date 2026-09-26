@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/503-stats-january-
 author: "ThatRyanB"
 published: "2025-04-22T14:58:32+00:00"
 updated: "2025-04-22T14:58:32+00:00"
-archived: "2026-09-26T02:20:05Z"
+archived: "2026-09-26T16:42:49Z"
 ---
 
 <!-- summary -->

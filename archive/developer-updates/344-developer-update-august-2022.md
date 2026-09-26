@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/344-developer-upda
 author: "Peanits"
 published: "2022-07-29T15:19:45+00:00"
 updated: "2022-08-01T15:59:22+00:00"
-archived: "2026-09-26T02:20:20Z"
+archived: "2026-09-26T16:43:27Z"
 ---
 
 <!-- summary -->
@@ -27,7 +27,7 @@ Earlier this month, we launched our largest balance patch to date, making change
 
 Now that we’ve had a chance to see how things play out, we have prepared our first follow-up round of changes to fine tune the balance. Please note that the tweaks listed here are by no means the only changes we may make: We’ll continue monitoring and adjusting things based on your feedback.
 
-![Perks.png](344-developer-update-august-2022/02-perks.png)    ![Thanatophobia.png](344-developer-update-august-2022/03-thanatophobia.png)
+![Perks.png](344-developer-update-august-2022/02-perks.png) ![Thanatophobia.png](344-developer-update-august-2022/03-thanatophobia.png)
 
 ### Thanatophobia
 
@@ -43,7 +43,7 @@ This change will make Thanatophobia nearly as potent as before if all Survivors 
 
 With the Endurance status effect updated, Mettle of Man continues to be an outlier. While it provides a similar effect to Endurance, the perk currently does not deactivate when performing a Conspicuous Action. This is by design, which is reflected in the perk’s description not mentioning Endurance: Since activating Mettle of Man is so difficult, it wouldn’t be fair to lose your hard-earned protection so easily. We wanted to clear up this inconsistency and give Mettle of Man a slight rework while we were at it.
 
-*Taking 2 protection hits will now activate Mettle of Man, granting the Endurance status effect. While the Endurance effect is active, your aura will be revealed to the Killer when they are further than 12/14/16m away.*Like other Endurance effects, performing a Conspicuous Action will cause it to deactivate prematurely, and it will not protect you from entering the dying state if you already have Deep Wounds.
+*Taking 2 protection hits will now activate Mettle of Man, granting the Endurance status effect. While the Endurance effect is active, your aura will be revealed to the Killer when they are further than 12/14/16m away.* Like other Endurance effects, performing a Conspicuous Action will cause it to deactivate prematurely, and it will not protect you from entering the dying state if you already have Deep Wounds.
 
 With this change, Mettle of Man will now work exactly like other Endurance perks, forcing the Survivor to make a choice between saving their Mettle of Man and working on generators. Since this will make it a little weaker, we have reduced the number of protection hits required to compensate. The aura reading effect is also active immediately rather than after you heal allowing the Killer to anticipate Mettle of Man and plan accordingly. We believe these changes will make the perk both easier to use and more interesting to play around.
 

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/325-5-6-0-sadako-r
 author: "Peanits"
 published: "2022-03-08T15:59:27+00:00"
 updated: "2022-03-08T22:43:12+00:00"
-archived: "2026-09-26T02:18:33Z"
+archived: "2026-09-26T16:40:45Z"
 ---
 
 <!-- summary -->
@@ -45,7 +45,7 @@ The bulk of the patch is stability work—network-latency skill-check fixes, num
 
 ## Bug Fixes
 
-- Fixed an issue that may cause valid skill checks to be rejected under high network latency.
+- Fixed an issue that may cause valid skill checks to be rejected under high network latency.
 - Fixed an issue that caused the Nurse to be stuck and unable to move after a grab attempt after blinking is invalidated.
 - Fixed an issue that caused the AI controlled Meg to fail to drop the pallet in the killer and survivor tutorials, making it impossible to complete them.
 - Fixed an issue that caused survivors' positions not to be revealed if they are crouching when the Cenobite picks up the lament configuration.
@@ -58,7 +58,7 @@ The bulk of the patch is stability work—network-latency skill-check fixes, num
 - Fixed an issue that caused survivors to be able to destroy Victor while inside a locker.
 - Fixed an issue that may cause the Nemesis' zombies to be attracted to survivor in the dying state.
 - Fixed an issue that caused the Distortion perk to consume tokens when standing inside Boon: Shadow Step's area.
-- Fixed an issue that caused completed generators to be blocked by the Dead Man's Switch perk.
+- Fixed an issue that caused completed generators to be blocked by the Dead Man's Switch perk.
 - Fixed an issue that caused the Broken status icon not to appear when under the effect of the Renewal perk.
 - Fixed an issue that caused the Haste status icon not to appear when under the effect of the Guardian perk.
 - Fixed an issue that allowed users to unlink unbreakable outfits in the store.
@@ -66,7 +66,7 @@ The bulk of the patch is stability work—network-latency skill-check fixes, num
 - Fixed an issue that caused some of the Trickster's subtitles to disappear too early.
 - Fixed an issue where pressing Alt+Tab in the keybinding menu would cause any further key remapping to not work properly. (Stadia only)
 - Fixed an issue that sometimes caused a wrong cosmetic to be displayed after switching a killer's outfit in the store.
-- Fixed an issue that caused survivors to keep breathing loudly when stopping to open a chest after running.
+- Fixed an issue that caused survivors to keep breathing loudly when stopping to open a chest after running.
 - Fixed an issue that caused the Chase Music for the Trapper to occasionally cut out during gameplay.
 - Fixed an issue that allowed players to play the game with Stretched Resolution to gain an unfair advantage.
 - Tentatively fixed an issue that causes players to disconnect during Steam maintenance.
@@ -76,7 +76,7 @@ The bulk of the patch is stability work—network-latency skill-check fixes, num
 - Fixed an issue that caused the Built to Last perk to continue to recharge items when a survivor is grabbed from the locker by the killer.
 - Fixed an issue that allowed survivors to interaction with totems while inside lockers.
 - Fixed an issue that caused the Overcome perk to trigger when the survivor has the Endurance status.
-- Fixed an issue that caused generator auras to appear incorrectly when using the Hex: Ruin and Surveillance perks together.
+- Fixed an issue that caused generator auras to appear incorrectly when using the Hex: Ruin and Surveillance perks together.
 - Fixed an issue that caused the Oppression skill check to remove progression.
 - Fixed an issue that may cause the audio to be delayed on the opening trailer video. (Xbox One/XSX/Stadia only)
 - Fixed an issue that caused certain purchased DLC-related cosmetics to not be unlocked. (EGS only)
@@ -102,7 +102,7 @@ The bulk of the patch is stability work—network-latency skill-check fixes, num
 
 ### Fixes from PTB
 
-- Fixed an issue that caused the Brand New Part add-on to trigger the Merciless Storm skill checks.
+- Fixed an issue that caused the Brand New Part add-on to trigger the Merciless Storm skill checks.
 - Fixed an issue that caused the first skill check of any kind to be red after failing a skill check from Merciless Storm.
 - Fixed an issue that cause the external perk icon for the Empathic Connection perk to be missing.
 - Fixed an issue that made it possible to bypass the constrained aspect ratio black bars
@@ -125,7 +125,7 @@ The bulk of the patch is stability work—network-latency skill-check fixes, num
 - Fixed an issue that caused survivors in lockers to clip with weapon ammo assets when grabbed by The Onryō.
 - Fixed an issue that caused The Onryō to be able to attack immediately after demanifesting when lagging.
 - Fixed an issue that caused the Survivor death animation to play a second time at the end of The Onryō's Mori or Mini Mori.
-- Fixed an issue that caused The Onryō not to receive a Psychic Torsion score event when performing a Condemn Mini Mori.
+- Fixed an issue that caused The Onryō not to receive a Psychic Torsion score event when performing a Condemn Mini Mori.
 - Fixed an issue that caused The Onryō's red stain to be out of sync with her visibility after entering the physical world.
 - Fixed an issue that caused The Onryō to enter an invalid state when teleporting after manifesting under conditions of network lag.
 - Fixed an issue that caused the black smoke to be missing when The Onryō is Undetectable.
@@ -143,12 +143,12 @@ The bulk of the patch is stability work—network-latency skill-check fixes, num
 - Decreased Manifest charge time to 1.5 seconds (was 2.5 seconds)
 - Decreased Demanifest charge time to 1.5 seconds (was 2.5 seconds)
 - Decreased maximum visibility range to 24 meters (was 32 meters)
-- Decreased Terror Radius to 24 meters (was 32 meters)
+- Decreased Terror Radius to 24 meters (was 32 meters)
 - Decreased passive Comdemned fill time per segment when holding the Videotape to 25 seconds (was 30 seconds)
 - Decreased the amount of Condemned segments removed when inserting the tape to 3 (was 4)
 - Add-on - Yoichi's Fishing Net - Decreased time modifier to 12% (was 20%)
 - Smoothed the movement transition when Manifesting
-- Changed some of The Onryō's VFX to help with photo sensitivity concerns
+- Changed some of The Onryō's VFX to help with photo sensitivity concerns
 - Reduced the intensity of The Onryō’s attack VFX
 - Reduced the intensity of the Condemned VFX
 - Reduced the intensity of screen effects in the lobby
@@ -159,7 +159,7 @@ The bulk of the patch is stability work—network-latency skill-check fixes, num
 - Perk - Parental Guidance
 - Duration decreased to 5/6/7 seconds (was 8/9/10 seconds)
 - Perk - Corrective Action
-- Updated description to clarify that the perk only effects normal skill checks
+- Updated description to clarify that the perk only effects normal skill checks
 
 *Dev Note: Corrective Actions already had this behavior, it just wasn't clearly stated in the description on the PTB.*
 
@@ -167,12 +167,12 @@ The bulk of the patch is stability work—network-latency skill-check fixes, num
 
 ## Known Issues
 
-- Charms are misplaced when Survivors repair generators.
+- Charms are misplaced when Survivors repair generators.
 - The Haddonfield map and the Strode Realty Key offering remain disabled.
 - In certain resolutions, objective, notification and other indicators can appear outside of the in-game viewport.
 - On PS4, in the Killer tutorial, there is a ~1m delay before Meg dies on the hook.
 - It is possible for the Onryo's model to bend towards the ground.
-- Two Generators can't be damaged by the Killer from one side in Backwater Swamp.
+- Two Generators can't be damaged by the Killer from one side in Backwater Swamp.
 - Missing UI and Survivor model when coming back to Lobby from the Archives. Re-entering the lobby (going to the Store and back, Main Menu and back, etc.) should correct the issue.
 - Wake Up perk has been disabled due to a bug.
 

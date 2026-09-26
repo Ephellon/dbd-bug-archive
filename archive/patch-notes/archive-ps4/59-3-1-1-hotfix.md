@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/59-3-1-1-hotfix"
 author: "Peanits"
 published: "2020-02-28T19:00:42+00:00"
 updated: "2020-03-02T19:55:40+00:00"
-archived: "2026-09-26T02:19:22Z"
+archived: "2026-09-26T16:41:44Z"
 ---
 
 <!-- summary -->
@@ -62,7 +62,7 @@ William “Bill” Overbeck becomes a new survivor and four Left 4 Dead outfits 
 
 ## Balance
 
-- The Pig: The movement speed curves for crouching and uncrouching have been adjusted to transition between normal speed and crouched speed more smoothly. The overall average speed while performing these interactions has been slightly increased. *\*Note: This change was introduced in 3.1.0 but was originally omitted from the patch notes.*
+- The Pig: The movement speed curves for crouching and uncrouching have been adjusted to transition between normal speed and crouched speed more smoothly. The overall average speed while performing these interactions has been slightly increased. *\*Note: This change was introduced in 3.1.0 but was originally omitted from the patch notes.*
 
 <!-- nav -->
 &larr; [3.1.0 | Mid-Chapter](58-3-1-0-mid-chapter.md) · [Archive: PS4](../../index.md#archive-ps4) · [3.1.2 | Hotfix](60-3-1-2-hotfix.md) &rarr;

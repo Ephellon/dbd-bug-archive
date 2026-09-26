@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/349-6-2-0-resident
 author: "Peanits"
 published: "2022-08-30T14:57:55+00:00"
 updated: "2022-08-30T16:48:59+00:00"
-archived: "2026-09-26T02:18:30Z"
+archived: "2026-09-26T16:40:42Z"
 ---
 
 <!-- summary -->
@@ -29,25 +29,25 @@ The remainder of the patch is a sweep of bug fixes covering matchmaking, cosmeti
 
 - New Killer - The Mastermind
   - New Perk: Superior Anatomy
-    - When a survivor performs a fast vault within 8 meters of you, this perk activates. The next time you vault a window, your vaulting speed is increased by 30%/35%/40%. This perk deactivates after vaulting a window. This perk has a 30 seconds cool-down.
+    - When a survivor performs a fast vault within 8 meters of you, this perk activates. The next time you vault a window, your vaulting speed is increased by 30%/35%/40%. This perk deactivates after vaulting a window. This perk has a 30 seconds cool-down.
   - New Perk: Awakened Awareness
     - When carrying a survivor, you can see the aura of other survivors within 16/18/20 meters of your position.
   - New Perk: Terminus
-    - When exit gates are powered, this perk activates. While the perk is active, injured, downed and hooked survivors are inflicted with the broken status effect until exit gates are open. When exit gates are open, survivors will stay broken for an additional 20/25/30 seconds.
+    - When exit gates are powered, this perk activates. While the perk is active, injured, downed and hooked survivors are inflicted with the broken status effect until exit gates are open. When exit gates are open, survivors will stay broken for an additional 20/25/30 seconds.
 - New Survivor - Ada Wong
   - New Perk: Wiretap
-    - After repairing Generators for a total of 33%, this perk activates. After repairing a Generator for at least 3 seconds, press the Ability button to install a spy trap, which stays active for 60/70/80 seconds. The aura of the trapped generator is revealed in yellow to all Survivors. When the Killer comes within 14 meters of the trapped generator, their aura is revealed to all Survivors. Damaging the generator destroys the Wiretap.
+    - After repairing Generators for a total of 33%, this perk activates. After repairing a Generator for at least 3 seconds, press the Ability button to install a spy trap, which stays active for 60/70/80 seconds. The aura of the trapped generator is revealed in yellow to all Survivors. When the Killer comes within 14 meters of the trapped generator, their aura is revealed to all Survivors. Damaging the generator destroys the Wiretap.
   - New Perk: Reactive Healing
     - When another survivor loses a health state in a 32 meters radius around you while you are injured, instantly increase your healing progression by 40%/45%/50% of the missing healing progression.
   - New Perk: Low Profile
     - When you become the last Survivor standing, this perk activates. Hide your scratch marks, pools of blood, and grunts of pain for 70/80/90 seconds.
 - New Survivor - Rebecca Chambers
   - New Perk: Better Than New
-    - Upon completing a healing action on another survivor, the targeted survivor gets a 12%/14%/16% speed boost to healing, opening chests, and cleansing and blessing Totems. Survivors keep the bonus until they lose a health state.
+    - Upon completing a healing action on another survivor, the targeted survivor gets a 12%/14%/16% speed boost to healing, opening chests, and cleansing and blessing Totems. Survivors keep the bonus until they lose a health state.
   - New Perk: Reassurance
-    - When within a 6 meter radius around a hooked survivor, use the Active Ability Button 2 to pause their struggle progression for 20/25/30 seconds. If they are on the struggle phase, it also pauses the Struggle Skill Checks. Reassurance can only be triggered once per survivor per hook instance.
+    - When within a 6 meter radius around a hooked survivor, use the Active Ability Button 2 to pause their struggle progression for 20/25/30 seconds. If they are on the struggle phase, it also pauses the Struggle Skill Checks. Reassurance can only be triggered once per survivor per hook instance.
   - New Perk: Hyperfocus
-    - After hitting a great Skill Check while repairing or healing, this perk gains 1 token, up to 6 tokens. Each token increases the chance of Skill Check trigger by 4%, the Skill Check cursor speed by 4% and the bonus progression for great Skill Checks by 10%/20%/30% of its base value. The perk loses all tokens in case of normal Skill Check success, Skill Check fail, or if you stop performing the action by any means.
+    - After hitting a great Skill Check while repairing or healing, this perk gains 1 token, up to 6 tokens. Each token increases the chance of Skill Check trigger by 4%, the Skill Check cursor speed by 4% and the bonus progression for great Skill Checks by 10%/20%/30% of its base value. The perk loses all tokens in case of normal Skill Check success, Skill Check fail, or if you stop performing the action by any means.
 - New Features: Streamer Options (PC Only)
   - These privacy options are available under the Privacy section of the General tab in the Options menu, and are intended to help reduce targeting and harassment of players who stream the game.
   - Anonymous Mode
@@ -79,18 +79,18 @@ The remainder of the patch is a sweep of bug fixes covering matchmaking, cosmeti
 
 - Mettle of Man
   - Reverted to its previous behavior prior to 6.1.2
-    - After you earn 3 Protection Hit scoring events, Mettle of Man activates. Once activated, the next occasion that would put you into the dying state from the injured state is ignored. The next time you heal back to full health, your aura will be revealed to the Killer when you are further than 12/14/16 meters from the Killer. Mettle of Man will deactivate the next time you are put into the dying state. Increases your chances to be the Killer’s Obsession.
+    - After you earn 3 Protection Hit scoring events, Mettle of Man activates. Once activated, the next occasion that would put you into the dying state from the injured state is ignored. The next time you heal back to full health, your aura will be revealed to the Killer when you are further than 12/14/16 meters from the Killer. Mettle of Man will deactivate the next time you are put into the dying state. Increases your chances to be the Killer’s Obsession.
   - Removed the Endurance icon from the status effect display, since the perk does not use Endurance
 - Blast Mine
   - Changed the behaviour when a placed mine times out
-    - If the mine times out without being triggered, the entire perk deactivates and the Survivor will need to repair a generator to re-earn the mine (previously, a timed out mine would be allow the Survivor to immediately place another one)
+    - If the mine times out without being triggered, the entire perk deactivates and the Survivor will need to repair a generator to re-earn the mine (previously, a timed out mine would be allow the Survivor to immediately place another one)
 
 ![PatchNotesDividerSmolWhite.png](349-6-2-0-resident-evil-project-w/03-patchnotesdividersmolwhite.png)
 
 ## Content
 
 - Update on Racoon City Police Station map:
-  - Raccoon City Police Station East Wing & Raccoon City Police Station West Wing
+  - Raccoon City Police Station East Wing & Raccoon City Police Station West Wing
 - Increased the duration of the Endurance & Haste effects after a Survivor is unhooked to 10 seconds (from 5 seconds).
 - Increased the strength of the Haste effect after a Survivor is unhooked to 10% (from 7%).
 - Reduced the cost of Bloodweb nodes by about 33%.
@@ -109,7 +109,7 @@ The remainder of the patch is a sweep of bug fixes covering matchmaking, cosmeti
 - Fixed an issue that caused equipped cosmetics to revert to default after previewing a different cosmetic piece.
 - Fixed an issue that caused The Survivor to float in front of the Killer after being grabbed while performing various actions.
 - Fixed an issue that caused Survivors to be misaligned with the Huntress when interrupted while vaulting towards the Killer.
-- Fixed an issue that caused broken animation when repairing a generator.
+- Fixed an issue that caused broken animation when repairing a generator.
 - Fixed an issue that made it possible to intentionally delay loading into the trial, causing Corrupt Intervention to start late.
 - Fixed an issue that caused the aura hiding effect of the Knock Out perk to apply to survivors not downed by a basic attack.
 - Fixed an issue that may cause the killer to still be able to kill survivors after the Hex: Devour Hope totem is cleansed when used with Hex: Undying.
@@ -127,10 +127,10 @@ The remainder of the patch is a sweep of bug fixes covering matchmaking, cosmeti
 - Fixed an issue that caused survivors not to receive a score event after burning the Spirit’s husk with a flashlight.
 - Fixed an issue that caused survivors to receive a Burn score event after blinding the Wraith with the flashlight while uncloaked.
 - Fixed an issue that caused survivors not to receive progress towards the Medic achievement when healing a survivor using the For the People perk.
-- Fixed an issue that caused survivors to gain progress towards the Milk ’n’ Cookies achievement by opening the basement chest without picking up the item.
+- Fixed an issue that caused survivors to gain progress towards the Milk ’n’ Cookies achievement by opening the basement chest without picking up the item.
 - Fixed an issue that caused survivors sacrificed at the Executioner’s Cage of Atonement not to grant progress towards the Reverent archive challenge.
 - Fixed an issue that caused killers to remain shortly in the falling animation after landing after vaulting from a certain height.
-- Fixed an issue that caused certain survivor charms to be misplaced when repairing a generator.
+- Fixed an issue that caused certain survivor charms to be misplaced when repairing a generator.
 - Fixed an issue that caused a sound effect to be missing when selecting an outfit in the customization menu.
 - Fixed an issue that caused tooltips to overlap other controls in the Lobby on consoles.
 - Fixed an issue that caused the virtual cursor's to position itself to the center of the screen when entering a killer lobby with a controller.
@@ -172,7 +172,7 @@ The remainder of the patch is a sweep of bug fixes covering matchmaking, cosmeti
   - Low Profile
     - Added grunts of pain to the effects affected by the perk
   - Better Than New
-    - Removed the generator repair boost
+    - Removed the generator repair boost
     - Added totem blessing to the list of effects
     - Increased speed boost to 12%/14%/16% (was 6%)
     - Removed effect duration: Survivors now keep the bonus until they lose a health state
@@ -208,7 +208,7 @@ The remainder of the patch is a sweep of bug fixes covering matchmaking, cosmeti
 - Fixed an issue that may cause survivors to be instantly dropped when grabbed near the end of the Virulent Bound’s range.
 - Fixed an issue that caused the Deep Wound timer to be reset when a survivor infected with Uroboros Virus is slammed into a survivor already affected by Deep Wound.
 - Fixed an issue that caused the Mastermind’s Bound Vault not to trigger on pallets currently being reset through the Any Means Necessary perk.
-- Fixed an issue that caused survivors to gain bloodpoints for dodging the Mastermind’s Virulent Bound when on a hook.
+- Fixed an issue that caused survivors to gain bloodpoints for dodging the Mastermind’s Virulent Bound when on a hook.
 - Fixed an issue that caused the Global Saturation score to be granted four times at the start of the trial when equipped with the Iridescent Uroboros Vial add-on.
 - Fixed an issue that caused the Green Herb add-on not to increase infection the first time a survivor is hit by Virulent Bound.
 - Fixed an issue that caused the exposed effect given by the Starstruck perk to last indefinitely when triggered by the Mastermind’s Virulent Bond.
@@ -216,19 +216,19 @@ The remainder of the patch is a sweep of bug fixes covering matchmaking, cosmeti
 - Fixed an issue that caused the Superior Anatomy perk’s effect to be applied to the Mastermind’s Bound Vault and the Legion’s Frenzy pallet and window vaults.
 - Fixed an issue that caused the Terminus perk icon to remain lit up after the perk’s effect is over.
 - Fixed an issue that caused the Terminus perk icon not to be displayed when affected by the perk’s Broken effect.
-- Fixed an issue that caused the Hyperfocus perk not to lose tokens when succeeding Merciless Storm skill checks.
+- Fixed an issue that caused the Hyperfocus perk not to lose tokens when succeeding Merciless Storm skill checks.
 - Fixed an issue that caused the Hyperfocus perk tokens not to reset when interrupting the Heal interaction.
 - Fixed an issue that caused the Reactive Healing perk not to give healing progression when a survivor is damaged by the Plague’s Vile Purge.
 - Fixed an issue that caused the Reactive Healing perk not to give healing progression when a survivor is put into the dying state.
 - Fixed an issue that caused the killer aura revealed by the Wiretap perk to be visible when the survivor is affect by the Blindness effect.
 - Fixed an issue that caused survivors to be unable to install traps from the Wiretap and Blast Mine perk when fully charged using the Brand New Part add-on.
-- Fixed an issue that made it possible for several survivors to install Wiretap traps on the same generator.
+- Fixed an issue that made it possible for several survivors to install Wiretap traps on the same generator.
 - Fixed an issue that caused the Low Profile perk to have an incorrect duration.
 - Fixed an issue that caused the Reassurance effect to continue when a survivor is unhooked and hooked for a second time.
 - Fixed an issue that caused the Reassurance interaction not be available when already in range of the hook when a survivor is hooked.
 - Fixed an issue that caused the Better Than New external perk icon not to be displayed when the survivor is not performing actions.
-- Fixed an issue that may cause the dedicated server to crash when opening a chest when equipped with Ace in the Hole perk.
-- Fixed an issue that caused traps on all generators to be destroyed when the killer damages any single generator.
+- Fixed an issue that may cause the dedicated server to crash when opening a chest when equipped with Ace in the Hole perk.
+- Fixed an issue that caused traps on all generators to be destroyed when the killer damages any single generator.
 - Fixed an issue that caused the Rite of the Mastermind not to gain progress.
 
 ![PatchNotesDivider.png](349-6-2-0-resident-evil-project-w/07-patchnotesdivider.png)

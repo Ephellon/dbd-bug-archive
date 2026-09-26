@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/540-stats-first-lo
 author: "ThatRyanB"
 published: "2026-03-27T18:00:05+00:00"
 updated: "2026-03-27T18:20:51+00:00"
-archived: "2026-09-26T02:20:02Z"
+archived: "2026-09-26T16:42:30Z"
 ---
 
 <!-- summary -->

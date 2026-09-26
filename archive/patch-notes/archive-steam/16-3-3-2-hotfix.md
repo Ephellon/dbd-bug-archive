@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/16-3-3-2-hotfix"
 author: "Peanits"
 published: "2020-02-28T17:31:06+00:00"
 updated: "2020-03-02T15:32:11+00:00"
-archived: "2026-09-26T02:19:07Z"
+archived: "2026-09-26T16:41:26Z"
 ---
 
 <!-- summary -->
@@ -24,7 +24,7 @@ The Shape, Ghost Face and Nightmare received latency-related fixes, and the Plun
 ## Bug Fixes
 
 - Fixed an issue that caused players not to lose pips when disconnecting from a match by accepting an invite to a private lobby.
-- Fixed an issue that made it impossible to gain progress on Rite of the Last Breath daily ritual.
+- Fixed an issue that made it impossible to gain progress on Rite of the Last Breath daily ritual.
 - Fixed an issue that could cause a crash while in the Collection tab of the Archives menu.
 - Fixed an issue that could cause a crash when entering the Archives.
 - Fixed an issue that caused level 4 of the Tome to appear when opening the Tome if level 1 was fully complete.

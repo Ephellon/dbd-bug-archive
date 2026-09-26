@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/494-developer-upda
 author: "ThatRyanB"
 published: "2025-03-06T15:00:10+00:00"
 updated: "2025-03-07T16:58:19+00:00"
-archived: "2026-09-26T02:20:06Z"
+archived: "2026-09-26T16:42:52Z"
 ---
 
 <!-- summary -->
@@ -44,12 +44,12 @@ Read on for all the details:
 
 ![DevUpdate_Legion.png](494-developer-update-march-2025/04-devupdate-legion.png)
 
-- **\[CHANGE\]**Decreased fatigue time to 2.5 seconds *(was 3)*
-- **\[CHANGE\]**Increased fatigue move speed to 2.3 m/s *(was 2.07)*
+- **\[CHANGE\]** Decreased fatigue time to 2.5 seconds *(was 3)*
+- **\[CHANGE\]** Increased fatigue move speed to 2.3 m/s *(was 2.07)*
 - **\[CHANGE\]** Feral Frenzy lasts for 11 seconds *(was 10)*
-- **\[CHANGE\]**Feral Frenzy cooldown is now 15 seconds *(was 20)*
-- **\[CHANGE\]**Movement speed earned by hit during Feral Frenzy is now 0.24 *(was 0.20)*
-- **\[CHANGE\]**Adjusted several Add-Ons.
+- **\[CHANGE\]** Feral Frenzy cooldown is now 15 seconds *(was 20)*
+- **\[CHANGE\]** Movement speed earned by hit during Feral Frenzy is now 0.24 *(was 0.20)*
+- **\[CHANGE\]** Adjusted several Add-Ons.
 
 *DEV NOTE: To account for reduced mending times, we’ve adjusted Legion’s kit to ease the downtime between power uses. By extending Feral Frenzy and adjusting its cooldown and movement bonus, the goal is to provide Legion with a slight buff to their ramp-up as they weaken Survivors, giving them more opportunities to lean on their mobility. Then, with the adjustments to fatigue, they’ll be able to get back into chases quicker after Feral Frenzy ends to better close the deal.*
 
@@ -59,15 +59,15 @@ Read on for all the details:
 
 ![DevUpdate_Xenomorph.png](494-developer-update-march-2025/06-devupdate-xenomorph.png)
 
-- **\[CHANGE\]** Increased tail attack charge time to .35 seconds*(was .2)*
-- **\[CHANGE\]**Increased tail attack charge sound volume for survivors
+- **\[CHANGE\]** Increased tail attack charge time to .35 seconds *(was .2)*
+- **\[CHANGE\]** Increased tail attack charge sound volume for survivors
 - **\[CHANGE\]** Reduced missed attack cooldown time to 2.5 seconds *(was 3)*
-- **\[CHANGE\]**Increased the Killer Instinct range when exiting a tunnel to 16m *(was 12m)*
+- **\[CHANGE\]** Increased the Killer Instinct range when exiting a tunnel to 16m *(was 12m)*
 - **\[CHANGE\]** Decreased the time it takes to get out of a tunnel to 1.5 second *(was 2.25)*
-- **\[CHANGE\]**Increased amount of fire needed to burn The Xenomorph out of crawler mode to 175 *(was 100)*
+- **\[CHANGE\]** Increased amount of fire needed to burn The Xenomorph out of crawler mode to 175 *(was 100)*
 - **\[CHANGE\]** Increased delay before the Xenomorph’s heat starts to dissipate to 15s *(was 1)*
 - **\[CHANGE\]** Decreased the Xenomorph’s heat dissipation rate to 2/s *(was 25)*
-- **\[CHANGE\]**Adjusted several Add-Ons to align with these changes.
+- **\[CHANGE\]** Adjusted several Add-Ons to align with these changes.
 
 *DEV NOTE: In its current state, Xenomorph's tail attack tends to be a little too difficult to dodge, with a short window between wind-up and attack. To give Survivors more of a chance to anticipate and react to it, we’ve adjusted its charge time and made the wind-up louder. To balance this out, we’ve reduced the cooldown on misses so Xenomorph can keep pressure up.*
 
@@ -92,7 +92,7 @@ Read on for all the details:
 - **\[CHANGE\]** Increased the Blight’s Terror Radius to 40 *(was 32)*
 - **\[CHANGE\]** Decreased the Pig’s Terror Radius to 24 *(was 32)*
 - **\[CHANGE\]** Decreased the Ghost Face’s Terror Radius to 24 *(was 32)*
-- **\[CHANGE\]**Decreased the Skull Merchant’s Terror Radius to 24*(was 32)*
+- **\[CHANGE\]** Decreased the Skull Merchant’s Terror Radius to 24 *(was 32)*
 
 *DEV NOTE: We’ve adjusted several Killer Terror Radiuses to better fit with their intended playstyles. Killers with high mobility that can zip across the map at high speeds have had their radiuses increased to give Survivors a greater chance to react to their approach.*
 
@@ -120,10 +120,10 @@ Read on for all the details:
 
 ![DevUpdate_ForsakenBoneyard.png](494-developer-update-march-2025/14-devupdate-forsakenboneyard.png)
 
-- **\[NEW\]**Expanded the Forsaken Boneyard realm with a Shack-focused map
-- **\[NEW\]**Updated the existing map tiles to improve navigation
+- **\[NEW\]** Expanded the Forsaken Boneyard realm with a Shack-focused map
+- **\[NEW\]** Updated the existing map tiles to improve navigation
 
-![DevUpdate_ForsakenBoneyard_1.png](494-developer-update-march-2025/15-devupdate-forsakenboneyard-1.png)    ![DevUpdate_ForsakenBoneyard_2.png](494-developer-update-march-2025/16-devupdate-forsakenboneyard-2.png)    ![DevUpdate_ForsakenBoneyard_3.png](494-developer-update-march-2025/17-devupdate-forsakenboneyard-3.png)
+![DevUpdate_ForsakenBoneyard_1.png](494-developer-update-march-2025/15-devupdate-forsakenboneyard-1.png) ![DevUpdate_ForsakenBoneyard_2.png](494-developer-update-march-2025/16-devupdate-forsakenboneyard-2.png) ![DevUpdate_ForsakenBoneyard_3.png](494-developer-update-march-2025/17-devupdate-forsakenboneyard-3.png)
 
 *DEV NOTE: We’re expanding the Forsaken Boneyard realm and map pool with a new map layout with the Killer Shack at its center, featuring updated map tiles. Specifically, we’ve heard your feedback that Eyrie of Crows can be difficult to navigate at times thanks to collisions with certain aesthetic elements.*
 
@@ -141,18 +141,18 @@ Read on for all the details:
 
 **DECEPTION**
 
-- **\[CHANGE\]**Increased the time during which you leave no scratch marks to 5 seconds *(was 3)*
+- **\[CHANGE\]** Increased the time during which you leave no scratch marks to 5 seconds *(was 3)*
 - **\[CHANGE\]** Decreased the cooldown to 25/20/15 seconds *(was 30/25/20)*
 
 **DANCE WITH ME**
 
-- **\[CHANGE\]**Increased the time during which you leave no scratch marks to 5 seconds *(was 3)*
+- **\[CHANGE\]** Increased the time during which you leave no scratch marks to 5 seconds *(was 3)*
 - **\[CHANGE\]** Decreased the cooldown to 25/20/15 seconds *(was 30/25/20)*
 
 **RED HERRING**
 
 - **\[CHANGE\]** Decreased the minimum generator repair time needed to trigger this perk to 1 second *(was 3)*
-- **\[CHANGE\]**Decreased the cooldown to 25/20/15 seconds*(was 60/50/40)*
+- **\[CHANGE\]** Decreased the cooldown to 25/20/15 seconds *(was 60/50/40)*
 
 *DEV NOTE: While these Perks specialize in misdirecting the Killer, we’ve found that their cooldowns don’t match their value. By reducing their cooldowns and increasing the duration of their effects (specifically Deception and Dance With Me), we hope to give these off-meta Perks a better chance at value in deception-based builds.*
 
@@ -168,7 +168,7 @@ Read on for all the details:
 
 **ALIEN INSTINCT**
 
-- **\[CHANGE\]**Increased the aura reveal duration to 8 seconds*(was 5)*
+- **\[CHANGE\]** Increased the aura reveal duration to 8 seconds *(was 5)*
 - **\[CHANGE\]** Increased the duration of Oblivious to 40/50/60 seconds *(was 16/18/20)*
 
 **HYSTERIA**
@@ -178,11 +178,11 @@ Read on for all the details:
 
 **DEATHBOUND**
 
-- **\[CHANGE\]**Shortened the range at which this perk activates to 12/8/4 meters *(was 16/12/8)*
+- **\[CHANGE\]** Shortened the range at which this perk activates to 12/8/4 meters *(was 16/12/8)*
 
 **NEMESIS**
 
-- **\[CHANGE\]**Increased the aura reveal duration to 8 seconds *(was 4)*
+- **\[CHANGE\]** Increased the aura reveal duration to 8 seconds *(was 4)*
 
 *DEV NOTE: Similar to the above, we identified some Killer Perks that have also been underperforming, boasting lower pick and kill rates.*
 

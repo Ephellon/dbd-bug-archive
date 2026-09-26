@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/13-3-1-0-mid-chapt
 author: "Peanits"
 published: "2020-02-28T17:22:34+00:00"
 updated: "2020-03-18T19:57:50+00:00"
-archived: "2026-09-26T02:19:05Z"
+archived: "2026-09-26T16:41:24Z"
 ---
 
 <!-- summary -->
@@ -23,8 +23,8 @@ The Nightmare receives a power overhaul: Microsleep shows the killer within 16 m
 
 ## Features & Content
 
-- Content - Added support for 4 new languages: Latin American Spanish, Dutch, Turkish and Swedish.
-- Feature - Changed the lobby music back to the default music.
+- Content - Added support for 4 new languages: Latin American Spanish, Dutch, Turkish and Swedish.
+- Feature - Changed the lobby music back to the default music.
 
 ## Balance
 
@@ -52,7 +52,7 @@ Adjusted some score event for Survivors:
 
 Killer score events:
 
-- Added a score event for totem, hook sabotage and Jigsaw Box search interrupts.
+- Added a score event for totem, hook sabotage and Jigsaw Box search interrupts.
 
 **Gameplay**
 
@@ -224,7 +224,7 @@ Dream Projection:
 - Fixed an issue that allowed Survivors to escape the match while Blood Warden was active.
 - Fixed an issue that caused Hex: No One Escape Death's Exposed status effect to apply without an active totem.
 - Fixed an issue that caused Head On to leave a permanent stun bubble around a locker if used at the same time as a Killer searched the locker.
-- Fixed an issue that caused the Latin American Spanish, Dutch, Turkish and Swedish languages to be missing.
+- Fixed an issue that caused the Latin American Spanish, Dutch, Turkish and Swedish languages to be missing.
 - Fixed an issue that caused Survivors hair to change color and texture while in the Dream World.
 - Fixed an issue that caused The Ghost Face camera not to zoom in when viewing his backstory in the in-game Store.
 - Fixed an issue that caused The Ghost Face's reveal VFX to stay on his character model from Survivors point of view.
@@ -260,7 +260,7 @@ Dream Projection:
 - Fixed an issue that allowed The Trapper to set bear traps under the bottom part of a door frame in the Thompson House.
 - Fixed an issue that caused Survivors to get stuck when trying to move past the Killer that was blocking the basement stairs in the Thompson House.
 - Fixed an issue that caused flickering ground textures in the Family Residence map.
-- Fixed an issue that caused the Killer to become blocked when the Survivor dropped a specific pallet on them in The Game map.
+- Fixed an issue that caused the Killer to become blocked when the Survivor dropped a specific pallet on them in The Game map.
 - Fixed an issue that allowed Survivors to clip through a column in The Game map.
 - Fixed an issue that caused the red stain to appear for the incorrect amount of time with The Doctor's Discipline - Carter's Notes add-on in Madness Tier II.
 - Fixed an issue that caused the red stain to appear for the incorrect amount of time with The Doctor's Discipline - Carter's Notes add-on in Madness Tier III.

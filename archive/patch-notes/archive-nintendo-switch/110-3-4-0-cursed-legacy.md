@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/110-3-4-0-cursed-l
 author: "Peanits"
 published: "2020-02-28T20:23:22+00:00"
 updated: "2020-02-28T21:38:25+00:00"
-archived: "2026-09-26T02:19:46Z"
+archived: "2026-09-26T16:42:12Z"
 ---
 
 <!-- summary -->
@@ -24,7 +24,7 @@ New killer The Oni, survivor Yui Kimura, and the Sanctum of Wrath map join the C
 ## Features & Content
 
 - Feature - Updated the intro video to The Cursed Legacy trailer.
-- Feature - Disconnection Penalties: Players who disconnect early from games will receive temporary matchmaking bans, with the duration escalating for repeat offenders. Please note that this feature will not be active on launch of the 3.4.0 update, we are planning to enable it on Thursday December 5th.
+- Feature - Disconnection Penalties: Players who disconnect early from games will receive temporary matchmaking bans, with the duration escalating for repeat offenders. Please note that this feature will not be active on launch of the 3.4.0 update, we are planning to enable it on Thursday December 5th.
 - Content - Added cosmetics to player inventory (Incl. past convention exclusives, Bill’s Ugly Sweater, Frosty Eyes for The Oni & The Plague, and a new Universal Winter Holiday Charm).
 - Content - Added a new Killer (The Oni).
 - Content - Added a new Survivor (Yui Kimura).
@@ -33,7 +33,7 @@ New killer The Oni, survivor Yui Kimura, and the Sanctum of Wrath map join the C
 
 ## Balance
 
-- Rank Reset: The Rank Reset will now reset players back one rank crest color. Players who end the season in Red Ranks (1-4) will be reset to Purple Ranks (5), Purple Ranks (5-8) get reset to Green Ranks (9), Green Ranks (9-12) get reset to Yellow Ranks (13) and finally Yellow (13-16) gets reset to the Brown Crest Ranks (17).
+- Rank Reset: The Rank Reset will now reset players back one rank crest color. Players who end the season in Red Ranks (1-4) will be reset to Purple Ranks (5), Purple Ranks (5-8) get reset to Green Ranks (9), Green Ranks (9-12) get reset to Yellow Ranks (13) and finally Yellow (13-16) gets reset to the Brown Crest Ranks (17).
 - Debuff perks no longer appear on the Survivors in-game HUD until the debuff is applied. This is true for the following perks: Coulrophobia, Overwhelming Presence and Unnerving Presence.
 - Updated several Killer perks with the Undetectable status effect: Insidious, Beast of Prey, Dark Devotion and Tinkerer.
 - Protection Hits: The conditions for Protection Hits have been adjusted. To trigger a Protection Hit a Survivor must be within range of a "Survivor in Need" which translates to being close to an Injured Survivor. Players can now trigger Protection Hits each 3 seconds instead of each 20 seconds. Any hit received by a Survivor while the Killer is carrying another Survivor will count as a Protection Hit.
@@ -50,8 +50,8 @@ New killer The Oni, survivor Yui Kimura, and the Sanctum of Wrath map join the C
 - Mural Sketch add-on: Decreased added Feral Frenzy duration from 1.6 seconds to 1.5 seconds.
 - Stolen Sketch Book add-on: Increased added Feral Frenzy duration from 2.4 seconds to 2.5 seconds.
 - Smiley Face Pin add-on: Hitting a Survivor highlighted by Killer Instinct applies the Blindness status effect for 60 seconds.
-- Defaced Smiley Pin add-on: Hitting a Survivor highlighted by Killer Instinct applies the Mangled status effect for 60 seconds.
-- The Legion Pin add-on: Hitting a Survivor highlighted by Killer Instinct applies the Broken status effect for 60 seconds.
+- Defaced Smiley Pin add-on: Hitting a Survivor highlighted by Killer Instinct applies the Mangled status effect for 60 seconds.
+- The Legion Pin add-on: Hitting a Survivor highlighted by Killer Instinct applies the Broken status effect for 60 seconds.
 - Filthy Blade add-on: Lowered added mend time to 2.5 seconds from 3.5 seconds.
 
 **The Spirit changes**
@@ -61,10 +61,10 @@ New killer The Oni, survivor Yui Kimura, and the Sanctum of Wrath map join the C
 - Restored visible 3rd person animation while vaulting windows.
 - Prayer Beads Bracelet add-on: Made phasing sounds global instead of removing them.
 - Katana Tsuba add-on: Decreased the phasing reappearance duration from 0.25 seconds to 0.2 seconds.
-- Wakizashi Saya add-on: Decreased the phasing reappearance duration from 0.5 seconds to 0.3 seconds.
+- Wakizashi Saya add-on: Decreased the phasing reappearance duration from 0.5 seconds to 0.3 seconds.
 - Yakuyoke Amulet add-on: Increased phasing duration from 1 second to 3.5 seconds. Decreased phasing speed from +10% to -15%.
 - White Hair Ribbon add-on: Decreased the activation charge speed bonus from +30% to +20%.
-- Bloody Hair Brooch add-on: Decreased the activation charge speed bonus from +50% to +30%.
+- Bloody Hair Brooch add-on: Decreased the activation charge speed bonus from +50% to +30%.
 
 **Perk changes**
 
@@ -77,7 +77,7 @@ New killer The Oni, survivor Yui Kimura, and the Sanctum of Wrath map join the C
 **Killer related**
 
 - Fixed an issue that allowed Killers to hit Survivors through a hooked Survivor.
-- Fixed an issue that caused The Nurse to snap at the beginning and ending of her blink. Fixing this issue required us to rework how the snapping of characters interacts with the movement systems, and could cause additional side effects.
+- Fixed an issue that caused The Nurse to snap at the beginning and ending of her blink. Fixing this issue required us to rework how the snapping of characters interacts with the movement systems, and could cause additional side effects.
 - Fixed an issue that caused The Nurse's camera to clip through her arm when attacking while looking down.
 - Fixed an issue that caused the Classic Ghost Face Shroud customization to block a large portion of the screen when using his power.
 - Fixed an issue that caused the "Stalk" prompt to be displayed for The Ghost Face when first loading into a match.
@@ -108,16 +108,16 @@ New killer The Oni, survivor Yui Kimura, and the Sanctum of Wrath map join the C
 - Fixed an issue that cause the cars in the Autohaven Wreckers maps to have incorrect textures.
 - Fixed an issue that caused the tarp on the maze walls to clip through the walls in the Autohaven Wreckers maps.
 - Fixed an issue that caused flickering textures on the wooden pieces along the inside of the main building in the Family Residence map.
-- Fixed an issue that caused visible ground seams between multiple tiles in the Family Residence map.
+- Fixed an issue that caused visible ground seams between multiple tiles in the Family Residence map.
 - Fixed an issue that caused projectiles to pass through the hooks in the Family Residence map.
 - Fixed an issue that caused the collision to be too high on certain vines in the Rift Lab of The Underground Complex map.
-- Fixed an issue that allowed the Killer to see out of world when hugging a specific wall in The Underground Complex map.
-- Fixed an issue that caused one of the walls on a Tee tile to have flickering textures in The Underground Complex map.
+- Fixed an issue that allowed the Killer to see out of world when hugging a specific wall in The Underground Complex map.
+- Fixed an issue that caused one of the walls on a Tee tile to have flickering textures in The Underground Complex map.
 - Fixed an issue that caused flickering textures on the stone walls in the Temple of Purgation map.
 - Fixed an issue that caused the red shipping containers in the Badham Preschool maps to clip through the grass.
 - Fixed an issue that caused a crow to clip through part of the window of one of the houses in the Badham Preschool maps.
 - Fixed the shadows on the fire places in the small houses in the Lampkin Lane map.
-- Fixed an issue that caused an invisible collision in front of an exit gate switch in the Lampkin Lane map.
+- Fixed an issue that caused an invisible collision in front of an exit gate switch in the Lampkin Lane map.
 - Misc LOD fixes and improvements.
 
 **Perks**

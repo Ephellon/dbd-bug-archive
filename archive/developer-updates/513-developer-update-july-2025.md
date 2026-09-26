@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/513-developer-upda
 author: "ThatRyanB"
 published: "2025-07-07T13:59:18+00:00"
 updated: "2025-07-07T18:52:38+00:00"
-archived: "2026-09-26T02:20:04Z"
+archived: "2026-09-26T16:42:44Z"
 ---
 
 <!-- summary -->
@@ -84,7 +84,7 @@ Read on for all the details:
 
 ***DEV NOTE**: Whether it’s the pursuit of fashion or prepping perks for every situation, we wanted to make it easier to save your faves. Don’t worry, your existing presets will be ported into this updated system.*
 
-![DevUpdate_PresetImprovementsScreenshot.png](513-developer-update-july-2025/09-devupdate-presetimprovementsscreenshot.png)    ![devupdate-frame.png](513-developer-update-july-2025/10-devupdate-frame.png)
+![DevUpdate_PresetImprovementsScreenshot.png](513-developer-update-july-2025/09-devupdate-presetimprovementsscreenshot.png) ![devupdate-frame.png](513-developer-update-july-2025/10-devupdate-frame.png)
 
 ![DevUpdate_KeyboardAndMouseOnConsoles.png](513-developer-update-july-2025/11-devupdate-keyboardandmouseonconsoles.png)
 

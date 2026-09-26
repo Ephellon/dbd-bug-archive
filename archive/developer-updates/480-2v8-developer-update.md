@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/480-2v8-developer-
 author: "Mandy"
 published: "2024-11-11T14:56:33+00:00"
 updated: "2024-11-11T17:57:21+00:00"
-archived: "2026-09-26T02:20:08Z"
+archived: "2026-09-26T16:42:54Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The 2v8 mode returns with a redesign: survivors enter cages after being picked u
 
 # 2V8 | Developer Update
 
-*This article was created from a*[*community discussion*](https://forums.bhvr.com/dead-by-daylight/discussion/432412/2v8-developer-update).
+*This article was created from a* [*community discussion*](https://forums.bhvr.com/dead-by-daylight/discussion/432412/2v8-developer-update).
 
 ![DBD_2v8-V2_GameMode_Keyart_1080x1080_VF.png](480-2v8-developer-update/01-dbd-2v8-v2-gamemode-keyart-1080x1080-vf.png)
 
@@ -155,8 +155,8 @@ New Killer Class: Shadow
 
 New Killer Class: Brute
 
-- **Class Ability:**Perform the break action 25% faster. Doing so grants a teammate within 32 meters 10% Haste for 8 seconds. This ability has a cooldown of 30 seconds.
-- **Info Ability:**When damaging a generator, reveal Survivors within an additional 8 meters.
+- **Class Ability:** Perform the break action 25% faster. Doing so grants a teammate within 32 meters 10% Haste for 8 seconds. This ability has a cooldown of 30 seconds.
+- **Info Ability:** When damaging a generator, reveal Survivors within an additional 8 meters.
 
 ![ENFORCERPNG.png](480-2v8-developer-update/15-enforcerpng.png)
 
@@ -180,33 +180,33 @@ New Killer Class: Fearmonger
 
 Survivor Class: Medic
 
-- **Class Ability:**You and Survivors within 8 meters gain a 50% heal speed bonus, and grunts of pain are reduced by 50%. When your ability is fully charged, press the ability button to instantly heal all Survivors within 8 meters by 50%.
-- **Info Ability:**Reveal the aura of injured Survivors within 128 meters.
-- **Unlock Ability:**While injured, your scratch marks are suppressed, and your aura is revealed to all other Survivors.
+- **Class Ability:** You and Survivors within 8 meters gain a 50% heal speed bonus, and grunts of pain are reduced by 50%. When your ability is fully charged, press the ability button to instantly heal all Survivors within 8 meters by 50%.
+- **Info Ability:** Reveal the aura of injured Survivors within 128 meters.
+- **Unlock Ability:** While injured, your scratch marks are suppressed, and your aura is revealed to all other Survivors.
 
 ![SCOUTPSD.png](480-2v8-developer-update/19-scoutpsd.png)
 
 Survivor Class: Scout
 
-- **Class Ability:**You and Survivors within 8 meters move 100% faster while crouching. When you see a Killer within 64 meters, reveal their aura to all Survivors. When your ability is fully charged, press the ability button near a dropped or broken pallet to reset or rebuild it.
-- **Info Ability:**Reveal the aura of Killers performing the break action for 6 seconds.
-- **Unlock Ability:**Your walking speed is increased by 25% and you make no grunts of pain while injured.
+- **Class Ability:** You and Survivors within 8 meters move 100% faster while crouching. When you see a Killer within 64 meters, reveal their aura to all Survivors. When your ability is fully charged, press the ability button near a dropped or broken pallet to reset or rebuild it.
+- **Info Ability:** Reveal the aura of Killers performing the break action for 6 seconds.
+- **Unlock Ability:** Your walking speed is increased by 25% and you make no grunts of pain while injured.
 
 ![GUIDEPNG.png](480-2v8-developer-update/20-guidepng.png)
 
 Survivor Class: Guide
 
-- **Class Ability:**You and Survivors within 8 meters gain an additional 3% bonus progress from Great Skill Checks, and repair sounds are 50% quieter. When your ability is fully charged, press the ability button to grant nearby Survivors an 8% repair speed bonus for 10 seconds.
-- **Info Ability:**Reveal the aura of any unrepaired generator within 32 meters.
-- **Unlock Ability:**When completing a generator, gain a 5% charge per Survivor nearby. The next time you work on a generator, those charges are immediately applied to the generator.
+- **Class Ability:** You and Survivors within 8 meters gain an additional 3% bonus progress from Great Skill Checks, and repair sounds are 50% quieter. When your ability is fully charged, press the ability button to grant nearby Survivors an 8% repair speed bonus for 10 seconds.
+- **Info Ability:** Reveal the aura of any unrepaired generator within 32 meters.
+- **Unlock Ability:** When completing a generator, gain a 5% charge per Survivor nearby. The next time you work on a generator, those charges are immediately applied to the generator.
 
 ![ESCAPISTPNG.png](480-2v8-developer-update/21-escapistpng.png)
 
 Survivor Class: Escapist
 
-- **Class Ability:**When you or a Survivor within 8 meters of you start sprinting, gain 50% Haste for 3 seconds. This causes Exhaustion for 20 seconds and cannot activate while Exhausted. When your active ability is fully charged, press the active ability button to make all rushed actions silent for you and nearby Survivors for 8 seconds.
-- **Info Ability:**Reveal the aura of pallets and vaults within 16 meters.
-- **Unlock Ability:**Gain the ability to heal yourself without a Med-Kit at 70% of the normal healing speed.
+- **Class Ability:** When you or a Survivor within 8 meters of you start sprinting, gain 50% Haste for 3 seconds. This causes Exhaustion for 20 seconds and cannot activate while Exhausted. When your active ability is fully charged, press the active ability button to make all rushed actions silent for you and nearby Survivors for 8 seconds.
+- **Info Ability:** Reveal the aura of pallets and vaults within 16 meters.
+- **Unlock Ability:** Gain the ability to heal yourself without a Med-Kit at 70% of the normal healing speed.
 
 ![image.png](480-2v8-developer-update/22-image.png)
 

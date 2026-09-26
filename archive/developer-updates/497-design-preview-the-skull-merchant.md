@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/497-design-preview
 author: "ThatRyanB"
 published: "2025-03-24T16:30:09+00:00"
 updated: "2025-03-24T16:30:10+00:00"
-archived: "2026-09-26T02:20:06Z"
+archived: "2026-09-26T16:42:50Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ Dead by Daylight’s developers outlined a forthcoming overhaul of the Killer Sk
 
 ![DbD_DesignPreview-SM_Banner_1920x1080.png](497-design-preview-the-skull-merchant/01-dbd-designpreview-sm-banner-1920x1080.png)
 
-**Click here for**[**Português Brasileiro**](https://dbd.game/4bVx069)**,**[**简体中文**](https://dbd.game/4hIKeoa)**,**[**Français**](https://dbd.game/4jfJTdV)**,**[**日本語**](https://dbd.game/4c074GH)**, and**[**Español**](https://dbd.game/4hFjuVE)**.**
+**Click here for** [**Português Brasileiro**](https://dbd.game/4bVx069)**,** [**简体中文**](https://dbd.game/4hIKeoa)**,** [**Français**](https://dbd.game/4jfJTdV)**,** [**日本語**](https://dbd.game/4c074GH)**, and** [**Español**](https://dbd.game/4hFjuVE)**.**
 
 Today, we want to dig into a topic that we know many of you have been yearning to know more about: **our vision for the future of The Skull Merchant**!
 
@@ -35,7 +35,7 @@ Many players feel she’s not fun to play against and her kit is exceedingly com
 
 As we look to reworking Skull Merchant, our aim is to:
 
-1. Strike a balance between being fun to play **as**and **against**
+1. Strike a balance between being fun to play **as** and **against**
 2. Preserve the intel focus of her kit, while making it intuitive to understand for both sides
 3. Move away from a passive power with limited player interactions and embrace a more active playstyle, while ensuring her power is compensated in interesting ways
 
@@ -83,7 +83,7 @@ In addition to her Drones, Skull Merchant has another power that ties into her R
 
 We are currently evaluating a timeline for Skull Merchant’s rework but do envision it being quite far out as our primary focus is on driving quality-of-life updates. Once we have a timeline to share, we will be sure to keep you informed via future Design Preview updates.
 
-Phew – that was a lot! How do you feel about this rework? We want to hear from you! Jump into our survey and share your thoughts right here:  [https://www.surveymonkey.com/r/DPSM\_DF\_MAR?value=%5Bvalue\_value%5D](https://www.surveymonkey.com/r/DPSM_DF_MAR?value=%5Bvalue_value%5D)
+Phew – that was a lot! How do you feel about this rework? We want to hear from you! Jump into our survey and share your thoughts right here: [https://www.surveymonkey.com/r/DPSM\_DF\_MAR?value=%5Bvalue\_value%5D](https://www.surveymonkey.com/r/DPSM_DF_MAR?value=%5Bvalue_value%5D)
 
 See you in The Fog!
 

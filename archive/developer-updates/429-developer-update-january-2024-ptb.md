@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/429-developer-upda
 author: "Peanits"
 published: "2024-01-25T14:58:27+00:00"
 updated: "2024-01-25T14:58:27+00:00"
-archived: "2026-09-26T02:20:14Z"
+archived: "2026-09-26T16:43:08Z"
 ---
 
 <!-- summary -->
@@ -76,7 +76,7 @@ This will cause the Power to go on cooldown more often, creating more opportunit
 
 Originally, this Add-On provided many positive effects, making it a “jack of all trades”. On the PTB, we simplified the Add-On by removing some of the effects. This left the Add-On weaker than we’d like, so we’ve made the following changes.
 
-We have **removed the turn rate penalty (was -55%)**. We have also **reintroduced a 5% Rush speed bonus**(was 10%).
+We have **removed the turn rate penalty (was -55%)**. We have also **reintroduced a 5% Rush speed bonus** (was 10%).
 
 ![Hillbilly.jpg](429-developer-update-january-2024-ptb/04-hillbilly.jpg)
 
@@ -92,7 +92,7 @@ They now **reduce recovery time after using the Chainsaw- not just successful hi
 
 **Thermal Casing & Ragged Engine**
 
-Simple number tweaks for these: Thermal Casing & Ragged Engine now **decreases the speed at which heat dissipates when not using the Chainsaw by 20% and 30% respectively**(was 10% and 15%). Keep it warm!
+Simple number tweaks for these: Thermal Casing & Ragged Engine now **decreases the speed at which heat dissipates when not using the Chainsaw by 20% and 30% respectively** (was 10% and 15%). Keep it warm!
 
 **Discarded Air Filter & High-Speed Idler Screw**
 

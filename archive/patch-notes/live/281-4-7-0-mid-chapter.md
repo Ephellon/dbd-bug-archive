@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/281-4-7-0-mid-chap
 author: "Peanits"
 published: "2021-05-04T14:27:04+00:00"
 updated: "2021-05-05T19:04:03+00:00"
-archived: "2026-09-26T02:18:39Z"
+archived: "2026-09-26T16:40:52Z"
 ---
 
 <!-- summary -->
@@ -39,7 +39,7 @@ Mid-Chapter 4.7 adds Tome VII to the Archives, replaces settings checkboxes with
 - The Doctor: Madness levels now have a distinct visual for each level.
 - The Plague: Improved Sickness meter texture colours for colourblind players.
 - The Nightmare: Increased brightness of the Dream World indicator.
-- The Ghostface: Increased contrast on the Stalking meter.
+- The Ghostface: Increased contrast on the Stalking meter.
 
 **Visual Update**
 
@@ -143,8 +143,8 @@ The new Object of Obsession design previewed on the dev stream has been complete
 
 **New hook struggle**
 
-- Struggling during the second stage on a hook is now a series of Skill Checks
-- Failing to give any input for two successive Skill Checks will instantly complete the Sacrifice
+- Struggling during the second stage on a hook is now a series of Skill Checks
+- Failing to give any input for two successive Skill Checks will instantly complete the Sacrifice
 - Missing a skill check will reduce the amount of time until the Entity claims the hooked Survivor
 
 **Perks**
@@ -197,7 +197,7 @@ The new Object of Obsession design previewed on the dev stream has been complete
 **Bug Fixes**
 
 - Fixed an issue that could prevent pallets from stunning killers under certain circumstances.
-- Fixed an issue that could cause rare items to appear in chests more often than intended.
+- Fixed an issue that could cause rare items to appear in chests more often than intended.
 - Fixed an issue that could prevent hooks from respawning if broken with the perk "Breakdown."
 - Fixed an issue that caused the fatigue decreasing effect from the Nurse's add-on "Wooden Horse" to apply on successful hits.
 - Fixed an issue that could prevent survivors from screaming when hit directly with the Clown's antidote bottle during certain interactions.

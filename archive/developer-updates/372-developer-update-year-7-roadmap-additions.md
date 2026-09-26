@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/372-developer-upda
 author: "Peanits"
 published: "2023-01-26T14:57:12+00:00"
 updated: "2023-01-26T14:57:12+00:00"
-archived: "2026-09-26T02:20:18Z"
+archived: "2026-09-26T16:43:23Z"
 ---
 
 <!-- summary -->
@@ -41,7 +41,7 @@ But the question is, what’s next? As always, we’ll share our plans for the n
 
 ## Bloodweb Improvements
 
-If you went back in time one year and told people that “too many Bloodpoints” would be an issue, nobody would have believed you. Yet here we are. With the various improvements made to progression over the past year, many of you have  found yourself with a surplus of Bloodpoints and not enough time to spend them, making the spending process a bit of an inconvenience.
+If you went back in time one year and told people that “too many Bloodpoints” would be an issue, nobody would have believed you. Yet here we are. With the various improvements made to progression over the past year, many of you have found yourself with a surplus of Bloodpoints and not enough time to spend them, making the spending process a bit of an inconvenience.
 
 Within the next few months, we’ll be making improvements to the Bloodweb to make it easier and faster to spend your Bloodpoints than ever before.
 
@@ -49,7 +49,7 @@ Within the next few months, we’ll be making improvements to the Bloodweb to ma
 
 ## Survivor Bot Loadouts
 
-Survivor bots received a very warm welcome when they debuted late last year. Though the Survivor Bots are robots, we’re sure their cold mechanical hearts were touched. Since then, an average of 70,000 bot matches have been played *each day*. This feature made it easy to jump in and try out the new content in the Forged in Fog Chapter when it released, a time where Killer queue times tend to be longer as everyone flocks to try out the newest addition to the roster.
+Survivor bots received a very warm welcome when they debuted late last year. Though the Survivor Bots are robots, we’re sure their cold mechanical hearts were touched. Since then, an average of 70,000 bot matches have been played *each day*. This feature made it easy to jump in and try out the new content in the Forged in Fog Chapter when it released, a time where Killer queue times tend to be longer as everyone flocks to try out the newest addition to the roster.
 
 The first version of Bots in Custom Matches was fairly simple, but we’ll be expanding on the feature shortly with loadouts, allowing you to introduce more variety in the Survivor bots you face. Please note that not all perks will be available to bots: Some perks will ultimately be too complicated for them to use effectively, and we’d hate to make them too smart and be the cause of the robot uprising.
 

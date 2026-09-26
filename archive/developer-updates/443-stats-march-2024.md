@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/443-stats-march-20
 author: "Coordi"
 published: "2024-04-12T13:55:08+00:00"
 updated: "2024-04-12T13:55:08+00:00"
-archived: "2026-09-26T02:20:12Z"
+archived: "2026-09-26T16:43:03Z"
 ---
 
 <!-- summary -->

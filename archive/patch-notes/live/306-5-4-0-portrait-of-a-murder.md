@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/306-5-4-0-portrait
 author: "Peanits"
 published: "2021-11-30T15:27:06+00:00"
 updated: "2021-11-30T16:05:51+00:00"
-archived: "2026-09-26T02:18:35Z"
+archived: "2026-09-26T16:40:47Z"
 ---
 
 <!-- summary -->
@@ -63,7 +63,7 @@ The remainder of the update is a broad bug-fix sweep touching tutorial UI, perk 
 - Add-on - Iridescent Lament Configuration
   - Increased range to 24 meters (was 16 meters)
 
-*Dev Note: The Cenobite has been overperforming since he came to DbD. These addon changes are intended to bring his five best performing addons more in line to reduce his overall power, accompanied with a buff to his worst performing addon.*
+*Dev Note: The Cenobite has been overperforming since he came to DbD. These addon changes are intended to bring his five best performing addons more in line to reduce his overall power, accompanied with a buff to his worst performing addon.*
 
 ## Optimization
 
@@ -79,8 +79,8 @@ The remainder of the update is a broad bug-fix sweep touching tutorial UI, perk 
 - Fixed an issue that caused the Clairvoyance perk not to be deactivated when speared.
 - Fixed an issue that caused Boon Totem vignettes to disappear when moving between overlapping Boon ranges.
 - Fixed an issue that may cause the Boon Totem vignette to linger when the survivor who applied a Boon leaves the match.
-- Fixed an issue where skill checks would be absent when self-healing with the Self-Care or Boon: Circle of Healing.
-- Fixed an issue that may cause the sound notification for the 4th generator completed not to trigger.
+- Fixed an issue where skill checks would be absent when self-healing with the Self-Care or Boon: Circle of Healing.
+- Fixed an issue that may cause the sound notification for the 4th generator completed not to trigger.
 - Fixed an issue that may cause items, including medkits and toolboxes, with charge modifier add-ons to only apply 99% of their charge.
 - Fixed an issue that caused a hitch to occur at the end of vaults with the Legion.
 - Fixed an issue that caused Hag traps set in the Asylum's entrance not to get triggered.
@@ -101,7 +101,7 @@ The remainder of the update is a broad bug-fix sweep touching tutorial UI, perk 
 - Fixed an issue that may cause the wrong VFX and SFX to play when a Hex Totem was destroyed by a survivor.
 - Fixed an issue that prevented a Gateway’s SFX from stopping after it is closed while playing against The Cenobite.
 - Fixed an issue that prevented Chainsaw SFX from playing after The Cannibal’s Tantrum impacts an object.
-- Fixed an issue that prevented repair sfx from playing when repairing generators in the Survivor tutorial.
+- Fixed an issue that prevented repair sfx from playing when repairing generators in the Survivor tutorial.
 - Fixed an issue that caused the Survivor to crawl into a corner near a totem to prevent being picked up by the Killer in the main building of Yamaoka Family Residence.
 - Fixed an issue that caused the Survivor to get on top of some cars near the Azarov Office.
 - Fixed an issue that caused a crouching Survivor get stuck near the stairs of one of the house in Dead Dawg Saloon.
@@ -131,7 +131,7 @@ Dev Note: These changes were made to help reduce The Artist's power to shut down
 
 - Perks
   - Grim Embrace
-    - Generator blocking increased to 30/35/40 seconds (was 20/25/30 seconds)
+    - Generator blocking increased to 30/35/40 seconds (was 20/25/30 seconds)
     - Obsession aura reveal increased to 5 seconds (was 4 seconds)
   - Hex: Pentimento
     - Perk effects now line up with the description text properly
@@ -142,8 +142,8 @@ Dev Note: On the PTB, Hex: Pentimento would trigger the healing speed debuff fir
 
 - Fixed an issue where Burning Candle and Torture Pillar had the same bonus. The Candle is now 3 seconds and the Pillar is 6 seconds.
 - Fixed an issue where Engineer's Fang's text was not correct.
-- Fixed an issue that prevented the killer from damaging the generator in the killer tutorial.
-- Fixed an issue that caused the first generator in the survivor tutorial to start at 0% progress.
+- Fixed an issue that prevented the killer from damaging the generator in the killer tutorial.
+- Fixed an issue that caused the first generator in the survivor tutorial to start at 0% progress.
 - Fixed an issue that sometimes caused a crash when playing the tutorial bot match.
 - Fixed an issue that caused previously purchased Stranger Things cosmetics to be missing.
 - Fixed an issue that caused the graphics resolution setting to reset to 100% every time the player relaunches the client.
@@ -160,15 +160,15 @@ Dev Note: On the PTB, Hex: Pentimento would trigger the healing speed debuff fir
 - Fixed an issue where Birds of Torment would not follow the slope along some inclined floors or stairs
 - Fixed an issue where killer charms would be clipping through certain hooks
 - Fixed an issue where Birds of Torment could not be consistently dissipated with a flashlight
-- Fixed an issue where Corrective Action would incorrectly apply to failed skill checks on co-op interactions other than healing or repairing
+- Fixed an issue where Corrective Action would incorrectly apply to failed skill checks on co-op interactions other than healing or repairing
 - Fixed an issue where a survivor's recovery bar or self-healing bars would not turn red while slowed down by Hex Pentimento
 - Fixed an issue with Hex Pentimento where the survivors would become cursed when the killer rekindles a totem
 - Fixed an issue where a Hex Totem would have both the Boon and Hex flame effects when cleansed, rekindled and subsequently blessed
-- Fixed an issue where equipping Grim Embrace would show blocked generators with a red aura
+- Fixed an issue where equipping Grim Embrace would show blocked generators with a red aura
 - Fixed an issue where the incorrect cooldown times are displayed when equipping the Festering Carrion add-on
 - Fixed an issue when The Artist fires a Bird of Torment just before the time runs out makes it impossible to attack or interact with anything
 - Fixed an issue when using the killer Add-on Severed Hands where a survivor with a swarm of crows can spread the crows to survivors lying dead on the ground
-- Fixed an issue where Corrective Action incorrectly assisted with skill checks forced by perks or add-ons
+- Fixed an issue where Corrective Action incorrectly assisted with skill checks forced by perks or add-ons
 - Fixed an issue where a survivor's recovery speed would double when in range of two Totems blessed with the Boon: Exponential perk
 - Fixed an issue with The Artist where firing a Bird of Torment at a survivor in a locker would not cause that survivor to be revealed with Killer Instincts
 - Fixed an issue where the Overcharge killer perk progress penalty is not applied when a survivor fails an Overcharge skill check
@@ -178,14 +178,14 @@ Dev Note: On the PTB, Hex: Pentimento would trigger the healing speed debuff fir
 - Fixed an issue where The Artist would not get stunned by a pallet when placing a Dire Crow
 - Fixed an issue where the Severed Tongue add-on would not apply for the correct amount of time
 - Fixed an issue with the Thick Tar addon where Survivors would not receive visual feedback that their Repel action was slowed
-- Fixed an issue where survivors may not be hit by a Dire Crow that spawned overlapping with them
+- Fixed an issue where survivors may not be hit by a Dire Crow that spawned overlapping with them
 - Fixed an issue where damage done by The Artist's Dire Crow would not count towards the Chaser emblem
 - Fixed an issue where Hex: Plaything affects only one survivor
-- Fixed an issue with the Corrective Action perk not adding tokens for great skill checks after having used a toolbox with the Brand New Part add-on
-- Fixed an issue where a Blast Mine detonation on a generator would not dispel a swarm of crows on a nearby survivor
+- Fixed an issue with the Corrective Action perk not adding tokens for great skill checks after having used a toolbox with the Brand New Part add-on
+- Fixed an issue where a Blast Mine detonation on a generator would not dispel a swarm of crows on a nearby survivor
 - Fixed an issue where Hex: The Third Seal does not apply Blindness to survivors damaged by a Dire Crow
 - Fixed an issue when The Artist launching a Bird of Torment does not consume a token of Play with your Food
-- Fixed an issue where the Coup de Grace perk receives extra tokens when the last generator is repaired
+- Fixed an issue where the Coup de Grace perk receives extra tokens when the last generator is repaired
 - Fixed an issue where the "Out isn't an option" challenge can be completed by disconnecting from a trial
 - Fixed an lighting issue with reflections, sky and colors.
 

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/452-8-0-0-dungeons
 author: "Peanits"
 published: "2024-06-03T14:58:24+00:00"
 updated: "2024-06-03T15:25:17+00:00"
-archived: "2026-09-26T02:18:17Z"
+archived: "2026-09-26T16:40:24Z"
 ---
 
 <!-- summary -->
@@ -31,16 +31,16 @@ The patch reshapes the live game with numerous balance tweaks to existing killer
 
 **New Survivor Perks**
 
-- **Mirrored Illusion**This perk activates after completing a total of **50%** worth of repair progress on generators.  
-   Press the ability button 2 when next to a totem, chest, generator or exit gate to spawn a static illusion that lasts for **100/110/120 seconds.**Then, the perk deactivates.
-- **Bardic Inspiration**Press the ability button 1 while standing and motionless to enter the "performance" interaction that lasts up to **15 seconds**and empowers Survivors within **16 meters.** Roll a d20. This effect lasts for **90 seconds** if the performance is completed.  
+- **Mirrored Illusion** This perk activates after completing a total of **50%** worth of repair progress on generators.  
+   Press the ability button 2 when next to a totem, chest, generator or exit gate to spawn a static illusion that lasts for **100/110/120 seconds.** Then, the perk deactivates.
+- **Bardic Inspiration** Press the ability button 1 while standing and motionless to enter the "performance" interaction that lasts up to **15 seconds** and empowers Survivors within **16 meters.** Roll a d20. This effect lasts for **90 seconds** if the performance is completed.  
    When the ability is cancelled or the performance completes, it goes on cooldown for **110/100/90 seconds.  
-   1**| You scream, but nothing happens  
-  **2-10**| skill checks give +1% progress  
-  **11-19**| skill checks give +2% progress  
-  **20** | skill checks give +3% progress
-- **Still Sight**After standing still for **6/5/4 seconds,** this perk activates.  
-   Until you start moving, you see the aura of the Killer as well as all generators and chests within **24 meters**.
+   1** | You scream, but nothing happens  
+  **2-10** | skill checks give +1% progress  
+  **11-19** | skill checks give +2% progress  
+  **20** | skill checks give +3% progress
+- **Still Sight** After standing still for **6/5/4 seconds,** this perk activates.  
+   Until you start moving, you see the aura of the Killer as well as all generators and chests within **24 meters**.
 
 ## New Killer - The Lich
 
@@ -72,12 +72,12 @@ Rarely, Survivors can instead find the Hand or Eye of Vecna in a Treasure Chest.
 
 ### New Killer Perks
 
-- **Weave Attunement**When any item becomes depleted for the first time each match, it is dropped. You see the auras of dropped items.  
+- **Weave Attunement** When any item becomes depleted for the first time each match, it is dropped. You see the auras of dropped items.  
    Survivors within **12 meters** of dropped items have their auras revealed to you.  
-   When a Survivor picks up a Survivor item, they suffer the Oblivious status effect for **20/25/30 seconds.*Oblivious prevents Survivors from hearing or being affected by the Killer's Terror Radius.*
-- **Languid Touch**When a Survivor within **36 meters** of you scares a crow, they gain the Exhausted status effect for **6/8/10 seconds.**This perk has a **20-second** cooldown.  
+   When a Survivor picks up a Survivor item, they suffer the Oblivious status effect for **20/25/30 seconds.** *Oblivious prevents Survivors from hearing or being affected by the Killer's Terror Radius.*
+- **Languid Touch** When a Survivor within **36 meters** of you scares a crow, they gain the Exhausted status effect for **6/8/10 seconds.** This perk has a **20-second** cooldown.  
   *Exhausted prevents Survivors from activating exhausting perks.*
-- **Dark Arrogance**Increases the duration you are blinded and the duration of pallet stuns by **25%.**Increases regular vault speed by **15/20/25%.**
+- **Dark Arrogance** Increases the duration you are blinded and the duration of pallet stuns by **25%.** Increases regular vault speed by **15/20/25%.**
 
 ## New Map - Forgotten Ruins
 
@@ -85,7 +85,7 @@ Pulled from the memories of alchemists, warriors, storytellers, and criminals, t
 
 ## Killer Perk Updates
 
-- **Deadlock**Decreased the block duration to 15/20/25 seconds. *(was 20/25/30 seconds)*
+- **Deadlock** Decreased the block duration to 15/20/25 seconds. *(was 20/25/30 seconds)*
 - **Grim Embrace**  
    Decreased the block duration before reaching 4 tokens to 6/8/10 seconds. *(was 8/10/12 seconds)*
 - **Pop Goes the Weasel**  
@@ -95,37 +95,37 @@ Pulled from the memories of alchemists, warriors, storytellers, and criminals, t
 
 ## Survivor Perk Updates
 
-- **Background Player**Decreased the movement speed bonus to 150%. *(was 200%)*Decreased the Exhaustion duration to 30/25/20 seconds. *(was 60/50/40 seconds)*
-- **Buckle Up**Both you and the healed Survivor gain Endurance for 6/8/10 seconds. (*Removed)*The healed Survivor breaks  
+- **Background Player** Decreased the movement speed bonus to 150%. *(was 200%)* Decreased the Exhaustion duration to 30/25/20 seconds. *(was 60/50/40 seconds)*
+- **Buckle Up** Both you and the healed Survivor gain Endurance for 6/8/10 seconds. (*Removed)* The healed Survivor breaks  
    into a sprint at 150% of their normal Running Movement speed for 3/4/5   
    seconds and leaves no scratch marks during this time. *(New functionality)*
 - **Invocation: Weaving Spiders**  
-   Decreased the time it takes to complete the Invocation to 60 seconds. *(was 120 seconds)*Increased the time it takes for an Invocation to completely regress to 90 seconds. *(was 6 seconds)*
-- **Decisive Strike**Decreased the stun duration to 4 seconds. *(was 5 seconds)*
+   Decreased the time it takes to complete the Invocation to 60 seconds. *(was 120 seconds)* Increased the time it takes for an Invocation to completely regress to 90 seconds. *(was 6 seconds)*
+- **Decisive Strike** Decreased the stun duration to 4 seconds. *(was 5 seconds)*
 
 ## Killer Updates
 
 ### The Blight - Addons
 
-- **Compound Thirty-Three**Rush tokens are capped at 5. *(was 3)*Increases Rush turn rate by 11%. *(was 33%)*Increases Rush duration by 11%. *(was 33%)*
+- **Compound Thirty-Three** Rush tokens are capped at 5. *(was 3)* Increases Rush turn rate by 11%. *(was 33%)* Increases Rush duration by 11%. *(was 33%)*
 - **Iridescent Blight Tag**  
    Increases Rush speed by 10%. *(was 20%)*
 
 ### The Cannibal - Basekit
 
-- Decreased the obstruction collision size while using the Chainsaw to 10 cm.*(was 17.5 cm)*
+- Decreased the obstruction collision size while using the Chainsaw to 10 cm. *(was 17.5 cm)*
 - Decreased the base Tantrum duration to 3 seconds. *(was 5 seconds)*
 - Increased the base Chainsaw Sweep duration to 2.5 seconds. *(was 2 seconds)*
 - Increased the base Chainsaw Sweep movement speed to 5.35 m/s. *(was 5.29 m/s)*
 
 ### The Cannibal - Addons
 
-- **Award-Winning Chili**Increases maximum Chainsaw Sweep duration by 0.2 seconds per charge spent. *(was 0.5 seconds)*
-- **Chainsaw File**Decreases tantrum duration by 0.25 seconds. *(was 0.5 seconds)*
-- **Chili**Increases maximum Chainsaw Sweep duration by 0.15 seconds per charge spent.*(was 0.25 seconds)*
-- **Homemade Muffler**Decreases tantrum duration by 0.5 seconds. *(was 1 second)*
-- **Knife Scratches**Increases Chainsaw Sweep movement speed by 1.5%. *(was 2%)*Increases time required to charge the Chainsaw by 10%. *(was 12%)*
-- **The Beast's Marks**Increases Chainsaw Sweep movement speed by 2%.*(was 3%)*Increases time required to charge the Chainsaw by 12%. *(was 14%)*
+- **Award-Winning Chili** Increases maximum Chainsaw Sweep duration by 0.2 seconds per charge spent. *(was 0.5 seconds)*
+- **Chainsaw File** Decreases tantrum duration by 0.25 seconds. *(was 0.5 seconds)*
+- **Chili** Increases maximum Chainsaw Sweep duration by 0.15 seconds per charge spent. *(was 0.25 seconds)*
+- **Homemade Muffler** Decreases tantrum duration by 0.5 seconds. *(was 1 second)*
+- **Knife Scratches** Increases Chainsaw Sweep movement speed by 1.5%. *(was 2%)* Increases time required to charge the Chainsaw by 10%. *(was 12%)*
+- **The Beast's Marks** Increases Chainsaw Sweep movement speed by 2%. *(was 3%)* Increases time required to charge the Chainsaw by 12%. *(was 14%)*
 
 ### The Deathslinger - Basekit
 
@@ -135,10 +135,10 @@ Pulled from the memories of alchemists, warriors, storytellers, and criminals, t
 
 ### The Deathslinger - Addons
 
-- **Bayshore's Cigar**Decreases the stun duration when Survivors break free by 0.75 seconds. *(was 1 second)*
-- **Bayshore's Gold Tooth**Increases the Speargun's reeling speed by 5%. *(was 9%)*
-- **Chewing Tobacco**Decreases the stun duration when Survivors break free by 0.25 seconds. *(was 0.5 seconds)*
-- **Snake Oil**Increases the Speargun's reeling speed by 2.5%. *(was 5%)*
+- **Bayshore's Cigar** Decreases the stun duration when Survivors break free by 0.75 seconds. *(was 1 second)*
+- **Bayshore's Gold Tooth** Increases the Speargun's reeling speed by 5%. *(was 9%)*
+- **Chewing Tobacco** Decreases the stun duration when Survivors break free by 0.25 seconds. *(was 0.5 seconds)*
+- **Snake Oil** Increases the Speargun's reeling speed by 2.5%. *(was 5%)*
 
 ### The Mastermind - Basekit
 
@@ -149,7 +149,7 @@ Pulled from the memories of alchemists, warriors, storytellers, and criminals, t
 
 - Scamper is now only available while performing a Slice & Dice.
 - Hidey-Ho Mode cooldown reduced to 12 seconds. *(was 18 seconds)*
-- Scamper time reduced to 1.3 seconds.*(was 1.4 seconds)*
+- Scamper time reduced to 1.3 seconds. *(was 1.4 seconds)*
 - Added a 1 second cooldown after cancelling a Slice & Dice charge up.
 
 ### The Good Guy - Addons
@@ -159,25 +159,25 @@ Pulled from the memories of alchemists, warriors, storytellers, and criminals, t
 - **Pile of Nails**  
    Upon manually exiting Hidey-Ho Mode, Chucky remain Undetectable for 3 seconds. *(was 5 seconds)*
 - **Yardstick**  
-   Performing a Scamper reveals Survivor auras within 16 m distance for 3seconds. *(was 12m / 5 seconds)*
+   Performing a Scamper reveals Survivor auras within 16 m distance for 3 seconds. *(was 12m / 5 seconds)*
 - **Hard Hat**  
    Removed "and exits Hidey-Ho Mode." from description.
 
 ## Toolbox Updates
 
-- **Toolbox**Increases sabotage speed by 15%. *(was 10%)*
-- **Mechanic's Toolbox**Increases sabotage speed by 25%. *(was 10%)*
-- **Commodious Toolbox**Increases sabotage speed by 50%.*(New functionality)*
-- **Engineer's Toolbox**Increases sabotage speed by 10%. *(was Decreases by 25%)*
-- **Alex's Toolbox**18 charges. *(was 24 charges)*Increases sabotage speed by 100%. *(was 50%)*
-- **Festive Toolbox**Increases sabotage speed by 50%. *(New functionality)*
-- **Anniversary Toolbox**Increases sabotage speed by 50%.*(New functionality)*
-- **Masquerade Toolbox**Increases sabotage speed by 50%.*(New functionality)*
+- **Toolbox** Increases sabotage speed by 15%. *(was 10%)*
+- **Mechanic's Toolbox** Increases sabotage speed by 25%. *(was 10%)*
+- **Commodious Toolbox** Increases sabotage speed by 50%. *(New functionality)*
+- **Engineer's Toolbox** Increases sabotage speed by 10%. *(was Decreases by 25%)*
+- **Alex's Toolbox** 18 charges. *(was 24 charges)* Increases sabotage speed by 100%. *(was 50%)*
+- **Festive Toolbox** Increases sabotage speed by 50%. *(New functionality)*
+- **Anniversary Toolbox** Increases sabotage speed by 50%. *(New functionality)*
+- **Masquerade Toolbox** Increases sabotage speed by 50%. *(New functionality)*
 
 **Toolbox Addons**
 
-- **Cutting Wire**Increases the Toolbox's sabotage speed by 20%. *(was 15%)*
-- **Grip Wrench**Hooks sabotaged using the Toolbox take an extra 20 seconds to respawn.*(was 15 seconds)*
+- **Cutting Wire** Increases the Toolbox's sabotage speed by 20%. *(was 15%)*
+- **Grip Wrench** Hooks sabotaged using the Toolbox take an extra 20 seconds to respawn. *(was 15 seconds)*
 - **Hacksaw**  
    Increases the Toolbox's sabotage speed by 30%. *(was 20%)*
 
@@ -196,8 +196,8 @@ The red lighting was a big issue in the realm of The Decimated Borgo. The art an
 
 ## UX
 
-- **Started adding search tags for Charms**Only "Perks" and "Birds" for the moment.
-- **New Item Preview Window**Regular and Special Items will now display a short description of their effect inside a Trial by using a new item previewer window.
+- **Started adding search tags for Charms** Only "Perks" and "Birds" for the moment.
+- **New Item Preview Window** Regular and Special Items will now display a short description of their effect inside a Trial by using a new item previewer window.
 
 **Bug Fixes**
 
@@ -316,7 +316,7 @@ The red lighting was a big issue in the realm of The Decimated Borgo. The art an
 
 ### The Blight - Addons
 
-- **Compound Thirty-Three**Rush tokens are capped at 5. *(was 3)*
+- **Compound Thirty-Three** Rush tokens are capped at 5. *(was 3)*
 
 ## Archives
 

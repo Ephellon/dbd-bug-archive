@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/394-7-0-1-bugfix-p
 author: "Peanits"
 published: "2023-06-21T14:28:23+00:00"
 updated: "2023-06-21T14:59:16+00:00"
-archived: "2026-09-26T02:18:24Z"
+archived: "2026-09-26T16:40:33Z"
 ---
 
 <!-- summary -->
@@ -43,19 +43,19 @@ Update release: 11AM ET, June 21
 
 ### Event
 
-- The 7th Anniversary "Twisted Masquerade" event begins June 22, 2023 at 11:00:00 ET
-- Level 1 of the "Twisted Masquerade" event tome opens June 22, 2023 at 11:00:00 ET
+- The 7th Anniversary "Twisted Masquerade" event begins June 22, 2023 at 11:00:00 ET
+- Level 1 of the "Twisted Masquerade" event tome opens June 22, 2023 at 11:00:00 ET
 
 ## Bug Fixes
 
 **Audio**
 
-- Fixed an issue that caused the Slipstream Teleport sfx to be missing at the beginning of the animation.
+- Fixed an issue that caused the Slipstream Teleport sfx to be missing at the beginning of the animation.
 
 **Bots**
 
 - Bots are less likely to follow paths that start by going towards a chasing Killer.
-- Bots using the Scavenger perk and affected by the repair speed penalty may now prioritize other goals over working on the generator.
+- Bots using the Scavenger perk and affected by the repair speed penalty may now prioritize other goals over working on the generator.
 - Bots have read previous Patch Notes and now correctly distinguish Survivor and Special items.
 
 **The Singularity**
@@ -79,9 +79,9 @@ Update release: 11AM ET, June 21
 
 **Perks**
 
-- Using For the People to heal a survivor to healthy no longer incorrectly applies the Endurance effect from the Made for This perk
+- Using For the People to heal a survivor to healthy no longer incorrectly applies the Endurance effect from the Made for This perk
 - Survivors' camera no longer sometimes stays stuck on the Killer after using the Perk Decisive Strike
-- The Troubleshooter perk now correctly applies a yellow Aura to Generators
+- The Troubleshooter perk now correctly applies a yellow Aura to Generators
 
 **Platforms**
 
@@ -100,7 +100,7 @@ Update release: 11AM ET, June 21
 **Misc**
 
 - Zombies no longer stop spawning when The Nemesis uses "Tyrant Gore" and "Depleted Ink Ribbon"
-- Survivors carrying a Cursed Killer Item are now able to properly complete interacting with Glyphs.
+- Survivors carrying a Cursed Killer Item are now able to properly complete interacting with Glyphs.
 - The Ghost Face is no longer able to lean on all Vaults of the Main Building in Toba Landing
 
 **Level Design**

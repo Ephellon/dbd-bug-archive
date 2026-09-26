@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/444-developer-upda
 author: "Peanits"
 published: "2024-04-18T14:55:20+00:00"
 updated: "2024-04-18T14:55:20+00:00"
-archived: "2026-09-26T02:20:12Z"
+archived: "2026-09-26T16:43:02Z"
 ---
 
 <!-- summary -->
@@ -33,20 +33,20 @@ As the 7.7.0 Update approaches, we’ve prepared some adjustments after going th
 
 *Dev note: We have received a lot of comments about The Twins’ strength during the PTB. We have made the decision to revert the changes to Victor’s pounce and keep the various quality of life improvements (faster switching between Charlotte and Victor, ability to recall Victor, and Add-on adjustments & base kit inclusion). We may revisit The Twins in a future update, if necessary, but these smaller tweaks will make The Twins feel better to play for the time being.*
 
-![CA_DBD_0224_ApplePie_Frame_Footer.png](444-developer-update-april-2024-ptb/03-ca-dbd-0224-applepie-frame-footer.png)    ![TheBlight.png](444-developer-update-april-2024-ptb/04-theblight.png)
+![CA_DBD_0224_ApplePie_Frame_Footer.png](444-developer-update-april-2024-ptb/03-ca-dbd-0224-applepie-frame-footer.png) ![TheBlight.png](444-developer-update-april-2024-ptb/04-theblight.png)
 
 - \[CHANGED\] Summoning Stone Addon – this will increase the initial rush duration by 0.5s (was 1s)
 - \[CHANGED\] Soul Chemical Addon – this increases the initial Rush speed by 5% down from 10% on the PTB
 
 *Dev note: Feedback around The Blight often centered on the two addons and his improved collision detection. We made some adjustments to the addons to slightly lower their strength whilst still maintaining their usefulness. The Blight’s collision detection will remain as it was on the PTB, and we will continue with our ongoing efforts to improve this collision across all maps.*
 
-![CA_DBD_0224_ApplePie_Frame_Footer.png](444-developer-update-april-2024-ptb/05-ca-dbd-0224-applepie-frame-footer.png)    ![DecisiveStrike.png](444-developer-update-april-2024-ptb/06-decisivestrike.png)
+![CA_DBD_0224_ApplePie_Frame_Footer.png](444-developer-update-april-2024-ptb/05-ca-dbd-0224-applepie-frame-footer.png) ![DecisiveStrike.png](444-developer-update-april-2024-ptb/06-decisivestrike.png)
 
 - \[REMOVED\] Decisive Strike no longer has a new animation.
 
 *Dev note: This PTB featured a new animation for Decisive Strike in which the Survivor would stab the Killer to free themselves. This animation had too much of an effect on the Perk’s expected behaviour (adding a delay before the Survivor wiggled free). We have decided to remove the animation for Decisive Strike before the update is released. The stun time for the Perk will remain at 5 seconds for the time being.*
 
-![CA_DBD_0224_ApplePie_Frame_Footer.png](444-developer-update-april-2024-ptb/07-ca-dbd-0224-applepie-frame-footer.png)    ![UltimateWeapon.png](444-developer-update-april-2024-ptb/08-ultimateweapon.png)
+![CA_DBD_0224_ApplePie_Frame_Footer.png](444-developer-update-april-2024-ptb/07-ca-dbd-0224-applepie-frame-footer.png) ![UltimateWeapon.png](444-developer-update-april-2024-ptb/08-ultimateweapon.png)
 
 *Note: The following changes will be part of a future update. The Perk will remain as it was on the PTB in the meantime.*
 

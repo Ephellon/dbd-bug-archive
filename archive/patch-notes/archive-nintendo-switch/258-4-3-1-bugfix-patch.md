@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/258-4-3-1-bugfix-p
 author: "Peanits"
 published: "2020-10-28T14:27:34+00:00"
 updated: "2020-10-28T14:27:34+00:00"
-archived: "2026-09-26T02:19:52Z"
+archived: "2026-09-26T16:42:19Z"
 ---
 
 <!-- summary -->
@@ -26,7 +26,7 @@ Medkit healing for the second health state, Discordance aura visibility during g
 ## Bug Fixes
 
 - Fixed an issue that might prevent medkits with 32 charges to completely heal the second health state.
-- Fixed an issue that caused survivors auras not to be shown if a killer equipped with the Discordance perk enters the activation range after the survivors have started repairing a generator.
+- Fixed an issue that caused survivors auras not to be shown if a killer equipped with the Discordance perk enters the activation range after the survivors have started repairing a generator.
 - Fixed an issue that caused killers to have their first person view posture during the intro.
 - Fixed an issue that caused Halloween event hook auras to display a base.
 - Fixed an issue that cause the Nightmare not to dissolve at the end of his mori animation.

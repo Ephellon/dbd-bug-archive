@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/417-7-3-3-bugfix-p
 author: "Peanits"
 published: "2023-11-06T18:58:13+00:00"
 updated: "2023-11-06T21:49:20+00:00"
-archived: "2026-09-26T02:18:21Z"
+archived: "2026-09-26T16:40:28Z"
 ---
 
 <!-- summary -->
@@ -25,9 +25,9 @@ Stranger Things returns to Dead by Daylight, restoring the original names and ic
 
 ## Release Schedule
 
-**Consoles:**3PM ET
+**Consoles:** 3PM ET
 
-**PC:**3:30PM ET
+**PC:** 3:30PM ET
 
 ![PatchNotesDivider.png](417-7-3-3-bugfix-patch/02-patchnotesdivider.png)
 
@@ -37,7 +37,7 @@ Stranger Things returns to Dead by Daylight, restoring the original names and ic
 
 ## Stranger Things
 
-The Stranger Things DLC is back to Dead By Daylight!
+The Stranger Things DLC is back to Dead By Daylight!
 
 ### Perks
 
@@ -47,7 +47,7 @@ Please note these perks are only translated in English. All other non-English la
 
 **Currently in Game → New (original) Title**
 
-- Survivor Perks
+- Survivor Perks
   - Guardian → Babysitter
   - Kinship → Camaraderie
   - Renewal → Second Wind
@@ -55,7 +55,7 @@ Please note these perks are only translated in English. All other non-English la
   - Self-aware → Fixated
   - Inner Healing → Inner Strength
 
-- Killer Perks
+- Killer Perks
   - Jolt → Surge
   - Claustrophobia → Cruel Limits
   - Fearmonger → Mind Breaker

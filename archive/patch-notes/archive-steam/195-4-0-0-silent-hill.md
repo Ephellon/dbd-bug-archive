@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/195-4-0-0-silent-h
 author: "Peanits"
 published: "2020-06-16T14:30:02+00:00"
 updated: "2020-06-16T14:30:02+00:00"
-archived: "2026-09-26T02:19:10Z"
+archived: "2026-09-26T16:41:30Z"
 ---
 
 <!-- summary -->
@@ -25,9 +25,9 @@ The Executioner killer, Cheryl Mason survivor, and Midwich Elementary School map
 
 - Added Sets (2 or more linked Customization pieces that are always equipped together)
 - Added a new Rarity for Customizations - Legendary.
-- Added A New Killer -**The Executioner**
-- Added a New Survivor - **Cheryl Mason**
-- Added a New Map - **Midwich Elementary School**
+- Added A New Killer - **The Executioner**
+- Added a New Survivor - **Cheryl Mason**
+- Added a New Map - **Midwich Elementary School**
 - Added the ability to sort a character's Customization Inventory by rarity, outfit, or item name.
 - Adjusted the user interface layout scaling to better accommodate 4k resolution screens.
 - Added Block feature to Tally Screen, allowing to prevent someone from sending friends invite.
@@ -35,13 +35,13 @@ The Executioner killer, Cheryl Mason survivor, and Midwich Elementary School map
 ## Balance
 
 - Clown: No longer slowed when throwing bottles.
-- The Shape's Evil Within extending add-ons only increase the required stalking amount on the first activation of Evil Within III. The text of these addons has be adjusted to describe this behavior correctly.
+- The Shape's Evil Within extending add-ons only increase the required stalking amount on the first activation of Evil Within III. The text of these addons has be adjusted to describe this behavior correctly.
 
 ## Bug Fixes
 
 - Badham Preschool: Fixed an issue that caused various assets to appear offset, leaving a gap behind them.
 - Macmillan Estate: Fixed an issue that caused some ground textures to flicker.
-- Dead Dawg Saloon: Fixed an issue that caused 2 Survivors to be stuck when standing close to each other on the Hangman's Trapdoor as the Generator completes.
+- Dead Dawg Saloon: Fixed an issue that caused 2 Survivors to be stuck when standing close to each other on the Hangman's Trapdoor as the Generator completes.
 - Dead Dawg Saloon: Fixed an area where Killers couldn't follow Survivors. between a wall and a Cactus.
 - Dead Dawg Saloon: Fixed an issue that caused Survivors to get stuck when crouch walking towards a building.
 - Red Forest: Fixed an issue that caused Survivors to get stuck when crouch walking behind a tree.
@@ -64,7 +64,7 @@ The Executioner killer, Cheryl Mason survivor, and Midwich Elementary School map
 - Treatment Theatre: Fixed an issue that prevented the Plague from Ingesting Corruption from a specific fountain.
 - Gideon Meat Plant: Fixed an issue that allowed Survivors to jump through a vault point by walking against the edge of a hole and falling further than intended.
 - The Clown: Fixed an issue that caused the bottles to disappear a moment early after reloading.
-- The Clown: Fixed an issue that caused the Clown to get a very large speed boost when reloading while using both the VHS Porn and Smeely Inner Soles add-ons.
+- The Clown: Fixed an issue that caused the Clown to get a very large speed boost when reloading while using both the VHS Porn and Smeely Inner Soles add-ons.
 - Fixed an issue that caused the perk For The People to activate when performing a heal skillcheck if it is bound to the same key as the skillcheck action.
 - The Deathsligner: Fixed the German description for the Deathslinger achievements.
 - The Wraith: Fixed an issue with The Serpent Soot to not reveal the Wraith when breaking a breakable wall.
@@ -101,12 +101,12 @@ The Executioner killer, Cheryl Mason survivor, and Midwich Elementary School map
 - **Trail of Torment:** Increased the duration from 15/15/15 seconds to 16/16/16 seconds. Cooldown reduced from 120/100/80 seconds to 80/70/60 seconds.
 - **Deathbound:** Increased the duration of the Oblivious effect from 45/45/45 seconds to 60/60/60 seconds.
 - **Soul Guard:** Taking damage that would put you in the Dying state will now apply Deep Wounds.
-- **Blood Pact:**Increased the duration of the Haste effect from 4/6/8 seconds to 6/8/10 seconds.
+- **Blood Pact:** Increased the duration of the Haste effect from 4/6/8 seconds to 6/8/10 seconds.
 - **Blood Pact:** The Haste status effect is now only applied if the heal is completed.
-- **The Executioner:**Fixed an issue that caused Malicious Emblem points to not being awarded when sacrificing Survivors in a Cage of Atonement.
+- **The Executioner:** Fixed an issue that caused Malicious Emblem points to not being awarded when sacrificing Survivors in a Cage of Atonement.
 - Fixed the placeholder Prestige icons for Cheryl and the Executioner.
 - Midwich Elementary School: Fixed various areas when the Survivor were unable to unhook other Survivors from the Executioner's Death Bed.
-- Midwich Elementary School: Fixed an issue that prevented accessing one side of a Generator.
+- Midwich Elementary School: Fixed an issue that prevented accessing one side of a Generator.
 - Soul Guard: Fixed an issue that caused the Perk to continue to trigger its effect after the hex totem has been cleansed.
 
 <!-- nav -->

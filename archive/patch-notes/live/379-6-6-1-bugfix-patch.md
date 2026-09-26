@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/379-6-6-1-bugfix-p
 author: "Peanits"
 published: "2023-03-14T14:25:26+00:00"
 updated: "2023-03-14T14:34:44+00:00"
-archived: "2026-09-26T02:18:26Z"
+archived: "2026-09-26T16:40:36Z"
 ---
 
 <!-- summary -->
@@ -56,7 +56,7 @@ Update Releases: 11AM ET
 ### Bots
 
 - After playing a Custom Game with Add-ons disabled, the Tally screen no longer shows incorrect Add-ons.
-- An injured Bot will now think twice before attempting to heal a downed Bot within the Terror Radius.
+- An injured Bot will now think twice before attempting to heal a downed Bot within the Terror Radius.
 - Bots can now use the Repressed Alliance Perk.
 - Bots no longer shuffle at a slow pace while at a pallet if the chasing Killer is slightly far away.
 - Bots now respect Killers more by not getting into lockers while in the Killer's line of sight.
@@ -66,7 +66,7 @@ Update Releases: 11AM ET
 - When playing against Freddy Krueger with Add-ons allowing Dream Pallets, Bots will now remember which Pallets were replaced by fakes.
 - When playing against The Skull Merchant, Bots avoid loops covered by a Drone zone.
 - When playing against The Skull Merchant, Bots are now capable of vaulting near Drones.
-- When playing against The Skull Merchant with the Iridescent Unpublished Manuscript Add-on, Bots now respond to the change in Terror Radius.
+- When playing against The Skull Merchant with the Iridescent Unpublished Manuscript Add-on, Bots now respond to the change in Terror Radius.
 
 ### Characters
 
@@ -88,11 +88,11 @@ Update Releases: 11AM ET
 
 ### Perks
 
-- The Survivor's Aura no longer fails to be revealed by Grim Embrace when the obsession is transferred by Game Afoot.
+- The Survivor's Aura no longer fails to be revealed by Grim Embrace when the obsession is transferred by Game Afoot.
 - Teamwork: Power of Two no longer fails to deactivate if the other Survivor disconnects.
-- Healing an injured Survivor who has the Perk Adrenaline equipped while all Generator are completed no longer triggers the effect of the Perk Teamwork: Power Of Two
-- The Teamwork: Power of Two buff external icon now properly appears on all of the Survivors using the Perk.
-- The Teamwork: Collective Stealth's external perk icon now correctly appears on the affected Survivor instead of the perk owner when both Survivors have this Perk equipped.
+- Healing an injured Survivor who has the Perk Adrenaline equipped while all Generator are completed no longer triggers the effect of the Perk Teamwork: Power Of Two
+- The Teamwork: Power of Two buff external icon now properly appears on all of the Survivors using the Perk.
+- The Teamwork: Collective Stealth's external perk icon now correctly appears on the affected Survivor instead of the perk owner when both Survivors have this Perk equipped.
 - The Friendly Competition repair bonus speed buff is now properly maintained if the Perk owner disconnects from the Trial.
 - Using the Perk For The People on a dying Survivor now properly gives the Survivors the Teamwork: Power of Two and Teamwork: Collective Stealth buffs.
 - The End Game Collapse timer now updates properly when the last remaining survivor gets back up from the Adrenaline perk's effect
@@ -113,7 +113,7 @@ Update Releases: 11AM ET
 
 - Hooking Survivors during the End Game Collapse no longer counts for 2 Hooks for the Hooks challenges progress
 - The Hack the Mainframe Achievement now unlocks correctly upon Killer disconnection.
-- Adept Renato and Adept Thalita are unlocked if the Killer Disconnects after the Exit Gate was opened.
+- Adept Renato and Adept Thalita are unlocked if the Killer Disconnects after the Exit Gate was opened.
 
 <!-- nav -->
 &larr; [6.6.0 | Tools of Torment](378-6-6-0-tools-of-torment.md) · [Live](../../index.md#live) · [6.6.2 | Bugfix Patch](381-6-6-2-bugfix-patch.md) &rarr;

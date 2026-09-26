@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/348-developer-upda
 author: "Peanits"
 published: "2022-08-23T13:55:20+00:00"
 updated: "2022-08-23T13:55:20+00:00"
-archived: "2026-09-26T02:20:20Z"
+archived: "2026-09-26T16:43:27Z"
 ---
 
 <!-- summary -->
@@ -29,7 +29,7 @@ We’re back with another Developer Update, a series of posts detailing all the 
 
 ## Bloodweb Costs
 
-Last month, we overhauled our progression system to make it easier than ever to earn Perks. Under this new system, Perks are now unlocked through Prestige and are immediately available to use on other characters without needing to be found in the Bloodweb. Higher tier versions of their Perks can be earned with subsequent Prestiges, or randomly throughout the Bloodweb.
+Last month, we overhauled our progression system to make it easier than ever to earn Perks. Under this new system, Perks are now unlocked through Prestige and are immediately available to use on other characters without needing to be found in the Bloodweb. Higher tier versions of their Perks can be earned with subsequent Prestiges, or randomly throughout the Bloodweb.
 
 Alongside these changes, we removed the Bloodpoint bonuses from two perks: Barbecue and Chili, and We’re Gonna Live Forever. As some of you have rightly pointed out, without these bonuses, you could afford fewer Bloodweb nodes per match making it harder to earn Items, Add-ons, and Offerings than before.
 
@@ -97,7 +97,7 @@ For the release, we have removed the cooldown of Reassurance. Instead, Reassuran
 
 ![BetterThanNew.png](348-developer-update-august-23-2022/10-betterthannew.png)
 
-**Better Than New:**This perk granted any Survivor you healed a 6% action speed bonus to repairing, healing, chest opening, and totem cleansing for 25/30/35 seconds. We found the duration of this perk to be a little low to make much use out of the bonus speed. For release, we’ve made a few changes to this perk:
+**Better Than New:** This perk granted any Survivor you healed a 6% action speed bonus to repairing, healing, chest opening, and totem cleansing for 25/30/35 seconds. We found the duration of this perk to be a little low to make much use out of the bonus speed. For release, we’ve made a few changes to this perk:
 
 - Better Than New now grants a 12%/14%/16% action speed bonus to healing, chest opening, and totem cleansing & blessing.
 - Better Than New no longer has a duration. Survivors instead keep this bonus until the next time they take damage.

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/53-2-7-0-mid-chapt
 author: "Peanits"
 published: "2020-02-28T18:56:37+00:00"
 updated: "2020-03-02T19:46:19+00:00"
-archived: "2026-09-26T02:19:20Z"
+archived: "2026-09-26T16:41:42Z"
 ---
 
 <!-- summary -->
@@ -42,7 +42,7 @@ Killer
 
 - Gate Open: Opening an exit gate (500).
 - Hatch Close: Close the hatch (250).
-- Late Hook: Hook a Survivor after the EGC has started (250).
+- Late Hook: Hook a Survivor after the EGC has started (250).
 - Late Sacrifice: Sacrifice a Survivor once the EGC has started (500).
 - Time's Up: Entity sacrifices a Survivor after the EGC has expired (500).
 
@@ -123,11 +123,11 @@ Gameplay changes
 
 **The Pig changes:**
 
-- RBTs only become active whenever a generator is completed. Inactive RBTs will no longer trigger when attempting to leave via an exit gate. \*NOTE: Initiating the End Game Collapse will not complete generators, but will block them. This means that any inactive RBTs will remain inactive.
+- RBTs only become active whenever a generator is completed. Inactive RBTs will no longer trigger when attempting to leave via an exit gate. \*NOTE: Initiating the End Game Collapse will not complete generators, but will block them. This means that any inactive RBTs will remain inactive.
 
 **The Plague:**
 
-- Corrupt Purge Damage (300).
+- Corrupt Purge Damage (300).
 - Sickness Damage (300).
 
 ## Bug Fixes

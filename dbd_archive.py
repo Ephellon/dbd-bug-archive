@@ -164,7 +164,7 @@ DROP_TAGS = {"script", "style", "noscript", "svg", "path", "title", "button",
 def classes(node: "Node") -> set[str]:
     return set((node.attrs.get("class") or "").split())
 
-_WS = re.compile(r"[ \t\r\f\v]+")
+_WS = re.compile(r"[ \t\r\f\v\u00a0\u2007\u202f]+")
 _MD_ESCAPE = re.compile(r"(?<!\\)([*_`\[\]])")
 
 # Tags whose Markdown output is wrapped in a symmetric emphasis marker.
@@ -215,14 +215,11 @@ class MarkdownWriter:
         if tag in DROP_TAGS:
             return ""
         if tag in ("strong", "b"):
-            inner = self.inline(node).strip()
-            return f"**{inner}**" if inner else ""
+            return self._emphasise(node, "**")
         if tag in ("em", "i"):
-            inner = self.inline(node).strip()
-            return f"*{inner}*" if inner else ""
+            return self._emphasise(node, "*")
         if tag in ("del", "s", "strike"):
-            inner = self.inline(node).strip()
-            return f"~~{inner}~~" if inner else ""
+            return self._emphasise(node, "~~")
         if tag == "code":
             return f"`{self.plain(node)}`"
         if tag == "br":
@@ -249,6 +246,20 @@ class MarkdownWriter:
         self.unknown_tags.add(tag)
         return self.inline(node)
 
+    def _emphasise(self, node: Node, mark: str) -> str:
+        """Wrap in `mark`, keeping any surrounding space outside the markers.
+
+        Markdown ignores `** x **`, so the space an author put inside the tag
+        has to move out or the emphasised word collides with its neighbour.
+        """
+        inner = self.inline(node)
+        core = inner.strip()
+        if not core:
+            return " " if inner else ""
+        lead = " " if inner[:1].isspace() else ""
+        trail = " " if inner[-1:].isspace() else ""
+        return f"{lead}{mark}{core}{mark}{trail}"
+
     def _image(self, node: Node) -> str:
         src = node.attrs.get("src", "").strip()
         if not src:
@@ -274,14 +285,14 @@ class MarkdownWriter:
                 return
             holder = Node("#inline")
             holder.children = pending[:]
-            text = self.inline(holder).strip()
+            text = re.sub(r" {2,}(?=\S)", " ", self.inline(holder)).strip()
             pending.clear()
             if text:
                 blocks.append(indent + text)
 
         for child in node.children:
             if child.tag is None:
-                if child.text.strip():
+                if child.text.strip() or pending:
                     pending.append(child)
                 continue
             if child.tag in DROP_TAGS:

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/496-design-preview
 author: "ThatRyanB"
 published: "2025-03-20T14:58:02+00:00"
 updated: "2025-03-20T14:58:02+00:00"
-archived: "2026-09-26T02:20:06Z"
+archived: "2026-09-26T16:42:50Z"
 ---
 
 <!-- summary -->
@@ -32,7 +32,7 @@ We wanted to quickly follow up on how we're changing up the Design Preview proce
 Coming away from last year's Design Preview, a couple things stood out to us:
 
 1. When it comes to bigger changes like reworks, specifics matter. It’s important that we compare the perspectives of both Killers and Survivors to help inform decision-making.
-2. While it’s one thing to **ask**for feedback, the original Design Preview concept didn’t let you know **how**we’re using your feedback, and it’s important to us that you have visibility on the ways your feedback helps drive improvements within the game!
+2. While it’s one thing to **ask** for feedback, the original Design Preview concept didn’t let you know **how** we’re using your feedback, and it’s important to us that you have visibility on the ways your feedback helps drive improvements within the game!
 
 With these in mind and as we look to future Design Previews (including this one!), we're making the following changes to our process:
 

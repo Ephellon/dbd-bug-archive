@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/296-5-2-2-bugfix-p
 author: "Peanits"
 published: "2021-09-21T14:27:22+00:00"
 updated: "2021-09-21T14:35:45+00:00"
-archived: "2026-09-26T02:18:36Z"
+archived: "2026-09-26T16:40:49Z"
 ---
 
 <!-- summary -->
@@ -39,7 +39,7 @@ Bug fixes cover a range of systems: scoring and bonus bloodpoints for the Cenobi
 - Fixed an issue that caused the Cenobite's chase music not to restart after using Summons of Pain during a chase.
 - Fixed an issue that caused the Cenobite's Lament Guardian score event to be counted in an incorrect category.
 - Fixed an issue that caused a grunt sound effect to be played when switching to the Cenobite when spectating a custom game.
-- Fixed an issue that a "generator completed" sound notification to play when switching between Victor and Charlotte or when switching spectated players.
+- Fixed an issue that a "generator completed" sound notification to play when switching between Victor and Charlotte or when switching spectated players.
 - Fixed an issue that caused the Engineer's Guild archive quest not to progress.
 - Fixed an issue that caused two hooks too close to one another at the east stairs in Resident Evil map.
 - Fixed an issue that prevented one side of a pallet in Gideon Meat Plant from being destroyed by the killer,

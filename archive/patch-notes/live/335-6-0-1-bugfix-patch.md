@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/335-6-0-1-bugfix-p
 author: "Peanits"
 published: "2022-06-16T13:27:51+00:00"
 updated: "2022-06-16T13:27:51+00:00"
-archived: "2026-09-26T02:18:31Z"
+archived: "2026-09-26T16:40:43Z"
 ---
 
 <!-- summary -->
@@ -30,7 +30,7 @@ Twisted Masquerade’s 6th-Anniversary event has been pushed to start June 16 at
 ## Bug Fixes
 
 - Tentatively fixed an issue that caused lag while navigating the loadout menu.
-- Tentatively fixed an issue that could cause Survivors crawl speed to be higher than normal.
+- Tentatively fixed an issue that could cause Survivors crawl speed to be higher than normal.
 - Fixed an issue that could occasionally cause the game to crash when teleporting as The Dredge.
 - Fixed an issue that could occasionally cause the game to crash when playing against the Huntress or the Trickster.
 - Fixed an issue that caused the Dredge's Very Rare Twisted Plaything outfit to stretch during its apparition in menus. (All platforms except Steam and Epic)
@@ -48,15 +48,15 @@ Twisted Masquerade’s 6th-Anniversary event has been pushed to start June 16 at
 - Fixed an issue that caused Survivors to pop forward during the locker grab animation when the Dredge teleported to a locker with a Survivor inside.
 - Fixed an issue that caused part of the Dredge to clip through the camera when exiting a locker immediately after teleporting to it.
 - Fixed an issue that caused the Dredge's vignette during nightfall to desaturate the Killer instinct and Loud Noise notifications.
-- Fixed an issue that caused the Dredge to be blinded by blinding items (firecrackers, flashbangs, flashlights) while teleporting to a locker.
+- Fixed an issue that caused the Dredge to be blinded by blinding items (firecrackers, flashbangs, flashlights) while teleporting to a locker.
 - Fixed an issue that caused the undetectable smoke VFX to be visible for a few seconds when the Dredge exits a locker during the Nightfall.
-- Fixed an issue that could cause the Blindness and Exhausted status effects from the Fearmonger perk to stay on Survivors after they stop repairing a generator.
+- Fixed an issue that could cause the Blindness and Exhausted status effects from the Fearmonger perk to stay on Survivors after they stop repairing a generator.
 - Fixed an issue that caused Survivors within 5 meters of a locker and in the dying state to trigger the Dredge's Lavalier Microphone add-on.
-- Fixed an issue that caused Survivors to suffer from the Exposed status effect for the whole Nightfall duration if the last generator is repaired during the end of Nightfall with the Dredge's Iridescent Wood Plan and Field Recorder add-ons.
-- Fixed an issue that caused the From The Deep achievement (trophy on Sony platforms) to gain progress when the Dredge is hiding in a locker and the Survivor interacts with it.
+- Fixed an issue that caused Survivors to suffer from the Exposed status effect for the whole Nightfall duration if the last generator is repaired during the end of Nightfall with the Dredge's Iridescent Wood Plan and Field Recorder add-ons.
+- Fixed an issue that caused the From The Deep achievement (trophy on Sony platforms) to gain progress when the Dredge is hiding in a locker and the Survivor interacts with it.
 - Fixed an issue that caused the Dredge to have no animation on the match result screen when the match ends while it was in a locker.
 - Fixed an issue that caused the aspect ratio black bars to disappear when the Dredge is in a locker.
-- Fixed an issue that could cause Survivors to get stuck when searching a locker as the Dredge is teleporting to it with high packet loss.
+- Fixed an issue that could cause Survivors to get stuck when searching a locker as the Dredge is teleporting to it with high packet loss.
 - Fixed an issue that could cause Survivors to get in a broken state inside a locker if the Killer is stunned by another Survivor using the Head On perk when searching a locker.
 - Fixed an issue that allowed characters to get on top of some crates and buckets by dropping down from the second floor of the main building in Coal Tower.
 - Fixed an issue that caused an invisible collision blocking the hole in the second floor in Badham Preschool maps.

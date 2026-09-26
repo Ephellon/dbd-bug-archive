@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/363-developer-upda
 author: "Omnia"
 published: "2022-10-28T14:00:59+00:00"
 updated: "2022-10-28T15:49:42+00:00"
-archived: "2026-09-26T02:20:19Z"
+archived: "2026-09-26T16:43:26Z"
 ---
 
 <!-- summary -->
@@ -45,11 +45,11 @@ Additionally, we have a few other improvements in store for this feature in the 
 
 Continuing our ongoing efforts to improve the graphics of Dead by Daylight, we have updated the visuals for breakable objects (pallets & breakable walls). Rather than making you read all about them, we figured we would show you. Take a look!
 
-![BreakableWall.png](363-developer-update-october-2022/05-breakablewall.png)    ![Pallet.png](363-developer-update-october-2022/06-pallet.png)
+![BreakableWall.png](363-developer-update-october-2022/05-breakablewall.png) ![Pallet.png](363-developer-update-october-2022/06-pallet.png)
 
 That’s not all the visual improvements we have in store. Check out the new basement! (Please excuse the mess, we weren’t expecting company.)
 
-![Basement1.png](363-developer-update-october-2022/07-basement1.png)    ![Basement2.png](363-developer-update-october-2022/08-basement2.png)    ![Basement3.png](363-developer-update-october-2022/09-basement3.png)
+![Basement1.png](363-developer-update-october-2022/07-basement1.png) ![Basement2.png](363-developer-update-october-2022/08-basement2.png) ![Basement3.png](363-developer-update-october-2022/09-basement3.png)
 
 ![Flashlight.png](363-developer-update-october-2022/10-flashlight.png)
 
@@ -100,7 +100,7 @@ We recently shared a roadmap detailing our plans to combat cheating. In the week
 - Added countermeasures to force the match to end after the End Game Collapse
 - Added countermeasures to prevent player sniping
 - Fixed an issue that could allow cheaters to crash the game
-- We are now able to confirm that these fixes were effective and have limited the abilities of cheaters for the time being. We have already identified additional vulnerabilities and will roll out fixes over the coming weeks, but we can’t give details on these just yet to avoid giving cheat makers a heads up. We’ll share more on what we’ve been working on in our next update on cheating.
+- We are now able to confirm that these fixes were effective and have limited the abilities of cheaters for the time being. We have already identified additional vulnerabilities and will roll out fixes over the coming weeks, but we can’t give details on these just yet to avoid giving cheat makers a heads up. We’ll share more on what we’ve been working on in our next update on cheating.
 
 ## Temporary Bans
 

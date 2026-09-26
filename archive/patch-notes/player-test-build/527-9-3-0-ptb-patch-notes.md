@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/527-9-3-0-ptb-patc
 author: "ThatRyanB"
 published: "2025-11-04T15:30:10+00:00"
 updated: "2025-11-04T15:30:10+00:00"
-archived: "2026-09-26T02:18:42Z"
+archived: "2026-09-26T16:40:56Z"
 ---
 
 <!-- summary -->
@@ -30,7 +30,7 @@ Unhook Protections now give survivors 30 s of 10 % Haste, Endurance, Elusive, si
 - When accessing a character's Bloodweb, the character will be automatically set to Level 50 and Prestige 3, unlocking their perks to Tier 3, as well as any items that would regularly be obtained during this process.
   - *Known Issue: After accessing a character's Bloodweb, certain UI elements may incorrectly display a Prestige level other than Prestige 3. This is only a display bug, as characters will still function as though they are Prestige 3.*
 - All offerings, items, and add-ons will be pre-loaded with 99 units available.
-- 12,500 Auric Cells and 1 million Bloodpoints will be given on each new PTB version, available to explore Outfits and Characters in the Store.
+- 12,500 Auric Cells and 1 million Bloodpoints will be given on each new PTB version, available to explore Outfits and Characters in the Store.
 
 ![bar_red.png](527-9-3-0-ptb-patch-notes/02-bar-red.png)
 
@@ -42,36 +42,36 @@ Unhook Protections now give survivors 30 s of 10 % Haste, Endurance, Elusive, si
 
 #### Unhook Protections Update
 
-- Survivors that are unhooked or unhook themselves receive Unhook Protections for **30 seconds**, which include:
-  - **10% Haste** status effect
-  - **Endurance** status effect
-  - **Elusive** status effect (new status effect that hides grunts of pain, aura, scratch marks, and pools of blood)
-  - The Survivor makes no sounds (coughing, vomiting, etc.)
+- Survivors that are unhooked or unhook themselves receive Unhook Protections for **30 seconds**, which include:
+  - **10% Haste** status effect
+  - **Endurance** status effect
+  - **Elusive** status effect (new status effect that hides grunts of pain, aura, scratch marks, and pools of blood)
+  - The Survivor makes no sounds (coughing, vomiting, etc.)
   - Immunity to AFK crows
-- The Survivor will see the Killer's aura within **32 meters**for **10 seconds**
-- The Survivor is still susceptible to attacks and powers.
-- These effects linger for **3 seconds** after being healed for a full health state.
+- The Survivor will see the Killer's aura within **32 meters** for **10 seconds**
+- The Survivor is still susceptible to attacks and powers.
+- These effects linger for **3 seconds** after being healed for a full health state.
 - These effects are lost when performing a Conspicuous Action.
-- These effects are disabled when all generators are completed, except for the **10% Haste** and **Endurance** status effects, which will only last **10 seconds**.
+- These effects are disabled when all generators are completed, except for the **10% Haste** and **Endurance** status effects, which will only last **10 seconds**.
 
-*Dev note: We've reduced the Killer aura reveal duration to limit a Survivor's ability to plan aggressive saves while under the effects of Unhook Protections. Additionally, we've removed the No Collision effect from the Unhook Protections to prevent Survivors from phasing ahead of the Killer to use their Unhook Protections aggressively. We will be closely monitoring these during the PTB and look forward to the feedback!*
+*Dev note: We've reduced the Killer aura reveal duration to limit a Survivor's ability to plan aggressive saves while under the effects of Unhook Protections. Additionally, we've removed the No Collision effect from the Unhook Protections to prevent Survivors from phasing ahead of the Killer to use their Unhook Protections aggressively. We will be closely monitoring these during the PTB and look forward to the feedback!*
 
 #### Unique Hook Bonuses
 
-- When hooking a Survivor that is different than the last hooked Survivor, the Killer gains the following:
-  - **Bloodlust (Tier 1)** for **15 seconds**
+- When hooking a Survivor that is different than the last hooked Survivor, the Killer gains the following:
+  - **Bloodlust (Tier 1)** for **15 seconds**
     - This bonus is reset when entering a chase
-    - This bonus is disabled when all generators are completed.
-  - A **10%**Bloodpoint multiplier on the match score at the end of the trial
+    - This bonus is disabled when all generators are completed.
+  - A **10%** Bloodpoint multiplier on the match score at the end of the trial
 
-*Dev note: In the previous PTB, the Killer bonuses were complex and had many layers, they also made Killer gameplay very linear: hook → kick gen → down next survivor → rinse & and repeat. To retain player agency and the unexpected moments, we've simplified the bonuses to only one: gaining Bloodlust. Why Bloodlust? Because Haste stacked with Killer powers, which made stronger killers even stronger, widening the gap between them and weaker killers. Reusing Bloodlust means that Killers who use their power (Nurse, Ghoul, etc.) will lose the bonus, while Killers who are typically use their Basic Attack more, will keep it for the full duration. We've also removed the penalties from the previous PTB in the spirit of keeping player choice an important factor in how the game unfolds.*
+*Dev note: In the previous PTB, the Killer bonuses were complex and had many layers, they also made Killer gameplay very linear: hook → kick gen → down next survivor → rinse & and repeat. To retain player agency and the unexpected moments, we've simplified the bonuses to only one: gaining Bloodlust. Why Bloodlust? Because Haste stacked with Killer powers, which made stronger killers even stronger, widening the gap between them and weaker killers. Reusing Bloodlust means that Killers who use their power (Nurse, Ghoul, etc.) will lose the bonus, while Killers who are typically use their Basic Attack more, will keep it for the full duration. We've also removed the penalties from the previous PTB in the spirit of keeping player choice an important factor in how the game unfolds.*
 
 #### Perks
 
 The following perks have been updated. See the Perk Updates sections below for more details:
 
-- **Killer:**Furtive Chase
-- **Survivor:**Babysitter, Borrowed Time, Breakdown, Off the Record, Wicked
+- **Killer:** Furtive Chase
+- **Survivor:** Babysitter, Borrowed Time, Breakdown, Off the Record, Wicked
 
 ![bar_white.png](527-9-3-0-ptb-patch-notes/03-bar-white.png)
 
@@ -79,25 +79,25 @@ The following perks have been updated. See the Perk Updates sections below for m
 
 #### Self-Recovery
 
-- After being downed by the Killer, the Resolve Bar appears.
-- The Resolve Bar takes **120 seconds** to fill. Progress does not reset between downs.
-- The Resolve Bar fills **33%**faster for each additional Survivor currently in the Dying State.
-- Once the Resolve Bar is full, the Survivor gains the ability to pick themselves up from the Dying State for the rest of the match. *(Note: The Survivor must fully recover each time.)*
+- After being downed by the Killer, the Resolve Bar appears.
+- The Resolve Bar takes **120 seconds** to fill. Progress does not reset between downs.
+- The Resolve Bar fills **33%** faster for each additional Survivor currently in the Dying State.
+- Once the Resolve Bar is full, the Survivor gains the ability to pick themselves up from the Dying State for the rest of the match. *(Note: The Survivor must fully recover each time.)*
 - Added a custom game setting to disable this feature.
 
-*Dev note: To better target the extreme cases, we've increased the base time taken to fill the Resolve Bar and added a stacking speed bonus for each additional Survivor in the Dying State. This will make the mechanic more lenient in matches with little to no slugging, and cause it to kick in sooner in matches with a lot of slugging.*
+*Dev note: To better target the extreme cases, we've increased the base time taken to fill the Resolve Bar and added a stacking speed bonus for each additional Survivor in the Dying State. This will make the mechanic more lenient in matches with little to no slugging, and cause it to kick in sooner in matches with a lot of slugging.*
 
 #### Dying State
 
-- Crawling speed increases over time when left in the Dying State, from **0.7m/s** to **1.05m/s**.
+- Crawling speed increases over time when left in the Dying State, from **0.7m/s** to **1.05m/s**.
 
-*Dev note: The ability to recover while crawling in the previous PTB made crawling away always the right choice. This made it difficult for the Killer to find and hook Survivors who were only slugged briefly. We've removed this from the base kit so Survivors must choose between staying still and recovering, or crawling away so the Killer cannot find them.*
+*Dev note: The ability to recover while crawling in the previous PTB made crawling away always the right choice. This made it difficult for the Killer to find and hook Survivors who were only slugged briefly. We've removed this from the base kit so Survivors must choose between staying still and recovering, or crawling away so the Killer cannot find them.*
 
 #### Perks
 
 The following perk has been updated. See the Perk Updates sections below for more details:
 
-- **Survivor:** Tenacity
+- **Survivor:** Tenacity
 
 ![bar_white.png](527-9-3-0-ptb-patch-notes/04-bar-white.png)
 
@@ -105,22 +105,22 @@ The following perk has been updated. See the Perk Updates sections below for mor
 
 #### Quality of Life
 
-- The Resolve Bar is now visible to other Survivors while hooked.
+- The Resolve Bar is now visible to other Survivors while hooked.
 
-*Dev note: To help bridge the information gap between players using voice chat and those who aren't, we've added the Resolve Bar to the HUD. This will help Survivors determine if the Killer is camping and plan their next move accordingly.*
+*Dev note: To help bridge the information gap between players using voice chat and those who aren't, we've added the Resolve Bar to the HUD. This will help Survivors determine if the Killer is camping and plan their next move accordingly.*
 
 #### Balance
 
-- The Anti-Facecamp meter now fills faster based on how long the Killer stays near the hook:
+- The Anti-Facecamp meter now fills faster based on how long the Killer stays near the hook:
   - 0-10 seconds: 1x speed
   - 10-20 seconds: 2x speed
   - >20 seconds: 4x speed
-  - *Note: This multiplier only accumulates when the Killer is considered camping (the meter is gaining progress). The multiplier resets when the Survivor is unhooked.*
-- Decreased the base fill rate of the Anti-Facecamp meter by roughly **50%** to compensate.
-- Increased the range of the Anti-Facecamp zone to **20 meters*(was 16)*.
-- Hooking a Survivor now applies a 7 second grace period to **all** hooked Survivors *(was only the last hooked Survivor)*.
+  - *Note: This multiplier only accumulates when the Killer is considered camping (the meter is gaining progress). The multiplier resets when the Survivor is unhooked.*
+- Decreased the base fill rate of the Anti-Facecamp meter by roughly **50%** to compensate.
+- Increased the range of the Anti-Facecamp zone to **20 meters** *(was 16)*.
+- Hooking a Survivor now applies a 7 second grace period to **all** hooked Survivors *(was only the last hooked Survivor)*.
 
-*Dev note: To make the Anti-Facecamp mechanic fairer to both sides, we've reduced the base fill rate and added the time the Killer remains near the hook as a modifier. This gives Killers who are not camping more freedom to pass by a hook (particularly in cramped spaces like hallways) without worrying about the meter filling and giving the Survivor a free escape. This also means that Survivors who are being camped for extended periods gain the ability to unhook themselves slightly earlier.*
+*Dev note: To make the Anti-Facecamp mechanic fairer to both sides, we've reduced the base fill rate and added the time the Killer remains near the hook as a modifier. This gives Killers who are not camping more freedom to pass by a hook (particularly in cramped spaces like hallways) without worrying about the meter filling and giving the Survivor a free escape. This also means that Survivors who are being camped for extended periods gain the ability to unhook themselves slightly earlier.*
 
 ![bar_white.png](527-9-3-0-ptb-patch-notes/05-bar-white.png)
 
@@ -128,13 +128,13 @@ The following perk has been updated. See the Perk Updates sections below for mor
 
 - Decreased the time for crows to appear to 80/100/120 seconds (was 120/140/190)
 
-*Dev note: Following the release of the updated AFK crow system, we increased the time it took to gain crows. This was much too generous, allowing for Survivors to avoid crows too easily. We're dialing back the values a little bit to a middle ground between the original values and the live values.*
+*Dev note: Following the release of the updated AFK crow system, we increased the time it took to gain crows. This was much too generous, allowing for Survivors to avoid crows too easily. We're dialing back the values a little bit to a middle ground between the original values and the live values.*
 
 ![bar_red.png](527-9-3-0-ptb-patch-notes/06-bar-red.png)
 
 ## Content
 
-### Killer updates
+### Killer updates
 
 #### The Shape
 
@@ -142,102 +142,102 @@ The following perk has been updated. See the Perk Updates sections below for mor
 
 #### The Cenobite
 
-- Survivors with the Endurance status effect cannot be restrained by a Possessed Chain.
+- Survivors with the Endurance status effect cannot be restrained by a Possessed Chain.
 
-*Dev note: The ability to bind Survivors who were just unhooked and under the Endurance status effect could feel quite oppressive. This change aims to make the Possessed Chain less effective at targeting recently Unhooked Survivors.*
+*Dev note: The ability to bind Survivors who were just unhooked and under the Endurance status effect could feel quite oppressive. This change aims to make the Possessed Chain less effective at targeting recently Unhooked Survivors.*
 
 #### The Skull Merchant
 
-- Increased the Drone Rotation speed to 105 degrees/second. *(was 95 degrees/second)*
-- Increased the Hindered status effect from getting scanned to 10%. *(was 8%)*
-- Decreased the Deploy Drone cooldown to 7 seconds. *(was 10 seconds)*
-- Decreased the Undetectable duration after deploying a Drone to 6 seconds. *(was 8 seconds)*
+- Increased the Drone Rotation speed to 105 degrees/second. *(was 95 degrees/second)*
+- Increased the Hindered status effect from getting scanned to 10%. *(was 8%)*
+- Decreased the Deploy Drone cooldown to 7 seconds. *(was 10 seconds)*
+- Decreased the Undetectable duration after deploying a Drone to 6 seconds. *(was 8 seconds)*
 - Removed the fast vault immunity to Scan Lines
-- For every 2.5 seconds spent standing underneath a Drone, the Survivor gains 1 Lock On. *(was instant)*
-- Decreased Killer detection range for the Drone. *(now only rises when colliding directly with Skull Merchant)*
+- For every 2.5 seconds spent standing underneath a Drone, the Survivor gains 1 Lock On. *(was instant)*
+- Decreased Killer detection range for the Drone. *(now only rises when colliding directly with Skull Merchant)*
 
-*Dev note: Skull Merchant has dropped fairly significantly in terms of Kill Rate and lethality. These buffs aim to make her drones a bigger threat and bring up her a little bit. Additionally, we've decreased the cooldown to deploying drones, and consequently decreased the duration of Undetectable to keep some downtime between her Undetectable status effect. When standing underneath a Drone, Survivors would get instant Lock On, which felt like a bug whenever it happened. The gradual increase of Lock On will feel more natural and provide feedback to the Survivor that something bad is happening to them. Lastly, we reduced the Drone's sensitivity to their mistress, to make sure they are always ready to scan Survivors during chases in tight spaces and don't ascend unintentionally.*
+*Dev note: Skull Merchant has dropped fairly significantly in terms of Kill Rate and lethality. These buffs aim to make her drones a bigger threat and bring up her a little bit. Additionally, we've decreased the cooldown to deploying drones, and consequently decreased the duration of Undetectable to keep some downtime between her Undetectable status effect. When standing underneath a Drone, Survivors would get instant Lock On, which felt like a bug whenever it happened. The gradual increase of Lock On will feel more natural and provide feedback to the Survivor that something bad is happening to them. Lastly, we reduced the Drone's sensitivity to their mistress, to make sure they are always ready to scan Survivors during chases in tight spaces and don't ascend unintentionally.*
 
 ![bar_white.png](527-9-3-0-ptb-patch-notes/07-bar-white.png)
 
-### Killer addon updates
+### Killer addon updates
 
 - **Original Pain (Cenobite):**
-  - When a Survivor breaks free from a Possessed Chain, reveal their aura for **8 seconds**. *(Rework)*
-- **Soma Family Photo (Singularity):**
-  - Slipstreaming a Survivor inflicts the **Hindered** status effect for **6 seconds**. *(was 3 seconds)*
-  - Inflicts the Deep Wound status effect if the Survivor is injured. *(Removed)*
+  - When a Survivor breaks free from a Possessed Chain, reveal their aura for **8 seconds**. *(Rework)*
+- **Soma Family Photo (Singularity):**
+  - Slipstreaming a Survivor inflicts the **Hindered** status effect for **6 seconds**. *(was 3 seconds)*
+  - Inflicts the Deep Wound status effect if the Survivor is injured. *(Removed)*
 
-*Dev note: Both of these addons were notorious for their ability to disable the Endurance Status Effect Survivors get when they are Unhooked. These changes aim to remove this ability to bypass the protection post-Unhook.*
+*Dev note: Both of these addons were notorious for their ability to disable the Endurance Status Effect Survivors get when they are Unhooked. These changes aim to remove this ability to bypass the protection post-Unhook.*
 
 ![bar_white.png](527-9-3-0-ptb-patch-notes/08-bar-white.png)
 
-### Killer perk updates
+### Killer perk updates
 
 - **Furtive Chase:**
-  - Whenever your Obsession is hooked, gain 1 token, up to **3/4/5**.
-  - For each token, decrease your Terror Radius by **10%**.
-  - When your Obsession is Unhooked, the Obsession transfers to the rescuer.
+  - Whenever your Obsession is hooked, gain 1 token, up to **3/4/5**.
+  - For each token, decrease your Terror Radius by **10%**.
+  - When your Obsession is Unhooked, the Obsession transfers to the rescuer.
 
-*Dev note: With the Bloodlust bonus offered for Unique Hooks, the synergy with Furtive Chase was higher than we would have wanted. We've changed Furtive Chase to its previous iteration of affecting the Terror Radius, without the downsides that it had.*
+*Dev note: With the Bloodlust bonus offered for Unique Hooks, the synergy with Furtive Chase was higher than we would have wanted. We've changed Furtive Chase to its previous iteration of affecting the Terror Radius, without the downsides that it had.*
 
 ![bar_white.png](527-9-3-0-ptb-patch-notes/09-bar-white.png)
 
-### Survivor perk updates
+### Survivor perk updates
 
 - **Babysitter:**
-  - After Unhooking a Survivor, see the Survivor and the Killer's aura for **20/25/30 seconds**. *(Rework)*
+  - After Unhooking a Survivor, see the Survivor and the Killer's aura for **20/25/30 seconds**. *(Rework)*
 - **Borrowed Time:**
-  - Survivors you Unhook gain the ability to fully recover from the Dying State for the next **60/80/100 seconds.*(Rework)*
+  - Survivors you Unhook gain the ability to fully recover from the Dying State for the next **60/80/100 seconds.** *(Rework)*
 - **Breakdown:**
-  - After you are Unhooked, the hook breaks for **90 seconds.*(was 180 seconds)*
-  - After you are Unhooked, increase the speed at which you are healed by **100%**for **30/60/90 seconds*. (Rework)*
+  - After you are Unhooked, the hook breaks for **90 seconds.** *(was 180 seconds)*
+  - After you are Unhooked, increase the speed at which you are healed by **100%** for **30/60/90 seconds*. (Rework)*
 - **Off the Record:**
-  - Removed the Endurance status effect.
-  - Increased active duration to **60/70/80 seconds.*(was 30/35/40)*
+  - Removed the Endurance status effect.
+  - Increased active duration to **60/70/80 seconds.** *(was 30/35/40)*
 - **Wicked:**
   - Your self-unhook attempts in the basement always succeed.
-  - When you are Unhooked from the basement, gain **30/40/50%**healing progress.
+  - When you are Unhooked from the basement, gain **30/40/50%** healing progress.
   - Anytime you are Unhooked, suppress the Loud Noise notification.
 
-*Dev note: The Survivor perks listed above are all related to Unhook gameplay. We saw an opportunity to update them to make sure they complement the Unhook Protections and increase their value proposition.*
+*Dev note: The Survivor perks listed above are all related to Unhook gameplay. We saw an opportunity to update them to make sure they complement the Unhook Protections and increase their value proposition.*
 
 - **Conviction:**
-  - Changed the perk to require specifically healing **another**Survivor to prevent infinite looping with Plot Twist.
+  - Changed the perk to require specifically healing **another** Survivor to prevent infinite looping with Plot Twist.
 - **Tenacity:**
   - Re-added the ability to recover while crawling.
 
 ![bar_white.png](527-9-3-0-ptb-patch-notes/10-bar-white.png)
 
-### Survivor item addon updates
+### Survivor item addon updates
 
 - **Anti-Hemorrhagic Syringe:**
   - Removed the heal over time effect.
-  - Removes Exhaustion on use. *(Rework)*
+  - Removes Exhaustion on use. *(Rework)*
   - Consumes the med-kit on Secondary Action use.
 - **Styptic Agent:**
-  - Removed the Endurance status effect.
+  - Removed the Endurance status effect.
   - No longer consumes the med-kit on Secondary Action use.
-  - Increases the efficiency when healing yourself by **15%**. *(Rework)*
+  - Increases the efficiency when healing yourself by **15%**. *(Rework)*
 
 *Dev note: These med-kit addons have been very strong for a very long time, extending chases that would have ended much sooner. We're making these changes to dial back the strength of med-kits when paired with these addons.*
 
 ![bar_white.png](527-9-3-0-ptb-patch-notes/11-bar-white.png)
 
-### Killer Score Events
+### Killer Score Events
 
 - Chase Start
-  - Increased Bloodpoint amount to 500 (was 400)
-- Hooking Survivor
-  - Increased Bloodpoint amount to 750 (was 500)
-- Survivor First Hook
-  - Increased Bloodpoint amount to 750 (was 200)
-- Survivor Second Hook
-  - Increased Bloodpoint amount to 250 (was 200)
-- Survivor Sacrifice Success
-  - Increased Bloodpoint amount to 500 (was 200)
+  - Increased Bloodpoint amount to 500 (was 400)
+- Hooking Survivor
+  - Increased Bloodpoint amount to 750 (was 500)
+- Survivor First Hook
+  - Increased Bloodpoint amount to 750 (was 200)
+- Survivor Second Hook
+  - Increased Bloodpoint amount to 250 (was 200)
+- Survivor Sacrifice Success
+  - Increased Bloodpoint amount to 500 (was 200)
 
-*Dev note: With all the changes coming to the Killer role alongside the Tunneling Reduction and Slugging Reduction updates, we thought it was the right time to raise a few Score Events to encourage Killers to start chases and spread first Hooks at the start of a match.*
+*Dev note: With all the changes coming to the Killer role alongside the Tunneling Reduction and Slugging Reduction updates, we thought it was the right time to raise a few Score Events to encourage Killers to start chases and spread first Hooks at the start of a match.*
 
 ![bar_white.png](527-9-3-0-ptb-patch-notes/12-bar-white.png)
 
@@ -267,7 +267,7 @@ The following perk has been updated. See the Perk Updates sections below for mor
 
 - Adjusted The Underground Complex map to improve opportunities for player navigation.
 - Adjusted The Underground Complex map to make sure that at least one door is open on all sides of the large rooms.
-- Adjusted The Underground Complex map's rift room, where a new access to the generator was added.
+- Adjusted The Underground Complex map's rift room, where a new access to the generator was added.
 
 #### Autohaven Wreckers Realm
 
@@ -286,8 +286,8 @@ The following perk has been updated. See the Perk Updates sections below for mor
 
 - Fixed an issue where the crackling sound and the Smoke of the Entity appear early when damaging a Generator.
 - Fixed an issue where when recalled, Victor disappear abruptly and the grunts lingers for 5 seconds.
-- Fixed an issue where the Knight's Terror Radius will briefly stop when control returns to the main body after using the power.
-- Fixed an issue where the SFX for The Ghoul successfully latching onto a Survivor was missing.
+- Fixed an issue where the Knight's Terror Radius will briefly stop when control returns to the main body after using the power.
+- Fixed an issue where the SFX for The Ghoul successfully latching onto a Survivor was missing.
 
 ### Bots
 
@@ -298,48 +298,48 @@ The following perk has been updated. See the Perk Updates sections below for mor
 - Fixed an issue where The Shape's Slaughtering Strike attack would not break pallets if the power button was released too soon.
 - Fixed an issue which allowed The Shape to turn further than intended when using Slaughtering Strike.
 - Fixed an issue where camera was briefly stuck for a few frames when The Legion started and manually ended Feral Frenzy.
-- Fixed an issue where The Dredge appears brighter inside a Fog Vial's smoke during the Nightfall.
-- Fixed an issue where The Hag's Scarred Hand add-on blocked the Killer when the trap is triggered.
-- Fixed an issue where The Hag's Pussy Willow Catkins add-on revealed Survivors for only 1 second.
-- Fixed an issue where all Survivors lost The Skull Merchant's Claw Trap when one Survivor with a Claw Trap escaped from the trial.
+- Fixed an issue where The Dredge appears brighter inside a Fog Vial's smoke during the Nightfall.
+- Fixed an issue where The Hag's Scarred Hand add-on blocked the Killer when the trap is triggered.
+- Fixed an issue where The Hag's Pussy Willow Catkins add-on revealed Survivors for only 1 second.
+- Fixed an issue where all Survivors lost The Skull Merchant's Claw Trap when one Survivor with a Claw Trap escaped from the trial.
 - Fixed an issue where players could experience some stuttering while playing as The Dark Lord in Bat Form.
 - Fixed an issue where The Hillbilly would stutter and be sent back when breaking pallets or walls using the Low Pro Chains add-on with high latency.
-- Fixed an issue where Survivors would be temporarily stuck in an animation while dropping a pallet during The Ghoul's grab attack.
+- Fixed an issue where Survivors would be temporarily stuck in an animation while dropping a pallet during The Ghoul's grab attack.
 - Fixed an issue where The Animatronic's axe remained in its hand if it got stunned while aiming.
 - Fixed an issue where The Animatronic's axe appeared on the ground during the Remove Axe interaction.
 - Fixed an issue where snow VFX appeared inside The Animatronics Security Room when traversing in the Ormond maps.
 - Fixed an issue where The Krasue's Glowing Mushrooms could spawn inside closed Exit Gates.
 - Fixed an issue where The Krasue's head was briefly detached from her body after vaulting from a height.
-- Fixed an issue where Survivors that were being healed could not be hit by The Krasue's Intestinal Whip attack.
+- Fixed an issue where Survivors that were being healed could not be hit by The Krasue's Intestinal Whip attack.
 - Fixed an issue where The Knight's Carnifex Guard could not break pallets.
-- Fixed an issue where The Knight's Guards could become stuck when damaging generators that were being blocked by the Entity at the same time.
+- Fixed an issue where The Knight's Guards could become stuck when damaging generators that were being blocked by the Entity at the same time.
 - Fixed an issue where The Artist's Dire Crow's damage was impacted by dropped pallets collision at close range.
 - Fixed an issue where The Deathslinger's harpoon break-free meter went up too quickly when reeling near a corner or edge wall.
 - Fixed an issue where setting the Invert Y-Axis option as The Twins did not affect Victor.
-- Fixed an issue where Survivors could solve the Lament Configuration before removing chains attached to them.
+- Fixed an issue where Survivors could solve the Lament Configuration before removing chains attached to them.
 
 ### Environment/Maps
 
 - Fixed a collision issue on the RCPD stairs that caused the Houndmaster chase action to sometimes be wasted, as the dog could be partially and sometimes completely blocked.
 - Fixed an issue where lighting appears darker on the Spectator POV for the following maps: Greenville Square, Freddy Fazbear's Pizza, Fallen Refuge and Ormond Lake Mine
 - Fixed an issue where going into the basement makes lighting darker for the player for the rest of the match for the following maps: Greenville Square, Freddy Fazbear's Pizza, Fallen Refuge and Ormond Lake Mine
-- Fixed an issue in Coldwind Farm where a survivor would clip through a locker
-- Fixed an issue in The Underground Complexwhere players could vault on both side of a hole
+- Fixed an issue in Coldwind Farm where a survivor would clip through a locker
+- Fixed an issue in The Underground Complex where players could vault on both side of a hole
 - Fixed an issue in Badham Preschool where the Knight was not able to create a path with the Guard on a street curb
 - Fixed issues with the Houndmaster camera clipping in the body of the character
-- Fixed an issue in The Underground Complex when the character stood too close to the chest they could not pick up the item
+- Fixed an issue in The Underground Complex when the character stood too close to the chest they could not pick up the item
 - Fixed an issue in the Garden Of Joy where Victor could jump out of the map
 - Fixed an issue in Dead Dawg Saloon where the Nightmare would teleport out of the map
 - Fixed an issue in Ormond Lake Mine where a pallet was floating
 
 ### Perks
 
-- Fixed an issue where Batteries Included activates when traveling through The Animatronic's Security Door while a generator is repaired.
-- Fixed an issue where Diversion was unable to recharge when the Terror Radius is transferred to The Animatronic's axe when using the Faz-coin add-on.
-- Fixed an issue where Haywire might not activate if a Survivor gets the Exit Gate switch to 99%.
+- Fixed an issue where Batteries Included activates when traveling through The Animatronic's Security Door while a generator is repaired.
+- Fixed an issue where Diversion was unable to recharge when the Terror Radius is transferred to The Animatronic's axe when using the Faz-coin add-on.
+- Fixed an issue where Haywire might not activate if a Survivor gets the Exit Gate switch to 99%.
 - Fixed an issue where Bardic Inspiration dice roll appeared halfway through the song.
-- Fixed an issue where the radial timer of Vigil's external perk icon was missing when other Survivors left the perks range.
-- Fixed an issue where Tenacity's Haste bonus status effect icon was missing while in the dying state.
+- Fixed an issue where the radial timer of Vigil's external perk icon was missing when other Survivors left the perks range.
+- Fixed an issue where Tenacity's Haste bonus status effect icon was missing while in the dying state.
 - Fixed an issue where Conviction activated with any self-recovery perk from the dying state.
 - Fixed an issue where The Knight was unable to activate THWACK! when destroying a pallet using a Guard order.
 - Fixed an issue where the SFX of the created pallet could be heard when canceling Apocalyptic Ingenuity.
@@ -347,31 +347,31 @@ The following perk has been updated. See the Perk Updates sections below for mor
 
 ### Platforms
 
-- Fixed an issue where the Holiday Get-Together achievement/trophy could be unlocked when hooking the same Survivor in the basement three times.
+- Fixed an issue where the Holiday Get-Together achievement/trophy could be unlocked when hooking the same Survivor in the basement three times.
 - Fixed an issue where players were unable to gain progress on The Man Behind the Bush achievement/trophy.
 
 ### Quests
 
-- Fixed an issue where players were unable to gain progress on the Tome 4 level 2 Killer challenge Evil Omen.
+- Fixed an issue where players were unable to gain progress on the Tome 4 level 2 Killer challenge Evil Omen.
 
 ### UI
 
-- Fixed an issue that could cause a crash when repeatedly pressing Dpad right in some menus while waiting in a 2v8 queue.
-- Fixed an issue where failing to find a tutorial bot match would disable some menus.
-- Fixed an issue where switching from mouse to gamepad would snap the cursor to the corner of the screen.
+- Fixed an issue that could cause a crash when repeatedly pressing Dpad right in some menus while waiting in a 2v8 queue.
+- Fixed an issue where failing to find a tutorial bot match would disable some menus.
+- Fixed an issue where switching from mouse to gamepad would snap the cursor to the corner of the screen.
 
 ### Misc
 
 - Fixed an issue where game freezes during bloodweb bulk purchase that includes disabled item.
-- Fixed an issue where the trial would end abruptly when The Animatronic performed an axe grab on a Survivor at the same time they were being sacrificed in the End Game Collapse.
+- Fixed an issue where the trial would end abruptly when The Animatronic performed an axe grab on a Survivor at the same time they were being sacrificed in the End Game Collapse.
 - Fixed an issue where idle crows on top of lockers were using the wrong idle animation.
-- Fixed an issue where Fog Vials were misaligned in Survivors hands in the trial.
+- Fixed an issue where Fog Vials were misaligned in Survivors hands in the trial.
 
 ![bar_red.png](527-9-3-0-ptb-patch-notes/15-bar-red.png)
 
 ## Known Issues
 
-- The Legion continues to play the Frenzy animation when grabbing a Survivor from a locker while in Feral Frenzy.
+- The Legion continues to play the Frenzy animation when grabbing a Survivor from a locker while in Feral Frenzy.
 - Occasionally, bots might fail to use perks for the duration of the trial.
 
 <!-- nav -->

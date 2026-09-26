@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/270-4-4-0-a-bindin
 author: "Peanits"
 published: "2020-12-01T15:31:27+00:00"
 updated: "2020-12-02T18:23:09+00:00"
-archived: "2026-09-26T02:19:13Z"
+archived: "2026-09-26T16:41:34Z"
 ---
 
 <!-- summary -->
@@ -39,7 +39,7 @@ The update is a batch of fixes - correcting cloud-ID bans, chest interactions, a
 - All Daily Rituals that were worth less then 30k bloodpoints are now worth 30k bloodpoints.
 - Sabotage Ritual now requires 4 Hooks to be sabotaged.
 - Blight's Adrenaline Vial addon now makes Rush Tokens regenerate faster than in the previous release.
-- Blight's Soul Chemical addon has a new function: During a rush, the moment you enter the 16 meter radius around a Survivor who is repairing or healing, trigger a tremendously difficult Skill Check for that Survivor. Can activate once per Survivor per Rush. Does not trigger for a Rush starting within 16 meters of the Survivor.
+- Blight's Soul Chemical addon has a new function: During a rush, the moment you enter the 16 meter radius around a Survivor who is repairing or healing, trigger a tremendously difficult Skill Check for that Survivor. Can activate once per Survivor per Rush. Does not trigger for a Rush starting within 16 meters of the Survivor.
 
 **Visual Update:**
 
@@ -51,10 +51,10 @@ The update is a batch of fixes - correcting cloud-ID bans, chest interactions, a
 
 ## Bug Fixes
 
-- Fixed an issue that caused the player Cloud ID to be missing from the ban message.
-- Fixed an issue that caused daily rituals to be consumed even if the claim of bloodpoints for a completed daily ritual failed.
-- Fixed an issue that caused unavailable Archives cosmetics to appear on the Feature Store section if all the cosmetics were already purchased.
-- Fixed an issue that caused a short freeze when opening a chest.
+- Fixed an issue that caused the player Cloud ID to be missing from the ban message.
+- Fixed an issue that caused daily rituals to be consumed even if the claim of bloodpoints for a completed daily ritual failed.
+- Fixed an issue that caused unavailable Archives cosmetics to appear on the Feature Store section if all the cosmetics were already purchased.
+- Fixed an issue that caused a short freeze when opening a chest.
 - Fixed an issue that prevented survivors from being able to start unlocking a chest from its side.
 - Fixed an issue that caused survivors to be able to steal items from chests opened by other survivors.
 - Fixed an issue that caused the animation of mending another survivor to be missing.
@@ -82,7 +82,7 @@ The update is a batch of fixes - correcting cloud-ID bans, chest interactions, a
 
 **Xbox One only:**
 
-- Fixed a crash on Xbox One when trying selecting 'View profile' of a XSX account
+- Fixed a crash on Xbox One when trying selecting 'View profile' of a XSX account
 
 **Switch only:**
 

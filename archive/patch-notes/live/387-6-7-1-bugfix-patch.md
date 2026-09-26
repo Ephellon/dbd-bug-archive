@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/387-6-7-1-bugfix-p
 author: "Peanits"
 published: "2023-05-03T14:25:51+00:00"
 updated: "2023-05-03T15:00:15+00:00"
-archived: "2026-09-26T02:18:25Z"
+archived: "2026-09-26T16:40:35Z"
 ---
 
 <!-- summary -->
@@ -50,7 +50,7 @@ Update releases: May 3 2023, 11AM ET
 - The Flashlight beam is no longer obstructed by The Wraith’s body when cloaked.
 - The Cenobite may no longer teleport far from the Survivor when the teleport is triggered right after the Survivor starts solving the Lament Configuration.
 - Fixed an issue that caused some of the cosmetic VFX to disappear while playing a match.
-- Fixed an issue where the kicking animation for breaking pallets and generators was offset while The Huntress was equipped with the 'Night Owl' customization set."
+- Fixed an issue where the kicking animation for breaking pallets and generators was offset while The Huntress was equipped with the 'Night Owl' customization set."
 - Fixed an issue that caused The Huntress' arm is to clip in the Killer POV when throwing a hatchet while falling.
 - Fixed an issue where when a Survivors starts healing another Survivors immediately after unhooking them, they get positioned in a way that clipping occurs between them.
 - Fixed an issue that caused The Spirit's hands to briefly flash blue when releasing the Killer Power at the last second while charging, causing them to duplicate momentarily.
@@ -74,7 +74,7 @@ Update releases: May 3 2023, 11AM ET
   - Memory fragments no longer spawn too close to the Player spawn points and to each other.
   - The memory portal no longer remains displayed after another player interacts with it.
   - The Demogorgon can no longer collect memory fragments while traversing the Upside Down.
-  - Survivors can no longer interact with the memory portal while Incapacitated with Victor when playing against The Twins.
+  - Survivors can no longer interact with the memory portal while Incapacitated with Victor when playing against The Twins.
   - Fixed multiples issues to the Survivor interactions and visibility with memory fragments and memory portal interaction when Victor was unbound nearby Players when playing against The Twins.
   - The Killer can no longer interact with the memory portal while carrying a Survivor.
   - Fixed an issue where the audio feedback for collecting a memory fragment played only once instead of per fragment.
@@ -87,7 +87,7 @@ Update releases: May 3 2023, 11AM ET
 - The sounds of Survivors fighting back are no longer missing from The Shape's Mori while having Judith's Tombstone Add-On equipped.
 - Survivors grunts no longer persist after being healed while inside The Skull Merchant's Drone detection zone.
 - Fixed an issue where, during an active Event, auto-filling the Bloodweb would play the same Item purchase sound multiple times.
-- Fixed an issue where the SFXs were missing for the skull merchant's body cleaver weapon.
+- Fixed an issue where the SFXs were missing for the skull merchant's body cleaver weapon.
 - **Fixed an issue where the Body Cleaver weapon for The Skull Merchant would not have attack sounds.**
 - **Fixed an issue where clicking on the Perk preview UI button would produce no sound.**
 - **Fixed an issue where using the Memory Of Maurice outfit for The Dredge would not have the added horse sound effects.**
@@ -96,7 +96,7 @@ Update releases: May 3 2023, 11AM ET
 
 - The Nurse can no longer teleport out of bounds in Raccoon City Police Station Map.
 - Fixed multiple collision issues in the Red Forest Realm.
-- Fixed issues in Ironworks of Misery where some killers could land their powers on places unreachable to survivors
+- Fixed issues in Ironworks of Misery where some killers could land their powers on places unreachable to survivors
 - Zombies no longer get stuck on railings in Father Campbell's Chapel.
 - Fixed an issue in Groaning Storehouse where Killers are unable to pick up Survivors.
 - Fixed an issue in Shattered Square where the dark mist was not positioned properly in the map
@@ -126,7 +126,7 @@ Update releases: May 3 2023, 11AM ET
 - Fixed an issue where a Faux-Appels would affect the players near the exit gates in Shattered Square
 - Fixed an issue where players could not vault on the side of the Pale Rose Boat
 - Fixed an issue that prevented players from navigating properly in the basement stairs, Shattered Square
-- Fixed an issue where Trapper's Trap would appear near the fences, Shatered Square
+- Fixed an issue where Trapper's Trap would appear near the fences, Shatered Square
 - Fixed an issue where the players were blocked in the basement in the west wing of the Racoon City Police Station map
 - Fixed an issue that prevented the nurse from blinking properly in the shrimp boat
 - Fixed an issue related to the blocked window in the Myers House and created a dead end
@@ -141,13 +141,13 @@ Update releases: May 3 2023, 11AM ET
 - Fixed an issue where the red outline of center button remains after automatic purchasing of the bloodweb level on Switch.
 - Fixed soft lock with bloodweb purchase when switching characters.
 
-**Terror Radius Visual Feedback**
+**Terror Radius Visual Feedback**
 
-- The Terror Radius Visual Feedback is now displayed when the audio level reaches a certain audible threshold to avoid the indicator being shown when the audio is barely discernible.
+- The Terror Radius Visual Feedback is now displayed when the audio level reaches a certain audible threshold to avoid the indicator being shown when the audio is barely discernible.
 
 **Misc**
 
-- The Insidious Perk icon no longer lights up if you become Undetectable from another source. Now it only lights up to indicate when the Perk itself is active.
+- The Insidious Perk icon no longer lights up if you become Undetectable from another source. Now it only lights up to indicate when the Perk itself is active.
 - Fixed a crash on PS4 that could occur during initialization.
 - Fixed a crash that could occur very rarely when using the Bloodweb.
 - Fixed a crash that could occur at the end of a Trial.

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/228-4-2-0-descend-
 author: "Peanits"
 published: "2020-09-08T14:25:32+00:00"
 updated: "2020-09-08T15:09:59+00:00"
-archived: "2026-09-26T02:19:11Z"
+archived: "2026-09-26T16:41:31Z"
 ---
 
 <!-- summary -->
@@ -27,17 +27,17 @@ A broad set of fixes addresses lingering issues for many killers (Deathslinger s
 
 ## New Chapter
 
-Unleash The Blight, an alchemist consumed by his research. Ambition brought him to the Entity's realm but his hunger for power destroyed him. Mutated and mad, his power, Blighted Corruption, provides him with unnatural abilities to quickly pursue and ambush Survivors.
+Unleash The Blight, an alchemist consumed by his research. Ambition brought him to the Entity's realm but his hunger for power destroyed him. Mutated and mad, his power, Blighted Corruption, provides him with unnatural abilities to quickly pursue and ambush Survivors.
 
-Plan your escape with Felix Richter, a successful architect who was torn away from his lavish lifestyle. Resourceful and bold, he has clever methods to stand against the oncoming evil and plan out the one thing that matters to him most—returning home.
+Plan your escape with Felix Richter, a successful architect who was torn away from his lavish lifestyle. Resourceful and bold, he has clever methods to stand against the oncoming evil and plan out the one thing that matters to him most—returning home.
 
-- Added a new Killer -**The Blight.**
-- Added a new Survivor - **Felix Richter.**
-- Added a new Rare Offering for Killers and Survivors - **Sacrificial Ward** - cancels other offerings that would send you to a specific realm.
-- Added a new Common Offering for Killers and Survivors - **Bloodied Blueprint** - reveals the aura of basement hooks to you for 20 seconds at the start of the trial. If the map has a Killer Shack, this offering increases the chance that the basement will spawn below it.
-- Added a new Common Offering for Killers and Survivors - **Torn Blueprint** - reveals the aura of basement hooks to you for 20 seconds at the start of the trial. If the map has a main building, this offering increases the chance that the basement will spawn below it.
-- Added a new Common Offering for Killers and Survivors -**Annotated Blueprint** - If the map has a Killer Shack, this offering increases the chance that the Hatch will spawn within it.
-- Added a new Common Offering for Killers and Survivors - **Vigo’s Blueprint** - If the map has a main building, this offering increases the chance that the Hatch will spawn within it.
+- Added a new Killer - **The Blight.**
+- Added a new Survivor - **Felix Richter.**
+- Added a new Rare Offering for Killers and Survivors - **Sacrificial Ward** - cancels other offerings that would send you to a specific realm.
+- Added a new Common Offering for Killers and Survivors - **Bloodied Blueprint** - reveals the aura of basement hooks to you for 20 seconds at the start of the trial. If the map has a Killer Shack, this offering increases the chance that the basement will spawn below it.
+- Added a new Common Offering for Killers and Survivors - **Torn Blueprint** - reveals the aura of basement hooks to you for 20 seconds at the start of the trial. If the map has a main building, this offering increases the chance that the basement will spawn below it.
+- Added a new Common Offering for Killers and Survivors - **Annotated Blueprint** - If the map has a Killer Shack, this offering increases the chance that the Hatch will spawn within it.
+- Added a new Common Offering for Killers and Survivors - **Vigo’s Blueprint** - If the map has a main building, this offering increases the chance that the Hatch will spawn within it.
 
 ![PatchNotesDivider.png](228-4-2-0-descend-beyond/02-patchnotesdivider.png)
 
@@ -46,13 +46,13 @@ Plan your escape with Felix Richter, a successful architect who was torn away
 Many in-game objects in Dead By Daylight haven't been changed significantly since the game's launch. As part of our ongoing effort to enhance the game's visuals, many of these objects got visual updates in this patch to bring them closer to our long-term vision for the appearance of the game. Some realms also got visual updates, with more coming later in future patches.
 
 - Visual updates of several common in-game objects:
-  - Visual update of the **Generators,** including changes to models, animations and VFX. The Survivor repairing animations and VFX were also updated.
-  - Visual update of the **Pallets**, including models and VFX.
-  - Visual update of the **Lockers.**
-  - Visual update of the **Chests**, including the model and changes to the Survivor's interaction. This Survivor interaction has been updated
+  - Visual update of the **Generators,** including changes to models, animations and VFX. The Survivor repairing animations and VFX were also updated.
+  - Visual update of the **Pallets**, including models and VFX.
+  - Visual update of the **Lockers.**
+  - Visual update of the **Chests**, including the model and changes to the Survivor's interaction. This Survivor interaction has been updated
 - Visual updates to some maps, including additions of breakable walls:
-  - **Springwood** - Updated Badham Preschool Maps I - V
-  - **Yamaoka Estate** - Updated Family Residence and Sanctum of Wrath
+  - **Springwood** - Updated Badham Preschool Maps I - V
+  - **Yamaoka Estate** - Updated Family Residence and Sanctum of Wrath
 - Update aiming when using the flashlight. Up to 4.1.0, the flashlight would aim up and to the right of the center of the screen. In 4.1.0, the aiming animation was updated, which caused the flashlight to aim more towards right of center. Now, the aim should be squarely in the center.
 
 ![PatchNotesDivider.png](228-4-2-0-descend-beyond/03-patchnotesdivider.png)
@@ -77,7 +77,7 @@ Many in-game objects in Dead By Daylight haven't been changed significantly sinc
 
 ### Perk
 
-- Fixed an issue that caused a regressing generator not to turn red once reaching 0 progress when using the Surveillance perk.
+- Fixed an issue that caused a regressing generator not to turn red once reaching 0 progress when using the Surveillance perk.
 - Fixed an issue that caused the "Pull Down" prompt to be replaced for Survivors standing next to a pallet while injured and with the Self-Care perk equipped.
 - Fixed an issue that caused survivors to see the auras of breakable walls when equipped with the Windows of Opportunity perk and suffering from the Blind effect.
 
@@ -220,10 +220,10 @@ Unchanged from PTB
 
 - Fixed an issue that caused The Oni to enter an incorrect visual state after being stunned during the Yamaoka's Wrath animations.
 - Fixed an issue that caused the Plague to not slow down after using Vile Purge.
-- Fixed an issue that caused the Damage prompt to be missing from generators after cleansing Hex: Ruin multiple times with the Hex: Undying perk equipped.
+- Fixed an issue that caused the Damage prompt to be missing from generators after cleansing Hex: Ruin multiple times with the Hex: Undying perk equipped.
 - Fixed an issue that caused the Doctor's illusionary pallets not to be affected by the Hex: Blood Favor perk.
 - Fixed an issue that might cause the Nightmare's dream pallets not to be affected by the Hex: Blood Favor perk.
-- Fixed an issue that caused frame rates to drop when a generator is completed.
+- Fixed an issue that caused frame rates to drop when a generator is completed.
 - Reduced the number of occurrences of Save Game Error 112.
 - Make the errors more explicit when the game fails to grant/withdraw Bloodpoints.
 - Fixed an issue that caused the Bloodweb to be usable without consuming Bloodpoints.

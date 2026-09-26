@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/470-stats-septembe
 author: "Peanits"
 published: "2024-09-09T13:54:24+00:00"
 updated: "2024-09-09T13:54:25+00:00"
-archived: "2026-09-26T02:20:09Z"
+archived: "2026-09-26T16:42:56Z"
 ---
 
 <!-- summary -->

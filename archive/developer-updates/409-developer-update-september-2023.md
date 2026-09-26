@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/409-developer-upda
 author: "Peanits"
 published: "2023-09-18T13:55:22+00:00"
 updated: "2023-09-18T13:55:22+00:00"
-archived: "2026-09-26T02:20:15Z"
+archived: "2026-09-26T16:43:14Z"
 ---
 
 <!-- summary -->
@@ -31,7 +31,7 @@ Spooky season is officially underway, and we’re getting in the spirit with a h
 
 You probably don’t want to find yourself on the hook in the first place, but it can quickly become frustrating if the Killer decides to wait nearby, preventing all but the most coordinated of teams from rescuing you. Camping has long been a contentious topic: While there are times where camping is the smart thing for the Killer to do (if there are Survivors nearby, for example), there’s not much the Survivor being camped can do. To help in the most extreme cases, we are introducing a new feature which may give you a second chance.
 
-Going forward, you’ll notice a new meter appears whenever you are on the hook. This meter will gradually fill whenever the Killer is near you. The closer the Killer is, the faster the meter will build. Once it is full, you’ll gain the ability to unhook yourself with a 100% chance of success, even during the second hook phase. Unhooking yourself in this way will grant you all the usual benefits such as Endurance and Haste.
+Going forward, you’ll notice a new meter appears whenever you are on the hook. This meter will gradually fill whenever the Killer is near you. The closer the Killer is, the faster the meter will build. Once it is full, you’ll gain the ability to unhook yourself with a 100% chance of success, even during the second hook phase. Unhooking yourself in this way will grant you all the usual benefits such as Endurance and Haste.
 
 ![Anticamp.png](409-developer-update-september-2023/03-anticamp.png)
 
@@ -47,7 +47,7 @@ It’s been a while since the sound of drones first filled The Entity’s Realm.
 
 **Lock On**
 
-Active zones – being the main culprit behind The Skull Merchant’s ability to defend generators – are no more. On top of making Survivors exposed, these zones provided The Skull Merchant with too much information on the Survivors within them, allowing the Killer to quickly react and chase them away.
+Active zones – being the main culprit behind The Skull Merchant’s ability to defend generators – are no more. On top of making Survivors exposed, these zones provided The Skull Merchant with too much information on the Survivors within them, allowing the Killer to quickly react and chase them away.
 
 With active zones removed, The Skull Merchant’s drones need a new way to lock onto Survivors. Now, whenever a Survivor is scanned by a drone’s beams, they will receive one stack of Lock On. Upon reaching three stacks of Lock On, the Survivor will immediately receive a Claw Trap.
 
@@ -123,7 +123,7 @@ Most obstacles in the map tended to be fairly low, making it quite easy for Kill
 
 Last but not least, we have made various changes to make the map easier to navigate. This includes making it clearer which objects can be walked on and which will block your path.
 
-![SS_Wide_2.png](409-developer-update-september-2023/07-ss-wide-2.png)    ![MacMillanEstate.png](409-developer-update-september-2023/08-macmillanestate.png)
+![SS_Wide_2.png](409-developer-update-september-2023/07-ss-wide-2.png) ![MacMillanEstate.png](409-developer-update-september-2023/08-macmillanestate.png)
 
 ## The MacMillan Estate
 

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/342-6-1-0-mid-chap
 author: "Mandy"
 published: "2022-07-19T14:30:21+00:00"
 updated: "2022-07-19T14:30:21+00:00"
-archived: "2026-09-26T02:18:31Z"
+archived: "2026-09-26T16:40:43Z"
 ---
 
 <!-- summary -->
@@ -79,7 +79,7 @@ Mid-Chapter 6.1.0 introduces Tome 12 “DISCORDANCE,” adds five new maze tiles
 - **Monstrous Shrine**
   - Reworked - This perk is now Scourge Hook: Monstrous Shrine
   - **Scourge Hooks**
-  - grant 10/15/20% faster Entity progression if the Killer is not within 24 meters. Basement hooks count as Scourge Hooks. T
+  - grant 10/15/20% faster Entity progression if the Killer is not within 24 meters. Basement hooks count as Scourge Hooks. T
 - **Overcharge**
 - Added: After Overcharge is applied to a generator, its regression speed increases from 75% of normal to 200% of normal over the next 30 seconds.
 - **Pop Goes the Weasel**
@@ -142,7 +142,7 @@ Mid-Chapter 6.1.0 introduces Tome 12 “DISCORDANCE,” adds five new maze tiles
   - Now triggers when the Exit Gates are powered (was triggered when an Exit Gate was opened)
   - Added: When unhooking a Survivor, they gain a 7%movement bonus for 10 seconds.
 - **Off the Record**
-  - Added: Once you are unhooked or escape from the hook,*Off the Record*activates for **60/70/80seconds**.
+  - Added: Once you are unhooked or escape from the hook,*Off the Record* activates for **60/70/80seconds**.
   - Added: Gain the Endurance status effect.
   - Added: Off The Record is disabled when the exit gates are powered.
 - **Overzealous**
@@ -393,7 +393,7 @@ Mid-Chapter 6.1.0 introduces Tome 12 “DISCORDANCE,” adds five new maze tiles
 - The Nightmare is unable to place Dream Snares in the kitchen in Badham Preschool.
 - Bloodweb cap has been increased to 2 million bloodpoint, even though the tooltip still read as 1 million.
 - The matchmaking incentives text is present in Play as Killer without having the BloodPoint Bonus.
-- Terror Radius feedback on *Spine Chill* functions in reverse (ie Drains as the TR gets louder, instead of filling
+- Terror Radius feedback on *Spine Chill* functions in reverse (ie Drains as the TR gets louder, instead of filling
 
 <!-- nav -->
 &larr; [6.0.2 | Bugfix Patch](339-6-0-2-bugfix-patch.md) · [Live](../../index.md#live) · [6.1.1 | Bugfix Patch](343-6-1-1-bugfix-patch.md) &rarr;

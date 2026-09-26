@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/519-9-1-2-bugfix-p
 author: "ThatRyanB"
 published: "2025-08-14T14:29:01+00:00"
 updated: "2025-08-14T14:29:01+00:00"
-archived: "2026-09-26T02:18:09Z"
+archived: "2026-09-26T16:40:13Z"
 ---
 
 <!-- summary -->
@@ -30,43 +30,43 @@ The 2V8 event returns on August 19 with a new “Play While You Wait” option t
 ### PLAY WHILE YOU WAIT
 
 - Added the option to "Play While You Wait" to the 2v8 game mode.
-  - When queuing for a 2v8 Killer match, you'll receive the option to Play While You Wait.
-  - This allows you (and a friend, if you'd like) to play a match of 2v8 as a Survivor while saving your place in the Killer queue.
-  - After finishing this match, you will automatically return to your place in the Killer queue.
+  - When queuing for a 2v8 Killer match, you'll receive the option to Play While You Wait.
+  - This allows you (and a friend, if you'd like) to play a match of 2v8 as a Survivor while saving your place in the Killer queue.
+  - After finishing this match, you will automatically return to your place in the Killer queue.
 
 ### THE LEGION UPDATE
 
 - **Innate Skills**:
-  - Reduced the duration of Feral Frenzy to 11s *(was 12s)*.
-  - Reduced number of targets seen with Killer Instinct to 4 *(was 7)*.
-  - Reduced the number of hits needed to down a Survivor while in Feral Frenzy to 6 *(was 7)*.
-  - Removed the bonus which extended the Killer Instinct detection radius beyond the Terror Radius.
+  - Reduced the duration of Feral Frenzy to 11s *(was 12s)*.
+  - Reduced number of targets seen with Killer Instinct to 4 *(was 7)*.
+  - Reduced the number of hits needed to down a Survivor while in Feral Frenzy to 6 *(was 7)*.
+  - Removed the bonus which extended the Killer Instinct detection radius beyond the Terror Radius.
 
 ### SHADOW CLASS UPDATE
 
 - **Team Skill**:
-  - Grants Undetectable for 60 seconds when sending a Survivor to the Cage of Corruption.
+  - Grants Undetectable for 60 seconds when sending a Survivor to the Cage of Corruption.
   - After the effect has elapsed, the ability will go on cooldown for 60 seconds.
-  - While this skill is on cooldown and you are within 32 meters of your teammate, gain 5% Haste and decrease cooldown by 25%.
+  - While this skill is on cooldown and you are within 32 meters of your teammate, gain 5% Haste and decrease cooldown by 25%.
 
 ### ESCAPIST CLASS UPDATE
 
-- **Team Skill**(adjustment):
+- **Team Skill** (adjustment):
   - Escapist Team Skill is now activated by using Active Ability Button 2.
   - Range of Silent Rush ability has been increased to 12m (*was 8m*)*.*
 
 ### GUIDE UPDATE
 
 - **Team Skill**:
-  - When repairing, reveal the generator's aura and your aura to other Survivors.
-  - Gain the ability to trap a generator. Charges over 90 seconds. Repairing generators can decrease the wait time. Stand next to a generator to install a trap. The trapped generator has a yellow aura visible to Survivors and will stun and blind a Killer who tries to damage it.
+  - When repairing, reveal the generator's aura and your aura to other Survivors.
+  - Gain the ability to trap a generator. Charges over 90 seconds. Repairing generators can decrease the wait time. Stand next to a generator to install a trap. The trapped generator has a yellow aura visible to Survivors and will stun and blind a Killer who tries to damage it.
   - The trap is deactivated when triggered or after 120 seconds.
-  - Open Exit Gates 15% faster and reveal your aura to other Survivors within 128 meters.
+  - Open Exit Gates 15% faster and reveal your aura to other Survivors within 128 meters.
 - **Unlockable Skill**:
-  - After being caged, gain access to a listening device that automatically installs on a generator after completing 35% repair progress.
-  - A bugged generator's yellow aura is visible to Survivors and reveals the Killer's aura when within 14 meters.
-  - The device is deactivated when the generator is damaged or after 60 seconds.
-  - If a listening device is already installed on a generator when 35% repair progress is reached, install a new listening device that resets the 60 second countdown.
+  - After being caged, gain access to a listening device that automatically installs on a generator after completing 35% repair progress.
+  - A bugged generator's yellow aura is visible to Survivors and reveals the Killer's aura when within 14 meters.
+  - The device is deactivated when the generator is damaged or after 60 seconds.
+  - If a listening device is already installed on a generator when 35% repair progress is reached, install a new listening device that resets the 60 second countdown.
 
 ### NEW MAPS
 
@@ -81,10 +81,10 @@ The 2V8 event returns on August 19 with a new “Play While You Wait” option t
 - The Game map and the Jigsaw Piece offering have been re-enabled.
 - The Blood Rush perk has been re-enabled.
 
-**SURVIVOR ITEM: FOG VIAL**
+**SURVIVOR ITEM: FOG VIAL**
 
 - Fog Vials now have a maximum of 2 charges.
-- Added the ability for The Singularity to teleport to Survivors he can see within the Fog Vial's fog.
+- Added the ability for The Singularity to teleport to Survivors he can see within the Fog Vial's fog.
 
 ![bar_red.png](519-9-1-2-bugfix-patch/03-bar-red.png)
 
@@ -92,11 +92,11 @@ The 2V8 event returns on August 19 with a new “Play While You Wait” option t
 
 ### Audio
 
-- Fixed an issue where Michonne Grimes' running grunts were louder than other Survivors.
+- Fixed an issue where Michonne Grimes' running grunts were louder than other Survivors.
 - Fixed an issue where background noise was heard when Michonne Grimes was hooked.
 - Fixed an issue where The Xenomorph's Tail Strike Attack SFX would appear to be coming from its left side.
 - Fixed an issue where the "ready up" SFX would play when activating and deactivating perks in the Loadout.
-- Fixed an issue where Jonah Vasquez's "Long Swim" outfit would not play the appropriate footstep SFX.
+- Fixed an issue where Jonah Vasquez's "Long Swim" outfit would not play the appropriate footstep SFX.
 
 ### Characters
 
@@ -105,7 +105,7 @@ The 2V8 event returns on August 19 with a new “Play While You Wait” option t
 - Fixed an issue where The Unknown's "The Murder Weapon" was floating out of their hand on the main menu.
 - Fixed an issue where The Animatronic's head would not follow the direction he was aiming.
 - Fixed an issue where the Blind visual effect was delayed and only lasted a second when blinded as The Animatronic.
-- Fixed an issue where The Executioner's Cage of Atonement was invisible from the Killer's point of view.
+- Fixed an issue where The Executioner's Cage of Atonement was invisible from the Killer's point of view.
 
 ### Environment/Maps
 
@@ -116,25 +116,25 @@ The 2V8 event returns on August 19 with a new “Play While You Wait” option t
 
 ### Perks
 
-- Fixed an issue where Exhaustion Perks could be reactivated by triggering Blood Rush while Exhausted.
+- Fixed an issue where Exhaustion Perks could be reactivated by triggering Blood Rush while Exhausted.
 - Fixed an issue where Desperate Measures displayed the incorrect value in its description.
 - Fixed an issue where The Wraith would remain cloaked when stunned by Head On or Blast Mine.
 
 ### Platforms
 
-- Fixed an issue on Switch and Switch 2 where generator regression sparks were hard to see.
+- Fixed an issue on Switch and Switch 2 where generator regression sparks were hard to see.
 
 ### Quests
 
-- Fixed an issue where the amount of Bloodpoints awarded for completing a quest were not properly shown after abandoning a Trial.
+- Fixed an issue where the amount of Bloodpoints awarded for completing a quest were not properly shown after abandoning a Trial.
 - Fixed an issue where some "Into the Fog" quest tooltips were missing images.
 - Fixed an issue where some quest tooltip images appeared smaller than intended.
 
 ### Miscellaneous
 
 - Fixed an issue where bulk spending could fail if an old event item was present in the Bloodweb.
-- Fixed a server crash which could occur when a Survivor unlocked the secret chest in the Nostromo Wreckage map.
-- Fixed an issue where vault auras were not revealed when using the Sharpened Flint add-on on the Scribbled Map.
+- Fixed a server crash which could occur when a Survivor unlocked the secret chest in the Nostromo Wreckage map.
+- Fixed an issue where vault auras were not revealed when using the Sharpened Flint add-on on the Scribbled Map.
 - Fixed an issue where the Fog Vial would clip under the ground when dropped.
 
 <!-- nav -->

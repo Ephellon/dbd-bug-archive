@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/351-6-2-2-bugfix-p
 author: "Peanits"
 published: "2022-09-13T14:25:43+00:00"
 updated: "2022-09-14T18:01:25+00:00"
-archived: "2026-09-26T02:18:29Z"
+archived: "2026-09-26T16:40:41Z"
 ---
 
 <!-- summary -->
@@ -36,8 +36,8 @@ Anonymous Mode was stripped from PlayStation 4, PlayStation 5, Xbox, Windows Sto
 
 - Updated Wiretap Perk description for clarity.
 - Updated Bite the Bullet Perk description for clarity.
-- Blast Mine: Requires 50% of a generator to activate (was 66%); trap stays active for 40/45/50 seconds (was 35/40/45).
-  - Dev note: Blast Mine no longer returns to you if the Killer does not kick the generator. Now that this has been fixed, we've given it some small buffs to compensate.
+- Blast Mine: Requires 50% of a generator to activate (was 66%); trap stays active for 40/45/50 seconds (was 35/40/45).
+  - Dev note: Blast Mine no longer returns to you if the Killer does not kick the generator. Now that this has been fixed, we've given it some small buffs to compensate.
 - Blast Mine: Updated description to clarify deactivation conditions.
 
 ![PatchNotesDivider.png](351-6-2-2-bugfix-patch/03-patchnotesdivider.png)
@@ -50,15 +50,15 @@ Anonymous Mode was stripped from PlayStation 4, PlayStation 5, Xbox, Windows Sto
 - Fixed an issue that sometimes caused the Player's Name tags to be partially cut in the Lobby.
 - Fixed an issue that caused the tentacle SFX not to be played during the animation at the start of the trial with The Mastermind.
 - Fixed an issue that caused voice lines to be played as The Mastermind when hitting a survivor who used Endurance.
-- Fixed an issue that caused the The Mastermind's Uroboros Tentacle to become misaligned during the Mori of some female characters.
+- Fixed an issue that caused the The Mastermind's Uroboros Tentacle to become misaligned during the Mori of some female characters.
 - Fixed an issue that caused the Anti-Haemorrhagic Syringe Add-on to not trigger the Better Than New perk.
 - Fixed an issue that caused Virulent Bound to immediately let go of a Survivor caught from a behind an obstacle.
 - Fixed an issue that caused exit gate entity spikes to appear incorrectly when The Mastermind slammed a survivor near to the exit gate.
-- Fixed an issue that caused The Mastermind to incorrectly play a Hit animation when performing a Virulent Bound across a window or vault towards a downed survivor.
+- Fixed an issue that caused The Mastermind to incorrectly play a Hit animation when performing a Virulent Bound across a window or vault towards a downed survivor.
 - Fixed an issue that caused the Forced Penance perk to fail to activate when performing a Virulent Bound.
 - Fixed an issue that caused the Renewal perk to be activated while being Broken.
 - Fixed an issue that caused the Renewal perk UI not to update while healing.
-- Fixed an issue that caused the Trapper's Power Icon to indicate the incorrect amount of Bear Traps being carried.
+- Fixed an issue that caused the Trapper's Power Icon to indicate the incorrect amount of Bear Traps being carried.
 - Fixed an issue that caused survivors to sometimes become stuck when attacked by The Mastermind's Virulent Bound.
 - Fixed an issue that allowed Reassurance to be activated multiple times at once on a single survivor.
 - Fixed an issue that caused the Reassurance prompt to incorrectly be available on a Survivor being hooked a third time.

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/71-3-5-2-hotfix"
 author: "Peanits"
 published: "2020-02-28T19:38:33+00:00"
 updated: "2020-03-02T20:12:34+00:00"
-archived: "2026-09-26T02:19:25Z"
+archived: "2026-09-26T16:41:48Z"
 ---
 
 <!-- summary -->
@@ -23,15 +23,15 @@ Gates Closed was added to the Gatekeeper Emblem and the Generators Remaining con
 
 ## Balance
 
-- Added "Gates Closed" for the Gatekeeper Emblem bonus when ending the trial with the gates closed.
+- Added "Gates Closed" for the Gatekeeper Emblem bonus when ending the trial with the gates closed.
 - Removed the "Generators Remaining" stipulation from the Gatekeeper Emblem
 - Treatment Theatre: Reworked the Totems spawn location to hide them better.
 
 ## Bug Fixes
 
-- Treatment Theatre: Fixed an issue that caused the Survivors to be unable to unhook their teammate if the Killer is "facecamping" on a specific hook
+- Treatment Theatre: Fixed an issue that caused the Survivors to be unable to unhook their teammate if the Killer is "facecamping" on a specific hook
 - Fixed the display of the "Sealed Shut" Archive challenge which erroneously read "Survivor Master Challenge"
-- Fixed an issue that caused the Rift progress bar to disappear from the widget when no challenges are available.
+- Fixed an issue that caused the Rift progress bar to disappear from the widget when no challenges are available.
 - Fixed an issue that caused an infinite loading when opening various Overlay menus as the Lobby timer ends.
 - Adjusted the lighting in The Rift.
 - Fixed an issue in Hawkins Lab where the user's screen would go dark when their camera is placed on a certain way.

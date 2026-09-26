@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/86-2-6-0-demise-of
 author: "Peanits"
 published: "2020-02-28T20:09:15+00:00"
 updated: "2020-02-28T22:07:43+00:00"
-archived: "2026-09-26T02:19:35Z"
+archived: "2026-09-26T16:41:59Z"
 ---
 
 <!-- summary -->
@@ -37,7 +37,7 @@ The Plague joins the killer roster, Jane Romero becomes a new survivor, and The 
 
 - [**Click here for more information**](https://forum.deadbydaylight.com/en/discussion/52295/the-emblem-system-changes-explained/p1?new=1)
 
-**This update also contains some additional optimizations for all platforms.**[**Click here for more information**](https://forum.deadbydaylight.com/en/discussion/49456/optimization-status-update-road-to-60fps)
+**This update also contains some additional optimizations for all platforms.** [**Click here for more information**](https://forum.deadbydaylight.com/en/discussion/49456/optimization-status-update-road-to-60fps)
 
 ## Balance
 
@@ -89,7 +89,7 @@ The Plague joins the killer roster, Jane Romero becomes a new survivor, and The 
 
 **Ranking changes:**
 
-Pipping Thresholds: We have made some changes to the Emblem system that will affect the difficulty in which players rank up and subsequently maintain their rank. The rank groups (colors) now come with their own pipping requirements. The thresholds increase through each rank group up to the red ranks making it more difficult to pip / double pip, and easier to lose a pip. See below:
+Pipping Thresholds: We have made some changes to the Emblem system that will affect the difficulty in which players rank up and subsequently maintain their rank. The rank groups (colors) now come with their own pipping requirements. The thresholds increase through each rank group up to the red ranks making it more difficult to pip / double pip, and easier to lose a pip. See below:
 
 - Rank 17-20 (BEIGE): 0-8 points = 0 pips; 9-13 points = +1 pip; 14-16 points = +2 pips.
 - Rank 13-16 (YELLOW): 0-5 points = -1 pip; 6-9 points = 0 pips; 10-13 points = +1 pip; 14-16 points = +2 pips.

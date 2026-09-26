@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/381-6-6-2-bugfix-p
 author: "Peanits"
 published: "2023-03-22T14:25:42+00:00"
 updated: "2023-03-22T14:25:42+00:00"
-archived: "2026-09-26T02:18:25Z"
+archived: "2026-09-26T16:40:35Z"
 ---
 
 <!-- summary -->
@@ -41,7 +41,7 @@ Update releases: 11am ET
 
 - Base power changes:
   - The Skull Merchant gains a flat Haste Status Effect for each Survivor detected on the radar. This bonus is lost when no Survivor is detected on the Radar.
-    - One Survivor : +3%
+    - One Survivor : +3%
     - Two Survivors: +5%
     - Three Survivors: +6%
     - Four Survivors: +7%
@@ -52,8 +52,8 @@ Update releases: 11am ET
 - Survivors with a Claw Trap cause Drones to be Unhackable while they are nearby
 - Claw Trapped Survivors who fast vault pallets break the pallet and their Claw Trap at the same time
 - Claw traps are automatically removed when their battery is empty
-- Addon changes :
-  - Ultrasonic Trap Speaker (NEW EFFECT): Decrease the time it takes for Undetectable to take effect by 50%
+- Addon changes :
+  - Ultrasonic Trap Speaker (NEW EFFECT): Decrease the time it takes for Undetectable to take effect by 50%
 - Increase the “Expired Batteries” addon rarity to Ultra Rare (was Very Rare)
 - Decrease the “Prototype Rotor” addon rarity to Very Rare (was Ultra Rare)
 - Increase Adaptive Lighting to 50% (was 20%)

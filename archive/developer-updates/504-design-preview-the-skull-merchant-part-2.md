@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/504-design-preview
 author: "ThatRyanB"
 published: "2025-04-29T14:06:56+00:00"
 updated: "2025-04-29T14:06:57+00:00"
-archived: "2026-09-26T02:20:05Z"
+archived: "2026-09-26T16:42:48Z"
 ---
 
 <!-- summary -->
@@ -34,7 +34,7 @@ Let’s first dive into the specific changes:
 ## WHAT’S CHANGED?
 
 - We’ve removed the Killer aura reveal when hacking a Drone.
-- The Global Detection Power detects Survivors who are running **or**walking, keeping this consistent with how Drones detect players.
+- The Global Detection Power detects Survivors who are running **or** walking, keeping this consistent with how Drones detect players.
 - Stealth Drone scan lines are now visible, but will not extend entirely down to the ground, providing a visual indicator for Survivors to crouch-walk as a counter action.
 - Skull Merchant has two different types of Drones:
   - 5 deployable Stealth Drones, as previously mentioned

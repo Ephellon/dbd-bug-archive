@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/487-developer-upda
 author: "ThatRyanB"
 published: "2025-01-07T14:58:03+00:00"
 updated: "2025-01-07T14:58:03+00:00"
-archived: "2026-09-26T02:20:07Z"
+archived: "2026-09-26T16:42:53Z"
 ---
 
 <!-- summary -->
@@ -33,21 +33,21 @@ We’ve made several adjustments to his Power, which should help Freddy feel lik
 
 - **\[CHANGE\]** Press Active Ability to swap between Dream Snares and Dream Pallets.
 
-***Dev Note:**This has been long requested, and we’re thrilled to finally make it happen. With consistent access to two impactful abilities, The Nightmare can live up to his name by slowing Survivors down and shattering them psychologically. Having the ability to quickly swap between Powers has the added benefit of raising the Killer’s skill ceiling, while providing him with two different tools to utilize in a chase.*
+***Dev Note:*** *This has been long requested, and we’re thrilled to finally make it happen. With consistent access to two impactful abilities, The Nightmare can live up to his name by slowing Survivors down and shattering them psychologically. Having the ability to quickly swap between Powers has the added benefit of raising the Killer’s skill ceiling, while providing him with two different tools to utilize in a chase.*
 
 - **\[NEW\]** Dream Snares now move at 12 m/s with a cooldown of 5 seconds. They can go through walls and up stairs, but not off ledges.
 - **\[NEW\]** Dream Snares now have unique interactions with Survivors whether they are Asleep or Awake. Sleeping Survivors will be Hindered for 4 seconds, while Awake Survivors will gain 30 seconds on their Sleep Meter
 
-***Dev Note:**This change grants The Nightmare additional flexibility while using the Snare, allowing him to use them against a wider variety of opponents. Making it so Survivors don’t need to be asleep to be affected will make quite the impact – not just on a Power level, but thematically as well.*
+***Dev Note:*** *This change grants The Nightmare additional flexibility while using the Snare, allowing him to use them against a wider variety of opponents. Making it so Survivors don’t need to be asleep to be affected will make quite the impact – not just on a Power level, but thematically as well.*
 
 - **\[NEW\]** Dream Pallets can be triggered to explode in a geyser of blood. The explosion occurs 1.5 seconds after activation with a 3-meter radius. When a sleeping Survivor is hit, they become injured. When an Awake Survivor is hit, they gain 60 seconds on their Sleep Timer.
 
-***Dev Note:**Dream Pallets have been a fun and rewarding way to mind game Survivors, and we wanted to add even more benefit to landing a successful deception. Now, even if the Survivor does manage to escape the chase, they run the risk of sustaining a dark souvenir to remember you by.*
+***Dev Note:*** *Dream Pallets have been a fun and rewarding way to mind game Survivors, and we wanted to add even more benefit to landing a successful deception. Now, even if the Survivor does manage to escape the chase, they run the risk of sustaining a dark souvenir to remember you by.*
 
 - **\[NEW\]** The Nightmare can now teleport to completed, blocked, and endgame Generators, as well as any Survivor healing in the Dreamworld. Dream Projection on a healing Survivor will teleport The Nightmare within 12 meters of their position. Upon completing a teleport, Survivors within 8 meters will be revealed with Killer Instinct and gain 15 seconds to their Sleep Meter.
 - **\[CHANGE\]** The Teleport cooldown has been decreased from 45 to 30 seconds, and the Teleport can no longer be cancelled.
 
-***Dev Note:**An important part of The Nightmare’s playstyle is creating the illusion of being everywhere at once, and his Dream Projection is a major part of that. We’ve made a few changes to make this even more effective and removed the pain point of having Survivor progress rendering The Nightmare’s Power obsolete.*
+***Dev Note:*** *An important part of The Nightmare’s playstyle is creating the illusion of being everywhere at once, and his Dream Projection is a major part of that. We’ve made a few changes to make this even more effective and removed the pain point of having Survivor progress rendering The Nightmare’s Power obsolete.*
 
 Finally, the **Dream World**. Don’t let the name deceive you – this psychological torture chamber is far from a dream. We wanted this update to inject sleeping Survivors with a sense of terror, paranoia, and urgency – so we made a few small but crucial tweaks.
 
@@ -58,7 +58,7 @@ We’re also giving the Dream World a slight visual polish, which should help im
 - **\[CHANGE\]** Sleeping Survivors can use any Alarm Clock to wake up.
 - **\[NEW\]** After using an Alarm Clock, it goes on cooldown for 45 seconds, during which it cannot be used.
 
-***Dev Note:**On the Survivor side we wanted to address a few notable frustrations, mainly around Alarm Clocks and the general process of Waking Up. We’re confident these changes will improve the experience of playing against The Nightmare without having a significant impact on the overall balance.*
+***Dev Note:*** *On the Survivor side we wanted to address a few notable frustrations, mainly around Alarm Clocks and the general process of Waking Up. We’re confident these changes will improve the experience of playing against The Nightmare without having a significant impact on the overall balance.*
 
 We hope you enjoy this updated version of The Nightmare, and we’ll be keeping a close eye on your feedback. Unless, of course, we happen to fall asleep...
 
@@ -83,7 +83,7 @@ Rounding out this rework is a substantial pass to all The Nightmare’s Add-Ons,
 
 Keep an eye out for the full list once the update goes live, but rest assured that the Dream Demon will have plenty of terrifying tools to work with moving forward.
 
-![DevUpdate_Frame.png](487-developer-update-january-2025/03-devupdate-frame.png)    ![DevUpdate_RRP.png](487-developer-update-january-2025/04-devupdate-rrp.png)
+![DevUpdate_Frame.png](487-developer-update-january-2025/03-devupdate-frame.png) ![DevUpdate_RRP.png](487-developer-update-january-2025/04-devupdate-rrp.png)
 
 To decrease Realm repetition, we’re implementing a Realm Prevention System, which will replace the existing Map Repeat Prevention System.
 
@@ -99,7 +99,7 @@ To help clarify things, we’ve implemented a visual update similar to the Anti-
 
 We’ve also reduced the blood spatter and darkening effects that appear whenever you’re in the Deep Wound State. Several subtle visual updates will now be added to the bar, highlighting the dire nature of the status. Check out a screenshot below:
 
-![DevUpdate_Mend.jpg](487-developer-update-january-2025/06-devupdate-mend.jpg)    ![DevUpdate_Frame.png](487-developer-update-january-2025/07-devupdate-frame.png)    ![DevUpdate_FCR.png](487-developer-update-january-2025/08-devupdate-fcr.png)
+![DevUpdate_Mend.jpg](487-developer-update-january-2025/06-devupdate-mend.jpg) ![DevUpdate_Frame.png](487-developer-update-january-2025/07-devupdate-frame.png) ![DevUpdate_FCR.png](487-developer-update-january-2025/08-devupdate-fcr.png)
 
 Dead by Daylight features a massive – *and growing* – roster of characters. To make matters even more complex, each character brings 3 unique Perks into the game, with Killers having an additional Power to learn and master.
 

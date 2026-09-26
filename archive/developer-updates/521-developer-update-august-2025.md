@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/521-developer-upda
 author: "ThatRyanB"
 published: "2025-08-29T14:01:47+00:00"
 updated: "2025-09-02T13:59:47+00:00"
-archived: "2026-09-26T02:20:03Z"
+archived: "2026-09-26T16:42:42Z"
 ---
 
 <!-- summary -->
@@ -94,7 +94,7 @@ Read on for all the details:
 - Updated “The Tomes” menu to feature new Tomes and accompanying lore alongside each Chapter release.
 - New lore is unlocked each week within the active Tome.
 
-***DEV NOTE**: Ever since we reworked the Tome, we’ve seen how much you’ve yearned for more lore. We’re happy to share that beginning with 9.2.0, lore is back! While previously, lore was tied to challenges, we want all players to have a chance to immerse themselves in these stories, so we’ve shifted to a weekly unlock,not linked to any quest completion.*
+***DEV NOTE**: Ever since we reworked the Tome, we’ve seen how much you’ve yearned for more lore. We’re happy to share that beginning with 9.2.0, lore is back! While previously, lore was tied to challenges, we want all players to have a chance to immerse themselves in these stories, so we’ve shifted to a weekly unlock,* *not linked to any quest completion.*
 
 ![devupdate-frame.png](521-developer-update-august-2025/11-devupdate-frame.png)
 

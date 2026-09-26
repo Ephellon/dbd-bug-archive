@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/466-8-1-2-bugfix-p
 author: "Peanits"
 published: "2024-08-06T17:56:02+00:00"
 updated: "2024-08-06T17:56:02+00:00"
-archived: "2026-09-26T02:18:15Z"
+archived: "2026-09-26T16:40:21Z"
 ---
 
 <!-- summary -->
@@ -30,12 +30,12 @@ Stridor and Iron Will perks were rebalanced so their audio effects are no longer
 **Killer**
 
 - **Stridor**  
-   The effect of the perk is no longer multiplicative, meaning that it will increase Survivor grunts of pain volume (even if they have Iron Will)
+   The effect of the perk is no longer multiplicative, meaning that it will increase Survivor grunts of pain volume (even if they have Iron Will)
 
 **Survivor**
 
 - **Iron Will**  
-   The effect of the perk is no longer multiplicative, meaning it will lower Survivor grunts of pain volume rather than set it to zero
+   The effect of the perk is no longer multiplicative, meaning it will lower Survivor grunts of pain volume rather than set it to zero
 
 ![PatchNotesDivider.png](466-8-1-2-bugfix-patch/02-patchnotesdivider.png)
 
@@ -44,8 +44,8 @@ Stridor and Iron Will perks were rebalanced so their audio effects are no longer
 ### 2v8
 
 - Hooked music should now be playing correctly when the player is in a 2v8 Cage.
-- The Survivor's Innate Skill "Self-Care" ability icon should now be correctly lit while in the dying state.
-- Aura reveal SFX now correctly plays when being chased by a Killer.
+- The Survivor's Innate Skill "Self-Care" ability icon should now be correctly lit while in the dying state.
+- Aura reveal SFX now correctly plays when being chased by a Killer.
 
 ### Archives
 
@@ -53,7 +53,7 @@ Stridor and Iron Will perks were rebalanced so their audio effects are no longer
 
 ### Audio
 
-- A Killer disconnecting and being replaced by a Bot will now correctly trigger the "replaced by Bot" sound cue.
+- A Killer disconnecting and being replaced by a Bot will now correctly trigger the "replaced by Bot" sound cue.
 
 ### Bots
 
@@ -62,26 +62,26 @@ Stridor and Iron Will perks were rebalanced so their audio effects are no longer
 
 ### Characters
 
-- Fixed an issue that caused the white aura to be shown when the Singularity looks at a pod directly.
+- Fixed an issue that caused the white aura to be shown when the Singularity looks at a pod directly.
 - Fixed an issue that caused the Knight's Guard preview icon on the Knight's arm to be inconsistent with the selected Guard.
 - Fixed an issue that caused the Trapper's Bear Oil add-on to only silence one bear trap in the trial.
-- Fixed an issue that caused Survivors to be floating when hit by the Mastermind's Virulent Bound at the end of the self unhook animation.
+- Fixed an issue that caused Survivors to be floating when hit by the Mastermind's Virulent Bound at the end of the self unhook animation.
 
 ### Perks
 
-- Fixed an issue that caused Invocation: Weaving Spiders not to complete generators when above 90% repair progress.
-- Fixed an issue that caused Specialist to make generators impossible to complete if every Survivor in the trial had and consumed max tokens on the same generator. This should also fix other cases of incompletable generators when combing other perks with Specialist.
-- Fixed an issue that caused Survivor to lose their equipped items when crafting a Flash Grenade item from Flashbang.
-- Fixed an issue that caused Dead Hard not to give the Endurance effect if Off The Record is triggered.
+- Fixed an issue that caused Invocation: Weaving Spiders not to complete generators when above 90% repair progress.
+- Fixed an issue that caused Specialist to make generators impossible to complete if every Survivor in the trial had and consumed max tokens on the same generator. This should also fix other cases of incompletable generators when combing other perks with Specialist.
+- Fixed an issue that caused Survivor to lose their equipped items when crafting a Flash Grenade item from Flashbang.
+- Fixed an issue that caused Dead Hard not to give the Endurance effect if Off The Record is triggered.
 
 ### Platforms
 
-- Fixed an issue that caused the Wraith's shadow to be visible while cloaked from Survivor POV on Switch.
+- Fixed an issue that caused the Wraith's shadow to be visible while cloaked from Survivor POV on Switch.
 
 ### Misc
 
 - Fixed an issue that could cause the game to freeze when the Lich leaves the tally screen before all other users after a match.
-- Fixed an issue that caused the Escape Cake Offering not to consistently award bonus Bloodpoints.
+- Fixed an issue that caused the Escape Cake Offering not to consistently award bonus Bloodpoints.
 
 <!-- nav -->
 &larr; [8.1.1a | Hotfix](463-8-1-1a-hotfix.md) · [Live](../../index.md#live) · [8.2.0 | Castlevania](468-8-2-0-castlevania.md) &rarr;

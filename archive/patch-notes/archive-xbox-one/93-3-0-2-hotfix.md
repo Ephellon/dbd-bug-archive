@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/93-3-0-2-hotfix"
 author: "Peanits"
 published: "2020-02-28T20:12:54+00:00"
 updated: "2020-02-28T22:11:14+00:00"
-archived: "2026-09-26T02:19:37Z"
+archived: "2026-09-26T16:42:02Z"
 ---
 
 <!-- summary -->
@@ -39,7 +39,7 @@ The hotfix also resolves a range of issues: Vigil no longer extends Exhaustion, 
 - Fixed an issue that caused The Ghost Face to be unable to crouch or lean if a Survivor disconnected while getting picked up.
 - Fixed an issue that caused The Ghost Face's Reveal SFX to loop if spotted by a Survivor leaving by the hatch or the exit gates.
 - Fixed an issue that caused the Killer carrying a Survivor music to be missing.
-- Adjusted music & sound balance to fix issues with in-game audio. This will improve the compatibility of the game's audio output with headphones emulating surround sound.
+- Adjusted music & sound balance to fix issues with in-game audio. This will improve the compatibility of the game's audio output with headphones emulating surround sound.
 - Misc cosmetic improvements
 
 <!-- nav -->

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/109-3-3-2-mid-chap
 author: "Peanits"
 published: "2020-02-28T20:22:48+00:00"
 updated: "2020-02-28T21:37:55+00:00"
-archived: "2026-09-26T02:19:46Z"
+archived: "2026-09-26T16:42:12Z"
 ---
 
 <!-- summary -->
@@ -23,20 +23,20 @@ The 3.3.2 update upgrades to Unreal Engine 4.22 and adds The Archives, a Rift re
 
 ## Features & Content
 
-- Feature - Integrated an updated version of the Unreal Engine (4.22, from 4.21.1).
-- Feature - The Archives (Read the Blog Post for more details).
-- Content - Tome: Provides Challenges to players to complete for Bloodpoints, Rift Fragments, and lore Entries (stored in the Collection sub-menu).
-- Content - The Rift: New time-limited reward system.
-- Content - A new UI element is now available at the right of the lobby menu and tally screen to provide feedback regarding The Archives.
-- Content - New Currency: Rift Fragments. Used to progress through Tiers in an available Rift in The Archives.
-- Content - New cosmetic type: Charms. Maximum of three (3) attach to a Survivor’s waist, or on a Killer’s hook in the environment. Customization UI has been updated to reflect this.
+- Feature - Integrated an updated version of the Unreal Engine (4.22, from 4.21.1).
+- Feature - The Archives (Read the Blog Post for more details).
+- Content - Tome: Provides Challenges to players to complete for Bloodpoints, Rift Fragments, and lore Entries (stored in the Collection sub-menu).
+- Content - The Rift: New time-limited reward system.
+- Content - A new UI element is now available at the right of the lobby menu and tally screen to provide feedback regarding The Archives.
+- Content - New Currency: Rift Fragments. Used to progress through Tiers in an available Rift in The Archives.
+- Content - New cosmetic type: Charms. Maximum of three (3) attach to a Survivor’s waist, or on a Killer’s hook in the environment. Customization UI has been updated to reflect this.
 
 ## Balance
 
 **Misc Gameplay**
 
 - Updated certain Killer powers with the Undetectable status effect: The Shape in Tier I of Evil Within, The Pig while in crouch mode, The Wraith while Cloaked, The Ghost Face while in Night Shroud.
-- Added a new Survivor score event for wiggling in the Killer's grasp. 25 Bloodpoints per second.
+- Added a new Survivor score event for wiggling in the Killer's grasp. 25 Bloodpoints per second.
 - Added a new Survivor score event for dropping a pallet while in a chase. 200 Bloodpoints.
 - Added a new Survivor score event for fast vaulting while in a chase. 100 Bloodpoints.
 - Added a new Survivor score event when other Survivors in the trial disconnect. 600 Bloodpoints.
@@ -50,17 +50,17 @@ The 3.3.2 update upgrades to Unreal Engine 4.22 and adds The Archives, a Rift re
 **Med-kit changes**
 
 - Camping Aid Kit: Increased the speed at which you heal others from +15% to +25%.
-- First Aid Kit: Increased the speed at which you heal others from +25% to +35%.
+- First Aid Kit: Increased the speed at which you heal others from +25% to +35%.
 - Emergency Med-Kit: Reduced charges from 24 to 16. Increased the speed at which you heal others from +35% to +50%. Replace item efficiency with increased self-heal speeds at +50%.
-- Ranger Med-Kit: Increased the speed at which you heal others from +25% to +50%.
-- All Hallow's Eve Lunchbox: Increased the speed at which you heal others from +15% to +35%.
+- Ranger Med-Kit: Increased the speed at which you heal others from +25% to +50%.
+- All Hallow's Eve Lunchbox: Increased the speed at which you heal others from +15% to +35%.
 
 **Med-kit add-on changes**
 
 - Rubber Gloves: Great skill checks grant 3% bonus progress.
-- Sponge: Great skill checks grant 5% bonus progress.
+- Sponge: Great skill checks grant 5% bonus progress.
 - Needle & Thread: Skill check chance increased from +3% to +10%. 100% bonus Bloodpoints for succeeding Great skill checks.
-- Surgical Suture: Skill check chance increased from +5% to +15%. 150% bonus Bloodpoints for succeeding Great skill checks.
+- Surgical Suture: Skill check chance increased from +5% to +15%. 150% bonus Bloodpoints for succeeding Great skill checks.
 - Styptic Agent: Applies the Endurance status effect for 15 seconds on use. Use with secondary action. Depletes Med-Kit on use.
 - Anti-Hemorrhagic Syringe: Heals Survivor passively over 8 seconds. Time is modified by perks and add-ons that affect healing speeds. The effect is cancelled if the Survivor changes health state or picked up. Depletes Med-kit on use.
 
@@ -71,30 +71,30 @@ The 3.3.2 update upgrades to Unreal Engine 4.22 and adds The Archives, a Rift re
 
 **The Nurse add-on changes**
 
-- White Nit Comb: Decreases the length of blink attack lunges by 50% (0.15 seconds). Increases blood point rewards for blink attack score events by 100%.
+- White Nit Comb: Decreases the length of blink attack lunges by 50% (0.15 seconds). Increases blood point rewards for blink attack score events by 100%.
 - Metal Spoon: Hitting a Survivor with a blink attack causes their sounds of pain to be moderately louder for 60 seconds.
-- Wooden Horse: Reduces extra fatigue from missed blink attacks by50% (0.5 seconds).
+- Wooden Horse: Reduces extra fatigue from missed blink attacks by 50% (0.5 seconds).
 - Plaid Flannel: Rarity changed from Very Rare to Common. The blink indicator placement has been improved, and will now stay visible until the Nurse has reached her destination (it was previously not visible while blinking).
-- Dull Bracelet: Decreases maximum blink distance by 20% (4 meters)*.* Increases Blood point rewards for precise blink score events by 100%.
+- Dull Bracelet: Decreases maximum blink distance by 20% (4 meters)*.* Increases Blood point rewards for precise blink score events by 100%.
 - Bad Man Keepsake: Rarity changed from Common to Uncommon. Hitting a Survivor with a blink attack causes their aura to be revealed when healing or being healed within a 28 meter range for 60 seconds.
-- Catatonic Boy's Treasure: Reduces extra fatigue from chain blinks by 100% (0.5 seconds).
-- Dark Cincture: Decreases blink recharge time by 20% (0.6 seconds).
+- Catatonic Boy's Treasure: Reduces extra fatigue from chain blinks by 100% (0.5 seconds).
+- Dark Cincture: Decreases blink recharge time by 20% (0.6 seconds).
 - Pocket Watch: Increases the duration of the chain blink window by 13% (0.2 seconds).
-- Anxious Gasp: Blinking past a survivor causes them to scream and awards 200 blood points in the devious category for terrifying them.
-- Spasmodic Breath: Hitting a survivor with a successful blink attack disables the ability to blink and increases The Nurse's base movement speed to 4.6 m/s for60 seconds.
-- Ataxic Respiration: Reduces base blink fatigue duration by 12.5% (0.25 seconds).
-- Fragile Wheeze: Decreases blink recharge time by30%(0.9 seconds).
-- Heavy Panting: Increases maximum blink range by 20% (4 meters) and increases maximum blink charge time by 20% (0.4 seconds).
-- "Bad Man's" Last Breath: Hitting a survivor with a successful blink attack grants The Nurse the Undetectable status for 16 seconds.This effect may be only triggered once every 60 seconds.
-- Campbell's Last Breath: After reappearing from a fully charged blink, The Nurse immediately blinks at half charge in the direction she is currently facing.
-- Kavanagh's Last Breath: Increases maximum blink range by 30% (6 meters) and increases maximum blink charge time by 30% (0.6 seconds).
-- Jenner's Last Breath: After blinking, allows the Nurse to immediately blink back to her original position by pressing the *Secondary Power Button*. Requires a blink charge and must be triggered during the chain blink window.
+- Anxious Gasp: Blinking past a survivor causes them to scream and awards 200 blood points in the devious category for terrifying them.
+- Spasmodic Breath: Hitting a survivor with a successful blink attack disables the ability to blink and increases The Nurse's base movement speed to 4.6 m/s for 60 seconds.
+- Ataxic Respiration: Reduces base blink fatigue duration by 12.5% (0.25 seconds).
+- Fragile Wheeze: Decreases blink recharge time by 30% (0.9 seconds).
+- Heavy Panting: Increases maximum blink range by 20% (4 meters) and increases maximum blink charge time by 20% (0.4 seconds).
+- "Bad Man's" Last Breath: Hitting a survivor with a successful blink attack grants The Nurse the Undetectable status for 16 seconds.This effect may be only triggered once every 60 seconds.
+- Campbell's Last Breath: After reappearing from a fully charged blink, The Nurse immediately blinks at half charge in the direction she is currently facing.
+- Kavanagh's Last Breath: Increases maximum blink range by 30% (6 meters) and increases maximum blink charge time by 30% (0.6 seconds).
+- Jenner's Last Breath: After blinking, allows the Nurse to immediately blink back to her original position by pressing the *Secondary Power Button*. Requires a blink charge and must be triggered during the chain blink window.
 - Matchbox: Rarity changed from Common to Ultra Rare. Removes 1 blink charge. Increases base movement speed to 4.2 m/s.
 - Torn Bookmark: Rarity changed from Common to Ultra Rare. Adds 1 blink charge. The Nurse can no longer blink to locations not in her line of sight.
 
 **Survivor perk changes**
 
-- Detective's Hunch: Now triggers from any generator completion instead of only generators completed by the perk owner. Increased aura reading duration from 5 seconds to 10 seconds.
+- Detective's Hunch: Now triggers from any generator completion instead of only generators completed by the perk owner. Increased aura reading duration from 5 seconds to 10 seconds.
 - Plunderer's Instinct: Removed the slightly and moderately stipulation from tier I and II respectively. Only unopened chest auras and items dropped on the ground will be revealed to the perk owner. Aura reading range does not change.
 - Mettle of Man: Made it so the perk can be activated and triggered more than once.
 
@@ -110,9 +110,9 @@ The 3.3.2 update upgrades to Unreal Engine 4.22 and adds The Archives, a Rift re
 - Fixed an issue that caused The Nightmare's Dream Snares not to be visible on specific areas of the main house tile in the Mother's Dwelling map.
 - Fixed an issue that caused invisible collision blocking player movement when going up the left side of the stairs of the main house in the Mother's Dwelling map.
 - Fixed an issue that caused players to float at the top of staircases in the temple building of the Temple of Purgation map.
-- Fixed an issue that caused visible ground seams on multiple tiles in the Family Residence map.
+- Fixed an issue that caused visible ground seams on multiple tiles in the Family Residence map.
 - Fixed a few instances that allowed Survivors to walk on top of certain chests in the Family Residence map.
-- Fixed an issue that caused an invisible collision when falling off a specific part of the hill in the Father Campbell's Chapel map.
+- Fixed an issue that caused an invisible collision when falling off a specific part of the hill in the Father Campbell's Chapel map.
 - Fixed an issue that caused visible ground seams on multiple tiles in the Father Campbell's Chapel map.
 - Fixed an issue that caused visible ground seams inside the Gas Station in the Gas Heaven map.
 - Fixed an issue that caused the interior of the crashed bus to appear too bright in the Autohaven Wreckers maps.
@@ -121,7 +121,7 @@ The 3.3.2 update upgrades to Unreal Engine 4.22 and adds The Archives, a Rift re
 - Fixed an issue that caused an invisible collision blocking player movement on the fish net side of the stairs leading to the small cabin in the Grim Pantry map.
 - Fixed an issue that allowed Killers to walk on top of a rock asset in the Backwater Swamp maps.
 - Fixed an issue that caused the bookshelves in the Preschool basement to be missing textures in the Springwood maps.
-- Fixed an issue that caused a floating crow in a hallway in the Treatment Theatre map.
+- Fixed an issue that caused a floating crow in a hallway in the Treatment Theatre map.
 - Fixed an issue that allowed players to partially hide in a wall outside of the torture room in The Game map.
 - Fixed an issue that caused Killer projectiles to pass through cages with blue tarps on them in the lab rooms of The Underground Complex map.
 - Fixed an issue that caused The Plague's vomit to go through the exit gates in The Underground Complex map.
@@ -147,10 +147,10 @@ The 3.3.2 update upgrades to Unreal Engine 4.22 and adds The Archives, a Rift re
 - Fixed an issue that could cause a Survivor to get stuck in the jumping through hatch animation when the Killer hit them as they opened it with a key.
 - Fixed an issue that caused other players not to see the failed skill check animation being performed when the Survivor released the interaction button during the skill check.
 - Fixed an issue that caused The Demogorgon's feet not to animate from its point of view when picking up and carrying a Survivor.
-- Fixed an issue that caused a ground seam in the first part of the Survivor Tutorial.
+- Fixed an issue that caused a ground seam in the first part of the Survivor Tutorial.
 - Misc cosmetic clipping and improvements.
 - Fixed an issue that caused players not to lose pips when disconnecting from a match by accepting an invite to a private lobby.
-- Fixed an issue that made it impossible to gain progress on Rite of the Last Breath daily ritual.
+- Fixed an issue that made it impossible to gain progress on Rite of the Last Breath daily ritual.
 - Fixed an issue that could cause a crash while in the Collection tab of the Archives menu.
 - Fixed an issue that could cause a crash when entering the Archives.
 - Fixed an issue that caused level 4 of the Tome to appear when opening the Tome if level 1 was fully complete.

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/508-8-7-2-bugfix-p
 author: "ThatRyanB"
 published: "2025-05-26T14:28:57+00:00"
 updated: "2025-06-02T15:04:03+00:00"
-archived: "2026-09-26T02:18:10Z"
+archived: "2026-09-26T16:40:15Z"
 ---
 
 <!-- summary -->
@@ -37,8 +37,8 @@ An update to the Abandon option now records a survivor who flees while the remai
 
 ### Abandon Option
 
-- Changed the match outcome for the following scenario to count as a loss for the Survivor (*was a draw*):
-  - Survivor abandons the match while all remaining Survivors are in the Dying state.
+- Changed the match outcome for the following scenario to count as a loss for the Survivor (*was a draw*):
+  - Survivor abandons the match while all remaining Survivors are in the Dying state.
 
 ![bar_red.png](508-8-7-2-bugfix-patch/03-bar-red.png)
 
@@ -46,9 +46,9 @@ An update to the Abandon option now records a survivor who flees while the remai
 
 ### 2V8
 
-- Fixed an issue where loud noise notification bubbles were displayed to Killers when Survivors affected by the Silent Rush Bonus performed a rushed action.
-- Fixed an issue where Survivors had no struggle animation when interrupted by The Deathslinger's harpoon while another Survivor is applying the Vaccine or Spray to them.
-- Fixed an issue where The Oni did not lose charges from his power when downing a Survivor while in Blood Fury state.
+- Fixed an issue where loud noise notification bubbles were displayed to Killers when Survivors affected by the Silent Rush Bonus performed a rushed action.
+- Fixed an issue where Survivors had no struggle animation when interrupted by The Deathslinger's harpoon while another Survivor is applying the Vaccine or Spray to them.
+- Fixed an issue where The Oni did not lose charges from his power when downing a Survivor while in Blood Fury state.
 - Fixed an issue in the Wretched Shop (2v8) map, where tires appeared to be floating.
 - Fixed an issue in the Shelter Woods (2v8) map, where grass appeared to be floating.
 
@@ -59,33 +59,33 @@ An update to the Abandon option now records a survivor who flees while the remai
 
 ### Characters
 
-- Fixed an issue that caused Survivors to get stuck inside pallets when interrupted by The Ghoul's Kagune Leap attack.
+- Fixed an issue that caused Survivors to get stuck inside pallets when interrupted by The Ghoul's Kagune Leap attack.
 - Fixed an issue where The Ghoul could launch himself at a faster speed after using his second dash immediately after the first one.
-- Tentatively fixed an issue where Survivors were temporarily stuck in an animation while dropping a pallet during The Ghoul's grab-attack.
-- Fixed an issue where Survivors could be prevented from performing most interactions if The Ghoul was stunned at the same time as the Kagune Leap hit the Survivor.
-- Fixed an issue where The Demogorgon could become invisible after traversing through a Portal.
-- Fixed an issue that caused Killer Instinct to be missing when The Artist launched a crow through a locker with a Survivor hiding inside.
+- Tentatively fixed an issue where Survivors were temporarily stuck in an animation while dropping a pallet during The Ghoul's grab-attack.
+- Fixed an issue where Survivors could be prevented from performing most interactions if The Ghoul was stunned at the same time as the Kagune Leap hit the Survivor.
+- Fixed an issue where The Demogorgon could become invisible after traversing through a Portal.
+- Fixed an issue that caused Killer Instinct to be missing when The Artist launched a crow through a locker with a Survivor hiding inside.
 - Fixed an issue that caused The Nemesis' Tentacle Strike to pass through certain walls and objects.
 
 ### Environment/Maps
 
 - Fixed an issue in The Underground Complex map where a hook would spawn in front of a door.
-- Fixed an issue in the Azarov's Resting Place map where a character would clip through the top of lockers when exiting.
+- Fixed an issue in the Azarov's Resting Place map where a character would clip through the top of lockers when exiting.
 - Fixed an issue in The Temple of Purgation map where characters would clip through the top of lockers when exiting.
-- Fixed an issue in the Father Campbell's Chapel map where Killers could land on top of a pallet.
-- Fixed an issue in the Dead Dawg Saloon map that caused flickering on the ground texture.
-- Fixed an issue in the Mount Ormond Resort map that caused a seam on the floor of the Main Building to appear.
+- Fixed an issue in the Father Campbell's Chapel map where Killers could land on top of a pallet.
+- Fixed an issue in the Dead Dawg Saloon map that caused flickering on the ground texture.
+- Fixed an issue in the Mount Ormond Resort map that caused a seam on the floor of the Main Building to appear.
 - Fixed an issue where the player was able to walk out of bounds through the Exit Gates while using a Gamepad.
 
 ### Perks
 
-- Fixed an issue where the Entity blocker was not seen in the generator aura caused by Deja Vu.
-- Fixed an issue where Camaraderie could be reactivated by Survivors after it deactivated.
+- Fixed an issue where the Entity blocker was not seen in the generator aura caused by Deja Vu.
+- Fixed an issue where Camaraderie could be reactivated by Survivors after it deactivated.
 
 ### Quests
 
-- Fixed an issue which caused "Earn Bloodpoints" quests to not progress after abandoning a Trial as a Survivor.
-- Fixed an issue with the 2v8 "Kill Survivors" quest where it would not progress when Survivors were sacrificed in cages.
+- Fixed an issue which caused "Earn Bloodpoints" quests to not progress after abandoning a Trial as a Survivor.
+- Fixed an issue with the 2v8 "Kill Survivors" quest where it would not progress when Survivors were sacrificed in cages.
 - Fixed an issue where players could not complete the "Mad Skills" challenge.
 
 ### UI

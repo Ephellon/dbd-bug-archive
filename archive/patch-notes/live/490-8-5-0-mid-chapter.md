@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/490-8-5-0-mid-chap
 author: "ThatRyanB"
 published: "2025-01-28T15:28:03+00:00"
 updated: "2025-01-28T15:28:04+00:00"
-archived: "2026-09-26T02:18:12Z"
+archived: "2026-09-26T16:40:17Z"
 ---
 
 <!-- summary -->
@@ -78,10 +78,10 @@ The rest of the update focuses on stability, delivering audio, bot, character, m
 - Press and hold the Ability button for more than **0.5 seconds** to perform Dream Projection
 - While charging Dream Projection, The Nightmare's movement speed is decreased to **3.86 m/s**
 - While charging Dream Projection, The Nightmare can see the aura of the husk to which he will teleport
-- Dream Projection takes **2.5 seconds*(was 4 seconds)*
+- Dream Projection takes **2.5 seconds** *(was 4 seconds)*
 - Dream Projection can be cancelled by releasing the Ability button early
 - Cancelling early incurs the full cooldown
-- Upon completion, Survivors within **8 meters** are revealed with Killer Instinct for **3 seconds**, and gain **15**seconds on their Sleep Meter
+- Upon completion, Survivors within **8 meters** are revealed with Killer Instinct for **3 seconds**, and gain **15** seconds on their Sleep Meter
 - Dream Projection has a **30-second** cooldown *(was 45 seconds)*
 
 #### Alarm Clocks/Wake up
@@ -89,7 +89,7 @@ The rest of the update focuses on stability, delivering audio, bot, character, m
 - Sleeping Survivors can use any Alarm Clock to wake up *(was a specific Alarm Clock, usually on the other side of the map)*
 - Using an Alarm Clock grants Sleep Immunity for **30 seconds**
 - Using an Alarm Clock causes it to go on a global **45-second** cooldown, which prevents anyone from using it
-- The Wake Up interaction (snap snap, clap clap) always takes **5 seconds*(would increase with each Wake Up interaction)*
+- The Wake Up interaction (snap snap, clap clap) always takes **5 seconds** *(would increase with each Wake Up interaction)*
 - The Wake Up interaction has priority over the healing interaction
 
 #### Addons
@@ -170,21 +170,21 @@ The rest of the update focuses on stability, delivering audio, bot, character, m
 #### Killer
 
 - **Beast of Prey**:
-  - When you gain Bloodlust for the first time, gain Undetectable for **30/35/40 seconds*(NEW)*
+  - When you gain Bloodlust for the first time, gain Undetectable for **30/35/40 seconds** *(NEW)*
   - Gain **30/40/50%** more Bloodpoints for actions in the Hunter Category *(REMOVED)*
 - **Fire Up**:
   - For each generator completed, gain a **4/5/6%** stackable speed bonus to picking up, dropping, vaulting, damaging generators, and breaking pallets and breakable walls for the remained of the trial *(was 3/3.5/4%)*
 - **Remember Me**:
-  - Each time your Obsession loses a health state, gain 1 token, up to **3/4/5*(was 2/3/4)*
-  - For each token, increases the opening time of Exit Gates by **6 seconds**, up to a maximum of **18/24/30*(was 12/18/24)*
+  - Each time your Obsession loses a health state, gain 1 token, up to **3/4/5** *(was 2/3/4)*
+  - For each token, increases the opening time of Exit Gates by **6 seconds**, up to a maximum of **18/24/30** *(was 12/18/24)*
 
 #### Survivor
 
 - **Vigil**:
-  - Affects Survivors within **16 meters*(was 8 meters)*
+  - Affects Survivors within **16 meters** *(was 8 meters)*
   - Recover from Blindness, Broken, Exhausted, Exposed, Haemorrhage, Hindered, Mangled and Oblivious **30/35/40%** faster *(was 20/25/30%)*
 - **Wake Up!**:
-  - For each Survivor still alive, increase the speed at which you open Exit Gates by **8/10/12.5%*(NEW)*
+  - For each Survivor still alive, increase the speed at which you open Exit Gates by **8/10/12.5%** *(NEW)*
 
 ![bar1.png](490-8-5-0-mid-chapter/04-bar1.png)
 
@@ -318,21 +318,21 @@ The rest of the update focuses on stability, delivering audio, bot, character, m
 
 #### Dream Snares:
 
-- Increase Hindered duration to **4.5 sec*(was 4 sec)*
-- Increase cooldown to **7 sec*(was 5 sec)*
+- Increase Hindered duration to **4.5 sec** *(was 4 sec)*
+- Increase cooldown to **7 sec** *(was 5 sec)*
 - Improve Sound Cue for Dream Snare charge start
 - Added different score event for Survivor walking on static snare vs being hit by moving snare
 
 #### Dream Pallet:
 
-- Increase Rupture range to **3.5 meters*(was 3 meters)*
+- Increase Rupture range to **3.5 meters** *(was 3 meters)*
 - Dropping Dream Pallets no longer cancel a Rupture that is currently charging
 
 #### Dream Projection:
 
 - Releasing the Dream Projection input before it completes cancels the teleport
 - Cancelling a Dream Projection incurs the full cooldown *(30 seconds)*
-- While charging Dream Projection, movement speed is reduced to **3.86 m/s*(NEW)*
+- While charging Dream Projection, movement speed is reduced to **3.86 m/s** *(NEW)*
 - Reveal the aura of The Nightmare emerging near a teleport location to help with orientation *(visible to the Killer only)*
 - Add an audio-visual cue when The Nightmare triggers a Dream Projection on Survivors healing in the Dream World
 
@@ -344,9 +344,9 @@ The rest of the update focuses on stability, delivering audio, bot, character, m
 #### Addons:
 
 - **Jump Rope**:
-  - Increases the Hindered penalty from Dream Snares by **0.5 sec*(was 1 sec)*
+  - Increases the Hindered penalty from Dream Snares by **0.5 sec** *(was 1 sec)*
 - **Unicorn Block**:
-  - Increases the Dream Pallet Rupture range by **0.5 meters*(was 1 meter)*
+  - Increases the Dream Pallet Rupture range by **0.5 meters** *(was 1 meter)*
 
 #### Perks:
 
@@ -356,7 +356,7 @@ The rest of the update focuses on stability, delivering audio, bot, character, m
   - For each Survivor still alive, you open the Exit Gates **8/10/12.5%** faster. *(NEW)*
   - While Wake Up! is active, you open the Exit Gates **40/45/50%** faster. *(REMOVED)*
 - **Beast of Prey**:
-  - When you gain Bloodlust for the first time, gain Undetectable for **30/35/40 seconds*(*was 10/15/20 sec*)*
+  - When you gain Bloodlust for the first time, gain Undetectable for **30/35/40 seconds** *(*was 10/15/20 sec*)*
 
 ![bar1.png](490-8-5-0-mid-chapter/07-bar1.png)
 

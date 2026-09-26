@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/520-9-1-3-bugfix-p
 author: "ThatRyanB"
 published: "2025-08-26T14:29:10+00:00"
 updated: "2025-08-26T15:18:38+00:00"
-archived: "2026-09-26T02:18:08Z"
+archived: "2026-09-26T16:40:13Z"
 ---
 
 <!-- summary -->
@@ -32,16 +32,16 @@ The Last Stand perk has been re-enabled, restoring its ability to protect Surviv
 ### Characters
 
 - Fixed an issue where The Spirit's hands would remain extended after using the Phase-Walk power.
-- Fixed an issue where The Deathslinger was unable to spear Survivors with the Redeemer while they were fast-vaulting pallets using the Last Stand perk.
-- Fixed an issue where The Dark Lord's Hellfire would not pass through the Killer shack pallets.
+- Fixed an issue where The Deathslinger was unable to spear Survivors with the Redeemer while they were fast-vaulting pallets using the Last Stand perk.
+- Fixed an issue where The Dark Lord's Hellfire would not pass through the Killer shack pallets.
 
 ### Miscellaneous
 
-- Fixed an issue where Killers were unable to injure Survivors fast-vaulting pallets using the Last Stand perk.
-- Fixed an issue where Survivors could get trapped inside lockers.
-- Fixed an issue where Survivors could use the Finesse perk infinitely.
-- Fixed an issue where the Fog Vial's fog blocked certain Killers' projectiles.
-- Fixed an issue where Survivors appeared to be floating in the lobby.
+- Fixed an issue where Killers were unable to injure Survivors fast-vaulting pallets using the Last Stand perk.
+- Fixed an issue where Survivors could get trapped inside lockers.
+- Fixed an issue where Survivors could use the Finesse perk infinitely.
+- Fixed an issue where the Fog Vial's fog blocked certain Killers' projectiles.
+- Fixed an issue where Survivors appeared to be floating in the lobby.
 
 <!-- nav -->
 &larr; [9.1.2 | Bugfix Patch](519-9-1-2-bugfix-patch.md) · [Live](../../index.md#live) · [9.2.0 | Sinister Grace](523-9-2-0-sinister-grace.md) &rarr;

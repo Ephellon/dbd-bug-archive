@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/549-ptb-to-live-ch
 author: "ThatRyanB"
 published: "2026-06-10T17:01:49+00:00"
 updated: "2026-06-10T17:01:49+00:00"
-archived: "2026-09-26T02:20:01Z"
+archived: "2026-09-26T16:42:29Z"
 ---
 
 <!-- summary -->
@@ -66,7 +66,7 @@ Along with his power, we’ve also made a handful of changes to The Slasher’s 
 *Last but not least, you can expect to see one Perk change from PTB to Live.*
 
 - **Silent Shadow:**
-  - **Changed the perk so that the 11/12/13s Undetectable occurs whenever you hook a Survivor, instead of at the start of the trial. When all Generators are completed, you gain Undetectable.**
+  - **Changed the perk so that the 11/12/13s Undetectable occurs whenever you hook a Survivor, instead of at the start of the trial. When all Generators are completed, you gain Undetectable.**
 
 *We determined that this perk gave Killers too much of a stealth identity at the beginning of a match. Instead, we wanted to make it repeatable for each hook and give a larger payoff in the End Game.*
 

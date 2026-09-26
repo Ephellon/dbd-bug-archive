@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/271-4-4-1-bugfix-p
 author: "Peanits"
 published: "2020-12-08T15:26:43+00:00"
 updated: "2020-12-08T17:08:44+00:00"
-archived: "2026-09-26T02:19:13Z"
+archived: "2026-09-26T16:41:34Z"
 ---
 
 <!-- summary -->
@@ -35,7 +35,7 @@ Technical Flashlight rework restores normal accuracy, adds new VFX, animations a
 
 - Increased default Flashlight accuracy back to normal
 - Appraisal now only allows Survivors to rummage through the same chest once
-- Ebony and Ivory Memento Moris now require the targeted survivor to have reached the second hook phase
+- Ebony and Ivory Memento Moris now require the targeted survivor to have reached the second hook phase
 - Victor can now search lockers, if a Survivor is found inside, the player will be send back to control Charlotte while Victor will block the Survivor in the locker for up to 10 sec.
 
 ![PatchNotesDivider.png](271-4-4-1-bugfix-patch/03-patchnotesdivider.png)
@@ -53,7 +53,7 @@ Technical Flashlight rework restores normal accuracy, adds new VFX, animations a
 - Fixed an issue that could cause Unbreakable to grant too much recovery when spam clicking
 - Fixed an issue that caused the Flashlight beam to stay narrow after successfully blinding the Killer.
 - Fixed an issue that prevented Hoarder from spawning extra chests
-- Fixed an issue where Victor was misaligned during the Twins mori
+- Fixed an issue where Victor was misaligned during the Twins mori
 - Fixed a terminology issue in Hoarder's perk description
 - Fixed an issue that caused cross-platform friends to no longer appear in the friends list after linking accounts
 - Fixed an issue that caused the text in the redeem code box to be deletable

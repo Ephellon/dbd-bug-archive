@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/341-developer-upda
 author: "Peanits"
 published: "2022-07-11T19:00:33+00:00"
 updated: "2022-07-12T16:46:38+00:00"
-archived: "2026-09-26T02:20:20Z"
+archived: "2026-09-26T16:43:28Z"
 ---
 
 <!-- summary -->
@@ -43,7 +43,7 @@ Speaking of Bloodpoints, the 1,000,000 cap has long been a topic for discussion,
 
 Finally, we’ve made a tweak to our catch-up mechanic, which awards you bonus prestige levels based on your progress prior to this overhaul going live. This is based on the number of perk tiers you’ve unlocked on a character as well as their prestige.
 
-In the PTB, we awarded one bonus prestige level for each prestige your characters had prior to the PTB. **For the full Mid-Chapter release, we have increased this to 2 bonus prestige levels.**This means if your character was prestige 3 before the update, they are guaranteed to be prestige 9 after the update, granting all the new rewards immediately.  The catch-up mechanic will be limited to prestige 9, however, even if the calculated bonus would exceed this.
+In the PTB, we awarded one bonus prestige level for each prestige your characters had prior to the PTB. **For the full Mid-Chapter release, we have increased this to 2 bonus prestige levels.** This means if your character was prestige 3 before the update, they are guaranteed to be prestige 9 after the update, granting all the new rewards immediately. The catch-up mechanic will be limited to prestige 9, however, even if the calculated bonus would exceed this.
 
 ![GAMEPLAY.png](341-developer-update-july-2022/03-gameplay.png)
 
@@ -69,39 +69,39 @@ We’ll be closely monitoring the performance of each of the updated perks once 
 
 ![SpineChill.png](341-developer-update-july-2022/04-spinechill.png)
 
-**Spine Chill*now activates when the Killer has a clear line of sight to you.*After revealing this change, many voiced their concerns about how this would affect deaf & hard-of-hearing players who relied on Spine Chill as a replacement for the terror radius. While we don’t want accessibility to fall on perks, we also do not want to remove this aspect of the perk until we’re able to implement a more permanent solution. For release, we have added a visual indicator to Spine Chill’s icon that displays the terror radius’ strength.
+**Spine Chill** *now activates when the Killer has a clear line of sight to you.* After revealing this change, many voiced their concerns about how this would affect deaf & hard-of-hearing players who relied on Spine Chill as a replacement for the terror radius. While we don’t want accessibility to fall on perks, we also do not want to remove this aspect of the perk until we’re able to implement a more permanent solution. For release, we have added a visual indicator to Spine Chill’s icon that displays the terror radius’ strength.
 
 In the future, we would like to revisit this and implement a permanent solution that does not require a perk. Only once this happens, the terror radius indicator will be removed from Spine Chill.
 
 ![DeadHard.png](341-developer-update-july-2022/05-deadhard.png)
 
-**Dead Hard*now grants the Endurance status effect when activated instead of causing you to dash.* In the PTB, the duration of the status effect was set to 1 second. This gave Survivors a long window to dodge a hit when Dead Hard was used. For the Mid-Chapter’s release, we are reducing this to 0.5 seconds, requiring more precise timing to use effectively.
+**Dead Hard** *now grants the Endurance status effect when activated instead of causing you to dash.* In the PTB, the duration of the status effect was set to 1 second. This gave Survivors a long window to dodge a hit when Dead Hard was used. For the Mid-Chapter’s release, we are reducing this to 0.5 seconds, requiring more precise timing to use effectively.
 
 Balance aside, we’ve also seen some feedback on Dead Hard’s animation. The PTB version of Dead Hard uses a modified version of the original animation, but this isn’t ideal. In a future update, we’ll replace Dead Hard’s animation with a refined version designed to better match its new effect.
 
 ![OffTheRecord.png](341-developer-update-july-2022/06-offtherecord.png)
 
-**Off the Record*now grants Endurance in addition to its existing effects.* Some of you pointed out that like Decisive Strike, Off the Record could give Survivors a guaranteed escape once the gates are powered. As a result, this perk will deactivate and remove its effects once the gates are powered.
+**Off the Record** *now grants Endurance in addition to its existing effects.* Some of you pointed out that like Decisive Strike, Off the Record could give Survivors a guaranteed escape once the gates are powered. As a result, this perk will deactivate and remove its effects once the gates are powered.
 
 As mentioned earlier in this post, the Endurance effect will also no longer protect you from damage if you already have the Deep Wound status effect, making it very impractical to dodge subsequent hits. As with all Endurance effects, the effect is cancelled prematurely if you perform a Conspicuous Action.
 
 ![Overcharge.png](341-developer-update-july-2022/07-overcharge.png)
 
-**Overcharge*now causes a generator’s regression to gradually speed up after you damage a generator, in addition to its existing effects.* On the PTB, this was set to grow from 100% speed to 400% speed over the course of 30 seconds. We found this to be a little extreme- especially when paired with Call of Brine- causing generators to quickly lose all their progress. This is particularly noticeable with solo Survivors who aren’t able to communicate that their nearly completed generator is regressing.
+**Overcharge** *now causes a generator’s regression to gradually speed up after you damage a generator, in addition to its existing effects.* On the PTB, this was set to grow from 100% speed to 400% speed over the course of 30 seconds. We found this to be a little extreme- especially when paired with Call of Brine- causing generators to quickly lose all their progress. This is particularly noticeable with solo Survivors who aren’t able to communicate that their nearly completed generator is regressing.
 
 For the release, this is being toned down: The generator will start regressing at 75% speed and increase to 200% speed over the course of 30 seconds. If you’re curious, Overcharge becomes faster than the default regression after only 12 seconds. Overcharge can still be combined with Call of Brine to offset the reduced speed.
 
 ![BotanyKnowledge.png](341-developer-update-july-2022/08-botanyknowledge.png)
 
-**Botany Knowledge*increases your healing speed far more than before, but no longer provides Med-Kit efficiency.* While this change made the perk more appealing to the healers out there, it could be a little too powerful with Med-Kits. To remedy this, Botany Knowledge will receive a 20% efficiency penalty to Med-Kits. While this may sound minor, even a slight reduction to efficiency can cause Med-Kits to run out of charges before you can finish a heal.
+**Botany Knowledge** *increases your healing speed far more than before, but no longer provides Med-Kit efficiency.* While this change made the perk more appealing to the healers out there, it could be a little too powerful with Med-Kits. To remedy this, Botany Knowledge will receive a 20% efficiency penalty to Med-Kits. While this may sound minor, even a slight reduction to efficiency can cause Med-Kits to run out of charges before you can finish a heal.
 
 ![Distortion.png](341-developer-update-july-2022/09-distortion.png)
 
-**Distortion*prevents your aura from being revealed to the Killer and can now be recharged by staying inside their terror radius.* As a small quality of life improvement, Distortion will now have an audio cue when a token is used. This will make the effects harder to miss.
+**Distortion** *prevents your aura from being revealed to the Killer and can now be recharged by staying inside their terror radius.* As a small quality of life improvement, Distortion will now have an audio cue when a token is used. This will make the effects harder to miss.
 
 ![IronWill.png](341-developer-update-july-2022/10-ironwill.png)
 
-**Iron Will*now reduces your grunts of pain by 75% rather than making you silent, and no longer works while Exhausted.* We’ve seen some feedback concerning the volume of certain Survivors compared to others, causing this perk to be less effective on Survivors with louder grunts of pain. In a future update, we’ll be reviewing the volume levels of each Survivor’s grunts to ensure that each of them can make use of this perk.
+**Iron Will** *now reduces your grunts of pain by 75% rather than making you silent, and no longer works while Exhausted.* We’ve seen some feedback concerning the volume of certain Survivors compared to others, causing this perk to be less effective on Survivors with louder grunts of pain. In a future update, we’ll be reviewing the volume levels of each Survivor’s grunts to ensure that each of them can make use of this perk.
 
 ![Inner Focus.png](341-developer-update-july-2022/11-inner-focus.png)
 

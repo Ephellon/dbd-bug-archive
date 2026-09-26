@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/62-3-2-1-hotfix"
 author: "Peanits"
 published: "2020-02-28T19:33:50+00:00"
 updated: "2020-03-02T19:58:11+00:00"
-archived: "2026-09-26T02:19:23Z"
+archived: "2026-09-26T16:41:45Z"
 ---
 
 <!-- summary -->
@@ -26,10 +26,10 @@ The hotfix also adds anti-aliasing to low settings and fixes aura, animation and
 ## Balance
 
 - The Demogorgon's Shred special ability now breaks pallets by default. Because of this change, we have re-worked the Red Moss add-on. Please see the changes below.
-- Reworked The Demogorgon's Red Moss add-on: Previously, with the Red Moss add-on, The Demogorgon could break pallets using Shred - now this is a default effect of Shred. The new Red Moss add-on reads as follows: Tremendously increases the duration of the Undetectable status effect applied to The Demogorgon when emerging from a portal (for a total of 10 seconds). Tremendously decreases power recovery speed of traversing the Upside Down (recovery now takes 24 seconds).
+- Reworked The Demogorgon's Red Moss add-on: Previously, with the Red Moss add-on, The Demogorgon could break pallets using Shred - now this is a default effect of Shred. The new Red Moss add-on reads as follows: Tremendously increases the duration of the Undetectable status effect applied to The Demogorgon when emerging from a portal (for a total of 10 seconds). Tremendously decreases power recovery speed of traversing the Upside Down (recovery now takes 24 seconds).
 - The perk Surge now grants the Destruction score event for each affected generator.
 - The perk Second Wind will now display the progress towards activating the perk.
-- Adjusted the matchmaking logic so that Survive With Friends groups are matched using the highest rank of all players in the group (instead of the average). The 3.2.0 patch introduced an issue that caused Survive With Friends group matchmaking to be skewed towards Rank 20, which is also fixed with this change.
+- Adjusted the matchmaking logic so that Survive With Friends groups are matched using the highest rank of all players in the group (instead of the average). The 3.2.0 patch introduced an issue that caused Survive With Friends group matchmaking to be skewed towards Rank 20, which is also fixed with this change.
 
 ## Bug Fixes
 
@@ -50,9 +50,9 @@ The hotfix also adds anti-aliasing to low settings and fixes aura, animation and
 - Fixed an issue that some hair and accessory materials not to dissolve at the same time as the rest of the Survivor model when being sacrificed.
 - Fixed an issue that made it impossible for the Killer to pick up Survivors if they were too close to the shelf assets on multiple tiles in The Underground Complex map.
 - Adjusted the placement of the generator that caused the lighting to become extremely bright when repaired, when it spawned on the glass ceiling in the Rift Lab of The Underground Complex map.
-- Fixed an issue that allowed players to get on top of some crates and could hold the game hostage in the Rift Lab room in the The Underground Complex map.
-- Fixed an issue that caused some flickering ground textures on the Clinic tiles in The Underground Complex map.
-- Fixed an issue that caused uneven shadows on a metal lid in The Underground Complex map.
+- Fixed an issue that allowed players to get on top of some crates and could hold the game hostage in the Rift Lab room in the The Underground Complex map.
+- Fixed an issue that caused some flickering ground textures on the Clinic tiles in The Underground Complex map.
+- Fixed an issue that caused uneven shadows on a metal lid in The Underground Complex map.
 - Fixed an issue that caused a crack in a wall to appear stretched and off the ceiling in The Underground Complex map.
 - Fixed an issue that caused The Trapper's bear traps to blend with the snow material when placed on snow in the Mount Ormond Resort map.
 - Fixed an issue that caused a visible ground seam around the office building in the Azarov's Resting Place map.
@@ -75,7 +75,7 @@ The hotfix also adds anti-aliasing to low settings and fixes aura, animation and
 
 - The End Game Collapse timer is visually desynchronized between clients and host.
 - The Pig's camera shakes every time she performs a regular attack.
-- Un-translated warning message in all non English languages when a Host spectator/Survivor attempts to leave the tally screen in a Custom Game.
+- Un-translated warning message in all non English languages when a Host spectator/Survivor attempts to leave the tally screen in a Custom Game.
 
 <!-- nav -->
 &larr; [3.2.0 | Stranger Things](61-3-2-0-stranger-things.md) · [Archive: PS4](../../index.md#archive-ps4) · [3.3.0 | Mid-Chapter](63-3-3-0-mid-chapter.md) &rarr;

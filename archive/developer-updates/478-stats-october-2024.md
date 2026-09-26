@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/478-stats-october-
 author: "Mandy"
 published: "2024-10-29T13:56:01+00:00"
 updated: "2024-10-29T13:56:01+00:00"
-archived: "2026-09-26T02:20:08Z"
+archived: "2026-09-26T16:42:54Z"
 ---
 
 <!-- summary -->
@@ -39,13 +39,13 @@ You’re probably wondering which Killers made the deadliest teams, so we crunch
 
 Not to be left out, we’ve also grabbed the numbers for all the Survivor Classes. Escapist was the clear the favourite, though all Classes saw a decent amount of play.
 
-![Survivor Classes.png](478-stats-october-2024/05-survivor-classes.png)    ![Picture1.png](478-stats-october-2024/06-picture1.png)
+![Survivor Classes.png](478-stats-october-2024/05-survivor-classes.png) ![Picture1.png](478-stats-october-2024/06-picture1.png)
 
 A little while ago, we made some tweaks to The Singularity to make it a bit more approachable.
 
 How does this compare to before the update? Firstly, the number of matches played went way up, previously only 122,861 over a similar period. The number of slipstreams went up slightly from 11.5, while the number of EMPs used decreased from 6.5.
 
-![THE SINGULARITY.png](478-stats-october-2024/07-the-singularity.png)    ![Picture1.png](478-stats-october-2024/08-picture1.png)
+![THE SINGULARITY.png](478-stats-october-2024/07-the-singularity.png) ![Picture1.png](478-stats-october-2024/08-picture1.png)
 
 If only they had some sunglasses… We’ve pulled the average number of Flashlight blinds & saves per match. These figures only include matches where someone brings a Flashlight into the trial.
 
@@ -53,7 +53,7 @@ As you can imagine, these numbers are much lower when nobody brings one into the
 
 *Please note: These are per match averages, not per Survivor averages!*
 
-![FLASHLIGHTS.png](478-stats-october-2024/09-flashlights.png)    ![Picture1.png](478-stats-october-2024/10-picture1.png)
+![FLASHLIGHTS.png](478-stats-october-2024/09-flashlights.png) ![Picture1.png](478-stats-october-2024/10-picture1.png)
 
 Do Survivors heal themselves more than they heal others? Spoiler: No. Not even close. Altruistic heals more than double the number of self-heals on average. Some even take the altruism a step further by using their own body as a meat shield around twice per match.
 

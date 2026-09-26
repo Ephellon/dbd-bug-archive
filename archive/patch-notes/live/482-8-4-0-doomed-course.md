@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/482-8-4-0-doomed-c
 author: "ThatRyanB"
 published: "2024-11-28T15:57:01+00:00"
 updated: "2024-11-28T15:57:02+00:00"
-archived: "2026-09-26T02:18:13Z"
+archived: "2026-09-26T16:40:18Z"
 ---
 
 <!-- summary -->
@@ -47,7 +47,7 @@ Healthy Survivors affected by Houndsense receive Deep Wounds when Injured. Injur
 
 - **All-Shaking Thunder**
   - After you fall from a height, your lunge attack distance is increased by **75/75/75%** for **8/12/16 seconds**.
-  - This perk has a **5/5/5-second**cooldown.
+  - This perk has a **5/5/5-second** cooldown.
 - **Scourge Hook: Jagged Compass**
   - At the start of the trial, up to 4 random hooks are changed into scourge hooks. You see their auras in white.
   - When a Survivor is unhooked from a non-scourge hook, it becomes a scourge hook.
@@ -68,7 +68,7 @@ Healthy Survivors affected by Houndsense receive Deep Wounds when Injured. Injur
   - Once the Invocation is completed:
     - You become injured and broken for the rest of the trial.
     - When a Survivor is in the Terror Radius and the Killer scares a crow, their aura is revealed to all Survivors for **1/1.5/2 seconds**.
-  - Completing the Invocation disables that perk for all Survivors.
+  - Completing the Invocation disables that perk for all Survivors.
 - **Clean Break**
   - After you finish healing another Survivor, while being healed by another Survivor, press the ability button 1 to gain broken.
   - After **80/70/60 seconds**, you become healthy.
@@ -91,7 +91,7 @@ Healthy Survivors affected by Houndsense receive Deep Wounds when Injured. Injur
 
 - Increase shapeshift cooldown to 3.5 seconds *(was 2.5)*
 - Vampire Form: Increase Hellfire cooldown to 10 seconds *(was 7)*
-- Wolf Form: Increase the spawn rate of Scent Orbs to 1 every 5 seconds*(was 1 every 6 seconds)*
+- Wolf Form: Increase the spawn rate of Scent Orbs to 1 every 5 seconds *(was 1 every 6 seconds)*
 - Wolf Form: Decrease Wolf's pounce charge time to 0.85 seconds *(was 1)*
 
 #### The Demogorgon - Basekit
@@ -138,7 +138,7 @@ Healthy Survivors affected by Houndsense receive Deep Wounds when Injured. Injur
 
 #### The Lich - Basekit
 
-- Decreased Dispelling Sphere's cooldown to 35 seconds*(was 38)*
+- Decreased Dispelling Sphere's cooldown to 35 seconds *(was 38)*
 - Decreased Flight of the Damned's cooldown to 35 seconds *(was 38)*
 - Decreased Fly's cooldown to 25 seconds *(was 38)*
 - Increased Mage Hand's cooldown to 40 seconds *(was 38)*
@@ -159,7 +159,7 @@ Healthy Survivors affected by Houndsense receive Deep Wounds when Injured. Injur
 #### The Mastermind - Addons
 
 - **Leather Gloves:**
-  - Decreases Virulent Bound's cooldown by 8%*(was 10%)*
+  - Decreases Virulent Bound's cooldown by 8% *(was 10%)*
 
 #### The Shape - Basekit
 

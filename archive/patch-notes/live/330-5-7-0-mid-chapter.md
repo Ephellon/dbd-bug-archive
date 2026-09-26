@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/330-5-7-0-mid-chap
 author: "Omnia"
 published: "2022-04-27T14:29:56+00:00"
 updated: "2022-04-27T14:40:40+00:00"
-archived: "2026-09-26T02:18:26Z"
+archived: "2026-09-26T16:40:36Z"
 ---
 
 <!-- summary -->
@@ -41,7 +41,7 @@ UI Update - Added an indicator to the Searching for Friends popup when loading d
 - Moderate: Require the player to be comfortable with the basics of the role, though the Killers share common mechanics with those from the Easy category
 - Hard: Use mechanics that are specific to the Killer and require more practice to be effective
 - Very Hard: Require a high amount of practice and understanding, inexperienced players would likely find little success when using them
-- Switch players should update to 14.1.0-1.0 firmware or newer to fix an issue with Auric Cell Purchases failing.
+- Switch players should update to 14.1.0-1.0 firmware or newer to fix an issue with Auric Cell Purchases failing.
 
 *Dev Note: Since all Survivors have the same mechanics, they are no longer separated into different difficulty tiers. Killer difficulty is based on overall mechanical and strategic complexity, specifically for newer players.*
 
@@ -71,7 +71,7 @@ UI Update - Added an indicator to the Searching for Friends popup when loading d
 - Modified to account for the Hemorrhage Rework
 - Increases the rate at which healing progression is lost by 15/20/25%
 
-*Dev Note: On the PTB, all mentions of Sloppy Butcher increasing bleed frequency were removed, but the mechanic remained! The strings have been updated to clarify that increase bleed frequency is still present on Sloppy Butcher, in addition to the new effect.*
+*Dev Note: On the PTB, all mentions of Sloppy Butcher increasing bleed frequency were removed, but the mechanic remained! The strings have been updated to clarify that increase bleed frequency is still present on Sloppy Butcher, in addition to the new effect.*
 
 **The Nightmare**
 
@@ -81,7 +81,7 @@ UI Update - Added an indicator to the Searching for Friends popup when loading d
 
 **The Legion**
 
-- The Legion now has unique Terror Radius and Chase music, which can be modified by the Mix Tape add-ons
+- The Legion now has unique Terror Radius and Chase music, which can be modified by the Mix Tape add-ons
 - New: Each successful hit with Feral Slash now increases The Legion's movement speed by +0.2m/s for the remainder of Feral Frenzy
 - New: After 4 successful hits with Feral Slash, the next Feral Slash will put the survivor into the dying state and end Feral Frenzy
 - Removed the loss of power gauge on successful basic attacks
@@ -96,7 +96,7 @@ UI Update - Added an indicator to the Searching for Friends popup when loading d
 - Add-on - Filthy Blade
 - Increases time required for Survivors to mend by 4 seconds (was 2.5 seconds)
 - Add-on - Iridescent Button
-- Removed effect where Terror Radius extends to the entire map
+- Removed effect where Terror Radius extends to the entire map
 - Reworked Add-on - Stab Wounds Study
 - The auras of Survivors who self-mend a Deep Wound from Feral Frenzy are shown for 4 seconds afterwards
 - Reworked Add-on - Friendship Bracelet
@@ -122,10 +122,10 @@ UI Update - Added an indicator to the Searching for Friends popup when loading d
 - Reworked Add-on - The Legion Pin
 - Survivors who self-mend a Deep Wound from Feral Frenzy are inflicted with Broken for 60 seconds
 - Reworked Add-on - Frank's Mix Tape
-- While using Feral Frenzy: Damaging generators is 20% faster, breaking walls is 30% faster the power gauge pauses while performing these actions
+- While using Feral Frenzy: Damaging generators is 20% faster, breaking walls is 30% faster the power gauge pauses while performing these actions
 - Reworked Add-on - Fuming Mix Tape
-- While using Feral Frenzy: The repair progress of generators can be determined by the intensity of their auras, generators not being worked on regress
-- Note: Regression effect *does* stack with Hex: Ruin or other regression effects
+- While using Feral Frenzy: The repair progress of generators can be determined by the intensity of their auras, generators not being worked on regress
+- Note: Regression effect *does* stack with Hex: Ruin or other regression effects
 - New Add-on - Stylish Sunglasses
 - Shows the auras of Survivors who are mending within a 24 meter radius
 - New Add-on - BFFs
@@ -143,7 +143,7 @@ UI Update - Added an indicator to the Searching for Friends popup when loading d
 
 - The Ghost Face can no longer be revealed by Marked Survivors
 - Marked now lasts for 60 seconds (was 45 seconds)
-- The Ghost Face now has unique Terror Radius and Chase music
+- The Ghost Face now has unique Terror Radius and Chase music
 - Reviewed the technical implementation of the stalk and reveal mechanics
 - Fixed an issue that could lead some player's reveal to be ignored completely when multiple survivors are revealing at the same time
 - Reveal progress will now regress over a short time when a survivor loses sight of Ghost Face and resume when revealing starts again (Previously, losing sight of Ghost Face for a single frame would cause all reveal progress to be lost)
@@ -162,7 +162,7 @@ UI Update - Added an indicator to the Searching for Friends popup when loading d
 - Increases crouched movement speed by 10% (was 5.6%)
 - Add-on - Outdoor Security Camera
 - The auras of all Survivors are revealed for 7 seconds when a Marked Survivor is put into the dying state (was 4 seconds)
-- Now applies to all survivors (was limited to Survivors inside the Terror Radius)
+- Now applies to all survivors (was limited to Survivors inside the Terror Radius)
 - Reworked Add-on - "Philly"
 - Decreases time required to Mark a Survivor by 20%
 - Reworked Add-on - Cinch Straps
@@ -176,7 +176,7 @@ UI Update - Added an indicator to the Searching for Friends popup when loading d
 - Reworked Add-on - Chewed Pen
 - Survivors that are in the dying state take 3 seconds to reveal The Ghost Face
 - Reworked Add-on - Knife Belt Clip
-- Reduces the Terror Radius by 8 meters when crouching
+- Reduces the Terror Radius by 8 meters when crouching
 - Reworked Add-on - Lasting Perfume
 - Survivors that are on a hook take 3 seconds to reveal The Ghost Face
 - Reworked Add-on - Olsen's Wallet
@@ -219,14 +219,14 @@ UI Update - Added an indicator to the Searching for Friends popup when loading d
 ## Bug Fixes
 
 - Fixed an issue that caused the shower drain leak VFX to float slightly above the floor in the Léry showers.
-- Fixed an issue that caused floating debris from breakable walls to be visible when one side has a noticeable slope in elevation.
-- Fixed an issue that caused Ace's Trilby hats to clip through his head on the killer side when in the dream world.
-- Fixed an issue that caused the sleep VFX to flicker on Jake when wearing the Western Wrangler torso.
-- Fixed an issue that caused the dream state outline to clip into Nea’s default torso in various animations.
-- Fixed an issue that caused Yun-Jin's 'Lunar Hanbok' torso customization to flicker when in the dream world.
-- Fixed an issue that caused the Dream world sky on Coldwind Farm to have unusual lines in the grainy texture.
-- Fixed an issue that caused some visual corruption in the sky on Haddonfield when in the Dream World.
-- Fixed an issue that caused the Onryo's legs to clip through the backside of the TV after projecting.
+- Fixed an issue that caused floating debris from breakable walls to be visible when one side has a noticeable slope in elevation.
+- Fixed an issue that caused Ace's Trilby hats to clip through his head on the killer side when in the dream world.
+- Fixed an issue that caused the sleep VFX to flicker on Jake when wearing the Western Wrangler torso.
+- Fixed an issue that caused the dream state outline to clip into Nea’s default torso in various animations.
+- Fixed an issue that caused Yun-Jin's 'Lunar Hanbok' torso customization to flicker when in the dream world.
+- Fixed an issue that caused the Dream world sky on Coldwind Farm to have unusual lines in the grainy texture.
+- Fixed an issue that caused some visual corruption in the sky on Haddonfield when in the Dream World.
+- Fixed an issue that caused the Onryo's legs to clip through the backside of the TV after projecting.
 - Fixed an issue that sometimes caused subtitles for Ash to be displayed when selecting another survivor.
 - Fixed an issue that sometimes caused the survivor settings from the 'Play as Survivor' lobby to be carried over to the custom game lobby.
 - Fixed an issue that caused custom game lobby warning messages to not be displayed.
@@ -245,7 +245,7 @@ UI Update - Added an indicator to the Searching for Friends popup when loading d
 - Fixed an issue that caused the Artists Crows to despawn immediately when spawned near the exit gates on the Léry's Memorial Institute - Treatment Theatre map.
 - Fixed an issue that caused the Cenobite's chains to hit a collision over survivors in the dying state.
 - Fixed an issue that may cause the Wraith to appear invisible to survivors while uncloaked.
-- Fixed an issue that may cause the Wraith to be visible while cloaked after cancelling the damage generator interaction when equipped with the The Serpent - Soot add-on.
+- Fixed an issue that may cause the Wraith to be visible while cloaked after cancelling the damage generator interaction when equipped with the The Serpent - Soot add-on.
 - Fixed an issue that caused the Cannibal's Shop Lubricant add-on not to hide the aura of survivors downed with the chainsaw.
 - Fixed an issue that caused Victor to be missing from the match results screen.
 - Fixed an issue that caused the Hag's traps not to be triggered for other survivors when a survivor in the dying state is on the trap.
@@ -263,7 +263,7 @@ UI Update - Added an indicator to the Searching for Friends popup when loading d
 - Fixed an issue that sometimes prevented the Demogorgon scream from triggering after a missed pounced.
 - Fixed an issue that caused survivors to hear Ghost Face's reveal sfx to play map-wide.
 - Fixed an issue that caused visceral cankers to prevent sliding doors from opening.
-- Fixed an issue that prevented the text "The Onryo" from being accepted in Crowd Choice.
+- Fixed an issue that prevented the text "The Onryo" from being accepted in Crowd Choice.
 - Fixed an issue that caused game to disconnect during Steam maintenance.
 - Fixed an issue that caused survivor to go invisible when switching between lobby and store.
 - Fixed an issue that prevented the purchasing of DLC characters and auric cells.
@@ -280,7 +280,7 @@ UI Update - Added an indicator to the Searching for Friends popup when loading d
 - Fixed an issue where sometimes, the Bloodpoints score events disappear too fast in the Hud.
 - Fixed an issue in the Tally screen where smashing buttons while also selecting the spectate option could bring you back to the Hud with a black screen.
 - Fixed an issue that caused a misplaced collision on stair railing in the basement of the school.
-- Fixed an issue where one generator in Pale Rose cannot be repaired from one side.
+- Fixed an issue where one generator in Pale Rose cannot be repaired from one side.
 - Fixed an issue where the hooks on the second floor of the Library aren't spawning in RPD map.
 - Fixed an issue where a Survivor can climb on a speaker and a table using the cleanse or bless totem action at the Press room in RPD map.
 - Fixed an issue where a Survivor can't be picked up by the Killer between some assets on the first floor of Gideon Meat Plant.
@@ -291,12 +291,12 @@ UI Update - Added an indicator to the Searching for Friends popup when loading d
 - Fixed an issue that caused low FPS on the main menu. (Switch only)
 - Fixed a visual glitch which could occur when toggling between the Killer lobby and main menu.
 - Fixed an issue that caused an infinite loading screen after using 'Instant on' or 'Instant sign in' mode while in a match. (Xbox One only)
-- Fixed an issue that caused Hex: Ruin to not regress generators after Hex: Undying is destroyed.
+- Fixed an issue that caused Hex: Ruin to not regress generators after Hex: Undying is destroyed.
 - Fixed an issue that may cause the Nurse to instantly fully blink a second time when playing with high latency.
 - Fixed an issue that caused all survivors to lose laceration when the Trickster attacks someone.
 - Fixed an issue that caused the cooldown of the Cannibal's successful chainsaw attack to be 3 seconds instead of 2.
 - Fixed an issue that may cause the survivor to become invisible during the Cenobite's mori.
-- Fixed an issue that caused reversed skill checks not to be hit reliably on Stadia.
+- Fixed an issue that caused reversed skill checks not to be hit reliably on Stadia.
 - Fixed an issue that caused the hand icon next to the interaction bar when Victor uses his power.
 - Fixed an issue that caused dark lighting inside the houses in Haddonfield map.
 - Fixed an issue that caused confusion on vaultable windows on the second floors in Haddonfield map.
@@ -309,8 +309,8 @@ UI Update - Added an indicator to the Searching for Friends popup when loading d
 - Fixed an issue where sometimes survivor playerTags were not visible when entering a lobby.
 - Fixed an issue that caused the Legion to gain stacks to Feral Slash when hitting a hooked survivor.
 - Fixed an issue that caused The Mixtape Legions chase music to continue being applied in subsequent matches after using the mixtape.
-- Fixed an issue that caused the Legion's Fuming Mix Tape generator regression not to apply to generators not being repaired when starting Frenzy.
-- Fixed an issue that caused the kick sound effect on Generator or Breakable Wall to be missing when using the new animations with Julie's and Frank's mix tape add-ons equipped.
+- Fixed an issue that caused the Legion's Fuming Mix Tape generator regression not to apply to generators not being repaired when starting Frenzy.
+- Fixed an issue that caused the kick sound effect on Generator or Breakable Wall to be missing when using the new animations with Julie's and Frank's mix tape add-ons equipped.
 - Fixed an issue that caused the Legion's attack animation to be lengthened instead of the lunge when equipped with the Friendship Bracelet add-on.
 - Fixed an issue that caused the Shape to continue stalking at Tier 3.
 - Fixed an issue that caused healing progression to regress during the failed skill check penalty when affected by the Hemorrhage status effect.
@@ -321,11 +321,11 @@ UI Update - Added an indicator to the Searching for Friends popup when loading d
 
 ## Known Issues
 
-- The Hex: Ruin effect is cancelled when a survivor stops repairing a generator during Feral Frenzy when equipped with the Fuming Mix Tape add-on.
+- The Hex: Ruin effect is cancelled when a survivor stops repairing a generator during Feral Frenzy when equipped with the Fuming Mix Tape add-on.
 - When dismissing a daily ritual, an incorrect amount of reward might be displayed. This is purely visual, and does not affect the actual amount of reward you will receive. Reopening the daily ritual window should correct this.
 - In Haddonfield map, downing a Survivor next to a fence prevents the Killer from picking up the Survivor.
 - There's a specific Green glyph that cannot be interacted with in the Wreckers Yard.
-- It is impossible to grab a Survivor from a specific side of multiple generators in Haddonfield map.
+- It is impossible to grab a Survivor from a specific side of multiple generators in Haddonfield map.
 - Meg is sometimes unable to Vault in the Killer Tutorial.
 - There is a one sided collision preventing smooth passage in the Eyrie of the crows map.
 - The Credits appear as a placeholder text string in all non-English languages on PS5, Switch and Stadia platforms.

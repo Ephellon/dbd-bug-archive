@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/489-developer-upda
 author: "ThatRyanB"
 published: "2025-01-27T14:58:05+00:00"
 updated: "2025-01-27T16:27:15+00:00"
-archived: "2026-09-26T02:20:07Z"
+archived: "2026-09-26T16:42:52Z"
 ---
 
 <!-- summary -->
@@ -37,18 +37,18 @@ While it was a solid start, there was still work to be done. We’ve since made 
 
 ### Dream Snares
 
-- Increased Hindered duration to **4.5 sec*(was 4 sec)*
-- Increased cooldown to **7 sec*(was 5 sec)*
+- Increased Hindered duration to **4.5 sec** *(was 4 sec)*
+- Increased cooldown to **7 sec** *(was 5 sec)*
 - Improved the Sound Cue when charging Dream Snares
 
 ***Dev Note**: Nothing drastic here. Mainly a few tweaks to improve quality of life and reduce the spam potential, particularly at high level play. This subtle tweak to the cooldown should prevent those instances, without sacrificing playability. To compensate, we’ve increased the Hindered status slightly.*
 
 ### Dream Pallets
 
-- Increase Rupture range to **3.5 meters*(was 3 meters)*
+- Increase Rupture range to **3.5 meters** *(was 3 meters)*
 - Rupturing Pallets cannot be dropped
 
-***Dev Note**: One of the recurring points of feedback*centered*around the usefulness of Dream Pallets, and their ability to make an immediate impact in a Trial. We’ve increased the Rupture range and made it so a dropped Dream Pallet will not cancel your Rupture charge.*
+***Dev Note**: One of the recurring points of feedback* centered *around the usefulness of Dream Pallets, and their ability to make an immediate impact in a Trial. We’ve increased the Rupture range and made it so a dropped Dream Pallet will not cancel your Rupture charge.*
 
 ### Dream Projection
 
@@ -71,9 +71,9 @@ While it was a solid start, there was still work to be done. We’ve since made 
 We’ve made a few minor tweaks to some of The Nightmare’s Add-Ons, as a few were noted to be slightly overtuned.
 
 - **Jump Rope**:
-  - Decrease to **0.5 sec*(was 1 sec)*
+  - Decrease to **0.5 sec** *(was 1 sec)*
 - **Unicorn Block**:
-  - Decrease to **0.5 meters*(was 1 meter)*
+  - Decrease to **0.5 meters** *(was 1 meter)*
 
 ![DevUpdate_Frame.png](489-developer-update-january-2025-ptb/03-devupdate-frame.png)
 

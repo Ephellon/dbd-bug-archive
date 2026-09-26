@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/451-developer-upda
 author: "Coordi"
 published: "2024-05-30T13:59:29+00:00"
 updated: "2024-06-03T13:06:22+00:00"
-archived: "2026-09-26T02:20:11Z"
+archived: "2026-09-26T16:43:00Z"
 ---
 
 <!-- summary -->
@@ -67,15 +67,15 @@ The Lich
 
 *Dev note: We have reduced the time the Killer’s aura is revealed by Magic Items so they act more as a warning than a mind-game prevention.*
 
-![CA-DBD_0524_churros_DevUpdate_Banners_PTB_FOOTER.png](451-developer-update-may-2024-ptb/03-ca-dbd-0524-churros-devupdate-banners-ptb-footer.png)    ![TheBlight (1).png](451-developer-update-may-2024-ptb/04-theblight-281-29.png)
+![CA-DBD_0524_churros_DevUpdate_Banners_PTB_FOOTER.png](451-developer-update-may-2024-ptb/03-ca-dbd-0524-churros-devupdate-banners-ptb-footer.png) ![TheBlight (1).png](451-developer-update-may-2024-ptb/04-theblight-281-29.png)
 
 The Blight
 
-- \[CHANGE\] **Compound Thirty-Three:**Now limits Rush tokens to 5 (was 3).
+- \[CHANGE\] **Compound Thirty-Three:** Now limits Rush tokens to 5 (was 3).
 
 *Dev note: With the other effects of this Add-On toned down, we have increased the token limit to 5.*
 
-![CA-DBD_0524_churros_DevUpdate_Banners_PTB_FOOTER.png](451-developer-update-may-2024-ptb/05-ca-dbd-0524-churros-devupdate-banners-ptb-footer.png)    ![BardicInspiration.png](451-developer-update-may-2024-ptb/06-bardicinspiration.png)
+![CA-DBD_0524_churros_DevUpdate_Banners_PTB_FOOTER.png](451-developer-update-may-2024-ptb/05-ca-dbd-0524-churros-devupdate-banners-ptb-footer.png) ![BardicInspiration.png](451-developer-update-may-2024-ptb/06-bardicinspiration.png)
 
 Bardic inspiration
 
@@ -83,7 +83,7 @@ Bardic inspiration
 
 *Dev note: We have extended Bardic Inspiration’s duration to give the opportunity to gain more value from the Perk before it expires.*
 
-![CA-DBD_0524_churros_DevUpdate_Banners_PTB_FOOTER.png](451-developer-update-may-2024-ptb/07-ca-dbd-0524-churros-devupdate-banners-ptb-footer.png)    ![StillSight.png](451-developer-update-may-2024-ptb/08-stillsight.png)
+![CA-DBD_0524_churros_DevUpdate_Banners_PTB_FOOTER.png](451-developer-update-may-2024-ptb/07-ca-dbd-0524-churros-devupdate-banners-ptb-footer.png) ![StillSight.png](451-developer-update-may-2024-ptb/08-stillsight.png)
 
 Still Sight
 
@@ -91,7 +91,7 @@ Still Sight
 
 *Dev note: Still Sight’s range was a little low, so we’ve extended it to 24m. This can be further increased with the Perk Open-Handed if you choose!*
 
-![CA-DBD_0524_churros_DevUpdate_Banners_PTB_FOOTER.png](451-developer-update-may-2024-ptb/09-ca-dbd-0524-churros-devupdate-banners-ptb-footer.png)    ![WeaveAttunement.png](451-developer-update-may-2024-ptb/10-weaveattunement.png)
+![CA-DBD_0524_churros_DevUpdate_Banners_PTB_FOOTER.png](451-developer-update-may-2024-ptb/09-ca-dbd-0524-churros-devupdate-banners-ptb-footer.png) ![WeaveAttunement.png](451-developer-update-may-2024-ptb/10-weaveattunement.png)
 
 Weave Attunement
 
@@ -99,7 +99,7 @@ Weave Attunement
 
 *Dev note: We have increased the range of the aura reveal to increase the coverage from dropped Items.*
 
-![CA-DBD_0524_churros_DevUpdate_Banners_PTB_FOOTER.png](451-developer-update-may-2024-ptb/11-ca-dbd-0524-churros-devupdate-banners-ptb-footer.png)    ![DarkArrogance.png](451-developer-update-may-2024-ptb/12-darkarrogance.png)
+![CA-DBD_0524_churros_DevUpdate_Banners_PTB_FOOTER.png](451-developer-update-may-2024-ptb/11-ca-dbd-0524-churros-devupdate-banners-ptb-footer.png) ![DarkArrogance.png](451-developer-update-may-2024-ptb/12-darkarrogance.png)
 
 Dark Arrogance
 

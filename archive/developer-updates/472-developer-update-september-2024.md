@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/472-developer-upda
 author: "Peanits"
 published: "2024-09-12T13:55:01+00:00"
 updated: "2024-09-13T11:58:44+00:00"
-archived: "2026-09-26T02:20:09Z"
+archived: "2026-09-26T16:42:56Z"
 ---
 
 <!-- summary -->
@@ -50,7 +50,7 @@ The next update features an especially large number of Perk tweaks & reworks on 
 
 *Dev note: This Perk grants a speed boost to both Survivors after healing as long as they stick together. This alone is pretty conditional, so we have removed the cooldown entirely and removed the added deactivation clause to simplify the Perk and make it feel better to use. We’ve also increased the range slightly to make it a little easier to maintain.*
 
-![CA_DBD_0224_ApplePie_Frame_Footer.png](472-developer-update-september-2024/05-ca-dbd-0224-applepie-frame-footer.png)    ![TeamworkCollectiveStealth.png](472-developer-update-september-2024/06-teamworkcollectivestealth.png)
+![CA_DBD_0224_ApplePie_Frame_Footer.png](472-developer-update-september-2024/05-ca-dbd-0224-applepie-frame-footer.png) ![TeamworkCollectiveStealth.png](472-developer-update-september-2024/06-teamworkcollectivestealth.png)
 
 - \[NEW\] This effect will linger for a few seconds when out of range. Re-entering this range before the linger time expires will maintain the effects.
 - \[CHANGE\] Increased range to 8/12/16 meters (was 12 meters).
@@ -59,21 +59,21 @@ The next update features an especially large number of Perk tweaks & reworks on 
 
 *Dev note: We have given a similar treatment to Teamwork: Collective Stealth: Healing and staying near each other is already quite the demand, so we have removed the unnecessary cooldown and health state conditions. The range will match other Teamwork Perks for consistency.*
 
-![CA_DBD_0224_ApplePie_Frame_Footer.png](472-developer-update-september-2024/07-ca-dbd-0224-applepie-frame-footer.png)    ![CorrectiveAction.png](472-developer-update-september-2024/08-correctiveaction.png)
+![CA_DBD_0224_ApplePie_Frame_Footer.png](472-developer-update-september-2024/07-ca-dbd-0224-applepie-frame-footer.png) ![CorrectiveAction.png](472-developer-update-september-2024/08-correctiveaction.png)
 
 - \[CHANGE\] Now applies to Survivors within 8 meters (was cooperating on the same action).
 - \[CHANGE\] Prevented failed Skill Checks now become Great Skill Checks (was Good Skill Checks).
 
 *Dev note: Corrective Action previously only prevented progress lost from other Survivors’ missed Skill Checks. This could be great when playing with a new friend, but not very useful for more experienced players. We have changed the result to a Great Skill Check to provide a marginal progress boost whenever the Perk activates, giving it some value in higher end matches.*
 
-![CA_DBD_0224_ApplePie_Frame_Footer.png](472-developer-update-september-2024/09-ca-dbd-0224-applepie-frame-footer.png)    ![InnerFocus.png](472-developer-update-september-2024/10-innerfocus.png)
+![CA_DBD_0224_ApplePie_Frame_Footer.png](472-developer-update-september-2024/09-ca-dbd-0224-applepie-frame-footer.png) ![InnerFocus.png](472-developer-update-september-2024/10-innerfocus.png)
 
 - \[CHANGE\] Increased aura reading duration to 6/8/10 seconds (was 3/4/5 seconds).
 - \[REMOVED\] Removed range requirement.
 
 *Dev note: This Perk previously required you to be within 32 meters of the Survivor who loses a health state, meaning you would often know where the Killer is anyway. We have removed this condition: This will make Inner Focus a useful tool for keeping track of the Killer’s whereabouts regardless of where they are in the map.*
 
-![CA_DBD_0224_ApplePie_Frame_Footer.png](472-developer-update-september-2024/11-ca-dbd-0224-applepie-frame-footer.png)    ![WereGonnaLiveForever.png](472-developer-update-september-2024/12-weregonnaliveforever.png)
+![CA_DBD_0224_ApplePie_Frame_Footer.png](472-developer-update-september-2024/11-ca-dbd-0224-applepie-frame-footer.png) ![WereGonnaLiveForever.png](472-developer-update-september-2024/12-weregonnaliveforever.png)
 
 - \[CHANGE\] Increased healing speed bonus to 150% (was 100%).
 
@@ -84,7 +84,7 @@ The next update features an especially large number of Perk tweaks & reworks on 
 
 *Dev note: The Endurance aspect of the Perk made the Perk overly complicated to make use of, so we have replaced this with a cooldown instead. This cooldown only applies to the Endurance effect, not the healing speed increase.*
 
-![CA_DBD_0224_ApplePie_Frame_Footer.png](472-developer-update-september-2024/13-ca-dbd-0224-applepie-frame-footer.png)    ![Poised.png](472-developer-update-september-2024/14-poised.png)
+![CA_DBD_0224_ApplePie_Frame_Footer.png](472-developer-update-september-2024/13-ca-dbd-0224-applepie-frame-footer.png) ![Poised.png](472-developer-update-september-2024/14-poised.png)
 
 - \[NEW\] When you first start repairing a generator, see the Killer’s aura for 6 seconds.
 - \[CHANGE\] Increased duration to 10/12/14 seconds (was 6/8/10 seconds).
@@ -93,7 +93,7 @@ The next update features an especially large number of Perk tweaks & reworks on 
 
 *We’ve also increased the duration of the original effect to help you cover more ground without leaving tracks.*
 
-![CA_DBD_0224_ApplePie_Frame_Footer.png](472-developer-update-september-2024/15-ca-dbd-0224-applepie-frame-footer.png)    ![BloodRush.png](472-developer-update-september-2024/16-bloodrush.png)
+![CA_DBD_0224_ApplePie_Frame_Footer.png](472-developer-update-september-2024/15-ca-dbd-0224-applepie-frame-footer.png) ![BloodRush.png](472-developer-update-september-2024/16-bloodrush.png)
 
 - \[CHANGE\] Blood Rush now activates for 40/50/60 seconds after being unhooked (previously activated permanently when you were one hook away from death).
 - \[NEW\] Blood Rush now deactivates upon performing a Conspicuous Action.
@@ -104,7 +104,7 @@ The next update features an especially large number of Perk tweaks & reworks on 
 
 *To allow this effect to happen more often, Blood Rush now activates for a set duration after you are unhooked. Killers will want to be careful not to chase Blood Rush users after they are unhooked since they will be harder to catch. This effect will be disabled if the Survivor performs a Conspicuous Action or if the exit gates are powered.*
 
-![CA_DBD_0224_ApplePie_Frame_Footer.png](472-developer-update-september-2024/17-ca-dbd-0224-applepie-frame-footer.png)    ![QuickGambit.png](472-developer-update-september-2024/18-quickgambit.png)
+![CA_DBD_0224_ApplePie_Frame_Footer.png](472-developer-update-september-2024/17-ca-dbd-0224-applepie-frame-footer.png) ![QuickGambit.png](472-developer-update-september-2024/18-quickgambit.png)
 
 - \[NEW\] When chased, see the auras of other Survivors.
 - \[NEW\] Quick Gambit now has a 60 second cooldown upon losing a health state.
@@ -115,7 +115,7 @@ The next update features an especially large number of Perk tweaks & reworks on 
 
 *To balance this out, Quick Gambit will now go on cooldown upon losing a health state, making it more challenging to keep active and providing the Killer a way to play around it.*
 
-![CA_DBD_0224_ApplePie_Frame_Footer.png](472-developer-update-september-2024/19-ca-dbd-0224-applepie-frame-footer.png)    ![Distortion.png](472-developer-update-september-2024/20-distortion.png)
+![CA_DBD_0224_ApplePie_Frame_Footer.png](472-developer-update-september-2024/19-ca-dbd-0224-applepie-frame-footer.png) ![Distortion.png](472-developer-update-september-2024/20-distortion.png)
 
 - \[REWORK\] Distortion no longer has tokens and instead deactivates once used until the next time you are chased.
 - \[CHANGE\] Increased duration to 8/10/12 seconds (was 6/8/10 seconds).
@@ -124,7 +124,7 @@ The next update features an especially large number of Perk tweaks & reworks on 
 
 *To limit its effectiveness, we have removed the token system and made it so Distortion only reactivates upon being chased. We have extended the duration slightly to help account for longer aura reading effects to compensate.*
 
-![CA_DBD_0224_ApplePie_Frame_Footer.png](472-developer-update-september-2024/21-ca-dbd-0224-applepie-frame-footer.png)    ![LuckyStar.png](472-developer-update-september-2024/22-luckystar.png)
+![CA_DBD_0224_ApplePie_Frame_Footer.png](472-developer-update-september-2024/21-ca-dbd-0224-applepie-frame-footer.png) ![LuckyStar.png](472-developer-update-september-2024/22-luckystar.png)
 
 - \[CHANGE\] Now suppresses grunts of pain and pools of blood as long as you are in the locker. This effect lingers for 30 seconds after exiting the locker (was 10 seconds after entering).
 
@@ -140,58 +140,58 @@ The next update features an especially large number of Perk tweaks & reworks on 
 
 *Dev note: Genetic Limits previously affected Survivors who healed, which often lead to the Exhausted effect expiring before they could be chased. It will now apply to Survivors who lose a health state instead, but with a shorter duration. This will provide more consistent value, though skilled Survivors may be able to outlast the effect.*
 
-![CA_DBD_0224_ApplePie_Frame_Footer.png](472-developer-update-september-2024/25-ca-dbd-0224-applepie-frame-footer.png)    ![Leverage.png](472-developer-update-september-2024/26-leverage.png)
+![CA_DBD_0224_ApplePie_Frame_Footer.png](472-developer-update-september-2024/25-ca-dbd-0224-applepie-frame-footer.png) ![Leverage.png](472-developer-update-september-2024/26-leverage.png)
 
 - \[REWORK\] When a Survivor performs an unhook, their healing speed is reduced by 30/40/50% for 30 seconds.
 
 *Dev note: Leverage used to gain strength as the match went on. This made Leverage ineffective early on, often only becoming effective when the match was nearly won anyway. We have reworked it to be much simpler and provide consistent value. Leverage now discourages Survivors from healing directly under the hook.*
 
-![CA_DBD_0224_ApplePie_Frame_Footer.png](472-developer-update-september-2024/27-ca-dbd-0224-applepie-frame-footer.png)    ![Thwack.png](472-developer-update-september-2024/28-thwack.png)
+![CA_DBD_0224_ApplePie_Frame_Footer.png](472-developer-update-september-2024/27-ca-dbd-0224-applepie-frame-footer.png) ![Thwack.png](472-developer-update-september-2024/28-thwack.png)
 
 - \[REWORK\] THWACK! now starts with 3 tokens. Gain 1 token upon hooking a Survivor. When breaking a pallet or breakable wall, consume one token and cause Survivor within 24 meters to scream and reveal their location for 3/4/5 seconds.
 
 *Dev note: THWACK! used to only activate once per hook, leading to it often being wasted. By introducing tokens, Killers can store these uses for later and potentially use it more than once in a chase.*
 
-![CA_DBD_0224_ApplePie_Frame_Footer.png](472-developer-update-september-2024/29-ca-dbd-0224-applepie-frame-footer.png)    ![MachineLearning.png](472-developer-update-september-2024/30-machinelearning.png)
+![CA_DBD_0224_ApplePie_Frame_Footer.png](472-developer-update-september-2024/29-ca-dbd-0224-applepie-frame-footer.png) ![MachineLearning.png](472-developer-update-september-2024/30-machinelearning.png)
 
 - \[CHANGE\] The most recently damaged generator becomes Compromised.
 
 *Dev note: Machine Learning previously required you to damage one generator to activate it, then another to Compromise it. This made it awkward to use. To simplify this, the most recently damaged generator will always be Compromised. Only one generator can be Compromised at a time.*
 
-![CA_DBD_0224_ApplePie_Frame_Footer.png](472-developer-update-september-2024/31-ca-dbd-0224-applepie-frame-footer.png)    ![Deathbound.png](472-developer-update-september-2024/32-deathbound.png)
+![CA_DBD_0224_ApplePie_Frame_Footer.png](472-developer-update-september-2024/31-ca-dbd-0224-applepie-frame-footer.png) ![Deathbound.png](472-developer-update-september-2024/32-deathbound.png)
 
 - \[REMOVED\] Deathbound no longer has a distance requirement to activate.
 - \[REMOVED\] Deathbound no longer has a duration and instead deactivates when the healer is hooked.
 
 *Dev note: This Perk’s range condition made it inconsistent to use. To simplify it and give it a nice boost in strength, we have removed both the range requirement and the duration.*
 
-![CA_DBD_0224_ApplePie_Frame_Footer.png](472-developer-update-september-2024/33-ca-dbd-0224-applepie-frame-footer.png)    ![ZanshinTactics.png](472-developer-update-september-2024/34-zanshintactics.png)
+![CA_DBD_0224_ApplePie_Frame_Footer.png](472-developer-update-september-2024/33-ca-dbd-0224-applepie-frame-footer.png) ![ZanshinTactics.png](472-developer-update-september-2024/34-zanshintactics.png)
 
 - \[REWORK\] When a Survivor is within 6 meters of a dropped pallet within 16 meters of your location, their aura is revealed for 6/8/10 seconds.
 
 *Dev note: Revealing pallets and windows was much less useful for Killers than Survivors since the Killer is present every time a pallet is broken. We have reworked this Perk to instead reveal Survivor auras near dropped pallets. This will provide some useful info during a chase and allow for some interesting mindgames.*
 
-![CA_DBD_0224_ApplePie_Frame_Footer.png](472-developer-update-september-2024/35-ca-dbd-0224-applepie-frame-footer.png)    ![DeadMansSwitch.png](472-developer-update-september-2024/36-deadmansswitch.png)
+![CA_DBD_0224_ApplePie_Frame_Footer.png](472-developer-update-september-2024/35-ca-dbd-0224-applepie-frame-footer.png) ![DeadMansSwitch.png](472-developer-update-september-2024/36-deadmansswitch.png)
 
 - \[CHANGE\] Now applies only to the first Survivors who stops repairing a generator.
 - \[CHANGE\] Increased duration to 40/45/50 seconds (was 20/25/30 seconds).
 
 *Dev note: Dead Man’s Switch provides a very powerful effect but can sometimes get out of hand when combined with other Perks. We have changed it to activate only on the first Survivor who stops repairing to limit how powerful it can be and increased its duration to compensate.*
 
-![CA_DBD_0224_ApplePie_Frame_Footer.png](472-developer-update-september-2024/37-ca-dbd-0224-applepie-frame-footer.png)    ![BloodEcho.png](472-developer-update-september-2024/38-bloodecho.png)
+![CA_DBD_0224_ApplePie_Frame_Footer.png](472-developer-update-september-2024/37-ca-dbd-0224-applepie-frame-footer.png) ![BloodEcho.png](472-developer-update-september-2024/38-bloodecho.png)
 
 - \[REMOVED\] Blood Echo no longer has a cooldown.
 - \[CHANGE\] Reduced duration to 20/25/30 seconds.
 
 *Dev note: Blood Echo previously had a long cooldown. This felt unnecessary since the requirement of hooking a Survivor itself spaced out its activations. This has been removed, allowing the Perk to activate more frequently, and reduced the duration slightly to compensate.*
 
-![CA_DBD_0224_ApplePie_Frame_Footer.png](472-developer-update-september-2024/39-ca-dbd-0224-applepie-frame-footer.png)    ![HexCrowdControl.png](472-developer-update-september-2024/40-hexcrowdcontrol.png)
+![CA_DBD_0224_ApplePie_Frame_Footer.png](472-developer-update-september-2024/39-ca-dbd-0224-applepie-frame-footer.png) ![HexCrowdControl.png](472-developer-update-september-2024/40-hexcrowdcontrol.png)
 
 - \[REWORK\] The last 3/4/5 vaults which Survivors rush vault are blocked by The Entity. This lasts until the hex totem is cleansed.
 
 *Dev note: In vault-heavy areas, it was possible for Survivors to outlast the effect by linking together multiple windows. Going forward, the most recently vaulted windows will be blocked until the hex is cleansed.*
 
-![CA_DBD_0224_ApplePie_Frame_Footer.png](472-developer-update-september-2024/41-ca-dbd-0224-applepie-frame-footer.png)    ![Predator.png](472-developer-update-september-2024/42-predator.png)
+![CA_DBD_0224_ApplePie_Frame_Footer.png](472-developer-update-september-2024/41-ca-dbd-0224-applepie-frame-footer.png) ![Predator.png](472-developer-update-september-2024/42-predator.png)
 
 - \[REWORK\] When a Survivor escapes a chase, reveal their aura for 6 seconds. This Perk then goes on cooldown for 60/50/40 seconds.
 
@@ -216,7 +216,7 @@ The next update features an especially large number of Perk tweaks & reworks on 
 
 *Dev note: Being unable to see drone scan lines made them very difficult to play around accordingly. Scan lines will now always be visible when nearby and invisible when out of range. Additionally, we have reduced the number of scan lines per drone to allow for more counterplay.*
 
-![CA_DBD_0224_ApplePie_Frame_Footer.png](472-developer-update-september-2024/45-ca-dbd-0224-applepie-frame-footer.png)    ![TheHillbilly.png](472-developer-update-september-2024/46-thehillbilly.png)
+![CA_DBD_0224_ApplePie_Frame_Footer.png](472-developer-update-september-2024/45-ca-dbd-0224-applepie-frame-footer.png) ![TheHillbilly.png](472-developer-update-september-2024/46-thehillbilly.png)
 
 - \[CHANGE\] Decreased time before Overdrive starts to dissipate to 8 seconds (was 15 seconds).
 - \[CHANGE\] Decreased Overdrive movement speed to 11.5m/s (was 13m/s).
@@ -229,14 +229,14 @@ The next update features an especially large number of Perk tweaks & reworks on 
 
 *We’ve also increased the missed attack cooldown slightly to make it harder to follow up a missed Chainsaw with a basic attack.*
 
-![CA_DBD_0224_ApplePie_Frame_Footer.png](472-developer-update-september-2024/47-ca-dbd-0224-applepie-frame-footer.png)    ![TheTwins.png](472-developer-update-september-2024/48-thetwins.png)
+![CA_DBD_0224_ApplePie_Frame_Footer.png](472-developer-update-september-2024/47-ca-dbd-0224-applepie-frame-footer.png) ![TheTwins.png](472-developer-update-september-2024/48-thetwins.png)
 
 - \[CHANGE\] Increased Victor’s cooldown when crushed to 20 seconds (was 15 seconds).
 - \[CHANGE\] Increased cooldown after Victor downs a Survivor to 3.2 seconds (was 2.7 seconds).
 
 *Dev note: Following their update earlier this year, The Twins saw a sharp increase in lethality. To keep them in check, have slightly increased how long it takes for Victor to recover after downing a Survivor. We have also slightly increased how long it takes for Victor to become available after being crushed by a Survivor to make it more impactful when a Survivor manages to pull it off.*
 
-![CA_DBD_0224_ApplePie_Frame_Footer.png](472-developer-update-september-2024/49-ca-dbd-0224-applepie-frame-footer.png)    ![TheUnknown.png](472-developer-update-september-2024/50-theunknown.png)
+![CA_DBD_0224_ApplePie_Frame_Footer.png](472-developer-update-september-2024/49-ca-dbd-0224-applepie-frame-footer.png) ![TheUnknown.png](472-developer-update-september-2024/50-theunknown.png)
 
 - \[NEW\] HUD update to display Teleport cooldown & Hallucination spawn time.
 - \[CHANGE\] Movement speed now decreases sooner when charging your Power.

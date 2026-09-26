@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/350-6-2-1-bugfix-p
 author: "Peanits"
 published: "2022-09-06T14:21:18+00:00"
 updated: "2022-09-06T14:21:18+00:00"
-archived: "2026-09-26T02:18:30Z"
+archived: "2026-09-26T16:40:41Z"
 ---
 
 <!-- summary -->
@@ -51,7 +51,7 @@ The update also addressed a range of bugs, including a subtle camera offset caus
 - Fixed an issue that may cause the Trigger Bound prompt to be visible in situations where Virulent Bound cannot be used.
 - Fixed an issue that caused the pulse VFX to stay until the end of the trial after the Mastermind is stunned while using Virulent Bound.
 - Fixed an issue that caused survivors not to be thrown down when the Virulent Bound ends close to the ledge.
-- Fixed an issue that caused the Mastermind to be unable to grab survivors interacting with a chest when using Virulent Bound.
+- Fixed an issue that caused the Mastermind to be unable to grab survivors interacting with a chest when using Virulent Bound.
 - Fixed an issue that caused the Mastermind to push back survivors exiting lockers into the locker when using Virulent Bound to rush at it.
 - Fixed an issue that may cause the Mastermind to block unhooking by rushing at the hooked survivor with Virulent Bound.
 - Fixed an issue that caused the Mastermind’s Virulent Bound not to trigger Decisive Strike.

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/392-7-0-0-end-tran
 author: "Peanits"
 published: "2023-06-13T14:25:52+00:00"
 updated: "2023-06-13T14:25:52+00:00"
-archived: "2026-09-26T02:18:24Z"
+archived: "2026-09-26T16:40:34Z"
 ---
 
 <!-- summary -->
@@ -41,37 +41,37 @@ DLC release: 12PM ET, June 13
 
 **Power: Quantum Instantiation**
 
-*A dark crystalline structure in an ancient ruin gifted—or perhaps cursed—Hux with sentience. He built a new body, and with it, a terrifying way to bend the rules of physics to his benefit.*
+*A dark crystalline structure in an ancient ruin gifted—or perhaps cursed—Hux with sentience. He built a new body, and with it, a terrifying way to bend the rules of physics to his benefit.*
 
-The Singularity can shoot and spawn Biopods around the map; these Biopods can attach to any vertical surface they land on. The Singularity can control a Biopod remotely and look through it, and tag Survivors, afflicting them with a Temporal Slipstream. When Slipstreamed, The Singularity can teleport next to the Slipstreamed Survivor either by using the Biopods to tag them, or by shooting them. When a Slipstreamed Survivor is in proximity to another Survivor, the Slipstream can spread.
+The Singularity can shoot and spawn Biopods around the map; these Biopods can attach to any vertical surface they land on. The Singularity can control a Biopod remotely and look through it, and tag Survivors, afflicting them with a Temporal Slipstream. When Slipstreamed, The Singularity can teleport next to the Slipstreamed Survivor either by using the Biopods to tag them, or by shooting them. When a Slipstreamed Survivor is in proximity to another Survivor, the Slipstream can spread.
 
-**Special State: Overclock Mode**-After a successful Slipstream teleport, the Singularity enters Overclock Mode. In this state, walls and pallets can be destroyed faster, vaulting speed is faster, and he cannot be stunned by pallets. Attempts to stun by pallet merely remove Overlock Mode and momentarily slow the Singularity.
+**Special State: Overclock Mode** - After a successful Slipstream teleport, the Singularity enters Overclock Mode. In this state, walls and pallets can be destroyed faster, vaulting speed is faster, and he cannot be stunned by pallets. Attempts to stun by pallet merely remove Overlock Mode and momentarily slow the Singularity.
 
-**Special Interaction: Electromagnetic Pulse** - At the beginning of each Trial, several Supply Cases spawn, each containing an EMP. Survivors can use these EMPs to remove the Slipstream from themselves or others, or to destroy a Biopod. Once used, the EMP is destroyed.
+**Special Interaction: Electromagnetic Pulse** - At the beginning of each Trial, several Supply Cases spawn, each containing an EMP. Survivors can use these EMPs to remove the Slipstream from themselves or others, or to destroy a Biopod. Once used, the EMP is destroyed.
 
 **Perks:**
 
-**Genetic Limits:**When a Survivor finishes the healing action, they suffer the Exhausted status effect for 24/28/32 seconds.
+**Genetic Limits:** When a Survivor finishes the healing action, they suffer the Exhausted status effect for 24/28/32 seconds.
 
-**Forced Hesitation:**When a Survivor is put into the dying state by any means, all other Survivors standing within 16/16/16 meters around them suffer the hindered Status effect for 10/10/10 seconds, reducing their Movement speed by 20%. This perk goes on cooldown for 40/35/30 seconds.
+**Forced Hesitation:** When a Survivor is put into the dying state by any means, all other Survivors standing within 16/16/16 meters around them suffer the hindered Status effect for 10/10/10 seconds, reducing their Movement speed by 20%. This perk goes on cooldown for 40/35/30 seconds.
 
-**Machine Learning:**After performing the damage generator action, Machine Learning activates. While this perk is active, the next generator you damage will be compromised until it is completed. The generator is highlighted in Yellow. When the compromised generator is completed, you become undetectable and gain 10% Haste for 20/25/30 seconds. Then, Machine Learning deactivates. If you break a gen while another generator is compromised, the compromised generator moves to the latest one kicked.
+**Machine Learning:** After performing the damage generator action, Machine Learning activates. While this perk is active, the next generator you damage will be compromised until it is completed. The generator is highlighted in Yellow. When the compromised generator is completed, you become undetectable and gain 10% Haste for 20/25/30 seconds. Then, Machine Learning deactivates. If you break a gen while another generator is compromised, the compromised generator moves to the latest one kicked.
 
 ### New Survivor: Gabriel Soma
 
 **Perks:**
 
-**Troubleshooter:**When you are chased by the Killer, this perk activates. You see the aura of the Generator with the most progress. You see the aura of the Killer for 4/5/6 seconds after dropping a Pallet. The effect lasts for 6/8/10 seconds after being in chase, then deactivates.
+**Troubleshooter:** When you are chased by the Killer, this perk activates. You see the aura of the Generator with the most progress. You see the aura of the Killer for 4/5/6 seconds after dropping a Pallet. The effect lasts for 6/8/10 seconds after being in chase, then deactivates.
 
-**Made for This:**This perk activates while you are in the injured state. You run 1/2/3% faster. After you finish healing another Survivor, gain the endurance status effect for 6/8/10 seconds. Made for This cannot be used when suffering from Exhaustion but does not cause the Exhausted Status Effect.
+**Made for This:** This perk activates while you are in the injured state. You run 1/2/3% faster. After you finish healing another Survivor, gain the endurance status effect for 6/8/10 seconds. Made for This cannot be used when suffering from Exhaustion but does not cause the Exhausted Status Effect.
 
-**Scavenger:**While you are holding an empty toolbox, this perk activates. Succeeding a great skill check while repairing gives the perk 1 token, up to 5. when you reach maximum tokens, Once you have maximum tokens, lose all tokens and recharge the toolbox to full. Then, your generator repair speed is 50% slower for 40/35/30 seconds. This perk grants the ability to rummage through an opened chest once per Trial and will guarantee a basic Toolbox.
+**Scavenger:** While you are holding an empty toolbox, this perk activates. Succeeding a great skill check while repairing gives the perk 1 token, up to 5. when you reach maximum tokens, Once you have maximum tokens, lose all tokens and recharge the toolbox to full. Then, your generator repair speed is 50% slower for 40/35/30 seconds. This perk grants the ability to rummage through an opened chest once per Trial and will guarantee a basic Toolbox.
 
 ### New Map: Dvarka Deepwood - Toba Landing
 
 **Map**:
 
-**The Landing was a promise for** humanity to rebuild on a new planet. The climate resources were ideal to start anew, until all went wrong, and a new lifeform takes over and it has no connection to humanity. The environment his split in two distinct biomes. A rocky and bare area that will give players a more open space to explore. A destroyed vehicle incased on spiky rocks serves as a testament of a fierce battle and can now serves as a landmark. On the opposite side of the map a lush and busy jungle will give the players a claustrophobic feeling even outside. The vegetation although menacing can be used by the survivors to hide and wait for the real threat to pass by.Between the two biomes the Toba Landing, now a desolate remnant of what was once a second chance of life is now a carcass of advance technology. Players will be able to explore every level from underneath, all the way to the top of the structure.This planet looks wild and untouched, but the more you look around, it is possible to notice a civilization once thrived and left evidence of its presence on some familiar elements, such as the shack and the exit gate.Wild life is present in the environment and a good guide to help players find their way around. Enigmatic blue flowers seem to feed on the energy of the entity and light up when source of energy like generators and exit gates are around.
+**The Landing was a promise for** humanity to rebuild on a new planet. The climate resources were ideal to start anew, until all went wrong, and a new lifeform takes over and it has no connection to humanity. The environment his split in two distinct biomes. A rocky and bare area that will give players a more open space to explore. A destroyed vehicle incased on spiky rocks serves as a testament of a fierce battle and can now serves as a landmark. On the opposite side of the map a lush and busy jungle will give the players a claustrophobic feeling even outside. The vegetation although menacing can be used by the survivors to hide and wait for the real threat to pass by.Between the two biomes the Toba Landing, now a desolate remnant of what was once a second chance of life is now a carcass of advance technology. Players will be able to explore every level from underneath, all the way to the top of the structure.This planet looks wild and untouched, but the more you look around, it is possible to notice a civilization once thrived and left evidence of its presence on some familiar elements, such as the shack and the exit gate.Wild life is present in the environment and a good guide to help players find their way around. Enigmatic blue flowers seem to feed on the energy of the entity and light up when source of energy like generators and exit gates are around.
 
 ![PatchNotesDividerSmolWhite.png](392-7-0-0-end-transmission/03-patchnotesdividersmolwhite.png)
 
@@ -81,10 +81,10 @@ The Singularity can shoot and spawn Biopods around the map; these Biopods ca
   - Ink Egg
     - Increase the maximum capacity of Dire Crows by 1. Decreases the time Dire Crows stay idle before disintegrating by 2 seconds (was 4 seconds).
   - Vibrant Obituary
-    - Increases the length of time a Dire Crow’s Killer Instinct reveals Survivors by 3 seconds (was 1.5 seconds).
+    - Increases the length of time a Dire Crow’s Killer Instinct reveals Survivors by 3 seconds (was 1.5 seconds).
 - **The Nemesis**
   - Damaged Syringe
-    - Increases time it takes Survivors to use a Vaccine by 3 seconds (was 2 seconds). Increases length of Killer Instinct when Survivors use a Vaccine by 3 seconds (was 2 seconds).
+    - Increases time it takes Survivors to use a Vaccine by 3 seconds (was 2 seconds). Increases length of Killer Instinct when Survivors use a Vaccine by 3 seconds (was 2 seconds).
   - Tyrant Gore
     - Increases mutation rate when destroying zombies with Tentacle Strike by 75% (was 50%). Decreases zombie respawn time by 7.5 seconds (was 5 seconds).
   - Zombie Heart
@@ -98,29 +98,29 @@ The Singularity can shoot and spawn Biopods around the map; these Biopods ca
   - Power
     - Movement speed while crouched: 3.8 m/s (was 3.6 m/s).
     - Night Shroud recharge time: 20 seconds (was 24 seconds).
-    - Killer Instinct duration after being revealed: 4 seconds (was 2 seconds).
+    - Killer Instinct duration after being revealed: 4 seconds (was 2 seconds).
   - Knife Belt Clip
-    - Reduces the Terror Radius by 12 meters (was 8 meters) while crouching.
+    - Reduces the Terror Radius by 12 meters (was 8 meters) while crouching.
   - Night Vision Monocular
-    - A Survivor that reveals The Ghost Face is inflicted with Exhausted for 10 seconds (was 5 seconds).
+    - A Survivor that reveals The Ghost Face is inflicted with Exhausted for 10 seconds (was 5 seconds).
 
 ![PatchNotesDividerSmolWhite.png](392-7-0-0-end-transmission/04-patchnotesdividersmolwhite.png)
 
 ## Perk Updates
 
 - Pop Goes the Weasel
-  - After hooking a Survivor, the next generator you damage instantly loses 30% (was 20%) of its current progress. Normal generator regression applies after the Damage Generator action. Pop Goes the Weasel is active for 35/40/45 seconds after the Survivor is hooked.
+  - After hooking a Survivor, the next generator you damage instantly loses 30% (was 20%) of its current progress. Normal generator regression applies after the Damage Generator action. Pop Goes the Weasel is active for 35/40/45 seconds after the Survivor is hooked.
 - Déjà Vu
-  - We have noticed growing concerns surrounding excessively long matches caused by 3-genning (Killer defending a cluster of three generators). We are working on a long term solution for a future update to limit how effective this strategy can be. However, we recognize that Survivors need more options at their disposal right now to combat 3-genning. With this in mind, some adjustments have been made to Déjà Vu: The perk will now reveal the auras of 3 generators which are in close proximity to one another**indefinitely** (previously for 30/45/60 seconds at the start of the trial and everytime a generator was completed) and grant a **4%/5%/6% repair speed bonus** on the revealed generators (previously 3%/4%/5%).
+  - We have noticed growing concerns surrounding excessively long matches caused by 3-genning (Killer defending a cluster of three generators). We are working on a long term solution for a future update to limit how effective this strategy can be. However, we recognize that Survivors need more options at their disposal right now to combat 3-genning. With this in mind, some adjustments have been made to Déjà Vu: The perk will now reveal the auras of 3 generators which are in close proximity to one another **indefinitely** (previously for 30/45/60 seconds at the start of the trial and everytime a generator was completed) and grant a **4%/5%/6% repair speed bonus** on the revealed generators (previously 3%/4%/5%).
 - Flashbang
-  - After completing 70%/60%/50% progress on any generator, Flashbang activates. Enter a locker and press the Active Ability Button 1 to craft a flash grenade. (No longer requires being empty-handed)
+  - After completing 70%/60%/50% progress on any generator, Flashbang activates. Enter a locker and press the Active Ability Button 1 to craft a flash grenade. (No longer requires being empty-handed)
 
 ![PatchNotesDividerSmolWhite.png](392-7-0-0-end-transmission/05-patchnotesdividersmolwhite.png)
 
 ## Events
 
-- The 7th Anniversary "Twisted Masquerade" event begins June 21, 2023 at 11:00:00 ET
-- Level 1 of the "Twisted Masquerade" event tome opens June 21, 2023 at 11:00:00 ET
+- The 7th Anniversary "Twisted Masquerade" event begins June 21, 2023 at 11:00:00 ET
+- Level 1 of the "Twisted Masquerade" event tome opens June 21, 2023 at 11:00:00 ET
 
 ![PatchNotesDivider.png](392-7-0-0-end-transmission/06-patchnotesdivider.png)
 
@@ -169,16 +169,16 @@ The following text parts can be searched for:
 
 ### Audio
 
-- Fixed an issue where The Nurse's chase music was louder than the other themes.
+- Fixed an issue where The Nurse's chase music was louder than the other themes.
 - Fixed an issue where the Skull merchant's Body Cleaver customization weapon SFX were missing.
 
 ### Killer - The Singularity
 
-- Fixed an issue causing pallets broken by The Singularity to occasionally remain visible
-- The Singularity's Hologram Generator Addon no longer shows a Placeholder icon to affected Survivors
+- Fixed an issue causing pallets broken by The Singularity to occasionally remain visible
+- The Singularity's Hologram Generator Addon no longer shows a Placeholder icon to affected Survivors
 - The Singularity can no longer slipstream to the wrong survivor
 - The Singularity's Power UI no longer appears enabled during the wake-up sequence
-- The Singularity can no longer place Biopods where Survivors stand to interact with generators
+- The Singularity can no longer place Biopods where Survivors stand to interact with generators
 - The Singularity's Biopods are no longer missing their Killer Item Aura when spotted by the Map
 - Slipstream Pods on Survivors self-destruct before The Singularity's Mori is confirmed and begins
 - When The Singularity performs a Slipstream Teleportation, the POV now correctly starts at ground level
@@ -186,14 +186,14 @@ The following text parts can be searched for:
 - Slipstream pods on Survivors no longer stretch when the Survivor is placed on a hook
 - The Singularity, while in shutdown mode, can no longer interrupt survivors
 - The Singularity's add-ons are now correctly affected by the Vigil perk
-- The Terror-Radius caused by the Hyperawareness Spray Add-On is now correctly blocked when affected by the Oblivious status effect
+- The Terror-Radius caused by the Hyperawareness Spray Add-On is now correctly blocked when affected by the Oblivious status effect
 - The killer now teleports instead of slides when performing a Slipstream Teleport to an already-assimilated survivor
 - When playing as or against The Singularity, EMP Crates are correctly spawned on both floors of Gideon Meat Plant
 - The Slipstream Slime Overlay VFX is no longer visible during the Mori, when bleeding out, escaping the exit gates or dying in the end-game scenario
 - Slipstream Pods are now removed when Survivors leave the Trial
 - There is no more choppiness apparent when the Singularity walks into a still Survivor after teleporting to them
 - The description of the Forced Hesitation Perk has been corrected
-- The Blood Pact external perk icon is no longer visible to the Survivor with it equipped while affected by the Haste status effect
+- The Blood Pact external perk icon is no longer visible to the Survivor with it equipped while affected by the Haste status effect
 - The Auras effect of Perks and Add-ons are no longer visible when controlling a Biopod as The Singularity
 
 ### Bots
@@ -214,7 +214,7 @@ The following text parts can be searched for:
 - Bots now avoid dropping an unsafe pallet when separated from the Killer by a small wall.
 - Bots playing against Freddy Krueger can now use Alarm Clocks.
 - Bots playing against Pyramid Head can now attempt to cross a Trail of Torment while crouching.
-- Bots playing against The Dredge now lock Lockers near Generators they work on.
+- Bots playing against The Dredge now lock Lockers near Generators they work on.
 - Bots playing against The Knight no longer consider a loop to be safe if a Guard is chasing alongside the Killer.
 - Bots playing against The Trapper have learned to avoid Bear Traps set at pallets.
 - Bots playing against The Twins are more likely to run up to and kick Victor.
@@ -236,7 +236,7 @@ The following text parts can be searched for:
 - Fixed an issue that caused the Mastermind's trench coat to fail to unravel in order to properly cover his legs in the main menu.
 - Fixed an issue that cause the Survivors dying during the The Mastermind's Mori to go back to the crawling position and jitter.
 - Fixed an issue that caused The Spirit, when carrying a survivor, to have the ability to see through walls and objects.
-- The Skull Merchant Add-on Prototype Rotor now properly gives haste
+- The Skull Merchant Add-on Prototype Rotor now properly gives haste
 - The same T-Virus vaccine can no longer be picked up at the same time by two survivors
 - Chain Hunt is no longer reset when Survivors are interrupted during certain actions
 - The Wraith's lunge attack when uncloaking now correctly benefits from the extra distance and speed
@@ -245,18 +245,18 @@ The following text parts can be searched for:
 
 ### Environment
 
-- Fixed a texture issue on a sign in the exit gate of Silent Hill - Midwich Elementary School
+- Fixed a texture issue on a sign in the exit gate of Silent Hill - Midwich Elementary School
 - Fixed an issue with a window on the roof of the Léry's Memorial Institute
 
 ### Maps
 
 - Fixed an invisible collision on a staircase in the Eyrie of Crows Map
 - Fixed an issue that prevented players from reaching Victor in the Toba Landing Map
-- Updated the placement of the generators in the corridors of Midwich Elementary School to avoid 3 gens to spawn in the same corridor
+- Updated the placement of the generators in the corridors of Midwich Elementary School to avoid 3 gens to spawn in the same corridor
 - Fixed an issue that were preventing killers from going down the stairs in Toba Landing basement
 - Fixed an issue preventing The Mastermind from pushing Survivors and getting them stuck in collisions on the Gas Haven map
 - Fixed issues in maps where the biopods were placed in areas that could not be deactivated
-- Fixed an issue in Toba Landing where on side of the generator was not accessible
+- Fixed an issue in Toba Landing where on side of the generator was not accessible
 - Fixed an issue in Haddonfield where killers could land on top of Hedges
 - Fixed an issue in Crotus Prenn's shack the placement of locker where survivors were clipping through the doors
 - Fixed an issue in Toba Landing where the nurse could blink out of the walls
@@ -264,15 +264,15 @@ The following text parts can be searched for:
 
 ### Events & Archives
 
-- Fixed an issue where Survivors could collect memory fragments while on a hook
-- Fixed an issue where memory fragments were still visible after their respective challenge had been completed
-- Fixed an issue where the Survivor's held Item would disappear when they collected the fragile mirror from the White Glyph "Glyph Caretaker" challenge
+- Fixed an issue where Survivors could collect memory fragments while on a hook
+- Fixed an issue where memory fragments were still visible after their respective challenge had been completed
+- Fixed an issue where the Survivor's held Item would disappear when they collected the fragile mirror from the White Glyph "Glyph Caretaker" challenge
 
 ### Perks
 
 - Fixed an issue which could allow Survivors to reach unintended places by using the perk Any Means Necessary.
-- Using For the People to heal a survivor to healthy no longer triggers the Endurance effect from Made for This
-- The Hex: The Third Seal perk now correctly applies the Blindness status effect to the last Survivors hit rather than the first Survivors hit
+- Using For the People to heal a survivor to healthy no longer triggers the Endurance effect from Made for This
+- The Hex: The Third Seal perk now correctly applies the Blindness status effect to the last Survivors hit rather than the first Survivors hit
 - The Perk Quick and Quiet no longer goes into cooldown if the perk is activated during an interaction that already has started and notified the Killer
 
 ### UI

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/274-4-5-0-mid-chap
 author: "Peanits"
 published: "2021-02-09T15:26:36+00:00"
 updated: "2021-02-09T15:26:36+00:00"
-archived: "2026-09-26T02:19:14Z"
+archived: "2026-09-26T16:41:35Z"
 ---
 
 <!-- summary -->
@@ -30,7 +30,7 @@ Balance changes give The Clown separate Tonic and Antidote bottles with a faster
 **Tome VI & The Gilded Stampede Event**
 
 - Tome VI for The Archives will start tomorrow on Feb. 10th at 11AM ET
-- The Gilded Stampede event will start the day after on Feb. 11th at 11AM ET
+- The Gilded Stampede event will start the day after on Feb. 11th at 11AM ET
 
 **New HUD Layout - Several HUD elements have been moved or updated**
 
@@ -118,7 +118,7 @@ Addons:
 
 Audio:
 
-- The Clown now has his own Terror Radius & Chase music.
+- The Clown now has his own Terror Radius & Chase music.
 
 ![PatchNotesDividerSmolWhite.png](274-4-5-0-mid-chapter/05-patchnotesdividersmolwhite.png)
 
@@ -134,8 +134,8 @@ Audio:
 - While cloaked, the Wraith is completely invisible (no shimmer) to Survivors when more than 20m away
 - Increased the duration of the uncloak speed boost from 1.0s to 1.25s
 - Restored a missing bone-rattle sound cue at the beginning of the Wraith's cloaking animation (sometimes referred to as "bell tech")
-- Fixed an issue where the Wraith would appear to uncloak completely while kicking a generator or breaking a pallet or wall while cloaked. The Wraith now only uncloaks the *necessary bits*.
-- Fixed an issue that caused the Wraith's add-on "**The Serpent**" to reset the uncloaking progress after completing an interaction. It will now leave the Wraith completely uncloaked and able to attack, and trigger an uncloak speed boost, after damaging a generator or breaking a pallet or wall.
+- Fixed an issue where the Wraith would appear to uncloak completely while kicking a generator or breaking a pallet or wall while cloaked. The Wraith now only uncloaks the *necessary bits*.
+- Fixed an issue that caused the Wraith's add-on "**The Serpent**" to reset the uncloaking progress after completing an interaction. It will now leave the Wraith completely uncloaked and able to attack, and trigger an uncloak speed boost, after damaging a generator or breaking a pallet or wall.
 
 ### MISCELLANEOUS
 
@@ -149,7 +149,7 @@ Audio:
 - Fixated: Now works while injured
 - Iron Maiden: Effect lasts 30 seconds
 - Second Wind: Durations now 28/24/20 seconds
-- ~~Pebble~~ Diversion: Now charges in 40/35/30 seconds. Distance thrown now 20 meters at all tiers.
+- ~~Pebble~~ Diversion: Now charges in 40/35/30 seconds. Distance thrown now 20 meters at all tiers.
 
 **Deep Wound:**
 
@@ -174,12 +174,12 @@ Audio:
 - Fixed some issues regarding user impersonation
 - Fixed a crash that could occur on the initial interaction screen
 - Fixed an issue that occurred occasionally after the killer disconnects from a match where the Player Level would display incorrect Level and Devotion values
-- Fixed an issue where the Survivor could get stuck and not be able to be picked up if downed while repairing a generator.
+- Fixed an issue where the Survivor could get stuck and not be able to be picked up if downed while repairing a generator.
 - Fixed an issue where the Flashlight cone would not expand after successfully blinding the Killer
-- Fixed an issue where the 1st generator piston would move abnormally fast.
+- Fixed an issue where the 1st generator piston would move abnormally fast.
 - Fixed an issue with Steve's lips while gesturing.
 - Fixed an issue with the camera when the Nurse would carry a Survivor and attack.
-- Fixed an issue where Jane and Kate chest physics would not work properly.
+- Fixed an issue where Jane and Kate chest physics would not work properly.
 - Fixed an issue where the Oni's armor would be floating.
 - Fixed an issue where the Clown's hair would be floating.
 - Fixed an issue where Totems located next to the Combine Harvester's wheel on Coldwind Farm couldn't be cleansed.
@@ -218,7 +218,7 @@ Audio:
 - Fixed an issue where Survivor character would stuttered changing direction quickly.
 - Fixed an issue where the Survivor would play the incorrect animation when bleeding out of Deep Wound.
 - Fixed an issue where the players would be able to steer character during Dead Hard.
-- Fixed an issue where the Survivor would snap back to their original position after letting go of repairing a generator.
+- Fixed an issue where the Survivor would snap back to their original position after letting go of repairing a generator.
 - Fixed an issue where the character would stutter when using the flashlight while moving.
 - Fixed an issue where the character would remain in fall stance after vaulting.
 - Fixed an issue where the character would not play the Dead Hard animation properly from idle.

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/399-developer-upda
 author: "Peanits"
 published: "2023-07-24T13:59:37+00:00"
 updated: "2023-07-24T13:59:37+00:00"
-archived: "2026-09-26T02:20:16Z"
+archived: "2026-09-26T16:43:14Z"
 ---
 
 <!-- summary -->
@@ -47,8 +47,8 @@ This will allow The Onryo to more easily inflict Condemned on Survivors who are 
 With Survivors having more reason than ever to pick up a Cursed Tape, it wasn’t unusual to find most TVs disabled at any given time. Though strategically shutting off TVs is an intended counterplay to The Onryo, we found this to be a little too restricting for the Killer, preventing her from projecting too often. Her ability to quickly and frequently traverse the map is one the most fun things about playing The Onryo, and so we have made the following tweaks.
 
 - **Projection now has a 10 second cooldown** (was 15).
-- **TVs disabled by projection now remain disabled for 45**seconds (was 100 seconds).
-- **TVs disabled by Survivors now remain disabled for 70 seconds**(was 90 seconds).
+- **TVs disabled by projection now remain disabled for 45** seconds (was 100 seconds).
+- **TVs disabled by Survivors now remain disabled for 70 seconds** (was 90 seconds).
 
 Combined, these changes allow Sadako to project herself around the map far more frequently.
 
@@ -60,7 +60,7 @@ Hangman’s Trick found itself in a tricky spot. Since it would reveal auras aro
 
 For the PTB, we tested Hangman’s Trick as a Scourge Hook Perk, which allowed us to safely increase its effective range. Upon further review, we have decided to increase the range a little more before the update goes live.
 
-While carrying a Survivor, Scourge Hook: Hangman’s Trick will now reveal the aura of Survivors**within 12m of a Scourge Hook** (double the previous range of 6m).
+While carrying a Survivor, Scourge Hook: Hangman’s Trick will now reveal the aura of Survivors **within 12m of a Scourge Hook** (double the previous range of 6m).
 
 This change *will not* be available as of the update’s release, though you can expect it to appear in one of the following minor patches.
 

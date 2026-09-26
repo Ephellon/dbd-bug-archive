@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/382-developer-upda
 author: "Omnia"
 published: "2023-03-24T13:57:46+00:00"
 updated: "2023-03-27T14:37:05+00:00"
-archived: "2026-09-26T02:20:17Z"
+archived: "2026-09-26T16:43:19Z"
 ---
 
 <!-- summary -->
@@ -49,7 +49,7 @@ To ensure that players familiarize themselves with the contents in a Bloodweb, t
 
 **Press to Buy**
 
-Ever wanted to watch the Bloodpoints fly from your pockets at an alarming rate? The new default interaction only requires you to press a node to purchase it, instead of having to hold it. This can be used in conjunction with the other options mentioned above to further speed up the spending process. The interaction can be toggled if you would rather use Hold instead.
+Ever wanted to watch the Bloodpoints fly from your pockets at an alarming rate? The new default interaction only requires you to press a node to purchase it, instead of having to hold it. This can be used in conjunction with the other options mentioned above to further speed up the spending process. The interaction can be toggled if you would rather use Hold instead.
 
 ![TerrorRadiusBanner.png](382-developer-update-march-2023/04-terrorradiusbanner.png)
 
@@ -150,7 +150,7 @@ Overzealous grants a repair speed bonus when Cleansing a Totem, and a larger bon
 
 **Scourge Hook: Pain Resonance**
 
-This perk has gradually found its way back into the meta. To address this, we have given Scourge Hook: Pain Resonance a slight rework. **The perk starts with 4 tokens. The first time each Survivor is hooked on a Scourge Hook, the generator with the most progress will explode and lose progress, and a token is lost.We’ve also reduced the difference between different Tiers of the perk (now 11/13/15%).**
+This perk has gradually found its way back into the meta. To address this, we have given Scourge Hook: Pain Resonance a slight rework. **The perk starts with 4 tokens. The first time each Survivor is hooked on a Scourge Hook, the generator with the most progress will explode and lose progress, and a token is lost.** **We’ve also reduced the difference between different Tiers of the perk (now 11/13/15%).**
 
 **Dead Hard**
 
@@ -178,7 +178,7 @@ Additionally, the penalty for missing the special Skill Check has been reduced t
 
 This perk has become the ‘jack of all trades’ of healing perks. Not only does it allow you and your fellow Survivors to heal without a Med-Kit, but it also increases the speed of healing across the board.
 
-Going forward, **Boon: Circle of Healing will no longer allow Survivors to heal without a Med-Kit**. Instead, **it will provide a 40/45/50% healing speed bonus to healing others.**This bonus will not apply to healing done with a Med-Kit. Additionally, **the auras of injured Survivors with the Boon’s range will be revealed to all other Survivors.**
+Going forward, **Boon: Circle of Healing will no longer allow Survivors to heal without a Med-Kit**. Instead, **it will provide a 40/45/50% healing speed bonus to healing others.** This bonus will not apply to healing done with a Med-Kit. Additionally, **the auras of injured Survivors with the Boon’s range will be revealed to all other Survivors.**
 
 ![Killers.png](382-developer-update-march-2023/12-killers.png)
 
@@ -198,7 +198,7 @@ Last but not least, we’ve toned down the Doom Engravings and Death Engravings 
 
 **The Pig**
 
-The John’s Medical File Add-on increases The Pig’s crouched movement speed. This Add-on hasn’t been performing very well, so we’ve ~~decided to nerf The Pig~~**increased this Add-on's movement speed bonus to 10%** (was 6%).
+The John’s Medical File Add-on increases The Pig’s crouched movement speed. This Add-on hasn’t been performing very well, so we’ve ~~decided to nerf The Pig~~ **increased this Add-on's movement speed bonus to 10%** (was 6%).
 
 **The Oni**
 

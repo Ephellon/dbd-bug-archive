@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/471-8-2-2-bugfix-p
 author: "Peanits"
 published: "2024-09-11T14:25:43+00:00"
 updated: "2024-09-11T14:25:44+00:00"
-archived: "2026-09-26T02:18:14Z"
+archived: "2026-09-26T16:40:20Z"
 ---
 
 <!-- summary -->
@@ -32,11 +32,11 @@ Eight original characters—including Ace Visconti, Feng Min, Kate Denson, Adam 
 
 ## Content
 
-### Killer Updates
+### Killer Updates
 
 #### The Nemesis - Addons
 
-- Licker TongueSurvivors are Hindered for an extra 1 second after being Contaminated. *(was 3 seconds)*
+- Licker Tongue Survivors are Hindered for an extra 1 second after being Contaminated. *(was 3 seconds)*
 
 *Note: The Nemesis' Hindered effect was much lower than intended. This is fixed as of this update, prompting the Licker Tongue add-on to be balanced accordingly.*
 
@@ -55,7 +55,7 @@ Eight original characters—including Ace Visconti, Feng Min, Kate Denson, Adam 
 
 - Fixed missing idle sounds on The Dredge.
 - Fixed missing Halloween theme on Michael Myers.
-- Fixed an issue that caused The Dark Lord's flame pillar charging sound not being heard from Survivor perspective.
+- Fixed an issue that caused The Dark Lord's flame pillar charging sound not being heard from Survivor perspective.
 
 ### Characters
 
@@ -63,22 +63,22 @@ Eight original characters—including Ace Visconti, Feng Min, Kate Denson, Adam 
 - Fixed an issue that caused The Dark Lord's Traveler's Hat add-on not to function.
 - Fixed an issue where The Dark Lord could attack while transforming.
 - Fixed a collision issue with The Dark Lord's Pounce attack.
-- Fixed an issue that caused the Nemesis' tentacle strike to apply the incorrect Hindered value to Survivors
+- Fixed an issue that caused the Nemesis' tentacle strike to apply the incorrect Hindered value to Survivors
 
 ### Environment/Maps
 
 - Fixed an issue in the Family Residence where the Dredge would get stuck in a locker
-- Fixed an issue in Eyrie of Crows where the killer can't grab from a side of a generator
+- Fixed an issue in Eyrie of Crows where the killer can't grab from a side of a generator
 - Fixed an issue in Toba Landing where the Nurse could blink on top of a stone pillar
 - Fixed an issue in Raccoon City Police Station where a character could land on top of a light fixture when vaulting
-- Fixed an issue in Nostromo Wreckage that allowed The Nurse to blink underneath the Main Building through the floor of 2 ledges
+- Fixed an issue in Nostromo Wreckage that allowed The Nurse to blink underneath the Main Building through the floor of 2 ledges
 - Fixed an issue in Toba Landing where fog covered the ceiling and stairs in the basement, obstructing visibility
 - Continuing the global clean up of collisions for all maps
 - Fixed a window on the Decimated Borgo that could not properly be interacted with.
 
 ### Perks
 
-- Fixed an issue that caused the Fire Up perk not to gain tokens when a bot completed a generator
+- Fixed an issue that caused the Fire Up perk not to gain tokens when a bot completed a generator
 
 <!-- nav -->
 &larr; [8.2.1 | Bugfix Patch](469-8-2-1-bugfix-patch.md) · [Live](../../index.md#live) · [8.3.0 | Mid-Chapter](475-8-3-0-mid-chapter.md) &rarr;

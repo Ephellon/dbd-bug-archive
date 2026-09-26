@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/436-developer-upda
 author: "Peanits"
 published: "2024-03-07T14:55:06+00:00"
 updated: "2024-03-07T14:55:06+00:00"
-archived: "2026-09-26T02:20:13Z"
+archived: "2026-09-26T16:43:06Z"
 ---
 
 <!-- summary -->
@@ -39,43 +39,43 @@ We’re trying out a new, less wordy format this time. Feel free to let us know 
 
 *We’ve also increased the Hindered effect to address the feedback of airborne hits feeling underwhelming.*
 
-![CA_DBD_0224_ApplePie_Frame_Template_FOOTER_CH315 copy.png](436-developer-update-all-things-wicked-ptb/03-ca-dbd-0224-applepie-frame-template-footer-ch315-copy.png)    ![ThePig.png](436-developer-update-all-things-wicked-ptb/04-thepig.png)
+![CA_DBD_0224_ApplePie_Frame_Template_FOOTER_CH315 copy.png](436-developer-update-all-things-wicked-ptb/03-ca-dbd-0224-applepie-frame-template-footer-ch315-copy.png) ![ThePig.png](436-developer-update-all-things-wicked-ptb/04-thepig.png)
 
 - \[REVERTED\] **Decreased Reverse Bear Traps base time to 150 seconds** (was 180 during PTB)
 
 *Dev note: We wanted to shift some power away from The Pig’s Reverse Bear Traps and into her stealth & Ambush abilities to make her more fun and interactive to play. Many felt that this change was too significant during the PTB, so we have reverted it for the update’s release. We’ll be keeping a close eye on her performance once this update goes live and re-evaluate if this change is needed at a later date.*
 
-![CA_DBD_0224_ApplePie_Frame_Template_FOOTER_CH315 copy.png](436-developer-update-all-things-wicked-ptb/05-ca-dbd-0224-applepie-frame-template-footer-ch315-copy.png)    ![TheHuntress.png](436-developer-update-all-things-wicked-ptb/06-thehuntress.png)
+![CA_DBD_0224_ApplePie_Frame_Template_FOOTER_CH315 copy.png](436-developer-update-all-things-wicked-ptb/05-ca-dbd-0224-applepie-frame-template-footer-ch315-copy.png) ![TheHuntress.png](436-developer-update-all-things-wicked-ptb/06-thehuntress.png)
 
 - \[REVERTED\] **Decreased Huntress movement speed while holding a Hatchet to 3.08m/s** (was 3.54m/s during PTB)
 
 *Dev note: This change made it too forgiving for The Huntress to raise a Hatchet at the wrong time, potentially even keeping up with Survivors with Add-Ons. We have reverted this change for the update’s release.*
 
-![CA_DBD_0224_ApplePie_Frame_Template_FOOTER_CH315 copy.png](436-developer-update-all-things-wicked-ptb/07-ca-dbd-0224-applepie-frame-template-footer-ch315-copy.png)    ![TheClown.png](436-developer-update-all-things-wicked-ptb/08-theclown.png)
+![CA_DBD_0224_ApplePie_Frame_Template_FOOTER_CH315 copy.png](436-developer-update-all-things-wicked-ptb/07-ca-dbd-0224-applepie-frame-template-footer-ch315-copy.png) ![TheClown.png](436-developer-update-all-things-wicked-ptb/08-theclown.png)
 
 - \[CHANGE\] **The Redhead’s Pinkie Finger Add-On now limits The Clown’s bottle carrying capacity to 1** (previously reduced capacity by 3)
 
 *Dev note: This Add-On allows The Clown to down healthy Survivors in a single hit, so it has always had a significant downside to keep it under control. Since we’ve increased his base carrying capacity, this would have made this Add-On stronger as a result. We have added a hard limit of 1 bottle, similar to The Huntress’ Iridescent Head.*
 
-![CA_DBD_0224_ApplePie_Frame_Template_FOOTER_CH315 copy.png](436-developer-update-all-things-wicked-ptb/09-ca-dbd-0224-applepie-frame-template-footer-ch315-copy.png)    ![WeavingSpiders.png](436-developer-update-all-things-wicked-ptb/10-weavingspiders.png)
+![CA_DBD_0224_ApplePie_Frame_Template_FOOTER_CH315 copy.png](436-developer-update-all-things-wicked-ptb/09-ca-dbd-0224-applepie-frame-template-footer-ch315-copy.png) ![WeavingSpiders.png](436-developer-update-all-things-wicked-ptb/10-weavingspiders.png)
 
-- \[CHANGE\] **When the Invocation is completed, permanently reduce the required charges of all Generators by 10**(previously added 15 charges of progress during the PTB)
+- \[CHANGE\] **When the Invocation is completed, permanently reduce the required charges of all Generators by 10** (previously added 15 charges of progress during the PTB)
 
 *Dev note: This Perk has a lot of risk and a heavy time commitment. If the invocation is interrupted, the time spent would be lost, making it unappealing compared to a normal repair. To make the reward match the risk, we have changed the effect to permanently reduce the required repairs all Generators need, similar to the Brand New Part Add-On.*
 
-![CA_DBD_0224_ApplePie_Frame_Template_FOOTER_CH315 copy.png](436-developer-update-all-things-wicked-ptb/11-ca-dbd-0224-applepie-frame-template-footer-ch315-copy.png)    ![StrengthInShadows.png](436-developer-update-all-things-wicked-ptb/12-strengthinshadows.png)
+![CA_DBD_0224_ApplePie_Frame_Template_FOOTER_CH315 copy.png](436-developer-update-all-things-wicked-ptb/11-ca-dbd-0224-applepie-frame-template-footer-ch315-copy.png) ![StrengthInShadows.png](436-developer-update-all-things-wicked-ptb/12-strengthinshadows.png)
 
 - \[CHANGE\] **Increased healing speed to 70%** (was 60% during PTB)
 
 *Dev note: It will often take some time to get to the basement before you can heal with this Perk, and there’s also risk involved with being caught injured in the basement. We have increased the healing speed slightly to make it a more interesting (but still niche) choice compared to other self healing Perks. This allows you to heal in about 23 seconds by default.*
 
-![CA_DBD_0224_ApplePie_Frame_Template_FOOTER_CH315 copy.png](436-developer-update-all-things-wicked-ptb/13-ca-dbd-0224-applepie-frame-template-footer-ch315-copy.png)    ![Wicked.png](436-developer-update-all-things-wicked-ptb/14-wicked.png)
+![CA_DBD_0224_ApplePie_Frame_Template_FOOTER_CH315 copy.png](436-developer-update-all-things-wicked-ptb/13-ca-dbd-0224-applepie-frame-template-footer-ch315-copy.png) ![Wicked.png](436-developer-update-all-things-wicked-ptb/14-wicked.png)
 
 - \[REWORKED\] Your self-unhook attempts in the basement always succeed. When you are unhooked or unhook yourself, you see the Killer’s aura for 16/18/20 seconds.
 
 *Dev note: We didn’t feel the original Perk was very effective, so we have given it an overhaul. The ability to unhook yourself from a basement hook may come in handy if you’re caught during an invocation, but be warned, Killers may catch on and carry to a hook above ground! The aura reading effect will allow you to gain some value from this Perk even if you are never hooked in the basement.*
 
-![CA_DBD_0224_ApplePie_Frame_Template_FOOTER_CH315 copy.png](436-developer-update-all-things-wicked-ptb/15-ca-dbd-0224-applepie-frame-template-footer-ch315-copy.png)    ![WatchList.png](436-developer-update-all-things-wicked-ptb/16-watchlist.png)
+![CA_DBD_0224_ApplePie_Frame_Template_FOOTER_CH315 copy.png](436-developer-update-all-things-wicked-ptb/15-ca-dbd-0224-applepie-frame-template-footer-ch315-copy.png) ![WatchList.png](436-developer-update-all-things-wicked-ptb/16-watchlist.png)
 
 Watch List
 

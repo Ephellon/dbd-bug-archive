@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/57-3-0-2-hotfix"
 author: "Peanits"
 published: "2020-02-28T18:59:05+00:00"
 updated: "2020-03-02T19:52:16+00:00"
-archived: "2026-09-26T02:19:21Z"
+archived: "2026-09-26T16:41:43Z"
 ---
 
 <!-- summary -->
@@ -37,7 +37,7 @@ Ghost Face now loses his power when stunned during Night Shroud and his Lullabie
 - Fixed an issue that caused The Ghost Face to be unable to crouch or lean if a Survivor disconnected while getting picked up.
 - Fixed an issue that caused The Ghost Face's Reveal SFX to loop if spotted by a Survivor leaving by the hatch or the exit gates.
 - Fixed an issue that caused the Killer carrying a Survivor music to be missing.
-- Adjusted music & sound balance to fix issues with in-game audio. This will improve the compatibility of the game's audio output with headphones emulating surround sound.
+- Adjusted music & sound balance to fix issues with in-game audio. This will improve the compatibility of the game's audio output with headphones emulating surround sound.
 - Misc cosmetic improvements
 
 <!-- nav -->

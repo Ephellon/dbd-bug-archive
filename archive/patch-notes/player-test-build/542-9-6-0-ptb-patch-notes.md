@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/542-9-6-0-ptb-patc
 author: "ThatRyanB"
 published: "2026-04-07T14:30:07+00:00"
 updated: "2026-04-07T14:30:07+00:00"
-archived: "2026-09-26T02:18:41Z"
+archived: "2026-09-26T16:40:55Z"
 ---
 
 <!-- summary -->
@@ -34,17 +34,17 @@ Diminishing Returns now caps stacked positive and negative modifiers in trials, 
 ### Diminishing Returns Update
 
 - While in a Trial, repeated positive or negative gameplay modifiers and status effects are now affected by diminishing returns.
-- Identical modifiers granted by Powers, Items, Perks and Offerings will now be reduced progressively as they become stacked.
-  - Modifiers granted from Killer Power and Survivor Item add-ons are **excluded**from diminishing returns.
+- Identical modifiers granted by Powers, Items, Perks and Offerings will now be reduced progressively as they become stacked.
+  - Modifiers granted from Killer Power and Survivor Item add-ons are **excluded** from diminishing returns.
 - The gameplay modifier with the highest absolute value is always applied, while lesser ones are progressively lowered to a percentage of their original value.
-  - The game prioritizes the highest values, reducing the impact of lesser ones.
+  - The game prioritizes the highest values, reducing the impact of lesser ones.
     - 1st value (highest) - 100% of modifier
     - 2nd value - 50% of modifier
     - 3rd value - 25% of modifier
     - 4th value - 12.5% of modifier
     - 5th value and up - 5% of modifier
 
-*Dev note: After 10 years of Dead by Daylight, the ability of Killers and Survivors to stack modifiers indefinitely as enabled ever-accelerating and more intense gameplay. With this update, we aim to normalize how modifiers from different sources interact against each other in order to better preserve the integrity of game. All major gameplay modifiers and status effects for both roles are included in this update.*
+*Dev note: After 10 years of Dead by Daylight, the ability of Killers and Survivors to stack modifiers indefinitely as enabled ever-accelerating and more intense gameplay. With this update, we aim to normalize how modifiers from different sources interact against each other in order to better preserve the integrity of game. All major gameplay modifiers and status effects for both roles are included in this update.*
 
 *Additionally, this change will help us as developers create new interesting Powers, Items and Perks with our roster of existing game modifiers, with far less risk of creating unintended game-breaking scenarios.*
 
@@ -52,7 +52,7 @@ Diminishing Returns now caps stacked positive and negative modifiers in trials, 
 
 ![bar_white.png](542-9-6-0-ptb-patch-notes/03-bar-white.png)
 
-### Progress Bar Update
+### Progress Bar Update
 
 - The progress bar for interactions has a new animation to reinforce the speed differences.
 - The color has been updated so it represents the speed of the interaction, becoming yellow if faster than normal, and red if slower than normal.
@@ -82,55 +82,55 @@ Diminishing Returns now caps stacked positive and negative modifiers in trials, 
 
 ![bar_white.png](542-9-6-0-ptb-patch-notes/06-bar-white.png)
 
-### Auras Customization
+### Auras Customization
 
-- New aura types are available for color customization:
+- New aura types are available for color customization:
   - Highlighted elements (e.g. as The Xenomorph, looking at specific Control Stations).
-  - Surfaced elements (e.g. Generators shown by *Deja Vu*, or because of *Eruption*).
+  - Surfaced elements (e.g. Generators shown by *Deja Vu*, or because of *Eruption*).
   - Marked elements (e.g. as The Xenomorph, marking a Control Station).
-  - Killer objects (e.g. The Hag's traps, The Singularity's Biopods).
+  - Killer objects (e.g. The Hag's traps, The Singularity's Biopods).
   - Breakable walls.
 
 ![image-5467e83d19c718-33d7.png](542-9-6-0-ptb-patch-notes/07-image-5467e83d19c718-33d7.png)
 
 ## Content
 
-### Killer Updates
+### Killer Updates
 
 **The Blight**
 
-- Decreased The Blight's default movement speed to **4.4 m/s*(was 4.6 m/s)*.
+- Decreased The Blight's default movement speed to **4.4 m/s** *(was 4.6 m/s)*.
 - Breaking a Downed Pallet now reduces Rush tokens down to 2 below maximum, and resets current Rush token recharge to 0%.
-  - Includes basic-break and special-break Killer actions.
+  - Includes basic-break and special-break Killer actions.
   - Power description updated to reflect change.
 
 **The Doctor**
 
-- Decreased delay of Shock Therapy attack to **0.75 seconds*(was 0.8 seconds)*.**
+- Decreased delay of Shock Therapy attack to **0.75 seconds** *(was 0.8 seconds)*.**
 
 **The Cannibal**
 
-- Increased maximum Chainsaw Sweep speed to **5.45 m/s*(was 5.35 m/s)*.
+- Increased maximum Chainsaw Sweep speed to **5.45 m/s** *(was 5.35 m/s)*.
 
 **The Ghost Face**
 
-- Decreased the cooldown of Night Shroud to **15 seconds*(was 17 seconds)*.
+- Decreased the cooldown of Night Shroud to **15 seconds** *(was 17 seconds)*.
 
 **The Demogorgon**
 
-- Increased Shred's movement speed to **19 m/s*(was 18.4 m/s)*.
-- Increased Shred's turn rate to **55 degrees**per second *(was 27.5 degrees per second)*.
-- Increased duration of Undetectable after traversing the Upside Down to **12 seconds*(was 5 seconds)*.
+- Increased Shred's movement speed to **19 m/s** *(was 18.4 m/s)*.
+- Increased Shred's turn rate to **55 degrees** per second *(was 27.5 degrees per second)*.
+- Increased duration of Undetectable after traversing the Upside Down to **12 seconds** *(was 5 seconds)*.
 
 **The Dredge**
 
-- Increased movement speed while charging Reign of Darkness to**4 m/s*(was 3.8m/s)*.
+- Increased movement speed while charging Reign of Darkness to **4 m/s** *(was 3.8m/s)*.
 
 **The Mastermind**
 
-- Decreased recovery time of Virulent Bound to **2.7 seconds*(was 3 seconds)*.
-- Decreased charge time per token to **5 seconds*(was 5.5 seconds)*.
-- Increased duration of the Chain Bound window to **2.5 seconds*(was 2 seconds)*.
+- Decreased recovery time of Virulent Bound to **2.7 seconds** *(was 3 seconds)*.
+- Decreased charge time per token to **5 seconds** *(was 5.5 seconds)*.
+- Increased duration of the Chain Bound window to **2.5 seconds** *(was 2 seconds)*.
 
 **The Skull Merchant**
 
@@ -139,53 +139,53 @@ Diminishing Returns now caps stacked positive and negative modifiers in trials, 
 
 **The Unknown**
 
-- Decreased cooldown of UVX to **6.25 seconds*(was 7 seconds)*.
-- Decreased Weakened Survivor vision linger duration to **0.75 seconds*(was 1.25 seconds)*.
+- Decreased cooldown of UVX to **6.25 seconds** *(was 7 seconds)*.
+- Decreased Weakened Survivor vision linger duration to **0.75 seconds** *(was 1.25 seconds)*.
 
 **The Animatronic**
 
-- Decreased time to recall the Fire Axe when embedded in the environment to**6 seconds*(was 7 seconds)*.
-- Decreased time to recall the Fire Axe when embedded in Survivors to **8 seconds*(was 10 seconds)*.
-- Decreased battery consumption per Camera in use to **6%*(was 7%)*.
-- Decreased battery consumption upon Survivor teleport to **12%*(was 15%)*.
-- Key binding for Grab Axe button updated to use Power input *(was Attack input)*.
+- Decreased time to recall the Fire Axe when embedded in the environment to **6 seconds** *(was 7 seconds)*.
+- Decreased time to recall the Fire Axe when embedded in Survivors to **8 seconds** *(was 10 seconds)*.
+- Decreased battery consumption per Camera in use to **6%** *(was 7%)*.
+- Decreased battery consumption upon Survivor teleport to **12%** *(was 15%)*.
+- Key binding for Grab Axe button updated to use Power input *(was Attack input)*.
 
 ![bar_white.png](542-9-6-0-ptb-patch-notes/08-bar-white.png)
 
-### Killer Add-on Updates
+### Killer Add-on Updates
 
 **The Nurse's Add-ons**
 
 - Heavy Panting (Rare)
-  - Extends the duration of a lunge after more than one blink by **10%*(was 30%)*.
+  - Extends the duration of a lunge after more than one blink by **10%** *(was 30%)*.
 
 **The Ghost Face's Add-ons**
 
 - Walleye's Matchbook (Common)
-  - Decreases Night Shroud recovery time by**2 seconds*(was 3 seconds)*.
+  - Decreases Night Shroud recovery time by **2 seconds** *(was 3 seconds)*.
 
 **The Mastermind's Add-ons**
 
 - Loose Crank (Uncommon)
-  - Increases movement speed between the first and second Virulent Bounds by **15%*(was 8%)*.
+  - Increases movement speed between the first and second Virulent Bounds by **15%** *(was 8%)*.
 - Egg (Gold) (Rare)
-  - Increases the Chain bound window by **20%*(was 50%)*.
+  - Increases the Chain bound window by **20%** *(was 50%)*.
 
 **The Animatronic's Add-ons**
 
 - Restaurant Menu (Common)
-  - Decreases the minimum time to retrieve an axe embedded in the environment by **10%** (was 20%).
+  - Decreases the minimum time to retrieve an axe embedded in the environment by **10%** (was 20%).
 - Access Panel (Very Rare)
-  - While aiming the Fire Axe, reveals survivors within **6 meters** of Security Doors with Killer Instinct *(was 4 meters)*.
+  - While aiming the Fire Axe, reveals survivors within **6 meters** of Security Doors with Killer Instinct *(was 4 meters)*.
 
 ![bar_white.png](542-9-6-0-ptb-patch-notes/09-bar-white.png)
 
-### Survivor Perk Updates
+### Survivor Perk Updates
 
 **Fast Track**
 
-- Whenever another Survivor is hooked, you earn 1/2/3 Token(s), up to 9/9/9.
-- While repairing, whenever you hit a great basic Skill Check, spend all Tokens. For each Token spent, the Generator gains **1/1/1%** permanent progress *(was 2%).*
+- Whenever another Survivor is hooked, you earn 1/2/3 Token(s), up to 9/9/9.
+- While repairing, whenever you hit a great basic Skill Check, spend all Tokens. For each Token spent, the Generator gains **1/1/1%** permanent progress *(was 2%).*
 
 ![image-c3b26d10e7f26-d9a5.png](542-9-6-0-ptb-patch-notes/10-image-c3b26d10e7f26-d9a5.png)
 
@@ -193,36 +193,36 @@ Diminishing Returns now caps stacked positive and negative modifiers in trials, 
 
 ### Audio
 
-- Fixed an issue where missing voice lines for 9 Survivors and 2 Killers in the lobbies and in-trials.
+- Fixed an issue where missing voice lines for 9 Survivors and 2 Killers in the lobbies and in-trials.
 - Fixed an issue where missing voice line and placeholder subtitle can be seen when entering an offline lobby with The Dark Lord.
-- Fixed an issue where Dungeons & Dragons - 4 Survivors have the wrong music for the D&D cosmetics.
+- Fixed an issue where Dungeons & Dragons - 4 Survivors have the wrong music for the D&D cosmetics.
 
 ### Bot Improvements
 
-- Fixed Survivor Bots walking against players that are interacting with an Exit Switch.
-- Fixed an issue where Survivor Bots would walk slowly while in chase.
-- Fixed an issue with Survivor Bots that would drop Pallets too hastily during a chase.
+- Fixed Survivor Bots walking against players that are interacting with an Exit Switch.
+- Fixed an issue where Survivor Bots would walk slowly while in chase.
+- Fixed an issue with Survivor Bots that would drop Pallets too hastily during a chase.
 - Adapted Bots' usage and vision of the Fog Vials according to their latest update.
 
 ### Characters
 
-- Fixed an issue where The Hag’s Traps Aura caused some Visibility Issues.
-- Fixed an issue where The Singularity’s Slipstreaming to survivors dropping pallets caused a desync to occur.
+- Fixed an issue where The Hag’s Traps Aura caused some Visibility Issues.
+- Fixed an issue where The Singularity’s Slipstreaming to survivors dropping pallets caused a desync to occur.
 - Fixed an issue where The Mastermind’s Virulent Bound's acceleration vignette stayed active when grabbing and getting stunned at the same time.
-- Fixed an issue where The Knight’s Guard Summon Path flickered beyond the 10m visibility limit from the Survivor POV.
+- Fixed an issue where The Knight’s Guard Summon Path flickered beyond the 10m visibility limit from the Survivor POV.
 
 ### Environment/Maps
 
 - Fixed an issue where Singularity's Biopods would float when placed in an alley, by correcting an incorrect collision with a wall.
-- Fixed an issue in Midwich Elementary School where the killer can't interact with a locker.
+- Fixed an issue in Midwich Elementary School where the killer can't interact with a locker.
 - Fixed an issue in Trickster Delusion where the camera at the beginning of a trial clips through The Houndmaster.
 - Fixed an issue in Treatment Theater where the projectiles can't go through a plant in the map.
 - Fixed an issue in Treatment Theater where a fountain of devotion can't be interacted with.
 - Fixed an issue in Toba Landing where Snug could not vault over on top of the main structure.
 - Fixed an issue in Garden Of Joy where the collisions around the piano were blocking projectiles.
-- Fixed an issue in Treatment Theater where a generator can't be interacted on one side.
+- Fixed an issue in Treatment Theater where a generator can't be interacted on one side.
 - Fixed an issue in Dead Dawg Saloon where a yellow tarp is clipping in the ground.
-- Fixed an issue in Trickster Delusion where claws that are sticking out of the wall prevent killers to navigate in the room where they appear.
+- Fixed an issue in Trickster Delusion where claws that are sticking out of the wall prevent killers to navigate in the room where they appear.
 
 ### Perks
 
@@ -233,7 +233,7 @@ Diminishing Returns now caps stacked positive and negative modifiers in trials, 
 - Fixed an issue on PC where the cursor is stuttering when connecting a controller.
 - Fixed menu not scrolling with a controller.
 - Fixed a crash that occurs when completing the onboarding Matches.
-- Fixed an issue where using the Self-Unhook feature right before the skill check popped up caused the UI and VFX to appear after Self-Unhooking.
+- Fixed an issue where using the Self-Unhook feature right before the skill check popped up caused the UI and VFX to appear after Self-Unhooking.
 
 ![image-ac91514ce36ad-07c7.png](542-9-6-0-ptb-patch-notes/11-image-ac91514ce36ad-07c7.png)
 

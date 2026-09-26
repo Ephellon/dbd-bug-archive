@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/460-stats-july-202
 author: "Peanits"
 published: "2024-07-18T14:03:03+00:00"
 updated: "2024-07-19T12:04:55+00:00"
-archived: "2026-09-26T02:20:10Z"
+archived: "2026-09-26T16:42:58Z"
 ---
 
 <!-- summary -->

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/214-4-1-0-mid-chap
 author: "Peanits"
 published: "2020-07-28T14:32:44+00:00"
 updated: "2020-07-28T14:32:44+00:00"
-archived: "2026-09-26T02:19:43Z"
+archived: "2026-09-26T16:42:09Z"
 ---
 
 <!-- summary -->
@@ -39,24 +39,24 @@ The Cannibal was one of our less-popular Killers, so we are pushing to lessen so
 
 **Power Changes**
 
-Added Chainsaw Sweep charges. Using the Chainsaw will consume a charge and trigger a Chainsaw Sweep. During this time, The Cannibal can extend the Chainsaw Sweep by pressing the power button before the power bar fully depletes. The more charges are used, the longer the miss cooldown / tantrum (if colliding with obstacles).
+Added Chainsaw Sweep charges. Using the Chainsaw will consume a charge and trigger a Chainsaw Sweep. During this time, The Cannibal can extend the Chainsaw Sweep by pressing the power button before the power bar fully depletes. The more charges are used, the longer the miss cooldown / tantrum (if colliding with obstacles).
 
 The numbers:
 
-- The Cannibal starts with **3**charges
-- Triggering the chainsaw will start a Chainsaw Sweep that lasts **2**seconds
-- During the Sweep, each charge used after that will reset the Chainsaw Sweep timer back to **2**seconds
-- Each additional charge used increases the missed chainsaw attack cooldown / tantrum duration by **1** second
-- Charges refill at a rate of **1**charge every **4**seconds when the chainsaw is not being used
-- The Cannibal’s maximum speed during a Chainsaw Sweep has increased to **5.29 m/s** from **5.06 m/s**
+- The Cannibal starts with **3** charges
+- Triggering the chainsaw will start a Chainsaw Sweep that lasts **2** seconds
+- During the Sweep, each charge used after that will reset the Chainsaw Sweep timer back to **2** seconds
+- Each additional charge used increases the missed chainsaw attack cooldown / tantrum duration by **1** second
+- Charges refill at a rate of **1** charge every **4** seconds when the chainsaw is not being used
+- The Cannibal’s maximum speed during a Chainsaw Sweep has increased to **5.29 m/s** from **5.06 m/s**
 
-Furthermore, if The Cannibal revs the chainsaw for too long, a tantrum is automatically triggered for the base duration of **5**seconds.
+Furthermore, if The Cannibal revs the chainsaw for too long, a tantrum is automatically triggered for the base duration of **5** seconds.
 
 When a tantrum is triggered, all remaining charges are consumed.
 
 The tantrum meter will pause as soon as the power button is released and will start going down when the chainsaw is put away.
 
-**Add-ons:** Updated most of his add-ons.
+**Add-ons:** Updated most of his add-ons.
 
 <details>
 <summary>Spoiler</summary>
@@ -131,7 +131,7 @@ New effect: Hit target suffers from the mangled status effect for 90 seconds.
 
 Old effect: Moderately decreases the chainsaw cooldown
 
-New effect: Downing a survivor with a chainsaw hit while no other survivors are in your terror radius will hide the survivor's aura for 20 seconds.
+New effect: Downing a survivor with a chainsaw hit while no other survivors are in your terror radius will hide the survivor's aura for 20 seconds.
 
 *The Beast's Marks:*
 
@@ -149,7 +149,7 @@ New effect: Moderately increase movement speed during the tantrum. Slightly incr
 
 Old effect: Tremendously increases acceleration when using the chainsaw. Considerably increases the time penalty when bumping in objects.
 
-New effect: Moderately increase dash duration when a token is consumed. Moderately increase the additional chainsaw swing window.
+New effect: Moderately increase dash duration when a token is consumed. Moderately increase the additional chainsaw swing window.
 
 *Depth Gauge Rake:*
 
@@ -179,7 +179,7 @@ New effect: Automatically consume all charges when triggering a chainsaw dash. S
 
 *Iridescent Flesh:*
 
-New effect: Hitting a Survivor with the Chainsaw replenishes its charges.
+New effect: Hitting a Survivor with the Chainsaw replenishes its charges.
 
 </details>
 
@@ -191,27 +191,27 @@ The Hillbilly has a versatile kit with traversal and double-damage effects as a 
 
 **Power Changes**
 
-Added the overheat mechanic. Using the chainsaw will now build up heat. When reaching the maximum amount of heat, the chainsaw overheats and cannot be used until it has cooled off.
+Added the overheat mechanic. Using the chainsaw will now build up heat. When reaching the maximum amount of heat, the chainsaw overheats and cannot be used until it has cooled off.
 
 The numbers:
 
-- The chainsaw heat meter starts at **0**.
-- Starting a rev adds **5** charges.
-- Actively revving adds **8**charges per second
-- Actively sprinting adds **2**charges per second
-- When not using the chainsaw, the heat meter dissipates at a rate of **-5**charges per second
-- When the chainsaw overheats, the heat meter dissipates at a rate of **-6.6** charges per second
+- The chainsaw heat meter starts at **0**.
+- Starting a rev adds **5** charges.
+- Actively revving adds **8** charges per second
+- Actively sprinting adds **2** charges per second
+- When not using the chainsaw, the heat meter dissipates at a rate of **-5** charges per second
+- When the chainsaw overheats, the heat meter dissipates at a rate of **-6.6** charges per second
 
-If the heat meter reaches **100**charges, the chainsaw overheats.
+If the heat meter reaches **100** charges, the chainsaw overheats.
 
-If the chainsaw overheats during a chainsaw sprint:
+If the chainsaw overheats during a chainsaw sprint:
 
 - The sprint is not interrupted
 - The chainsaw goes through the cooldown phase after the sprint has ended
 
 The heat meter will pause as soon as the power button is released and will start going down when the chainsaw is put away. Furthermore, the heat meter does not progress during The Hillbilly's various cooldown phases. This includes a chainsaw miss, a chainsaw hit and colliding with an obstacle.
 
-**Add-ons:**Updated most of his add-ons.
+**Add-ons:** Updated most of his add-ons.
 
 <details>
 <summary>Spoiler</summary>
@@ -246,7 +246,7 @@ New effect: Slightly reduces the time penalty when bumping into obstacles
 
 Old effect: Moderately reduces the time penalty when bumping into objects.
 
-New effect: While the chainsaw is overheating, decrease your Terror Radius by 8 meters.
+New effect: While the chainsaw is overheating, decrease your Terror Radius by 8 meters.
 
 *Death Engravings:*
 
@@ -302,7 +302,7 @@ New effect: Move 0.2 m/s faster while a flashlight in shining on you.
 
 Old effect: Moderately reduces the noise made by the chainsaw.
 
-New effect: Chainsaw is silent for survivors outside the terror radius.
+New effect: Chainsaw is silent for survivors outside the terror radius.
 
 *Pighouse Gloves (The Thompson’s Mix):*
 
@@ -342,25 +342,25 @@ New effect: After maintaining a chainsaw sprint for 5 seconds, gain the Undetect
 
 The changes to Franklin's Demise add a risk factor for Survivors so they need to balance the risk/reward of going after the dropped item within the time limit.
 
-- Franklin’s Demise: Instead of the item losing charges when dropped, the Entity will consume the item after **150/120/90**seconds if it is not picked up. Additionally, Franklin’s Demise will reveal the aura of items on the ground within **32/32/32**meters.
+- Franklin’s Demise: Instead of the item losing charges when dropped, the Entity will consume the item after **150/120/90** seconds if it is not picked up. Additionally, Franklin’s Demise will reveal the aura of items on the ground within **32/32/32** meters.
 
 **Knock Out**
 
 Knock Out has been underperforming and is underpicked by Killers. Adding the temporary slowdown to "crawling" fits the flavor of the perk while giving it another gameplay dimension.
 
-- Knock Out: Now triggers on basic attacks only. Additionally, Survivors put in the dying state by your basic attacks will crawl **50/50/50%** slower for **15/15/15**seconds. During this time, they are affected by the **Blindness** status effect.
+- Knock Out: Now triggers on basic attacks only. Additionally, Survivors put in the dying state by your basic attacks will crawl **50/50/50%** slower for **15/15/15** seconds. During this time, they are affected by the **Blindness** status effect.
 
 **Lightborn**
 
 Lightborn's effect only partially resisted Blind effects in the past, but this often wasn't worth a full perk slot for a Killer and led to this perk being underutilized. These changes make it a more attractive option for Killers who want this effect.
 
-- Lightborn: Grants immunity to blindness caused by flashlights and firecrackers. Survivors that attempt blinding you have their aura revealed for **6/8/10**seconds.
+- Lightborn: Grants immunity to blindness caused by flashlights and firecrackers. Survivors that attempt blinding you have their aura revealed for **6/8/10** seconds.
 
 **Tinkerer**
 
 Tinkerer has a useful effect but it was hard to get the full benefit of it due to the high repair progress threshold. Lowering that threshold and increasing the Undetectable duration makes it easier to use its benefits as a Killer.
 
-- Tinkerer: Now triggers at **70/70/70%** (down from 85%) and grants the **Undetectable** status effect for **12/14/16** seconds (up from 8/10/12)
+- Tinkerer: Now triggers at **70/70/70%** (down from 85%) and grants the **Undetectable** status effect for **12/14/16** seconds (up from 8/10/12)
 
 ![PatchNotesDivider.png](214-4-1-0-mid-chapter/04-patchnotesdivider.png)
 
@@ -369,13 +369,13 @@ Tinkerer has a useful effect but it was hard to get the full benefit of it due t
 ### KILLER
 
 - The Cannibal: Fixed an issue that caused the chainsaw SFX to continue playing when stunned while performing a chainsaw sweep.
-- The Doctor: Fixed an issue that caused Survivors outside of the Terror Radius to not hear the audio cue when charging the Static Blast ability.
+- The Doctor: Fixed an issue that caused Survivors outside of the Terror Radius to not hear the audio cue when charging the Static Blast ability.
 - The Hillbilly: Fixed an issue that caused the Hillbilly to not go into stun animation when letting go of the chainsaw sprint button at the same time as hitting a wall.
-- The Nurse: Fixed an issue that caused Jane Romero's hand to clip through her chest after the Nurse's Mori.
+- The Nurse: Fixed an issue that caused Jane Romero's hand to clip through her chest after the Nurse's Mori.
 - The Oni: Fixed an issue that caused Survivors to drop twice the amount of Blood Orbs when performing actions while injured.
 - The Oni: Fixed an issue that prevented entering Blood Fury if the power meter was filled while carrying a Survivor.
-- The Plague: Fixed an issue that activated Corruption mode instantly after a Survivor cleanses with the last Pool of Devotion instead of 5 seconds after a Survivor cleanses with the last Pool of Devotion.
-- The Plague: Fixed an issue that caused the Plague to briefly stagger and not return smoothly to her idle animation after falling from high ground.
+- The Plague: Fixed an issue that activated Corruption mode instantly after a Survivor cleanses with the last Pool of Devotion instead of 5 seconds after a Survivor cleanses with the last Pool of Devotion.
+- The Plague: Fixed an issue that caused the Plague to briefly stagger and not return smoothly to her idle animation after falling from high ground.
 
 ![User: "PatchNotesDividerSmolWhite.png"](214-4-1-0-mid-chapter/03-patchnotesdividersmolwhite.png)
 
@@ -398,9 +398,9 @@ Tinkerer has a useful effect but it was hard to get the full benefit of it due t
 - Sole Survivor: Fixed an issue that caused the perk to not always receive a token when other Survivors are sacrificed.
 - Devour Hope: Fixed an issue that displayed the speed buff as active for a duration of 10 seconds when hooking a Survivor instead of starting 10 seconds after having hooked a Survivor. The effect remains unchanged.
 - Make Your Choice: Now mentions in the perk description that the Survivor screams when unhooking another Survivor.
-- Plunderer's Instinct: Fixed the aura outline to remain displayed on chests even if there are no obstacles.
+- Plunderer's Instinct: Fixed the aura outline to remain displayed on chests even if there are no obstacles.
 - Kindred: Fixed an issue that displayed the Killer's aura outline even if there are no obstacles.
-- Wake Up: Fixed the aura outline which remained displayed on the Exit Gates even if there are no obstacles.
+- Wake Up: Fixed the aura outline which remained displayed on the Exit Gates even if there are no obstacles.
 
 ![User: "PatchNotesDividerSmolWhite.png"](214-4-1-0-mid-chapter/03-patchnotesdividersmolwhite.png)
 
@@ -408,7 +408,7 @@ Tinkerer has a useful effect but it was hard to get the full benefit of it due t
 
 - Backwater Swamp: Fixed an invisible collision that can be walked on in Maze tiles.
 - Badham Preschool: Fixed a visible seam next to the killer shack.
-- Badham Preschool II: Fixed a Generator that couldn't be accessed from its right side.
+- Badham Preschool II: Fixed a Generator that couldn't be accessed from its right side.
 - Dead Dawg Saloon: Fixed an issue that caused tumbleweeds to appear abruptly and disappear by passing through the floor.
 - Family Residence: Fixed a visible seam on the floor.
 - Father Campbell's Chapel: Fixed the horse's legs which were clipping through the ground.

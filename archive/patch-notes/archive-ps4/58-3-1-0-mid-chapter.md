@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/58-3-1-0-mid-chapt
 author: "Peanits"
 published: "2020-02-28T18:59:56+00:00"
 updated: "2020-03-02T19:54:47+00:00"
-archived: "2026-09-26T02:19:22Z"
+archived: "2026-09-26T16:41:44Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ The update adds five new Badham Preschool map variations with unique tiles, alte
 
 ## Features & Content
 
-- Feature - Changed the lobby music back to the default music.
+- Feature - Changed the lobby music back to the default music.
 
 ## Balance
 
@@ -51,7 +51,7 @@ Adjusted some score event for Survivors:
 
 Killer score events:
 
-- Added a score event for totem, hook sabotage and Jigsaw Box search interrupts.
+- Added a score event for totem, hook sabotage and Jigsaw Box search interrupts.
 
 **Gameplay**
 

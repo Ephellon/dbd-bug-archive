@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/280-4-6-1-bugfix-p
 author: "Peanits"
 published: "2021-04-14T14:30:52+00:00"
 updated: "2021-04-14T14:30:52+00:00"
-archived: "2026-09-26T02:18:39Z"
+archived: "2026-09-26T16:40:53Z"
 ---
 
 <!-- summary -->
@@ -56,12 +56,12 @@ The rest of the patch is a broad bug-fix pass covering pallet stun and Spirit Fu
 - Fixed an issue that prevented the Trickster to earn Chaser Emblem points when injuring or downing survivors with blades.
 - Fixed an issue that could prevent the add-ons Inferno Wires and Tequila Moonrock from increasing the duration of Main Event.
 - Fixed an issue that could cause a small delay in the activation of the Wraith's post-uncloak speed boost.
-- Fixed an issue that could prevent Decisive Strike from deactivating when a survivor unhooks another survivor once the generators are powered or the endgame collapse has started
+- Fixed an issue that could prevent Decisive Strike from deactivating when a survivor unhooks another survivor once the generators are powered or the endgame collapse has started
 - Fixed an issue that could cause Pyramid Head's power cancel animation to play while charging Rites of Judgement if the charge is quickly cancelled and restarted
 - Fixed an issue that could cause the Oni to have incorrect rotation speed after hitting a survivor with a demon strike attack or after a demon dash.
 - Fixed an issue that could prevent survivors from hearing the sound of the Blight's slam
 - Fixed an issue that could prevent progress towards "Healthy Obsession" when healing the obsession.
-- Fixed an issue that could prevent "Nerves of Steel" from properly tracking successful skill checks
+- Fixed an issue that could prevent "Nerves of Steel" from properly tracking successful skill checks
 - Fixed an issue that could prevent progress towards "Near Death Experience" if multiple survivors were downed during the match
 - Fixed an issue where rank and pip changes in a public match are not correctly displayed in the Scoreboard if the user quits the Game.
 - Fixed an issue that caused invisible collisions to block players on the side of exit gates in Red Forest maps.
@@ -83,7 +83,7 @@ The rest of the patch is a broad bug-fix pass covering pallet stun and Spirit Fu
 - Fixed an issue that could prevent the Tricker's main event from ending correctly if the Aim Blade input is held.
 - Fixed an issue that could allow players controlling Victor to see activated survivor glyphs.
 - Fixed an issue that could prevent The Nurse from being slowed during her fatigue if stunned after or during a blink attack.
-- Fixed an issue that could prevent Hex: Ruin from activating when a generator is no longer being repaired if one survivor is grabbed while another is repairing
+- Fixed an issue that could prevent Hex: Ruin from activating when a generator is no longer being repaired if one survivor is grabbed while another is repairing
 - Fixed an issue that could cause the camera pan at the beginning of the trial to last too long
 - Various crash fixes
 - Fixed an issue that could cause the killer to not be able to pick up downed survivor on the basement stairs

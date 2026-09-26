@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/439-7-6-1-bugfix-p
 author: "Peanits"
 published: "2024-03-25T14:27:25+00:00"
 updated: "2024-03-25T14:27:25+00:00"
-archived: "2026-09-26T02:18:18Z"
+archived: "2026-09-26T16:40:25Z"
 ---
 
 <!-- summary -->
@@ -25,29 +25,29 @@ Twins killer returns to live play, the Hag’s egg add-ons receive increased Pha
 
 ## Content
 
-- Re-enabled the Twins Killer.
+- Re-enabled the Twins Killer.
 
-### Killer Updates
+### Killer Updates
 
 #### The Hag
 
 **Add-ons:**
 
 - **Cracked Turtle Egg:**
-- Increases triggered Phantasm Trap duration by 30% *(was 20%).*
+- Increases triggered Phantasm Trap duration by 30% *(was 20%).*
 - **Half Eggshell:**
-- Increases triggered Phantasm Trap duration by 25% *(was 15%).*
+- Increases triggered Phantasm Trap duration by 25% *(was 15%).*
 - **Powdered Eggshell:**
-- Increases triggered Phantasm Trap duration by 20% *(was 10%).*
+- Increases triggered Phantasm Trap duration by 20% *(was 10%).*
 
-### Survivor Bots
+### Survivor Bots
 
 #### Reaction Time
 
-- In order to ease the learning of how to play Killers in Custom Matches, we have updated our Survivor Bots:
+- In order to ease the learning of how to play Killers in Custom Matches, we have updated our Survivor Bots:
 - Base reaction times are now randomized and slower on average
-- Reaction time versus Powers now increases according to distance between Survivor Bot and Killer
-- Reaction time versus Powers now increases when Survivor Bot does not see the Killer
+- Reaction time versus Powers now increases according to distance between Survivor Bot and Killer
+- Reaction time versus Powers now increases when Survivor Bot does not see the Killer
 
 ![PatchNotesDivider.png](439-7-6-1-bugfix-patch/02-patchnotesdivider.png)
 
@@ -60,32 +60,32 @@ Twins killer returns to live play, the Hag’s egg add-ons receive increased Pha
 
 ### Audio
 
-- Fixed an issue that caused some wheat plants to not trigger any SFX on Coldwind Farm's Fractured Cowshed map
+- Fixed an issue that caused some wheat plants to not trigger any SFX on Coldwind Farm's Fractured Cowshed map
 
 ### Environment/Maps
 
 - Fixed an issue in Crotus Prenn Asylum where the The Trapper's Bear Traps would float above the ground in the shack.
-- The Demogorgon is now correctly able to traverse the Upside Down when a Portal is placed in various parts of the theater in Greenville Square map.
+- The Demogorgon is now correctly able to traverse the Upside Down when a Portal is placed in various parts of the theater in Greenville Square map.
 - Fixed an issue in Mother's Dwelling where collision would prevent a proper navigation for both roles.
 - Fixed an issue that caused a placeholder tile to spawn in Mother's Dwelling.
 - Fixed an issue in Treatment Theatre where The Singularity's Biopods would not correctly attach to the walls.
 - Fixed an issue where Victor could walk along stairs on Badham Preschool.
 - Fixed an issue in Eyrie of Crows where a The Trapper could set his Trap under an object.
-- Fixed an issue in Toba Landing where killers could land on top of objects.
+- Fixed an issue in Toba Landing where killers could land on top of objects.
 - Fixed an issue that caused the Fragile Blood Basins to sometimes float in the air in multiple maps.
 
 ### Characters
 
 - Fixed an issue that caused Charlotte's movement to rubberband after unbinding and recalling Victor.
-- Fixed an issue that caused Charlotte's movement to be hindered for the rest of the trial after unbinding Victor two or more times.
-- Fixed an issue that allowed the Oni to lunge attack while carrying a Survivor.
+- Fixed an issue that caused Charlotte's movement to be hindered for the rest of the trial after unbinding Victor two or more times.
+- Fixed an issue that allowed the Oni to lunge attack while carrying a Survivor.
 - Fixed an issue that caused the Unknown's hair to clip into the camera when hitting an object with the Rare and Very Rate heads equipped.
 
 ### Perks
 
-- Endurance status effect no longer remains active when performing the Invocation: Weaving Spiders interaction.
+- Endurance status effect no longer remains active when performing the Invocation: Weaving Spiders interaction.
 - A Score Event is no longer missing upon completion of the Invocation: Weaving Spiders interaction.
-- The Perk ''Scourge Hook: Floods of rage'' no longer fails to reveal the other Survivors auras when a Survivor self-unhooks on the Scourge Hook.
+- The Perk ''Scourge Hook: Floods of rage'' no longer fails to reveal the other Survivors auras when a Survivor self-unhooks on the Scourge Hook.
 
 ### UI
 

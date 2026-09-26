@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/51-2-6-3-ash-vs-ev
 author: "Peanits"
 published: "2020-02-28T18:55:24+00:00"
 updated: "2020-03-02T19:34:13+00:00"
-archived: "2026-09-26T02:19:20Z"
+archived: "2026-09-26T16:41:42Z"
 ---
 
 <!-- summary -->
@@ -42,7 +42,7 @@ With feedback from the PTB and Live, we have changed the Decisive Strike stun ti
 - Fixed an issue that caused The Wraith's Bone Clapper add-on to have no effect (thus making it still possible to identify distance & direction of the Wailing Bell sound).
 - Fixed an issue that could cause healthy Survivors to become infected when a fully sick/infected Survivor was saved by another fully sick Survivors.
 - Fixed an issue that made it impossible to cleanse a totem next to a rock and tree in the Autohaven Wrecker's maps.
-- Fixed an issue that made it impossible to cleanse from a fountain next to a tree in front of a car in the Autohaven Wrecker's maps.
+- Fixed an issue that made it impossible to cleanse from a fountain next to a tree in front of a car in the Autohaven Wrecker's maps.
 - Misc localization improvements.
 - Misc The Plague audio improvements.
 - Fixed some crash issues.

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/332-5-7-2-bugfix-p
 author: "Peanits"
 published: "2022-05-10T14:30:05+00:00"
 updated: "2022-05-10T14:42:23+00:00"
-archived: "2026-09-26T02:18:32Z"
+archived: "2026-09-26T16:40:44Z"
 ---
 
 <!-- summary -->
@@ -35,8 +35,8 @@ New chase music was added for Ghost Face, giving his pursuit a distinct soundtra
 - Fixed an issue where the embers and wood inside the braziers in the Eyrie of Crows map emit a metal SFX when struck.
 - Fixed an issue that caused the Legions idle animation briefly not to play when Feral Frenzy ended.
 - Fixed an issue where pressing "Enter" when entering a promo code closed the popup without submitting the code.
-- Fixed an issue that caused the Rancor perk not to apply the exposed effect to the obsession after the exit gates are powered.
-- Fixed an issue that caused the Bitter Murmur perk not to trigger when a generator is completed.
+- Fixed an issue that caused the Rancor perk not to apply the exposed effect to the obsession after the exit gates are powered.
+- Fixed an issue that caused the Bitter Murmur perk not to trigger when a generator is completed.
 - Fixed an issue that caused the exposed status effect icon to remain displayed for survivors Evil Within tier 3 ends when playing as The Shape.
 - Fixed an issue that caused survivors being moried to be able to reveal the Ghost Face.
 - Fixed an issue that caused the Ghost Face's power icon to remain unchanged when activating Night Shroud.

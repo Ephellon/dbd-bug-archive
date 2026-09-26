@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/19-3-4-2-hotfix"
 author: "Peanits"
 published: "2020-02-28T17:32:21+00:00"
 updated: "2020-03-02T15:34:14+00:00"
-archived: "2026-09-26T02:19:08Z"
+archived: "2026-09-26T16:41:27Z"
 ---
 
 <!-- summary -->
@@ -26,8 +26,8 @@ The Nightmare’s Outdoor Rope, Jump Rope and Swing Chains add-ons have had thei
 **The Nightmare**
 
 - Outdoor Rope add-on: Reduced the action speed debuff from 6% to 2%.
-- Jump Rope add-on: Reduced the action speed debuff from 9% to 4%.
-- Swing Chains add-on: Reduced the action speed debuff per sleeping Survivor from 3% to 2%.
+- Jump Rope add-on: Reduced the action speed debuff from 9% to 4%.
+- Swing Chains add-on: Reduced the action speed debuff per sleeping Survivor from 3% to 2%.
 
 **The Oni**
 

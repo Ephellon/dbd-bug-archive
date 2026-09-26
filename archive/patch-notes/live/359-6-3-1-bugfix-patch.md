@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/359-6-3-1-bugfix-p
 author: "Peanits"
 published: "2022-10-18T14:23:44+00:00"
 updated: "2022-10-18T14:23:44+00:00"
-archived: "2026-09-26T02:18:29Z"
+archived: "2026-09-26T16:40:40Z"
 ---
 
 <!-- summary -->
@@ -43,7 +43,7 @@ Fixes target the Xbox account-switch save bug, Windows Store store purchase glit
 - Fixed an issue where the voicelines in The Archives would not play for the Windows Store version of the game.
 - Fixed an issue that caused the Blight to be missing SFX when hitting the environment with a basic attack.
 - Fixed an issue where some Killers would have no sound in the menu.
-- Changed texture on the Dramatic Death charm available in the Tome 13 Rift. *Note: The icon for this charm will be updated in the next patch.*(All platforms except Switch & Stadia - they will have the updated texture and icon in HF2)
+- Changed texture on the Dramatic Death charm available in the Tome 13 Rift. *Note: The icon for this charm will be updated in the next patch.* (All platforms except Switch & Stadia - they will have the updated texture and icon in HF2)
 - Added missing skeleton textures on the back of the Haunted by Daylight event reward shirts for David, Claudette, Yun-Jin and Jane.
 
 ![PatchNotesDivider.png](359-6-3-1-bugfix-patch/02-patchnotesdivider.png)

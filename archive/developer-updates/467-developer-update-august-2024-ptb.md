@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/467-developer-upda
 author: "Peanits"
 published: "2024-08-22T13:59:39+00:00"
 updated: "2024-08-22T19:45:53+00:00"
-archived: "2026-09-26T02:20:09Z"
+archived: "2026-09-26T16:42:57Z"
 ---
 
 <!-- summary -->
@@ -41,14 +41,14 @@ As the next update approaches, we as always have news to share! This blogpost wi
 
 *While the Pounce attack is meant to be more difficult to use in tight spaces, we found it to be a bit too restrictive. To make it easier to position for the second Pounce, hitting a collision during the first Pounce will no longer end your Power.*
 
-![CA_DBD_0224_ApplePie_Frame_Footer.png](467-developer-update-august-2024-ptb/03-ca-dbd-0224-applepie-frame-footer.png)    ![TheNemesis.png](467-developer-update-august-2024-ptb/04-thenemesis.png)
+![CA_DBD_0224_ApplePie_Frame_Footer.png](467-developer-update-august-2024-ptb/03-ca-dbd-0224-applepie-frame-footer.png) ![TheNemesis.png](467-developer-update-august-2024-ptb/04-thenemesis.png)
 
 - \[CHANGE\] Increased Mutation Rate 3 Tentacle Strike range to 6.5 meters (was 6 meters).
 - \[CHANGE\] Decreased successful Tentacle Strike cooldown to 2.25 seconds (was 2.5 seconds).
 
 *Dev note: The adjustments on the PTB definitely helped The Nemesis get up and running at the start of a trial, but many felt he could use a little more. We have made additional tweaks to his Tentacle Strike to make it even more deadly when used well.*
 
-![CA_DBD_0224_ApplePie_Frame_Footer.png](467-developer-update-august-2024-ptb/05-ca-dbd-0224-applepie-frame-footer.png)    ![TheKnight.png](467-developer-update-august-2024-ptb/06-theknight.png)
+![CA_DBD_0224_ApplePie_Frame_Footer.png](467-developer-update-august-2024-ptb/05-ca-dbd-0224-applepie-frame-footer.png) ![TheKnight.png](467-developer-update-august-2024-ptb/06-theknight.png)
 
 - \[NEW\] Each guard has a separate cooldown:  
    The Assassin: 30 seconds  
@@ -61,13 +61,13 @@ As the next update approaches, we as always have news to share! This blogpost wi
 
 *We have brought back separate cooldowns as a now intended feature and tuned them according to their strength and utility. This will give The Knight a boost in power and encourage swapping between guards.*
 
-![CA_DBD_0224_ApplePie_Frame_Footer.png](467-developer-update-august-2024-ptb/07-ca-dbd-0224-applepie-frame-footer.png)    ![HumanGreed.png](467-developer-update-august-2024-ptb/08-humangreed.png)
+![CA_DBD_0224_ApplePie_Frame_Footer.png](467-developer-update-august-2024-ptb/07-ca-dbd-0224-applepie-frame-footer.png) ![HumanGreed.png](467-developer-update-august-2024-ptb/08-humangreed.png)
 
 - \[CHANGE\] Reduced cooldown to 60/45/30 seconds (was 80/70/60 seconds).
 
 *Dev note: On the PTB, the cooldown for closing chests was quite long, so we have reduced it significantly.*
 
-![CA_DBD_0224_ApplePie_Frame_Footer.png](467-developer-update-august-2024-ptb/09-ca-dbd-0224-applepie-frame-footer.png)    ![Exultation.png](467-developer-update-august-2024-ptb/10-exultation.png)
+![CA_DBD_0224_ApplePie_Frame_Footer.png](467-developer-update-august-2024-ptb/09-ca-dbd-0224-applepie-frame-footer.png) ![Exultation.png](467-developer-update-august-2024-ptb/10-exultation.png)
 
 *The following change will be implemented in a minor patch in the coming weeks.*
 

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/396-7-0-2-bugfix-p
 author: "Peanits"
 published: "2023-06-28T14:28:33+00:00"
 updated: "2023-06-28T14:28:33+00:00"
-archived: "2026-09-26T02:18:24Z"
+archived: "2026-09-26T16:40:33Z"
 ---
 
 <!-- summary -->
@@ -37,17 +37,17 @@ Update releases: 11AM ET
 
 **The Singularity:**
 
-- Kid's Ball Glove - Decreased Overclock duration time to 15% (was 25%)
-- Foreign Plant Fibres - changed Rarity rating to Very Rare (was Rare)
-- Cremated Remains - changed to "Survivors afflicted with Temporal Slipstream suffer from Blindness." (was Killer Instinct before)
-- Nanomachine Gel - changed Rarity rating to Rare (was Very Rare), decreased Broken Status Effect to 30 seconds. (was 40 seconds)
-- Denied Requisition Form - changed Rarity rating to Ultra Rare (was Very Rare)
-- Soma Family Photo - changed Rarity rating to Very Rare (was Ultra Rare), reduction effect of Overclock Mode is now -20% (was -50%)
-- Iridescent Crystal Shard - changed to "When a Biopod is created the auras of all Survivors within 6 meters of that Biopod are revealed to you for 6 seconds." (was applied when within the zone of a Biopod)
+- Kid's Ball Glove - Decreased Overclock duration time to 15% (was 25%)
+- Foreign Plant Fibres - changed Rarity rating to Very Rare (was Rare)
+- Cremated Remains - changed to "Survivors afflicted with Temporal Slipstream suffer from Blindness." (was Killer Instinct before)
+- Nanomachine Gel - changed Rarity rating to Rare (was Very Rare), decreased Broken Status Effect to 30 seconds. (was 40 seconds)
+- Denied Requisition Form - changed Rarity rating to Ultra Rare (was Very Rare)
+- Soma Family Photo - changed Rarity rating to Very Rare (was Ultra Rare), reduction effect of Overclock Mode is now -20% (was -50%)
+- Iridescent Crystal Shard - changed to "When a Biopod is created the auras of all Survivors within 6 meters of that Biopod are revealed to you for 6 seconds." (was applied when within the zone of a Biopod)
 
 **The Nemesis:**
 
-- Damaged Syringe - increases time it takes Survivors to use a Vaccine by 5 seconds(used to be 2 seconds, and increased Killer Instinct by 1.5 seconds)
+- Damaged Syringe - increases time it takes Survivors to use a Vaccine by 5 seconds (used to be 2 seconds, and increased Killer Instinct by 1.5 seconds)
 
 ![PatchNotesDivider.png](396-7-0-2-bugfix-patch/03-patchnotesdivider.png)
 
@@ -84,9 +84,9 @@ Update releases: 11AM ET
 
 ### Misc
 
-- The Adept Singularity achievement is now correctly unlocked when completing a trial inside a Biopod
+- The Adept Singularity achievement is now correctly unlocked when completing a trial inside a Biopod
 - The Game Afoot Perk now correctly activates the Nemesis Perk
-- The Survivor perk 'Made For This' endurance effect no longer triggers after using an Anti-Hemorrhagic Syringe on another survivor
+- The Survivor perk 'Made For This' endurance effect no longer triggers after using an Anti-Hemorrhagic Syringe on another survivor
 
 ### Level Design
 

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/313-5-5-1-bugfix-p
 author: "Peanits"
 published: "2022-02-02T15:28:48+00:00"
 updated: "2022-02-02T15:28:49+00:00"
-archived: "2026-09-26T02:18:34Z"
+archived: "2026-09-26T16:40:46Z"
 ---
 
 <!-- summary -->
@@ -31,7 +31,7 @@ Wiggle progress now stays steady during both new and old interactions. The Coldw
 
 ## Content
 
-- The Coldwind Farm - Fractured Cowshed map has been re-enabled.
+- The Coldwind Farm - Fractured Cowshed map has been re-enabled.
 - The Crotus Prenn Asylum - Father Campbell's Chapel has been re-enabled.
 
 ![PatchNotesDivider.png](313-5-5-1-bugfix-patch/02-patchnotesdivider.png)
@@ -41,7 +41,7 @@ Wiggle progress now stays steady during both new and old interactions. The Coldw
 - Fixed an issue that caused tooltips to linger in the Settings menu
 - Fixed an issue that caused the Cannibal not to be able to break a pallet after hitting a survivor in the same chainsaw sweep.
 - Fixed an issue that caused the Demogorgon's Shred ability to sometimes not break pallets.
-- Fixed an issue that caused the Eruption perk to go into cooldown when triggering on a completed generator.
+- Fixed an issue that caused the Eruption perk to go into cooldown when triggering on a completed generator.
 - Fixed an issue that caused stuns triggered through the Power Struggle duration to be reduced more than intended when the killer is equipped with the Enduring perk.
 - Fixed an issue that caused the blessing SFX to continue after a survivor is hit after an unvalidated interruption attempt.
 - Fixed an issue that caused the Glyph and Red Envelope interactions not to be interruptible by the killer.
@@ -59,8 +59,8 @@ Wiggle progress now stays steady during both new and old interactions. The Coldw
 - Fixed an issue that caused the killer to become stuck beside a hatch in the main building in the Storehouse.
 - Fixed an issue that caused a Glyph to spawn too high in the Yamaoka map.
 - Fixed an issue that caused The Artist to not fall smoothly from the Thompson house vault.
-- Fixed an issue that caused two pallets to spawn on the same tile in The MacMillan Estate.
-- Fixed an issue that caused low quality shadows from the generator lights.
+- Fixed an issue that caused two pallets to spawn on the same tile in The MacMillan Estate.
+- Fixed an issue that caused low quality shadows from the generator lights.
 - Tentatively fixed an issue that caused Meg's Deathgarden head cosmetic to not be available anymore.
 - Tentatively fixed an issue that caused Jane's Twitch shirt cosmetic to be available for all players.
 

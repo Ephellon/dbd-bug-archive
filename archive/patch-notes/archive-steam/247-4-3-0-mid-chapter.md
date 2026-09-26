@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/247-4-3-0-mid-chap
 author: "Peanits"
 published: "2020-10-20T14:24:11+00:00"
 updated: "2020-10-20T15:31:47+00:00"
-archived: "2026-09-26T02:19:12Z"
+archived: "2026-09-26T16:41:32Z"
 ---
 
 <!-- summary -->
@@ -36,7 +36,7 @@ At the moment, the cost of missing a Punishment of the Damned attack is too high
 
 **Perks:**
 
-- Trail of Torment: Undetectable now lasts until the affected Generator stops regressing or a Survivor is injured or put into the dying state by any means
+- Trail of Torment: Undetectable now lasts until the affected Generator stops regressing or a Survivor is injured or put into the dying state by any means
 - Forced Penance: Broken Status effect lasts 60/70/80 seconds
 - Blood Pact: Haste bonus is now 5%/6%/7%, and lasts until the Survivors are no longer within 16 meters of each other
 
@@ -50,23 +50,23 @@ At the moment, the cost of missing a Punishment of the Damned attack is too high
 - Mindbreaker's effect now lasts 3/4/5 seconds
 - Cruel Limits's range has been increased to 32 meters
 - Slippery Meat no longer affects Bear Trap escapes, and now increases hook escape attempt probabilities by 2%/3%/4%. These escape attempt percentages are additive, i.e. with this perk the chance of escaping the hook is now 6%/7%/8%
-- Discordance now has limited range of 32/64/96 meters. It triggers one loud noise for a Generator when it's first marked. The aura of the Generator remains visible as long as the conditions are fulfilled. From the time the conditions are no longer fulfilled, the aura remains for another 8 seconds
-- Hex: Huntress Lullaby now only affects healing and repairing skill checks
-- Technician now prevents all Generator explosions from missed skill checks. The Generator loses an additional 5%/4%/3% progress for missed skill checks
+- Discordance now has limited range of 32/64/96 meters. It triggers one loud noise for a Generator when it's first marked. The aura of the Generator remains visible as long as the conditions are fulfilled. From the time the conditions are no longer fulfilled, the aura remains for another 8 seconds
+- Hex: Huntress Lullaby now only affects healing and repairing skill checks
+- Technician now prevents all Generator explosions from missed skill checks. The Generator loses an additional 5%/4%/3% progress for missed skill checks
 - Pop Goes the Weasel now lasts 35/40/45 seconds
 - We're Gonna Live Forever now increases healing speed by 100% when healing a Survivor in the dying state. Players now gain a token when rescuing a Survivor by stunning the Killer with a pallet or blinding them with a flashlight
 
 ![PatchNotesDividerSmolWhite.png](247-4-3-0-mid-chapter/03-patchnotesdividersmolwhite.png)
 
-**Generator Terminology changes and clarifications:**
+**Generator Terminology changes and clarifications:**
 
-- A Generator losing progress over time is "regressing"
-- Putting a Generator into the regressing state is "damaging the Generator"
-- If a Generator loses some of its progress immediately, this is "losing progress"
-- A blocked Generator cannot change its progress
-- A blocked Generator retains its regression state, but no progress is lost until it is no longer blocked
-- A regressing Generator can lose progress due to other effects
-- e.g. a Generator affected by Ruin can still lose progress due to Surge
+- A Generator losing progress over time is "regressing"
+- Putting a Generator into the regressing state is "damaging the Generator"
+- If a Generator loses some of its progress immediately, this is "losing progress"
+- A blocked Generator cannot change its progress
+- A blocked Generator retains its regression state, but no progress is lost until it is no longer blocked
+- A regressing Generator can lose progress due to other effects
+- e.g. a Generator affected by Ruin can still lose progress due to Surge
 - Surge, Pop Goes the Weasel, and Overcharge have had their text updated to reflect these changes
 
 ![PatchNotesDividerSmolWhite.png](247-4-3-0-mid-chapter/04-patchnotesdividersmolwhite.png)
@@ -84,7 +84,7 @@ At the moment, the cost of missing a Punishment of the Damned attack is too high
 
 **4K UI Icons**
 
-- Updated Character portraits and customization icons for better resolution at 4K. *This may result in your custom icons being replaced when you update.*
+- Updated Character portraits and customization icons for better resolution at 4K. *This may result in your custom icons being replaced when you update.*
 
 ![PatchNotesDividerSmolWhite.png](247-4-3-0-mid-chapter/06-patchnotesdividersmolwhite.png)
 

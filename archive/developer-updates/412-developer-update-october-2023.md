@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/412-developer-upda
 author: "Peanits"
 published: "2023-10-05T13:58:01+00:00"
 updated: "2023-10-05T13:58:01+00:00"
-archived: "2026-09-26T02:20:15Z"
+archived: "2026-09-26T16:43:12Z"
 ---
 
 <!-- summary -->
@@ -33,7 +33,7 @@ With the overhaul on the PTB, we set our sights on the frustrating strategies th
 
 **Scanning**
 
-During the PTB, many Killers reported having difficulties scanning Survivors with their drones, making the frequency of Lock On lower than we’d like. To ensure that her Eyes in the Sky truly are *tools of torment*(sorry), we have a series of changes in store.
+During the PTB, many Killers reported having difficulties scanning Survivors with their drones, making the frequency of Lock On lower than we’d like. To ensure that her Eyes in the Sky truly are *tools of torment* (sorry), we have a series of changes in store.
 
 First, we noticed that because drones always rotated clockwise, it was far less likely that Survivors would be scanned if they were also running a loop clockwise since the beams would cross their path less often. This is most noticeable on tiles which Survivors ideally want to run in a clockwise direction anyway to line themselves up for a fast vault.
 
@@ -43,7 +43,7 @@ This way, you can swap directions to force the beam to cross a Survivor’s path
 
 Second, some found drone management to be a little stressful, largely since recalling a drone would put your Power on cooldown. This forced the Killer to rush to recall drones that are no longer needed whenever they had a moment of downtime so their Power was ready for their next chase.
 
-To address this, **drones can now be recalled at any time**and**recalling a drone no longer incurs a cooldown**.
+To address this, **drones can now be recalled at any time** and **recalling a drone no longer incurs a cooldown**.
 
 **Eyes in the Sky**
 
@@ -67,7 +67,7 @@ Anti Face-camping is here- and so is the Killer. This mechanic aims to provide S
 
 One of the most common critiques of this mechanic comes from the way the meter immediately starts to fill before the Killer could possibly walk away. Although this alone wouldn’t cause Survivors to free themselves, this understandably feels as if the game is wrongly treating you as if you’re camping.
 
-There will now be a**7 second grace period before the meter starts filling after hooking a Survivor**. This will give the Killer an opportunity to walk away before the system kicks in, with a little wiggle room to kick a nearby generator or reload at a locker.
+There will now be a **7 second grace period before the meter starts filling after hooking a Survivor**. This will give the Killer an opportunity to walk away before the system kicks in, with a little wiggle room to kick a nearby generator or reload at a locker.
 
 **Dying & Carried Survivors**
 
@@ -99,7 +99,7 @@ With this new version, Furtive Chase rewards the Killer for switching targets an
 
 This Perk is most often used for saving teammates, allowing you to get into position quickly in key moments. However, since the Killer’s pickup animation is shorter than the Perk’s duration, it would usually be too late to save your teammate by the time the speed boost ended.
 
-Therefore, **Background Player now causes you to sprint at 200% speed** (was 150%) **for 5 seconds**(was 4 seconds) **when the Killer picks up a dying Survivor**.
+Therefore, **Background Player now causes you to sprint at 200% speed** (was 150%) **for 5 seconds** (was 4 seconds) **when the Killer picks up a dying Survivor**.
 
 This way, Background Player will allow you to cover more distance quicker than before, potentially allowing you to get into position in time to make the save.
 

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/283-4-7-2-bugfix-p
 author: "Peanits"
 published: "2021-05-19T14:28:54+00:00"
 updated: "2021-05-19T14:28:54+00:00"
-archived: "2026-09-26T02:18:38Z"
+archived: "2026-09-26T16:40:52Z"
 ---
 
 <!-- summary -->
@@ -30,7 +30,7 @@ Hook-struggle scoring, the Survivor pick-up zones on the Gas Station car pile an
 - Fixed an issue which prevented survivors from being picked up if close to certain basement walls.
 - Fixed an issue which caused one hatch in Grim Pantry spawns above the ground.
 - Fixed an issue which allowed Killers to completely block access to some Coldwind Farm basements.
-- Fixed an issue which could cause the hook struggle prompt to display an incorrect skill check keybinding.
+- Fixed an issue which could cause the hook struggle prompt to display an incorrect skill check keybinding.
 - Fixed an issue which could allow changing the selected Killer while searching for a match.
 - Fixed an issue which could prevent accessories from remaining properly attached to the Hag’s mud phantasm while wearing certain outfits.
 - Fixed an issue which could cause a desync for Killer players if a survivor disconnected while being killed.

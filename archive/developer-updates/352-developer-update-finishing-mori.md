@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/352-developer-upda
 author: "Peanits"
 published: "2022-09-22T14:51:31+00:00"
 updated: "2022-09-22T14:51:31+00:00"
-archived: "2026-09-26T02:20:19Z"
+archived: "2026-09-26T16:43:26Z"
 ---
 
 <!-- summary -->
@@ -64,7 +64,7 @@ With the Finishing Mori being triggered automatically when the last Survivor is 
 
 Much like the Perk changes listed above, please keep in mind that these Offering changes will not be released without the Finishing Mori system.
 
-The Finishing Mori system, anti-slugging mechanic, and other changes mentioned in this post will be available for testing during next week’s Public Test Build. As a reminder, these new features **will not**be a part of the 6.3.0 update: This is an early preview that is not yet ready for release. We would like to gather your feedback early as we continue developing these features to make their eventual release as smooth as possible.
+The Finishing Mori system, anti-slugging mechanic, and other changes mentioned in this post will be available for testing during next week’s Public Test Build. As a reminder, these new features **will not** be a part of the 6.3.0 update: This is an early preview that is not yet ready for release. We would like to gather your feedback early as we continue developing these features to make their eventual release as smooth as possible.
 
 Until next time…
 

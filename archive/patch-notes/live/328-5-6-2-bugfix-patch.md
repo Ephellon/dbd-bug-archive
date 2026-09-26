@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/328-5-6-2-bugfix-p
 author: "Peanits"
 published: "2022-03-23T14:28:09+00:00"
 updated: "2022-03-23T15:26:28+00:00"
-archived: "2026-09-26T02:18:33Z"
+archived: "2026-09-26T16:40:45Z"
 ---
 
 <!-- summary -->
@@ -39,9 +39,9 @@ Bloodletting, Vector Victory and Pulcinella cosmetics were corrected to no longe
 - Fixed an issue that caused an incorrect camera orientation while projecting as The Onryo to a nearby near TV.
 - Fixed an issue that prevented a Survivor using perk Head On from killing The Nemesis' zombies when dashing out of a locker.
 - Fixed an issue that caused a generic icon to be shown when using a Killer power.
-- Fixed an issue that caused The Nurse's blink charge animation to loop when charging her power.
+- Fixed an issue that caused The Nurse's blink charge animation to loop when charging her power.
 - Fixed an issue that prevented progress of The Demogorgon's Daily Ritual.
-- Fixed an issue that prevented The Nurse's blink charge time from being increased when using Kavanagh's Last Breath and Heavy Panting add-ons.
+- Fixed an issue that prevented The Nurse's blink charge time from being increased when using Kavanagh's Last Breath and Heavy Panting add-ons.
 - Fixed an issue that caused Survivor to instantly wiggle free when being downed while the Killer was carrying another Survivor with 90% or more wiggle progress.
 - Fixed an issue that caused the makeup to be missing from Elodie's 50's Night Out outfit icon.
 

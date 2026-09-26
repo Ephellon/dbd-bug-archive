@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/295-5-2-1-bugfix-p
 author: "DeathByGiggles"
 published: "2021-09-14T14:29:10+00:00"
 updated: "2021-09-20T18:58:28+00:00"
-archived: "2026-09-26T02:18:36Z"
+archived: "2026-09-26T16:40:49Z"
 ---
 
 <!-- summary -->
@@ -51,7 +51,7 @@ The update primarily addresses a wide range of bugs, restoring Steam Family Shar
 - Fixed an issue that caused the Gateway screen effect to remain when spectating the Cenobite while opening a gateway and switching to a survivor.
 - Fixed an issue that caused the player name not to change properly when switching to spectating the Cenobite while he possesses a gateway.
 - Fixed an issue that caused survivors to be able to stun the Nightmare with a Dream Pallet.
-- Fixed an issue that caused the killer to be unable to pick up survivors downed while working on one of the short sides of a generator.
+- Fixed an issue that caused the killer to be unable to pick up survivors downed while working on one of the short sides of a generator.
 - Fixed an issue that caused the killer to be unable to pick up a survivor downed while trying to enter an occupied locker.
 - Fixed an issue that caused the Locked & Found challenge not to track depleted keys.
 - Fixed an issue that caused progress towards the Punch Drunk achievement not to be tracked.
@@ -71,15 +71,15 @@ The update primarily addresses a wide range of bugs, restoring Steam Family Shar
 - Fixed an issue where survivors can get blocked by the collision of a rock at the stone structure in Red Forest.
 - Fixed an issue where there's an invisible collision blocking the flow of a chase at any drops from the 2nd floor in Ormond.
 - Fixed an issue where a Plague's fountain collision prevents going up a set of stairs in Hawkins National Laboratory.
-- Fixed an issue where one of the main hall generators doesn't count toward Raccoon City Recruit.
+- Fixed an issue where one of the main hall generators doesn't count toward Raccoon City Recruit.
 - Fixed an issue where the survivors can use dead hard to jump over garbage bags in Haddonfield.
 - Fixed an issue where a hatch in RPD cannot be opened with a key.
 - Fixed an issue where survivors could escape the Trial by forcing collision with a rail near the stairs while healing another Survivor in the helicopter area of RPD.
 - Fixed an issue where survivor can't interact with one of the Nightmare's clocks in Raccoon City Police Station.
-- Fixed an issue where the killers snap on top of a sink when kicking a generator in RPD.
+- Fixed an issue where the killers snap on top of a sink when kicking a generator in RPD.
 - Fixed an issue where there is an invisible collision for survivor and killer when falling off one side of a Hill.
-- Fixed an issue where Claudette's Patrol cap sinks inside her head while repairing generators.
-- Fixed an issue where the chase music stops abruptly when killer interrupts survivor fixing a generator.
+- Fixed an issue where Claudette's Patrol cap sinks inside her head while repairing generators.
+- Fixed an issue where the chase music stops abruptly when killer interrupts survivor fixing a generator.
 - Fixed an issue where a drop item sound was playing incorrectly in the killer tutorial.
 
 ![PatchNotesDivider (1).png](295-5-2-1-bugfix-patch/03-patchnotesdivider-281-29.png)

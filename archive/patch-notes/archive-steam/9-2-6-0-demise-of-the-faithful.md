@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/9-2-6-0-demise-of-
 author: "Peanits"
 published: "2020-02-28T17:18:09+00:00"
 updated: "2020-03-02T15:12:30+00:00"
-archived: "2026-09-26T02:19:03Z"
+archived: "2026-09-26T16:41:22Z"
 ---
 
 <!-- summary -->
@@ -37,7 +37,7 @@ The Plague joins the roster as a new Killer, Jane Romero arrives as a new Surviv
 - Feature - Integrated an updated version of the Unreal Engine (4.21, from 4.20).
 - Feature - Modified the progression display for certain Daily Rituals. Instead of showing the percentage and minutes, we're now showing the amount and seconds. This is applicable for the following Daily Rituals: Blood Dance, Reconstruction Ritual, Rite of Ruin, Wild Dance, and Hunt Ritual.
 
-This update also contains some additional optimizations for all platforms. [Click here for more information](https://forum.deadbydaylight.com/en/discussion/49456/optimization-status-update-road-to-60fps)
+This update also contains some additional optimizations for all platforms. [Click here for more information](https://forum.deadbydaylight.com/en/discussion/49456/optimization-status-update-road-to-60fps)
 
 ## Balance
 
@@ -89,7 +89,7 @@ This update also contains some additional optimizations for all platforms. [Cli
 
 **Ranking changes:**
 
-Pipping Thresholds: We have made some changes to the Emblem system that will affect the difficulty in which players rank up and subsequently maintain their rank. The rank groups (colors) now come with their own pipping requirements. The thresholds increase through each rank group up to the red ranks making it more difficult to pip / double pip, and easier to lose a pip. See below:
+Pipping Thresholds: We have made some changes to the Emblem system that will affect the difficulty in which players rank up and subsequently maintain their rank. The rank groups (colors) now come with their own pipping requirements. The thresholds increase through each rank group up to the red ranks making it more difficult to pip / double pip, and easier to lose a pip. See below:
 
 - Rank 17-20 (BEIGE): 0-8 points = 0 pips; 9-13 points = +1 pip; 14-16 points = +2 pips.
 - Rank 13-16 (YELLOW): 0-5 points = -1 pip; 6-9 points = 0 pips; 10-13 points = +1 pip; 14-16 points = +2 pips.

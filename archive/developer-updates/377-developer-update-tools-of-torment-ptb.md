@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/377-developer-upda
 author: "Peanits"
 published: "2023-02-23T14:58:45+00:00"
 updated: "2023-02-23T14:58:45+00:00"
-archived: "2026-09-26T02:20:18Z"
+archived: "2026-09-26T16:43:20Z"
 ---
 
 <!-- summary -->
@@ -33,9 +33,9 @@ Now, without further ado…
 
 ## The Skull Merchant
 
-First up, deploying a drone to begin with. In the PTB, releasing a drone would put your power on cooldown for 12.5 seconds. This could feel a little limiting considering drones already cannot be placed within a certain range of one another. **We’ve decoupled deploying drones from the power’s cooldown.**The cooldown is now solely used for reactivating existing drones, and furthermore **has been lowered to 10 seconds (was 12.5)**.
+First up, deploying a drone to begin with. In the PTB, releasing a drone would put your power on cooldown for 12.5 seconds. This could feel a little limiting considering drones already cannot be placed within a certain range of one another. **We’ve decoupled deploying drones from the power’s cooldown.** The cooldown is now solely used for reactivating existing drones, and furthermore **has been lowered to 10 seconds (was 12.5)**.
 
-Once a drone is deployed, it would take 4 seconds to become active. This gave Survivors a lot of time to react and move away before it began locking on. For the release, **we are lowering the initialization time of newly placed drones to 3 seconds**.
+Once a drone is deployed, it would take 4 seconds to become active. This gave Survivors a lot of time to react and move away before it began locking on. For the release, **we are lowering the initialization time of newly placed drones to 3 seconds**.
 
 Speaking of newly placed drones, Survivors were previously capable of disabling a drone after only 5 seconds. This could allow bold and coordinated Survivors to disable a drone before it could have any meaningful effect. For release, **we’re increasing the unhackable window to 10 seconds**. Once the drone becomes hackable, it will remain active for an additional 20 seconds (for a total combined active time of 30 seconds, much like the PTB). The Killer can reactivate a drone at will using their scanner.
 
@@ -85,7 +85,7 @@ This new perk for Renato Lyra caused him to break into a sprint upon unhooking a
 
 This perk **now activates when the Killer picks up another Survivor**, and **the duration of its sprint has been reduced to 4 seconds** (was 6).
 
-How you choose to use this speed is up to you! Whether you’re trying to get into position for a save, get closer to the hook for a rescue, or simply to *get away as fast as possible-*we leave that to you to decide.
+How you choose to use this speed is up to you! Whether you’re trying to get into position for a save, get closer to the hook for a rescue, or simply to *get away as fast as possible-* we leave that to you to decide.
 
 The Tools of Torment Chapter launches March 7th. Keep your eyes to the sky, but don’t forget to check if the Killer’s heading your way every once in a while. We’ll be watching. 👀
 

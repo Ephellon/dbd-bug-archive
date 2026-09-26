@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/506-8-7-1-bugfix-p
 author: "ThatRyanB"
 published: "2025-05-15T14:28:21+00:00"
 updated: "2025-05-15T14:28:21+00:00"
-archived: "2026-09-26T02:18:11Z"
+archived: "2026-09-26T16:40:15Z"
 ---
 
 <!-- summary -->
@@ -25,7 +25,7 @@ The Nemesis killer returns, and the 2V8 game mode is reinstated on May 15 with G
 
 ## Content
 
-- The Nemesis Killer has been re-enabled.
+- The Nemesis Killer has been re-enabled.
 
 ![bar_white.png](506-8-7-1-bugfix-patch/02-bar-white.png)
 
@@ -39,11 +39,11 @@ The Nemesis killer returns, and the 2V8 game mode is reinstated on May 15 with G
 
 ### Bot improvements
 
-- Killer Bots have learned to sometimes take indirect paths to corner or to sneak up on Survivors.
-- Killer Bots are now more consistent at keeping the chase going around loops with tall walls.
+- Killer Bots have learned to sometimes take indirect paths to corner or to sneak up on Survivors.
+- Killer Bots are now more consistent at keeping the chase going around loops with tall walls.
 - Wraith Bot no longer becomes obsessed with a Zombie that body-blocked him.
-- Survivor Bots will look for another hatch when a Player Survivor is nearby.
-- Killer Bots no longer focus and attack a Survivor that has just been unhooked.
+- Survivor Bots will look for another hatch when a Player Survivor is nearby.
+- Killer Bots no longer focus and attack a Survivor that has just been unhooked.
 
 ![bar_red.png](506-8-7-1-bugfix-patch/04-bar-red.png)
 
@@ -52,15 +52,15 @@ The Nemesis killer returns, and the 2V8 game mode is reinstated on May 15 with G
 ### Audio
 
 - Fixed an issue that caused the Rift Pass progress bar to not have any audio if User has unlocked multiple tiers but has not purchased the premium track.
-- Fixed an issue that caused Killers with the ''Stridor'' Perk to not hear grunts of pain from recently unhooked Survivors with the ''Off the Record'' perk.
+- Fixed an issue that caused Killers with the ''Stridor'' Perk to not hear grunts of pain from recently unhooked Survivors with the ''Off the Record'' perk.
 - Fixed an issue that caused Orela's hook screams to sometimes be too loud or too low. A mix pass has been done on her hook screams.
 
 ### Bots
 
-- Fixed an issue with Killer Bots being stuck at vaults locations when a Survivor is in the dying state behind the vault.
-- Fixed multiple issues with Killer Bots standing still for long periods of time.
-- Fixed issues with Killer Bots being unable to correctly pick up a Survivor.
-- Fixed an issue causing Killer Bots to repeatedly miss their basic attacks by standing a specific distance away from them.
+- Fixed an issue with Killer Bots being stuck at vaults locations when a Survivor is in the dying state behind the vault.
+- Fixed multiple issues with Killer Bots standing still for long periods of time.
+- Fixed issues with Killer Bots being unable to correctly pick up a Survivor.
+- Fixed an issue causing Killer Bots to repeatedly miss their basic attacks by standing a specific distance away from them.
 - Fixed multiple issues with Nurse Bot getting stuck using her power.
 
 ### Characters
@@ -75,47 +75,47 @@ The Nemesis killer returns, and the 2V8 game mode is reinstated on May 15 with G
 - Fixed an issue where The Trickster could trigger the Main Event vignette without gaining the power.
 - Fixed an issue that caused the Demogorgon's screen to stay stuck in the black Traverse Upside Down screen when spamming the attack button during the teleport.
 - Fixed an issue where The Pig was unable to perform actions while a Reverse Bear Trap was being triggered.
-- Fixed an issue where The Nemesis' basic attack no longer worked with any M1 perk (Save The Best For Last, Play With Your Food, etc).
+- Fixed an issue where The Nemesis' basic attack no longer worked with any M1 perk (Save The Best For Last, Play With Your Food, etc).
 - Fixed an issue where The Unknown's hallucinations were sometimes invisible/transparent.
 - Fixed an issue where The Singularity and The Lich's projectiles stuttered while traveling.
 - Fixed an issue that could cause attack delays with The Artist's Crows.
-- Fixed an issue where The Deathslinger's aim animation did not always play from Survivor POV.
-- Fixed an issue where The Doctor's Shock Therapy prevented Survivors from vaulting.
-- Fixed an issue where the incorrect portrait effect was displayed when affected by the Doctor's Tier II Madness for the second time.
+- Fixed an issue where The Deathslinger's aim animation did not always play from Survivor POV.
+- Fixed an issue where The Doctor's Shock Therapy prevented Survivors from vaulting.
+- Fixed an issue where the incorrect portrait effect was displayed when affected by the Doctor's Tier II Madness for the second time.
 - Fixed an issue where several animations did not play when being out of line of sight when they were initiated.
 
 ### Environment/Maps
 
-- Fixed an issue on Coldwind Farm where Killers could be blocked.
+- Fixed an issue on Coldwind Farm where Killers could be blocked.
 - Fixed multiple issues with the Basements in all realms.
 - Fixed an issue in the 2v8 version of Wretched Shop where a pallet was floating.
 - Fixed an issue on Ormond Lake Mine where players would clip through the top of lockers when escaping them.
-- Fixed an issue on Mount Ormond Resort tile that had a visible seam on the basement floor of the main building.
+- Fixed an issue on Mount Ormond Resort tile that had a visible seam on the basement floor of the main building.
 
 ### Perks
 
-- Fixed an issue when Survivors with no hook states get the healing effect from Do No Harm after using Shoulder the Burden.
-- Fixed an issue where Survivors still made a grunt when falling when Balanced Landing was active.
+- Fixed an issue when Survivors with no hook states get the healing effect from Do No Harm after using Shoulder the Burden.
+- Fixed an issue where Survivors still made a grunt when falling when Balanced Landing was active.
 - Fixed an issue where the duration timer was not displayed in the HUD when using Reassurance.
 
 ### Platforms
 
-- (Steam) Fixed an issue where resizing the window while the Killer is about to perform an action breaks the Tutorial flow.
+- (Steam) Fixed an issue where resizing the window while the Killer is about to perform an action breaks the Tutorial flow.
 
 ### Quests
 
-- Fixed an issue where perks for revealing Survivor auras give inconsistent amount of progress towards Quests.
+- Fixed an issue where perks for revealing Survivor auras give inconsistent amount of progress towards Quests.
 
 ### UI
 
-- Fixed an issue in the lobby where the matchmaking text and icon could overlap in some languages.
+- Fixed an issue in the lobby where the matchmaking text and icon could overlap in some languages.
 - Fixed a crash that would occur when transitioning to the Archives after opening the Credits.
 - Fixed an issue where selecting a challenge for a specific role would change the tab in the Compendium when using a controller.
-- Fixed an issue in the Rift where 2D item previews would reappear and overlap after selecting unbreakable outfits.
+- Fixed an issue in the Rift where 2D item previews would reappear and overlap after selecting unbreakable outfits.
 
 ### Miscellaneous
 
-- Fixed an issue that caused the End Game Collapse not to end when a Survivor held the Run/Rushed key/button while in a locker.
+- Fixed an issue that caused the End Game Collapse not to end when a Survivor held the Run/Rushed key/button while in a locker.
 
 <!-- nav -->
 &larr; [8.7.0 | Steady Pulse](505-8-7-0-steady-pulse.md) · [Live](../../index.md#live) · [8.7.2 | Bugfix Patch](508-8-7-2-bugfix-patch.md) &rarr;

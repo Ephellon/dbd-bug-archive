@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/375-developer-upda
 author: "Peanits"
 published: "2023-02-10T14:55:50+00:00"
 updated: "2023-02-10T14:55:50+00:00"
-archived: "2026-09-26T02:20:18Z"
+archived: "2026-09-26T16:43:22Z"
 ---
 
 <!-- summary -->
@@ -35,7 +35,7 @@ Home to both The Huntress and The Plague, the Red Forest debuted nearly six year
 
 They say a picture’s worth a thousand words, so rather than having you read a few thousand words, take a look at these previews!
 
-![MapCaptures_0002_Layer-5.png](375-developer-update-february-2023/03-mapcaptures-0002-layer-5.png)    ![MapCaptures_0005_Layer-2.png](375-developer-update-february-2023/04-mapcaptures-0005-layer-2.png)    ![MapCaptures_0004_Layer-3.png](375-developer-update-february-2023/05-mapcaptures-0004-layer-3.png)    ![MapCaptures_0000_Layer-7.png](375-developer-update-february-2023/06-mapcaptures-0000-layer-7.png)    ![Maps.png](375-developer-update-february-2023/07-maps.png)
+![MapCaptures_0002_Layer-5.png](375-developer-update-february-2023/03-mapcaptures-0002-layer-5.png) ![MapCaptures_0005_Layer-2.png](375-developer-update-february-2023/04-mapcaptures-0005-layer-2.png) ![MapCaptures_0004_Layer-3.png](375-developer-update-february-2023/05-mapcaptures-0004-layer-3.png) ![MapCaptures_0000_Layer-7.png](375-developer-update-february-2023/06-mapcaptures-0000-layer-7.png) ![Maps.png](375-developer-update-february-2023/07-maps.png)
 
 ## Map Repeat Prevention
 

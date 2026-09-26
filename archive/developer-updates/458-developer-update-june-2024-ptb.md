@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/458-developer-upda
 author: "Peanits"
 published: "2024-07-12T13:57:59+00:00"
 updated: "2024-07-12T13:57:59+00:00"
-archived: "2026-09-26T02:20:10Z"
+archived: "2026-09-26T16:42:58Z"
 ---
 
 <!-- summary -->
@@ -33,7 +33,7 @@ After taking in your feedback, we have made a few changes following our most rec
 
 *To make longer patrol paths more effective, we are applying a similar multiplier to banner spawn times. This means the banner will take longer to appear for longer patrol paths, up to double the normal time.*
 
-![CA_DBD_0224_ApplePie_Frame_Footer.png](458-developer-update-june-2024-ptb/03-ca-dbd-0224-applepie-frame-footer.png)    ![TheSingularity.png](458-developer-update-june-2024-ptb/04-thesingularity.png)
+![CA_DBD_0224_ApplePie_Frame_Footer.png](458-developer-update-june-2024-ptb/03-ca-dbd-0224-applepie-frame-footer.png) ![TheSingularity.png](458-developer-update-june-2024-ptb/04-thesingularity.png)
 
 - \[REVERTED\] Biopods no longer automatically aim at the nearest Survivor.
 - \[REVERTED\] Decreased Biopod targeting time to 0.6 seconds (was 0.8 seconds).
@@ -47,13 +47,13 @@ After taking in your feedback, we have made a few changes following our most rec
 
 *Dev note: This will make the option available for anyone who finds it helpful without forcing those who prefer to play without it! We’ll also be reducing the time it takes to destroy the controlled Biopod to save a little time.*
 
-![CA_DBD_0224_ApplePie_Frame_Footer.png](458-developer-update-june-2024-ptb/05-ca-dbd-0224-applepie-frame-footer.png)    ![Specialist.png](458-developer-update-june-2024-ptb/06-specialist.png)
+![CA_DBD_0224_ApplePie_Frame_Footer.png](458-developer-update-june-2024-ptb/05-ca-dbd-0224-applepie-frame-footer.png) ![Specialist.png](458-developer-update-june-2024-ptb/06-specialist.png)
 
 - \[CHANGE\] Increased token limit to 6 (was 3).
 
 *Dev note: Specialist seemed to be in a decent spot on the PTB, though the low token limit could make it a little awkward to use. We’ve increased the limit to 6 and will monitor to make sure it stays balanced.*
 
-![CA_DBD_0224_ApplePie_Frame_Footer.png](458-developer-update-june-2024-ptb/07-ca-dbd-0224-applepie-frame-footer.png)    ![Stridor.png](458-developer-update-june-2024-ptb/08-stridor.png)
+![CA_DBD_0224_ApplePie_Frame_Footer.png](458-developer-update-june-2024-ptb/07-ca-dbd-0224-applepie-frame-footer.png) ![Stridor.png](458-developer-update-june-2024-ptb/08-stridor.png)
 
 - \[CHANGE\] Stridor’s effect is now additive (was multiplicative). NOTE: This change will be implemented in a minor update in the coming weeks.
 - \[CHANGE\] Reduced gap between Perk tiers to make lower tiers more effective.
@@ -62,7 +62,7 @@ After taking in your feedback, we have made a few changes following our most rec
 
 *While we were at it, we’ve also reduced the gap between tiers to make lower level versions more useful.*
 
-![CA_DBD_0224_ApplePie_Frame_Footer.png](458-developer-update-june-2024-ptb/09-ca-dbd-0224-applepie-frame-footer.png)    ![CharacterSelection.png](458-developer-update-june-2024-ptb/10-characterselection.png)
+![CA_DBD_0224_ApplePie_Frame_Footer.png](458-developer-update-june-2024-ptb/09-ca-dbd-0224-applepie-frame-footer.png) ![CharacterSelection.png](458-developer-update-june-2024-ptb/10-characterselection.png)
 
 - \[CHANGE\] Reduced the size of character portraits.
 - \[CHANGE\] Increased number of characters per row to 4 (was 3).

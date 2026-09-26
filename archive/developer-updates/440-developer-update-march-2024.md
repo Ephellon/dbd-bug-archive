@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/440-developer-upda
 author: "Peanits"
 published: "2024-03-28T13:57:39+00:00"
 updated: "2024-03-28T13:57:39+00:00"
-archived: "2026-09-26T02:20:12Z"
+archived: "2026-09-26T16:43:05Z"
 ---
 
 <!-- summary -->
@@ -57,13 +57,13 @@ Spring has sprung, and so has a new Developer Update! In this post, we’ll shar
 
 *Dev note: We have updated the Visual Terror Radius to include Victor’s grunts to improve accessibility, and added a red glow to Victor whenever he is vulnerable to being crushed to improve visual feedback.*
 
-![CA_DBD_0324_Generic_Frame_Template_FOOTER_example.png](440-developer-update-march-2024/05-ca-dbd-0324-generic-frame-template-footer-example.png)    ![TheBlight.png](440-developer-update-march-2024/06-theblight.png)
+![CA_DBD_0324_Generic_Frame_Template_FOOTER_example.png](440-developer-update-march-2024/05-ca-dbd-0324-generic-frame-template-footer-example.png) ![TheBlight.png](440-developer-update-march-2024/06-theblight.png)
 
 - **`[CHANGE]`** Improved collision detection to reduce cases where The Blight slides off objects.
 
 *Dev note: It could be frustrating to slide off an object you were trying to bump into and end your Rush prematurely. We have improved the collision detection to make The Blight’s Rush more consistent. This also fixes an issue which allowed The Blight to incorrectly slide along obstacles and lunge around tighter corners than intended.*
 
-![CA_DBD_0324_Generic_Frame_Template_FOOTER_example.png](440-developer-update-march-2024/07-ca-dbd-0324-generic-frame-template-footer-example.png)    ![Haddonfield.png](440-developer-update-march-2024/08-haddonfield.png)
+![CA_DBD_0324_Generic_Frame_Template_FOOTER_example.png](440-developer-update-march-2024/07-ca-dbd-0324-generic-frame-template-footer-example.png) ![Haddonfield.png](440-developer-update-march-2024/08-haddonfield.png)
 
 - **`[CHANGE]`** Updated map layout and reduced the overall size.
 - **`[CHANGE]`** Reduced the length of hedges and fences to create more openings.
@@ -83,7 +83,7 @@ Spring has sprung, and so has a new Developer Update! In this post, we’ll shar
 
 *Dev note: The outdoor areas were fairly empty before, encouraging Survivors to make a run for the nearest house when they were chased. Since we’ve reduced the strength of houses, we have added some additional loops to the street & edges of the map to spread out chases and reduce deadzones.*
 
-![HaddonfieldStreet.png](440-developer-update-march-2024/10-haddonfieldstreet.png)    ![CA_DBD_0324_Generic_Frame_Template_FOOTER_example.png](440-developer-update-march-2024/11-ca-dbd-0324-generic-frame-template-footer-example.png)    ![DecisiveStrike.png](440-developer-update-march-2024/12-decisivestrike.png)
+![HaddonfieldStreet.png](440-developer-update-march-2024/10-haddonfieldstreet.png) ![CA_DBD_0324_Generic_Frame_Template_FOOTER_example.png](440-developer-update-march-2024/11-ca-dbd-0324-generic-frame-template-footer-example.png) ![DecisiveStrike.png](440-developer-update-march-2024/12-decisivestrike.png)
 
 - **`[CHANGE]`** Increased stun duration to 5 seconds (was 3 seconds).
 - ***`[NEW]`*** Added a new stabbing animation when Decisive Strike is used successfully.
@@ -92,7 +92,7 @@ Spring has sprung, and so has a new Developer Update! In this post, we’ll shar
 
 *While we were at it, we added a new animation which plays when a Survivor successfully uses Decisive Strike to break free to give some visual flair to the Perk.*
 
-![CA_DBD_0324_Generic_Frame_Template_FOOTER_example.png](440-developer-update-march-2024/13-ca-dbd-0324-generic-frame-template-footer-example.png)    ![Adrenaline.png](440-developer-update-march-2024/14-adrenaline.png)
+![CA_DBD_0324_Generic_Frame_Template_FOOTER_example.png](440-developer-update-march-2024/13-ca-dbd-0324-generic-frame-template-footer-example.png) ![Adrenaline.png](440-developer-update-march-2024/14-adrenaline.png)
 
 - **`[CHANGE]`** Adrenaline no longer activates if you are hooked when the gates are powered.
 - **`[CHANGE]`** Reduced speed boost duration to 3 seconds (was 5 seconds).
@@ -102,7 +102,7 @@ Spring has sprung, and so has a new Developer Update! In this post, we’ll shar
 
 *We’ve also removed the wake-up effect when facing The Nightmare to clean up the Perk as we’ve moved away from Perks that affect specific Killer Powers over the years.*
 
-![CA_DBD_0324_Generic_Frame_Template_FOOTER_example.png](440-developer-update-march-2024/15-ca-dbd-0324-generic-frame-template-footer-example.png)    ![UltimateWeapon.png](440-developer-update-march-2024/16-ultimateweapon.png)
+![CA_DBD_0324_Generic_Frame_Template_FOOTER_example.png](440-developer-update-march-2024/15-ca-dbd-0324-generic-frame-template-footer-example.png) ![UltimateWeapon.png](440-developer-update-march-2024/16-ultimateweapon.png)
 
 - **`[CHANGE]`** Now reveals Survivors aura instead of causing them to scream.
 - **`[CHANGE]`** Reduced activation time to 15 seconds (was 30 seconds).
@@ -112,13 +112,13 @@ Spring has sprung, and so has a new Developer Update! In this post, we’ll shar
 
 *Since Ultimate Weapon is easy to activate, it was possible to keep its effect active throughout the entire match. We have increased the cooldown and decreased its activation window to ensure some downtime between uses.*
 
-![CA_DBD_0324_Generic_Frame_Template_FOOTER_example.png](440-developer-update-march-2024/17-ca-dbd-0324-generic-frame-template-footer-example.png)    ![Emblems.png](440-developer-update-march-2024/18-emblems.png)
+![CA_DBD_0324_Generic_Frame_Template_FOOTER_example.png](440-developer-update-march-2024/17-ca-dbd-0324-generic-frame-template-footer-example.png) ![Emblems.png](440-developer-update-march-2024/18-emblems.png)
 
 - **`[CHANGE]`** Removed the ability to lose a pip.
 
 *Dev note: With Emblems being used solely for monthly rewards these days, it felt needlessly punishing to lose a pip after a rough match. This quality-of-life change will make the Emblem system less stressful. This also applies to Modifiers – you can enjoy these limited time modes without worrying about your grade!*
 
-![CA_DBD_0324_Generic_Frame_Template_FOOTER_example.png](440-developer-update-march-2024/19-ca-dbd-0324-generic-frame-template-footer-example.png)    ![Store.png](440-developer-update-march-2024/20-store.png)
+![CA_DBD_0324_Generic_Frame_Template_FOOTER_example.png](440-developer-update-march-2024/19-ca-dbd-0324-generic-frame-template-footer-example.png) ![Store.png](440-developer-update-march-2024/20-store.png)
 
 - **`[CHANGE]`** Visual overhaul to the entire store menu.
 - **`[`*NEW*\]** Added “Specials” tab to highlight items that are on sale.
@@ -129,7 +129,7 @@ Spring has sprung, and so has a new Developer Update! In this post, we’ll shar
 
 *Dev note: The store hasn’t changed much since it was introduced in 2018. This update makes it easier to find what you’re looking for and allows us to bundle content together at a reduced price. For example, it’s now possible to purchase an entire DLC pack through the in-game store rather than purchasing each character separately.*
 
-![Store_Update_Collections.png](440-developer-update-march-2024/21-store-update-collections.png)    ![Store_Update_Featured.png](440-developer-update-march-2024/22-store-update-featured.png)    ![CA_DBD_0324_Generic_Frame_Template_FOOTER_example.png](440-developer-update-march-2024/23-ca-dbd-0324-generic-frame-template-footer-example.png)    ![Archives.png](440-developer-update-march-2024/24-archives.png)
+![Store_Update_Collections.png](440-developer-update-march-2024/21-store-update-collections.png) ![Store_Update_Featured.png](440-developer-update-march-2024/22-store-update-featured.png) ![CA_DBD_0324_Generic_Frame_Template_FOOTER_example.png](440-developer-update-march-2024/23-ca-dbd-0324-generic-frame-template-footer-example.png) ![Archives.png](440-developer-update-march-2024/24-archives.png)
 
 - **`[CHANGE]`** New Tomes & their respective Rifts will now open at the same time as the update.
 - **`[`*NEW*\]** New Rift Bundle option, which grants the Premium Rift rewards & a 20 tier head start at a discounted price.

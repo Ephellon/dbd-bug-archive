@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/433-developer-upda
 author: "Peanits"
 published: "2024-02-15T13:55:28+00:00"
 updated: "2024-02-15T13:55:28+00:00"
-archived: "2026-09-26T02:20:13Z"
+archived: "2026-09-26T16:43:08Z"
 ---
 
 <!-- summary -->
@@ -31,7 +31,7 @@ Before we dive in, we would like to remind everyone that while data may be fun t
 
 Starting things off, here’s an update to the 10 most popular Perks for each role! The percentage listed next to each Perk indicates their usage rate- in other words, the likelihood that someone will have it in their loadout. Arrows indicate if the Perk has moved up or down the list since we last shared stats, while a line shows that they remained in the same spot.
 
-![SURVIVOR_PERKS.png](433-developer-update-stats/02-survivor-perks.png)    ![KILLER_PERKS.png](433-developer-update-stats/03-killer-perks.png)
+![SURVIVOR_PERKS.png](433-developer-update-stats/02-survivor-perks.png) ![KILLER_PERKS.png](433-developer-update-stats/03-killer-perks.png)
 
 ## Popular Killers
 
@@ -67,7 +67,7 @@ Beyond the top 10, the pick rates are as follows (in descending popularity). For
 
 ## Deadliest Killers
 
-Who spilled the most blood last month? Many of you wanted to know, so we’ve gathered the data to share with you this time around. The numbers below are the percentage of all Survivors who are killed when facing that Killer. For example, a 50% kill rate would mean they kill two Survivors per match on average. We try to keep Killers near a 60% kill rate on average to keep matches relatively even and support the horror theme of the game, where the Killer is a force to be reckoned with and the survival is not guaranteed.
+Who spilled the most blood last month? Many of you wanted to know, so we’ve gathered the data to share with you this time around. The numbers below are the percentage of all Survivors who are killed when facing that Killer. For example, a 50% kill rate would mean they kill two Survivors per match on average. We try to keep Killers near a 60% kill rate on average to keep matches relatively even and support the horror theme of the game, where the Killer is a force to be reckoned with and the survival is not guaranteed.
 
 We’d like to remind you again that this data covers millions of matches across all skill levels. Some Killers may be stronger when mastered, but less powerful in the hands of someone less experienced. (Yes, a good Nurse is much scarier!)
 

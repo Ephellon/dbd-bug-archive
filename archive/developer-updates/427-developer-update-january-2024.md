@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/427-developer-upda
 author: "Peanits"
 published: "2024-01-08T14:55:52+00:00"
 updated: "2024-01-08T17:06:21+00:00"
-archived: "2026-09-26T02:20:14Z"
+archived: "2026-09-26T16:43:09Z"
 ---
 
 <!-- summary -->
@@ -115,7 +115,7 @@ The short version? Heat is good now.
 At the same time, we’ve made some general improvements to The Hillbilly’s kit and smoothed out some of the rougher edges.
 
 - The base Chainsaw Sprint movement speed has been increased by 10%.
-- Reduced the size of the Chainsaw’s collision detection  to make Chainsaw Sprints more maneuverable in maps with high density tiles
+- Reduced the size of the Chainsaw’s collision detection to make Chainsaw Sprints more maneuverable in maps with high density tiles
 - Camera sensitivity is no longer incorrectly tied to the controller sensitivity setting while using a mouse & keyboard. (Chainsaw controls are now equal to 100% sensitivity before.)
 
 **Add-Ons**
@@ -229,7 +229,7 @@ Whilst these will not be in the upcoming PTB, our first limited time modifier De
 
 Congratulations, you’ve reached the end of this very long Developer Update! Everything we’ve mentioned here will be available to test on the Public Test Build starting tomorrow.
 
-For more information on the Live Game Changes, **please join us in the**[**Dead by Daylight Community Discord**](https://discord.com/invite/deadbydaylight)**on the 9th January at 9.30am ET.**
+For more information on the Live Game Changes, **please join us in the** [**Dead by Daylight Community Discord**](https://discord.com/invite/deadbydaylight) **on the 9th January at 9.30am ET.**
 
 As always, we’ll take the time to read through your feedback and make further adjustments as needed before this update goes live on all platforms in the weeks following.
 

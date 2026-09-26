@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/282-4-7-1-bugfix-p
 author: "Peanits"
 published: "2021-05-11T14:26:45+00:00"
 updated: "2021-05-11T14:26:45+00:00"
-archived: "2026-09-26T02:18:39Z"
+archived: "2026-09-26T16:40:52Z"
 ---
 
 <!-- summary -->
@@ -43,7 +43,7 @@ Blight's rush now has a per-frame turn-rate cap and higher controller sensitivit
 - Fixed an issue that could cause the wrong first person animation to play when playing the Twins and taking control of Charlotte.
 - Fixed an issue that could prevent progress towards "Getting the Hang of it" when ranking up.
 - Fixed an issue that could prevent survivors from being hit by the Deathslinger's projectile while using a key.
-- Fixed an issue that could cause the Hag's phantasm trap to display the aura of the Hag when placed in front of a generator.
+- Fixed an issue that could cause the Hag's phantasm trap to display the aura of the Hag when placed in front of a generator.
 - Fixed an issue that could prevent the Nightmare from seeing survivor's sleep immunity timers.
 - Fixed an issue that could prevent a survivor's right arm from bending correctly when holding a firecracker.
 - Fixed an issue that could cause the Nightmare to become permanently invisible from the perspective of a survivor being killed with a "mori" interaction if the action is cancelled before the animation begins.

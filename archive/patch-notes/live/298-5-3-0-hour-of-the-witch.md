@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/298-5-3-0-hour-of-
 author: "Peanits"
 published: "2021-10-19T14:24:36+00:00"
 updated: "2021-10-19T14:35:02+00:00"
-archived: "2026-09-26T02:18:36Z"
+archived: "2026-09-26T16:40:49Z"
 ---
 
 <!-- summary -->
@@ -68,7 +68,7 @@ Mikaela Reid joins as a new survivor and The Archives now support event content,
 - New Add-on – Lengthened Jaws: Bear Traps inflict Deep Wound on Survivors
 - New Add-on – Tension Spring: The Bear Trap resets 2 seconds after a Survivor escapes from it
 - The following add-ons have been removed: Strong Coil Spring, Trap Setters, Logwood Dye, Setting Tools, Stitched Bag
-- New Bear Trap SFX when using Padded Jaws add-on
+- New Bear Trap SFX when using Padded Jaws add-on
 
 *Developer notes: The Trapper is DbD’s oldest killer, and he needed some love to bring him up to our modern standard of play. Many of these changes are focused around bringing him into line with how the rest of our Killers behave. Traps have been balanced to provide more consistent game experiences, and his add-ons have been overhauled to give a greater variety of options.*
 
@@ -90,7 +90,7 @@ Mikaela Reid joins as a new survivor and The Archives now support event content,
 - Add-on – Mother’s Helpers: Charge speed bonus after being stunned increased to 18% (was 12%)
 - Add-on – Tuned Carburetor: Charge speed bonus increased to 25% (was 20%)
 - Reworked Add-on – Black Grease: Increases Chainsaw charge speed by 18% for 30 seconds after being blinded
-- Reworked Add-on – Pighouse Gloves: While overheated, increases action speed by 20% when breaking pallets or walls, or damaging generators. While overheated, decreases duration of pallet stuns by 50%
+- Reworked Add-on – Pighouse Gloves: While overheated, increases action speed by 20% when breaking pallets or walls, or damaging generators. While overheated, decreases duration of pallet stuns by 50%
 
 *Developer notes: The engraving add-ons are very popular with players, but the increased charge time means he generates significantly more heat for a full charge with these add-ons than without. A heat reduction modifier has been added to keep the amount of heat produced for one full charge constant, and we’ve also improved some underperforming add-ons to make them more enticing.*
 
@@ -134,8 +134,8 @@ Mikaela Reid joins as a new survivor and The Archives now support event content,
 - Reworked Add-on – Workshop Grease: Increases Ambush attack charge speed by 50%. Decreases Ambush attack miss cooldown by 25%. Increased rarity to Uncommon (was Common)
 - Reworked Add-on – Last Will: Increases Ambush attack movement speed by 6%. Increases time to charge Ambush attack by 66%
 - Reworked Add-on – Interlocking Razor: Failing a Jigsaw Box skill check while injured will inflict Deep Wound on the Survivor
-- Reworked Add-on – Jigsaw’s Annotated Plan: Increases available Reverse Bear Traps by 1. Increases Reverse Bear Trap death timer by 10 seconds. Whenever a generator is completed, 10 seconds is removed from the death timer of all active Reverse Bear Traps
-- Reworked Add-on – Jigsaw’s Sketch: Increases available Reverse Bear Traps by 1. When a Survivor with a Reverse Bear Trap is working on a generator, that generator’s aura is revealed to you
+- Reworked Add-on – Jigsaw’s Annotated Plan: Increases available Reverse Bear Traps by 1. Increases Reverse Bear Trap death timer by 10 seconds. Whenever a generator is completed, 10 seconds is removed from the death timer of all active Reverse Bear Traps
+- Reworked Add-on – Jigsaw’s Sketch: Increases available Reverse Bear Traps by 1. When a Survivor with a Reverse Bear Trap is working on a generator, that generator’s aura is revealed to you
 - Reworked Add-on – Video Tape: Survivors begin the trial with Reverse Bear Traps installed. Rarity increased to Ultra Rare (was Uncommon)
 
 *Developer notes: We are happy to announce The Pig is getting an add-on balance pass! We have replaced a number of underperforming or unpopular add-ons with new effects and increased the values on others to make them more effective. On the other end, Tampered Timer and Crate of Gears could sometimes be too strong (especially when combined) so their values have been reduced. The end result should be an add-on set that is overall stronger, more diverse, and more fun to play.*
@@ -144,7 +144,7 @@ Mikaela Reid joins as a new survivor and The Archives now support event content,
 
 ### The Spirit
 
-- While phase walking Survivors within 24 meters of The Spirit (*not the husk)* hear a directional audio cue that gains volume with proximity
+- While phase walking Survivors within 24 meters of The Spirit (*not the husk)* hear a directional audio cue that gains volume with proximity
 - Add-on – Juniper Bonsai: Added effect: Increases Passive Phasing duration by 50%
 - Reworked Add-on – Dried Cherry Blossom: Survivors trigger Killer Instinct when they come within 4 meters of The Spirit while she is phasing. Scratch marks are no longer visible while using Yamaoka’s Haunting
 - Reworked Add-on – Wakizashi Saya: During Yamaoka’s Haunting, use the Active Ability button to return to the husk and end the haunting
@@ -154,7 +154,7 @@ Mikaela Reid joins as a new survivor and The Archives now support event content,
 - New Add-on – Furin: The phasing sound is heard by all Survivors
 - New Add-on – Kintsugi Teacup: Instantly recharges Yamaoka’s Haunting after breaking a pallet or wall
 - The following add-ons have been removed: Bloody Hair Brooch, Dirty Uwabaki, Katsumori Talisman, Prayer Beads Bracelet, Father’s Glasses
-- New Terror Radius music
+- New Terror Radius music
 
 *Developer notes: The Spirit’s phase walking mind-games have evolved into something of a Kobayashi Maru. By adding some audio cues, it should give sharp survivors a chance to figure out what she’s doing and react accordingly. Along with this, we’ve replaced some of her more problematic / boring add-ons with new ones that should provide more varied options for potential playstyles.*
 
@@ -178,9 +178,9 @@ Mikaela Reid joins as a new survivor and The Archives now support event content,
 - Add-on – Black Incense: Decreased survivor aura reveal duration to 3 seconds (was 5 seconds)
 - Add-on – Iridescent Seal: Removed speed penalty while holding Corrupt Purge
 - Reworked Add-on – Prayer Tablet Fragment: Vile Purge no longer affects Survivors. Increases object infection duration by 40 seconds. Increases infection from infected objects by 100%. Increases Devious Bloodpoints by 100%
-- Reworked Add-on – Olibanum Incense: Survivors who cleanse at fountains have their auras revealed for 4 seconds
+- Reworked Add-on – Olibanum Incense: Survivors who cleanse at fountains have their auras revealed for 4 seconds
 - Reworked Add-on – Prophylactic Amulet: Decreases the number of Pools of Devotion in the trial by 2
-- Reworked Add-on – Incensed Ointment: Ingesting the corruption at a Pool of Devotion causes all Survivors within The Plague’s Terror Radius to scream and reveal their locations
+- Reworked Add-on – Incensed Ointment: Ingesting the corruption at a Pool of Devotion causes all Survivors within The Plague’s Terror Radius to scream and reveal their locations
 - Reworked Add-on – Vile Emetic: Increases velocity of vomit projectiles by 10%
 
 *Developer notes: These changes are intended to be a general buff and to enhance quality-of-life for The Plague. It was far too common for players to attempt a quick purge only to accidentally release the charge a fraction of a second too early and unintentionally end up in cooldown, so we’ve changed the behaviour of early releases to charge to a minimum threshold instead of going on cooldown. We have also buffed the options for focusing on infecting objects during the trial, with infected objects now increasing infection faster than non-infected ones.*
@@ -193,7 +193,7 @@ Mikaela Reid joins as a new survivor and The Archives now support event content,
 - The Deathslinger must now wait for the Exit Aim animation to complete before being able to attack (0.6 seconds)
 - Increased movement speed when aiming down sights to 85% (was 75%)
 - The cooldown when a survivor breaks free is now the same duration as a successful hit cooldown
-- Increased terror radius to 32 meters (was 24 meters)
+- Increased terror radius to 32 meters (was 24 meters)
 - Add-on – Gold Creek Whiskey: Removed movement speed penalty
 - Add-on – Marshal’s Badge: Removed movement speed penalty
 - Add-on – Iridescent Coin: Decreased range requirement to 12 meters (was 15 meters)
@@ -258,7 +258,7 @@ Perk Balancing
 - Guardian (formerly Babysitter): Added a 7% Haste status effect for the rescued survivor. Removed the Killer seeing your aura. Killer aura visibility for you increased to 8 seconds (was 4 seconds)
 - For the People: Reduced the duration of the Broken status effect to 80/70/60 seconds (was 110/100/90 seconds)
 - Windows of Opportunity: Increased effective range to 24/28/32 meters (was 20 meters). Removed cooldown after vaulting / dropping a Pallet
-- Repressed Alliance: Generator repair requirement reduced to 55/50/45 seconds (was 80/70/60 seconds)
+- Repressed Alliance: Generator repair requirement reduced to 55/50/45 seconds (was 80/70/60 seconds)
 - Built to Last – Reworked: After hiding inside a Locker for 14/13/12 seconds with a depleted item in hand, 99% of its charges are refilled. Each use of Built to Last reduces the amount of charges refilled by 33%. Added stinger audio when item charges are refilled
 - Any Means Necessary: Added effect: You can see the auras of dropped pallets
 - No Mither: Grunts of pain reduction increased to 25/50/75% (was 0/25/50%). Added effect: Your recovery speed is increased by 15/20/25%
@@ -317,28 +317,28 @@ Perk Balancing
 - Fixed an issue that caused an error to sometimes occur while unlinking an unified account.
 - Fixed an issue that caused "" to be displayed in the public match and tally chats instead when entering blank text.
 - Fixed an issue that caused a pallet that can't be vaulted near the main building in Wretched Shop.
-- Fixed an issue that caused the Executioner's sfx to be delayed when he plants his blade into the ground.
-- Fixed an issue that caused a missing sfx during the chains animation when wearing the Chatterer outfit.
-- Fixed an issue that caused the splash SFX to be muffled when a survivor is hooked at certain locations in the Springwood map.
+- Fixed an issue that caused the Executioner's sfx to be delayed when he plants his blade into the ground.
+- Fixed an issue that caused a missing sfx during the chains animation when wearing the Chatterer outfit.
+- Fixed an issue that caused the splash SFX to be muffled when a survivor is hooked at certain locations in the Springwood map.
 - Fixed an issue that caused survivors to be able to use the Dead Hard and Sprint Burst sprints at the same time.
 - Fixed an issue that caused the survivor's voice to keep playing after the Cenobite's mori.
-- Fixed an issue that caused survivors to be able to walk over bear traps next to a window vault by spamming the vault button.
+- Fixed an issue that caused survivors to be able to walk over bear traps next to a window vault by spamming the vault button.
 - Fixed an issue that caused the mori music not to play for the survivor.
 - Fixed an issue that caused zombies not to react to bubble indicators.
 - Fixed an issue that caused the bonfire sound effect to be played on the Offering screen.
 - Fixed an issue that caused the Cenobite's music to be played despite being back in the default main menu.
 - Fixed an issue that caused the new Spirit's chase music to not be played on the Killer side.
 - Fixed an issue that caused the default killer theme to overlap with The Shape's Halloween theme in the main menu.
-- Fixed an issue that caused the terror radius to not always be played when affected by the Discipline add-on.
+- Fixed an issue that caused the terror radius to not always be played when affected by the Discipline add-on.
 - Fixed an issue that caused the carrying music to continue playing when a survivor disconnects while being picked up by the Killer.
-- Fixed an issue that caused a generator that can't be kicked by the killer in Hospital Map and Treatment Theatre.
+- Fixed an issue that caused a generator that can't be kicked by the killer in Hospital Map and Treatment Theatre.
 - Fixed an issue that caused the Killer not being able to pick up Survivor in a specific corner in Dead Dawg Saloon.
-- Fixed an issue that caused the generator in one of Midwich's classrooms that can't be repaired from one side.
+- Fixed an issue that caused the generator in one of Midwich's classrooms that can't be repaired from one side.
 - Fixed an issue that caused Survivors can't be picked up near the fences and bushes in Lampkin Lane.
-- Fixed an issue that caused a generator near one of Lery's exit gate from being kicked on one side.
+- Fixed an issue that caused a generator near one of Lery's exit gate from being kicked on one side.
 - Fixed an issue that caused Victor to fall out of bounds in a hole near the Exit Gate in Midwich.
 - Fixed an issue that caused two pallets to spawn very close to each other in Badham Preschool IV near the big house.
-- Fixed an issue that caused a generator in Grim Pantry not being able to be damaged from one side.
+- Fixed an issue that caused a generator in Grim Pantry not being able to be damaged from one side.
 - Fixed an issue that caused the Killer to stand in a weird place on Crotus Prenn Asylum.
 - Fixed an issue that caused Reverse Bear Traps that survivors start with at the begin of the match when the pig uses the Video Tape add-on not to activate properly.
 - Fixed an issue with the Progression Available button disappearing in the Tally after coming back from the Spectate mode
@@ -354,7 +354,7 @@ Perk Balancing
 - Fixed an issue that caused Survivors to become invisible after switching role in the custom game lobby while on the charm selection menu as Killer.
 - Fixed an issue when players could change a Daily Ritual multiple times by restarting the application after removing a Daily Ritual.
 - Tentatively fixed an issue when players would lose all of their characters progress after a save game error.
-- Tentatively fixed an issue when occasionally the ready button wouldn't work after an error pop-up in a survivor lobby.
+- Tentatively fixed an issue when occasionally the ready button wouldn't work after an error pop-up in a survivor lobby.
 - Fixed an issue that could cause incorrect press detection on the Onboarding menu buttons.
 - Fixed an issue that prevented the Tutorial objectives keyboard prompt icons from increasing with the large text setting.
 

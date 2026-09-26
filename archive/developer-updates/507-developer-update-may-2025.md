@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/507-developer-upda
 author: "ThatRyanB"
 published: "2025-05-26T12:58:23+00:00"
 updated: "2025-05-26T12:58:23+00:00"
-archived: "2026-09-26T02:20:04Z"
+archived: "2026-09-26T16:42:48Z"
 ---
 
 <!-- summary -->
@@ -98,7 +98,7 @@ Read on for all the details:
 
 ***DEV NOTE**: Dead by Daylight is a game that relies heavily on the play between light and dark, which can be difficult to strike a balance between when playing on console, given the more limited options available. To help alleviate this, we’ve added a setting for adjusting Gamma, which gives players more control over how light and dark elements are displayed.*
 
-![GammaSetting_Menu.png](507-developer-update-may-2025/10-gammasetting-menu.png)    ![GammaSetting_Lowest.png](507-developer-update-may-2025/11-gammasetting-lowest.png)
+![GammaSetting_Menu.png](507-developer-update-may-2025/10-gammasetting-menu.png) ![GammaSetting_Lowest.png](507-developer-update-may-2025/11-gammasetting-lowest.png)
 
 *Lowest Setting*
 

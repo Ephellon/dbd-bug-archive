@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/26-2-7-1-hotfix"
 author: "Peanits"
 published: "2020-02-28T17:42:30+00:00"
 updated: "2020-03-02T15:21:14+00:00"
-archived: "2026-09-26T02:19:04Z"
+archived: "2026-09-26T16:41:23Z"
 ---
 
 <!-- summary -->
@@ -32,7 +32,7 @@ Network disconnect handling and End Game Collapse behavior were overhauled, fixi
 - Fixed an issue that caused the End Game Collapse not to end when the timer ran out if the Killer picked up a Survivor at the last possible second.
 - Fixed an issue that caused Survivors not to get immediately sacrificed when they were opening an exit gate or interacting with a Jigsaw box when the End Game Collapse timer ended.
 - Fixed an issue that made it impossible to earn progress on The Savior Ritual when unhooking a Survivor after the End Game Collapse had started.
-- Fixed an issue that made it impossible to earn progress on the Blood Dance daily ritual when healing a Survivor after the End Game Collapse had started.
+- Fixed an issue that made it impossible to earn progress on the Blood Dance daily ritual when healing a Survivor after the End Game Collapse had started.
 - Fixed an issue that caused The Reconstruction Ritual's rate of progress to be lowered when there was more than 1 Survivor in the match.
 - Fixed an issue that caused Ash not to play any VOs when selected or when joining a lobby.
 - Adjusted the flashlight items aim when held by Ash's Ashy Slashy hand customization item to be more in line with regular cosmetics. A more permanent fix will come in a future patch.
@@ -45,7 +45,7 @@ Network disconnect handling and End Game Collapse behavior were overhauled, fixi
 - Fixed an issue that caused some placeholder strings to appear in the description for certain Nea head cosmetics in all non-English languages.
 - Fixed an issue that caused auras to appear very dim in the map Mount Ormond Resort
 - Tentatively fixed an issue that caused the Survivors not to receive points when completing a generator
-- Tentatively fixed an issue that caused the Survivors' camera to follow the Killer when hooked. Added extra logging to better help track identify the issue.
+- Tentatively fixed an issue that caused the Survivors' camera to follow the Killer when hooked. Added extra logging to better help track identify the issue.
 - Added extra logging to help identify the issue with the Entity blocker sometimes not blocking windows, with and without Bamboozle.
 - Fixed an issue that prevented The Plague scoring points in the Chaser emblem when downing Survivors with Corrupt Purge
 - Fixed an issue that caused the camera to shake from EGS during tally screen

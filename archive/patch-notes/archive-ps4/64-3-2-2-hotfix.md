@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/64-3-2-2-hotfix"
 author: "Peanits"
 published: "2020-02-28T19:35:12+00:00"
 updated: "2020-03-02T19:58:37+00:00"
-archived: "2026-09-26T02:19:23Z"
+archived: "2026-09-26T16:41:45Z"
 ---
 
 <!-- summary -->
@@ -26,7 +26,7 @@ The Hag’s teleport scream, The Nurse’s ability to blink in Azarov’s Restin
 - Fixed an issue that caused a visual desync between clients and host on the End Game Collapse timer.
 - Fixed an issue causing the control sensitivity sliders settings to not be properly applied.
 - Fixed an issue that caused the scream animation from the Infectious Fright perk to be delayed if the Survivor was performing an interaction when affected.
-- Fixed an issue that caused the Second Wind perk not to become disabled when grabbed out of a locker.
+- Fixed an issue that caused the Second Wind perk not to become disabled when grabbed out of a locker.
 - Fixed an issue that caused The Hag to scream when teleporting to a phantasm trap.
 - Fixed an issue that could cause Survivors to be misaligned with the Jigsaw box with a ping over 100.
 - Fixed an issue that sometimes caused a Survivor in the Survive With Friends group not to make it into the public lobby.

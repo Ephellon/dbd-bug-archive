@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/413-7-3-0-mid-chap
 author: "Peanits"
 published: "2023-10-10T14:25:26+00:00"
 updated: "2023-10-10T18:57:02+00:00"
-archived: "2026-09-26T02:18:21Z"
+archived: "2026-09-26T16:40:29Z"
 ---
 
 <!-- summary -->
@@ -29,7 +29,7 @@ The Skull Merchant receives an overhaul: starts with six drones, Eyes in the Sky
 
 **Tome 17 opens**: October 11, 11a.m. ET
 
-![CA-635_DBD_0923_release_time_asset_02.png](413-7-3-0-mid-chapter/02-ca-635-dbd-0923-release-time-asset-02.png)    ![PatchNotesDividerSmolWhite.png](413-7-3-0-mid-chapter/03-patchnotesdividersmolwhite.png)
+![CA-635_DBD_0923_release_time_asset_02.png](413-7-3-0-mid-chapter/02-ca-635-dbd-0923-release-time-asset-02.png) ![PatchNotesDividerSmolWhite.png](413-7-3-0-mid-chapter/03-patchnotesdividersmolwhite.png)
 
 ## Developer Updates
 
@@ -44,37 +44,37 @@ For more details on what has changed since the Public Test Build, see our Octobe
 ### Killer Perk Updates
 
 - **Furtive Chase**
-- You become obsessed with one Survivor. You lurk in the shadows, eliminating your victims one by one. When your Obsession is hooked, gain Undetectable and a 5% Haste status effect for 14/16/18 seconds. *(new functionality)*
+- You become obsessed with one Survivor. You lurk in the shadows, eliminating your victims one by one. When your Obsession is hooked, gain Undetectable and a 5% Haste status effect for 14/16/18 seconds. *(new functionality)*
 
 ### Survivor Perk Updates
 
 - **Background Player**
-- When the Killer picks-up another Survivor, Background Player activates for 10 seconds. When you start running, break into a sprint at 200% of your normal Running Movement speed for 5 seconds*. (was 150% for 4 seconds)*
-- This perk cannot be used while suffering from Exhaustion. This perk causes exhaustion for 60/50/40 seconds.
+- When the Killer picks-up another Survivor, Background Player activates for 10 seconds. When you start running, break into a sprint at 200% of your normal Running Movement speed for 5 seconds*. (was 150% for 4 seconds)*
+- This perk cannot be used while suffering from Exhaustion. This perk causes exhaustion for 60/50/40 seconds.
 
 ![PatchNotesDividerSmolWhite.png](413-7-3-0-mid-chapter/05-patchnotesdividersmolwhite.png)
 
-### Updated Killer: The Skull Merchant
+### Updated Killer: The Skull Merchant
 
 #### Eyes in the Sky
 
-The Skull Merchant begins the match with six Drones. Press the *Power button*to deploy a Drone, which conducts an invisible, continuous sweeping scan. If a Survivor is detected, the Drone becomes active, which makes the Drone’s scan lines visible. Once detected by a scan line, a Survivor gains scan immunity and cannot be detected by other scan lines for 3 seconds. Survivors can attempt to hack Drones. Failure activates the Drone and partially fills their Lock On meter; Success disables the Drone for 45 seconds.
+The Skull Merchant begins the match with six Drones. Press the *Power button* to deploy a Drone, which conducts an invisible, continuous sweeping scan. If a Survivor is detected, the Drone becomes active, which makes the Drone’s scan lines visible. Once detected by a scan line, a Survivor gains scan immunity and cannot be detected by other scan lines for 3 seconds. Survivors can attempt to hack Drones. Failure activates the Drone and partially fills their Lock On meter; Success disables the Drone for 45 seconds.
 
 - Removed the Active Zone (cylinder).
 - Removed remote Activation of Drones.
-- The Killer now starts with 6drones.
+- The Killer now starts with 6 drones.
 - The minimum distance between drones is now 16 meters.
-- The Drone radius isnow 10 meters.
+- The Drone radius is now 10 meters.
 
 #### Radar
 
-Press the *Ability Button* to open a Radar to see the locations of Survivors detected by Drones or those with Claw Traps. Each Survivor detected on the Radar increases The Skull Merchant’s movement speed. The Radar can also recall drones or change the direction of their scan rotation.
+Press the *Ability Button* to open a Radar to see the locations of Survivors detected by Drones or those with Claw Traps. Each Survivor detected on the Radar increases The Skull Merchant’s movement speed. The Radar can also recall drones or change the direction of their scan rotation.
 
 #### Lock On
 
-The Lock On meter fills when scanned by a Drone and when failing to disable a Drone. When the meter is full, the Survivor receives a Claw Trap, becomes Injured, and suffers from the Broken status effect. Additional scans briefly apply the Hindered status effect. A Claw Trap broadcasts the Survivor’s location to the Killer and is only removed when its battery dies.
+The Lock On meter fills when scanned by a Drone and when failing to disable a Drone. When the meter is full, the Survivor receives a Claw Trap, becomes Injured, and suffers from the Broken status effect. Additional scans briefly apply the Hindered status effect. A Claw Trap broadcasts the Survivor’s location to the Killer and is only removed when its battery dies.
 
-- Removed the Exposed status effect from Lock On
+- Removed the Exposed status effect from Lock On
 
 #### Add-Ons
 
@@ -103,51 +103,51 @@ Daily rituals, Achievements, Loading Tips, and Score Events have been updated ac
 
 ![PatchNotesDividerSmolWhite.png](413-7-3-0-mid-chapter/06-patchnotesdividersmolwhite.png)
 
-### Updated Killer: The Trapper
+### Updated Killer: The Trapper
 
-- When setting a Bear-Trap, The Trapper gets a Haste effect of 7.5% for 5 seconds *(new effect)*.
-  - The Coffee Grounds Addon has been updated to indicate it is an additional Haste effect.
-- When the Trial begins, 8 Bear-Traps spawn on the map *(was 6)*.
+- When setting a Bear-Trap, The Trapper gets a Haste effect of 7.5% for 5 seconds *(new effect)*.
+  - The Coffee Grounds Addon has been updated to indicate it is an additional Haste effect.
+- When the Trial begins, 8 Bear-Traps spawn on the map *(was 6)*.
 
 ![PatchNotesDividerSmolWhite.png](413-7-3-0-mid-chapter/07-patchnotesdividersmolwhite.png)
 
-### Other Killer Tweaks
+### Other Killer Tweaks
 
 **Huntress**
 
-- Reloading hatchets takes 3 seconds *(was 4 seconds).*
+- Reloading hatchets takes 3 seconds *(was 4 seconds).*
 
 **Deathslinger**
 
-- Reloading takes 2.6 seconds *(was 2.75 seconds)*
-- Addon: Warden's Keys - Decreases the Speargun's reload time by 0.35 seconds *(was 0.5 seconds)*
-- Addon: Jaw Smasher - Increases movement speed by 1.5% while aiming down the Speargun's sights *(was 1%)*.
-- Addon: Wanted Poster - Increases movement speed by 3% while aiming down the Speargun's sights *(was 2.5%)*.
+- Reloading takes 2.6 seconds *(was 2.75 seconds)*
+- Addon: Warden's Keys - Decreases the Speargun's reload time by 0.35 seconds *(was 0.5 seconds)*
+- Addon: Jaw Smasher - Increases movement speed by 1.5% while aiming down the Speargun's sights *(was 1%)*.
+- Addon: Wanted Poster - Increases movement speed by 3% while aiming down the Speargun's sights *(was 2.5%)*.
 
 **Legion**
 
-- Addon: BFFs - Earn tokens for hitting Survivors during Feral Frenzy:
+- Addon: BFFs - Earn tokens for hitting Survivors during Feral Frenzy:
   - Second chained hit: 2 tokens.
   - Third chained hit: 3 tokens.
   - Fourth chained hit: 4 tokens.
   - Fifth chained hit: 5 tokens.
-  - Once the gates are powered, if more than 15 or more tokens have been collected, gain a 6% movement speed boost when not using Feral Frenzy *(was 4%)*.
+  - Once the gates are powered, if more than 15 or more tokens have been collected, gain a 6% movement speed boost when not using Feral Frenzy *(was 4%)*.
 
 **Trickster**
 
-- Reloading knives takes 3 seconds (was 4 seconds).
+- Reloading knives takes 3 seconds (was 4 seconds).
 
 ![PatchNotesDividerSmolWhite.png](413-7-3-0-mid-chapter/08-patchnotesdividersmolwhite.png)
 
 ### Anti Face-Camp Feature
 
-Survivors on the hook have an internal "camp meter" which fills when the Killer is nearby. The meter fills faster the closer the Killer is, but is slower when other Survivors are near (never becomes negative).
+Survivors on the hook have an internal "camp meter" which fills when the Killer is nearby. The meter fills faster the closer the Killer is, but is slower when other Survivors are near (never becomes negative).
 
-Once the meter is full, the Survivor gets a prompt allowing them to escape the hook with 100% probability. Survivors who take this action gain Endurance for 15 seconds.
+Once the meter is full, the Survivor gets a prompt allowing them to escape the hook with 100% probability. Survivors who take this action gain Endurance for 15 seconds.
 
 This feature shuts off entirely once the Exit Gates are powered.
 
-As part of this system, The Cannibal can no longer hit a Survivor who has Endurance twice in the same 0.5 second timespan.
+As part of this system, The Cannibal can no longer hit a Survivor who has Endurance twice in the same 0.5 second timespan.
 
 ![PatchNotesDividerSmolWhite.png](413-7-3-0-mid-chapter/09-patchnotesdividersmolwhite.png)
 
@@ -171,13 +171,13 @@ As part of this system, The Cannibal can no longer hit a Survivor who has End
 
 #### Shattered Square Map Update
 
-The Shattered SquareMap received a lot of comments at release. Some issues were related to the objects being low to the ground and hard to see, especially when it came to Killers that are navigating with a first person camera. We did a clean up and made sure that the loops feel smoother.
+The Shattered Square Map received a lot of comments at release. Some issues were related to the objects being low to the ground and hard to see, especially when it came to Killers that are navigating with a first person camera. We did a clean up and made sure that the loops feel smoother.
 
 There were also inconsistencies with our visual and navigation language. Objects were placed in a way that it felt possible to simply climb, because of similar angles to stairs or slopes found in other maps. This was resolved by taking away some of the objects or placing assets that match the collisions.
 
-The line of sight was very low and gave the ability for players to see across the map. A clear line of sight can be detrimental for both roles depending of the play style. We have changed the positioning of tiles with higher line of sight blockers to be more predominant.
+The line of sight was very low and gave the ability for players to see across the map. A clear line of sight can be detrimental for both roles depending of the play style. We have changed the positioning of tiles with higher line of sight blockers to be more predominant.
 
-The size of the Map was large and we decided to reduce the size to encourage encounters, make it more dynamic and reduce the time to find interactables (generators, hooks, totems, chest, etc.)
+The size of the Map was large and we decided to reduce the size to encourage encounters, make it more dynamic and reduce the time to find interactables (generators, hooks, totems, chest, etc.)
 
 #### MacMillan Estate Realm Update
 
@@ -192,7 +192,7 @@ The Maps of the MacMillan Estate Realm have been in the game for about 7 years. 
 Reworked the Bots Skill Check system:
 
 - Success rates now correlate with Skill Check size.
-- Skill Check debuffs, such as The Doctor's Madness or Hex: Huntress Lullaby, reduce the odds of hitting the Skill Check.
+- Skill Check debuffs, such as The Doctor's Madness or Hex: Huntress Lullaby, reduce the odds of hitting the Skill Check.
 
 ![PatchNotesDivider.png](413-7-3-0-mid-chapter/12-patchnotesdivider.png)
 
@@ -205,18 +205,18 @@ Reworked the Bots Skill Check system:
 - Fixed an issue where the "Destructive Investigation" Master Challenge from Tome 16 - EXISTENCE was awarding the incorrect amount of Bloodpoints.
 - Updated the description of the "I Want It, I Got It" Master Challenge from Tome 15 - ASCENSION to reflect the update to The Skull Merchant's gameplay changes.
 - Updated the "Outplayed" challenge from Tome 16 - EXISTENCE to allow progress from The Dredge to grab a Survivor from a locker they just teleported to.
-- Fixed an issue where the "Job Well Done" challenge from Tome 15 - ASCENSION erroneously awarded progress from another Survivor's finished generator repair action.
+- Fixed an issue where the "Job Well Done" challenge from Tome 15 - ASCENSION erroneously awarded progress from another Survivor's finished generator repair action.
 - Fixed an issue where the "Back Off!" Master Challenge and other similar challenges did not award progress from the stun inflicted after successfully wiggling out of the Killer's grasp.
 - Fixed an issue where the "Back Off!" Master Challenge did not correctly display the Player's progress.
 - Fixed an issue where the "Swarm of Darkness" Master Challenge did not correctly display the Player's progress.
-- Fixed an issue where the "Cellar Search" Master Challenge did not award progress from the chest in the Killer's basement.
+- Fixed an issue where the "Cellar Search" Master Challenge did not award progress from the chest in the Killer's basement.
 - "Remix" challenges no longer prevent the selection of random Perks on consecutive Trials on the same character.
 
 ### Audio
 
 - Fixed an issue that caused the Hooked On You music not being played on Trickster's Paradise Beatdown outfit.
 - Fixed an issue where the French voice didn't match the text in Tome 15 "The Absolutely Horrifying Maniacal Puppet Show. Guest Starring, Ashy Slashy. 2." Entry.
-- Fixed an issue that prevented The Xenomorph to hear Generators while in Tunnels.
+- Fixed an issue that prevented The Xenomorph to hear Generators while in Tunnels.
 
 ### Bots
 
@@ -236,14 +236,14 @@ Reworked the Bots Skill Check system:
 
 ### Environment/Maps
 
-- Fixed an issue in Lery's Hospital where the side of a generator was blocked by assets
+- Fixed an issue in Lery's Hospital where the side of a generator was blocked by assets
 - Fixed an issue in Pale Rose where a groups of blockers were too close and prevented possible navigation between them
 
 ### Perks
 
 - Fixed an issue that caused the Territorial Imperative perk not to activate when a Survivor enters the basement.
-- Fixed an issue that caused the Pain Resonance Perk to be able to explode a Generator blocked by the Deadlock Perk.
-- Fixed an issue that caused the Blood Pact Perk’s icon to appear dimmed when the Haste effect is active.
+- Fixed an issue that caused the Pain Resonance Perk to be able to explode a Generator blocked by the Deadlock Perk.
+- Fixed an issue that caused the Blood Pact Perk’s icon to appear dimmed when the Haste effect is active.
 
 ### Platforms
 
@@ -260,7 +260,7 @@ Reworked the Bots Skill Check system:
 
 - Equipped Charms are now always visible on the displayed character in the Store.
 - Fixed an issue that caused the Flame Turret’s light to remain visible while vaulting.
-- EDITED: Fixed a bug that resulted in a different distance achieved between male and female Survivors during fast vaults.
+- EDITED: Fixed a bug that resulted in a different distance achieved between male and female Survivors during fast vaults.
 
 ![PatchNotesDivider.png](413-7-3-0-mid-chapter/13-patchnotesdivider.png)
 
@@ -282,7 +282,7 @@ Reworked the Bots Skill Check system:
 - Recalling Drones is available at all times, regardless of the cooldown.
 - Added the ability to change a Drone's rotation direction while using the Radar.
 - Drones always deploy facing away from you and only rotate after the initialization phase is over.
-- The Randomised Strobes Add-On properly increases the duration of the Hindered status by 1 second.
+- The Randomised Strobes Add-On properly increases the duration of the Hindered status by 1 second.
 - The Adi Valente #1 Add-On properly reduces skill checks by 20% and not 50%.
 
 ### Anti-Camp Feature
@@ -295,7 +295,7 @@ Reworked the Bots Skill Check system:
 ### Perk Updates
 
 - **Furtive Chase**
-- Changed functionality: when hooking the Obsession, gain Undetectable and a 5% Haste status effect for 14/16/18 seconds.
+- Changed functionality: when hooking the Obsession, gain Undetectable and a 5% Haste status effect for 14/16/18 seconds.
 - **Background Player**
   - Increased sprint speed to 200%.
   - Sprint Burst no longer triggers at the same time as the Background Player Perk.

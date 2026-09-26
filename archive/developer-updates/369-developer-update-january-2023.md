@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/369-developer-upda
 author: "Peanits"
 published: "2023-01-03T16:35:18+00:00"
 updated: "2023-01-03T16:55:45+00:00"
-archived: "2026-09-26T02:20:19Z"
+archived: "2026-09-26T16:43:24Z"
 ---
 
 <!-- summary -->
@@ -150,7 +150,7 @@ Never again: We are adding a challenge tracker during the match. This widget wil
 
 If you’d prefer to keep your screen clear, this widget can be switched off in the Options menu.
 
-![ChallengeTracker.png](369-developer-update-january-2023/10-challengetracker.png)    ![Performance.png](369-developer-update-january-2023/11-performance.png)
+![ChallengeTracker.png](369-developer-update-january-2023/10-challengetracker.png) ![Performance.png](369-developer-update-january-2023/11-performance.png)
 
 ## Gameflow Improvements
 
@@ -162,7 +162,7 @@ New for our Killers players, you’ll also be able to customize your non-selecte
 
 Whether you forgot something or you just love clicking around while you wait, we hope you’ll enjoy having more freedom while searching!
 
-![Gameflow.png](369-developer-update-january-2023/12-gameflow.png)    ![Hemorrhage.png](369-developer-update-january-2023/13-hemorrhage.png)
+![Gameflow.png](369-developer-update-january-2023/12-gameflow.png) ![Hemorrhage.png](369-developer-update-january-2023/13-hemorrhage.png)
 
 ## Merciless Killer
 

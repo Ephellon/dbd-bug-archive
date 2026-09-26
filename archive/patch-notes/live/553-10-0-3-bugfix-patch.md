@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/553-10-0-3-bugfix-
 author: "Mandy"
 published: "2026-07-21T14:31:51+00:00"
 updated: "2026-07-21T14:33:02+00:00"
-archived: "2026-09-26T02:18:03Z"
+archived: "2026-09-26T16:40:05Z"
 ---
 
 <!-- summary -->
@@ -21,45 +21,45 @@ The Slasher’s jump-scare anti-camp penalty no longer spans multiple floors, an
 
 # 10.0.3 | Bugfix Patch
 
-*This article was created from a*[*community discussion*](https://forums.bhvr.com/dead-by-daylight/discussion/470166/10-0-3-bugfix-patch).
+*This article was created from a* [*community discussion*](https://forums.bhvr.com/dead-by-daylight/discussion/470166/10-0-3-bugfix-patch).
 
 ![DbD_PatchNotes_1003_16-9.png](553-10-0-3-bugfix-patch/01-dbd-patchnotes-1003-16-9.png)
 
 ## Content
 
-### Killer Updates
+### Killer Updates
 
-**The Slasher**
+**The Slasher**
 
 - Jump Scare anti-camp penalty no longer applies across multiple floors
 
 ![bar_white.png](553-10-0-3-bugfix-patch/02-bar-white.png)
 
-### Perk Updates
+### Perk Updates
 
-**New Survivor Perks**
+**New Survivor Perks**
 
 - Cross-Examination
-  - While in the Killer's Terror Radius and not being chased by the Killer, they leave Light Marks that last for **10s**that you can see. While on the Killer's Light Marks, you gain **Elusive**. This ends after **3/4/5s**.
+  - While in the Killer's Terror Radius and not being chased by the Killer, they leave Light Marks that last for **10s** that you can see. While on the Killer's Light Marks, you gain **Elusive**. This ends after **3/4/5s**.
 
 ![bar_white.png](553-10-0-3-bugfix-patch/03-bar-white.png)
 
-### Killer Add-on Updates
+### Killer Add-on Updates
 
-**The Slasher's add-ons**
+**The Slasher's add-ons**
 
 - Sauna Rock:
-  - After a Jump Scare, inflict all Survivors within Killer Instinct's detection range with Exhausted for **3seconds**. *(was 13 seconds)*
+  - After a Jump Scare, inflict all Survivors within Killer Instinct's detection range with Exhausted for **3** **seconds**. *(was 13 seconds)*
 - Two Nails:
-  - Spikes that come within 1 meter of a Survivor reveal their Aura for **5 seconds**. *(was 6 seconds)*
+  - Spikes that come within 1 meter of a Survivor reveal their Aura for **5 seconds**. *(was 6 seconds)*
 - Mirror Shards:
-  - Impaled Survivors become Broken for **40 seconds** after extracting the Spike. *(was 30 seconds)*
+  - Impaled Survivors become Broken for **40 seconds** after extracting the Spike. *(was 30 seconds)*
 - Toxic Waste:
-  - After a Jump Scare, Survivors within **10 meters** of a hook or Scrap Pile gain Oblivious for 13 seconds. *(was 8 meters)*
+  - After a Jump Scare, Survivors within **10 meters** of a hook or Scrap Pile gain Oblivious for 13 seconds. *(was 8 meters)*
 - Sleeping Bag:
-  - After grabbing a Hook Spike while in Omnipresent Evil mode, see the locations of Survivors within **10 meters** of hooks. *(was 8 meters)*
+  - After grabbing a Hook Spike while in Omnipresent Evil mode, see the locations of Survivors within **10 meters** of hooks. *(was 8 meters)*
 - Party Noisemaker:
-  - Breaking a Pallet or Breakable Wall with Jump Scare reveals the Auras of Survivors further than **28 meters** for 6 seconds. *(was 32 meters)*
+  - Breaking a Pallet or Breakable Wall with Jump Scare reveals the Auras of Survivors further than **28 meters** for 6 seconds. *(was 32 meters)*
 
 ![bar_red.png](553-10-0-3-bugfix-patch/04-bar-red.png)
 
@@ -77,7 +77,7 @@ The Summer Screams event will be live from July 28th 11:00EDT - August 18th 11:0
 
 **Lights Out**
 
-- Survivors holding the Lantern will now see the Auras of Pallets, Vaults, and Breakable Walls within 32m
+- Survivors holding the Lantern will now see the Auras of Pallets, Vaults, and Breakable Walls within 32m
 - Gate interaction points will now remain lit once all objectives have been completed
 - Deep wounds and Anti-camp bars are now visible again
 - Added support for the Fog Vial
@@ -94,30 +94,30 @@ The Summer Screams event will be live from July 28th 11:00EDT - August 18th 11:0
 ### 2v8
 
 - Fixed an issue where The Nemesis zombies could become stuck on Sanctum of Wrath.
-- Fixed an issue where Killer chests did not have their Aura revealed when facing The Nemesis and The Mastermind together.
-- Fixed an issue where Survivors could see the Aura of the Cage of Corruption while in a locker.
-- Fixed an issue where trapped Survivors were missing the trapped animation after stepping in The Trapper's Bear Trap while also being contaminated by The Nemesis.
-- Fixed an issue where a Survivor caught in a Bear Trap could be sent into a Cage of Corruption twice against The Trapper and The Mastermind.
-- Fixed an issue where it was unable to Drop the Spray/Antidote after being used by a different Survivor.
+- Fixed an issue where Killer chests did not have their Aura revealed when facing The Nemesis and The Mastermind together.
+- Fixed an issue where Survivors could see the Aura of the Cage of Corruption while in a locker.
+- Fixed an issue where trapped Survivors were missing the trapped animation after stepping in The Trapper's Bear Trap while also being contaminated by The Nemesis.
+- Fixed an issue where a Survivor caught in a Bear Trap could be sent into a Cage of Corruption twice against The Trapper and The Mastermind.
+- Fixed an issue where it was unable to Drop the Spray/Antidote after being used by a different Survivor.
 - Fixed an issue where certain map specific achievements were not being awarded in correctly.
 
 ### Audio
 
 - Fixed an issue where Walking Dead characters were not playing the right VO line during their interactions.
 - Fixed an issue where Ice Nine Kills music wasn't playing when equipped with collection items.
-- Fixed an issue where The Slasher 'Jump Scare' cause the Survivors in Lockers to Scream.
-- Fixed an issue where Survivors ''Fully Healed'' Voice line triggers when partially healed.
+- Fixed an issue where The Slasher 'Jump Scare' cause the Survivors in Lockers to Scream.
+- Fixed an issue where Survivors ''Fully Healed'' Voice line triggers when partially healed.
 - Fixed an issue where the bananas emit a metallic sound when hit by a projectile on Trickster Delusion map.
 - Fixed an issue where the hook voice over played too late when transitioning from phase 1 to phase 2.
-- Fixed an issue where Survivors exit gate dialog triggered at the same time the door opens, which was making it hard to hear.
-- Fixed an issue where the incorrect voice lines played for Killers & Survivors regardless of their language setting.
+- Fixed an issue where Survivors exit gate dialog triggered at the same time the door opens, which was making it hard to hear.
+- Fixed an issue where the incorrect voice lines played for Killers & Survivors regardless of their language setting.
 - Fixed an issue where the lullaby for the Facemelter Eddie legendary cosmetic was lower than intended.
 
 ### Characters
 
-- Reverted a fix that prevented The Skull Merchant from deploying Drones when above/below a Hooked Survivor.
-  - *Dev Note:The issue that the fix attempted to solve will be back, which made Drones disappear after being deployed, regardless of being out of the vertical range for Drone anti-camp. This is unintended and is under investigation.*
-- Fixed an issue where as The Animatronic, the Blighted Springtrap's Mouth Animation was unable to be seen at the end of the Killer's Mori.
+- Reverted a fix that prevented The Skull Merchant from deploying Drones when above/below a Hooked Survivor.
+  - *Dev Note:* *The issue that the fix attempted to solve will be back, which made Drones disappear after being deployed, regardless of being out of the vertical range for Drone anti-camp. This is unintended and is under investigation.*
+- Fixed an issue where as The Animatronic, the Blighted Springtrap's Mouth Animation was unable to be seen at the end of the Killer's Mori.
 - Fixed an issue where as The Dark Lord using the wolf form, the Killer could perform an extra attack right before the Pounce cooldown.
 - Fixed an issue where Survivors downed by The Mastermind's vault attack while working on a Generator kept repairing while downed.
 
@@ -131,28 +131,28 @@ The Summer Screams event will be live from July 28th 11:00EDT - August 18th 11:0
 
 ### Perks
 
-- Fixed an issue where Hex Statuses were hidden from Survivors when a Hex was reactivated by the Perk 'Undying'.
-- Fixed an issue where the perk Visionary would not reveal generator auras when exiting a Locker, after the cooldown was completed.
-- Fixed an issue where the Perk 'Plot Twist' could be reused when picked up or dropped by a Killer.
-- Fixed an issue where the aura of the Perk Hex: No One Escapes Death was missing for the Survivor POV.
-- Fixed an issue where the Perk Deathbound caused Survivors that previously healed another Survivor to scream again.
-- Fixed an issue where the Perk Deerstalker was unable to reveal a Survivor for an additional 2 sec when equipped with the Perk Eyes of Belmont.
+- Fixed an issue where Hex Statuses were hidden from Survivors when a Hex was reactivated by the Perk 'Undying'.
+- Fixed an issue where the perk Visionary would not reveal generator auras when exiting a Locker, after the cooldown was completed.
+- Fixed an issue where the Perk 'Plot Twist' could be reused when picked up or dropped by a Killer.
+- Fixed an issue where the aura of the Perk Hex: No One Escapes Death was missing for the Survivor POV.
+- Fixed an issue where the Perk Deathbound caused Survivors that previously healed another Survivor to scream again.
+- Fixed an issue where the Perk Deerstalker was unable to reveal a Survivor for an additional 2 sec when equipped with the Perk Eyes of Belmont.
 - Fixed an issue where The perk Shadowborn failed to activate when Rampage had tokens.
 
 ### UI
 
-- Fixed an issue where The Slasher's Dirty Money Add-On remained dimmed when active.
-- Fixed an issue where Into the Fog Tooltips for Perk Related Quests did not show the associated Perk.
+- Fixed an issue where The Slasher's Dirty Money Add-On remained dimmed when active.
+- Fixed an issue where Into the Fog Tooltips for Perk Related Quests did not show the associated Perk.
 - Fixed an issue where The Oni's Blood Fury's prompt was missing an indication that it must be held to activate.
-- Fixed an issue where Survivor Skills always appeared Unlocked in the Match Details screen.
+- Fixed an issue where Survivor Skills always appeared Unlocked in the Match Details screen.
 - Fixed an issue where alternating from Chaos Shuffle to Normal Trial erased saved loadouts.
 - Fixed an issue where there was no HUD or UI feedback indicating The Oni's Blood Fury prompt had to be held to activate.
 
 ### Misc
 
-- Fixed an issue where Survivors were unable to wiggle when being grabbed while having a Skill Check.
+- Fixed an issue where Survivors were unable to wiggle when being grabbed while having a Skill Check.
 - Fixed an issue causing the Entity to make an illegal purchase move in the Bloodweb.
-- Fixed an issue where leaving the Survivor queue in Play While You Wait would reset the Killer priority queue.
+- Fixed an issue where leaving the Survivor queue in Play While You Wait would reset the Killer priority queue.
 
 ![bar_red.png](553-10-0-3-bugfix-patch/07-bar-red.png)
 

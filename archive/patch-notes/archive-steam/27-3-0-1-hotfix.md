@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/27-3-0-1-hotfix"
 author: "Peanits"
 published: "2020-02-28T17:43:38+00:00"
 updated: "2020-03-02T15:22:44+00:00"
-archived: "2026-09-26T02:19:05Z"
+archived: "2026-09-26T16:41:24Z"
 ---
 
 <!-- summary -->
@@ -28,10 +28,10 @@ Ghost Face received a suite of balance tweaks: stalk-rate add-ons now apply only
 
 **The Ghost Face:**
 
-- Slightly reduced the stalk rate add-ons: Telephoto Lens (to -0.25 seconds, down from -0.5 seconds total stalk time required), Night Vision Monocular (to -0.75 seconds, down from -1.0 seconds total stalk time required).
+- Slightly reduced the stalk rate add-ons: Telephoto Lens (to -0.25 seconds, down from -0.5 seconds total stalk time required), Night Vision Monocular (to -0.75 seconds, down from -1.0 seconds total stalk time required).
 - Adjusted all stalk rate add-ons (Philly, Telephoto Lens, Knife Belt Clip and Night Vision Monocular) so that they only affect stalking while not leaning. Stalking while leaning is twice faster than normal stalking.
 - Slightly increased the Killer Instinct base duration to 2 seconds from 1.5 seconds.
-- Slightly increased Killer Instinct add-ons: Marked Map (to 1 second, up from 0.5 seconds), Victim’s Detailed Routine (to 1.5 seconds, up from 1.0 seconds).
+- Slightly increased Killer Instinct add-ons: Marked Map (to 1 second, up from 0.5 seconds), Victim’s Detailed Routine (to 1.5 seconds, up from 1.0 seconds).
 - Slightly increased the Detection area in the center of screen for Survivors attempting to reveal The Ghost Face by 4% on each side of the screen (total of 8%).
 - Fixed an issue that allowed The Ghost Face to stay Night Shroud when stunned by a pallet.
 - Fixed an issue that allowed Ghost Face to continue stalking already Marked Survivors.
