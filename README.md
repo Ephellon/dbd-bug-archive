@@ -1,88 +1,52 @@
 # dbd-bug-archive
 
-An unofficial archive of Dead by Daylight's **patch notes** and **developer
-updates**, captured from [forums.bhvr.com](https://forums.bhvr.com/dead-by-daylight/kb/patchnotes)
-before their scheduled removal in October 2026.
+Every Dead by Daylight patch note and developer update, saved before
+[the forums](https://forums.bhvr.com/dead-by-daylight/kb/patchnotes) take them
+down in October 2026. 479 articles, 2018 to 2026, with all their images.
 
-479 articles, from the 2018 Emblems patch to September 2026, as plain Markdown
-with every image. No account, no JavaScript, no forum — just files.
-
-> This repository is a preservation effort. It is not affiliated with, endorsed
-> by, or supported by Behaviour Interactive.
-
----
-
-## Start here
-
-**→ [`archive/index.md`](archive/index.md)** — every article, grouped by
-section, newest first.
-
-Three ways to find a patch:
+### **→ [Open the archive](archive/index.md)**
 
 | You want | Do this |
 | --- | --- |
 | To browse | Open [the index](archive/index.md) and pick a section |
-| A specific version | Press <kbd>t</kbd> on GitHub and type it with dashes, e.g. `10-1-2` |
-| Anything mentioning a thing | Press <kbd>/</kbd> on GitHub and search, e.g. `Decisive Strike` |
+| A specific version | Press <kbd>t</kbd> and type it with dashes — `10-1-2`, not `10.1.2` |
+| Any mention of something | Press <kbd>/</kbd> and search — `Decisive Strike` |
 
-Filenames use dashes where a version uses dots, because they come from the
-forum's own slugs: `10.1.2` is `558-10-1-2-bugfix-patch.md`. The file finder
-matches on that name, so `10.1.2` finds nothing and `10-1-2` finds the page.
-Full-text search is unaffected — `10.1.2` works there, since the version
-appears with its dots inside the page.
-
-Reading an article, you never need to go back to the index: every page has
-**← previous · section · next →** links at the top *and* bottom, ordered
-oldest to newest within its section.
+Each page links to the previous and next patch, top and bottom, so you can read
+straight through a section without coming back here.
 
 The <img width="38" height="36" alt="image" align="middle" src="https://github.com/user-attachments/assets/734c7c58-0e18-49b8-b08f-cc12314c8d3a" /> (Outline button) at the top right of this module can provide a Table of Contents layout for easier navigation.
 
----
-
-## What's in a page
-
-Every article follows the same shape:
-
-```
-┌─ front matter ──── title, version, author, dates, link to the original
-├─ AI TL;DR ─────── a short summary, one or two paragraphs
-├─ navigation ───── ← previous · section · next →
-├─ the article ──── exactly as BHVR published it, images and all
-└─ navigation ───── the same links again
-```
-
-**The AI TL;DR is not BHVR's writing.** It is generated from the page below it,
-as a finding aid — enough to tell whether this is the patch you are looking
-for. Everything under the `# ` title is the original article, unedited. If the
-two ever disagree, the article is right.
-
-The `source:` line in the front matter links back to the original forum page
-for as long as that page exists.
-
----
-
-## What is archived
-
-Nine knowledge-base categories:
+## What's here
 
 | Section | Articles | What it covers |
 | --- | ---: | --- |
-| [Live](archive/patch-notes/live/) | 135 | the current public channel all players are on |
-| [Player Test Build](archive/patch-notes/player-test-build/) | 66 | the beta channel for upcoming changes |
-| [Archive: Steam](archive/patch-notes/archive-steam/) | 57 | Steam-only changes, mostly bug fixes |
-| [Archive: PS4](archive/patch-notes/archive-ps4/) | 56 | PlayStation-only changes, mostly bug fixes |
-| [Archive: Xbox One](archive/patch-notes/archive-xbox-one/) | 53 | Xbox-only changes, mostly bug fixes |
-| [Archive: Nintendo Switch](archive/patch-notes/archive-nintendo-switch/) | 24 | Switch and Switch 2 changes |
-| [Archive: Windows Store](archive/patch-notes/archive-windows-store/) | 23 | Windows app changes |
-| [Archive: Stadia](archive/patch-notes/archive-stadia/) | 3 | Google Stadia changes |
-| [Developer Updates](archive/developer-updates/) | 62 | dev blog posts from Game Info |
+| [Live](archive/patch-notes/live/) | 135 | the main game everyone plays |
+| [Player Test Build](archive/patch-notes/player-test-build/) | 66 | the test server, before changes go live |
+| [Archive: Steam](archive/patch-notes/archive-steam/) | 57 | Steam-only fixes |
+| [Archive: PS4](archive/patch-notes/archive-ps4/) | 56 | PlayStation-only fixes |
+| [Archive: Xbox One](archive/patch-notes/archive-xbox-one/) | 53 | Xbox-only fixes |
+| [Archive: Nintendo Switch](archive/patch-notes/archive-nintendo-switch/) | 24 | Switch and Switch 2 |
+| [Archive: Windows Store](archive/patch-notes/archive-windows-store/) | 23 | Windows app |
+| [Archive: Stadia](archive/patch-notes/archive-stadia/) | 3 | Google Stadia |
+| [Developer Updates](archive/developer-updates/) | 62 | the dev team explaining what's coming and why |
 
-Nothing else from the forums is included — no FAQs, rules, guides, or
-discussion threads.
+Patch notes and developer updates only — no FAQs, guides, or forum threads.
+
+## One thing to know
+
+Each page starts with an **AI TL;DR**. That summary was written by a machine, to
+help you tell at a glance whether this is the patch you wanted.
+
+Everything below the title is BHVR's original article, word for word. **If the
+summary and the article disagree, the article is right.**
 
 ---
 
-## Repository layout
+<details>
+<summary><b>How it's organised</b></summary>
+
+<br>
 
 ```
 archive/
@@ -95,27 +59,30 @@ archive/
 dbd_archive.py                      the bot that produced all of the above
 ```
 
-A file keeps the article's own forum slug, so the source URL is recoverable
-from the filename: `558-10-1-2-bugfix-patch.md` came from
-`forums.bhvr.com/dead-by-daylight/kb/articles/558-10-1-2-bugfix-patch`.
+Filenames keep the forum's own slug, so the original URL is recoverable from
+the name: `558-10-1-2-bugfix-patch.md` came from
+`forums.bhvr.com/dead-by-daylight/kb/articles/558-10-1-2-bugfix-patch`. Slugs
+write versions with dashes, which is why the file finder wants `10-1-2`.
 
-### Images
+Each article opens with front matter giving its title, section, article id,
+source URL, author, and publish / update / archive timestamps.
 
-Only images inside the article body are saved — the in-body hero banner
-(`BUGFIX PATCH 10.1.2`) and the decorative red and white divider bars between
-sections. The knowledge-base page banner above the title is site furniture
-rather than part of the post, and is not saved.
+**Images.** Only images inside the article body are saved — the hero banner and
+the decorative divider bars. The page banner above the title is site furniture,
+not part of the post, so it is skipped.
 
-Images live in one shared `archive/images/` folder, named by the first 16 hex
+They live in one shared `archive/images/` folder, named by the first 16 hex
 digits of their SHA-256 plus the original filename. Identity is the digest
-alone, so a file that appears on two hundred pages — the divider bars, for
-instance — is stored once and referenced from each article. That takes 1906
-files down to 667. Every image is recorded in `manifest.json` with its source
-URL, byte size and full digest.
+alone, so a divider bar used on two hundred pages is stored once and referenced
+from each. That takes 1906 files down to 667. Every image is listed in
+`manifest.json` with its source URL, size and full digest.
 
----
+</details>
 
-## Running the bot
+<details>
+<summary><b>Running the bot</b></summary>
+
+<br>
 
 Python 3.9 or newer. No dependencies — standard library only, so it still runs
 years from now.
@@ -134,62 +101,60 @@ Section names are the directory names above: `live`, `player-test-build`,
 `archive-steam`, `archive-ps4`, `archive-xbox-one`, `archive-nintendo-switch`,
 `archive-windows-store`, `archive-stadia`, `developer-updates`.
 
-A first run takes roughly an hour and writes about 600 MB, most of it the large
+A first run takes about an hour and writes roughly 600 MB, most of it the large
 GIFs in Developer Updates. Later runs take seconds unless something changed.
 
-### How it behaves
+**How it behaves**
 
-- **Incremental.** An article whose `dateUpdated` still matches `manifest.json`
-  is skipped, and an image already stored is never refetched. Re-running to
-  pick up a newly posted patch costs a few hundred cheap requests.
+- **Incremental.** An article whose `dateUpdated` still matches
+  `manifest.json` is skipped, and a stored image is never refetched.
 - **Resumable.** The manifest is checkpointed after every article, so an
   interrupted run picks up where it stopped.
 - **Polite.** One request at a time, throttled by `--delay`, with four retries
   and exponential backoff on network errors and HTTP 429.
-- **Honest about failures.** An article that fails is reported to stderr and the
-  run continues; unhandled HTML tags are listed at the end.
+- **Honest about failures.** A failed article is reported to stderr and the run
+  continues; unhandled HTML tags are listed at the end.
 
-### How it works
+**How it works**
 
-The bot reads BHVR's public Vanilla knowledge-base API
-(`/api/v2/knowledge-categories`, `/api/v2/articles`) rather than scraping
-rendered pages, so what lands in the Markdown is the article body as authored —
-no navigation, no theme chrome, no JavaScript needed.
+It reads BHVR's public Vanilla knowledge-base API
+(`/api/v2/knowledge-categories`, `/api/v2/articles`) instead of scraping
+rendered pages, so what lands in the Markdown is the article as authored — no
+navigation, no theme chrome, no JavaScript.
 
 Bodies are converted by a small HTML parser and Markdown writer in
-`dbd_archive.py`. It handles headings, nested lists, emphasis, links, tables,
-code and images, unwraps BHVR's `home/leaving?target=` redirector back to the
-real URL, renders forum quotes as Markdown blockquotes and spoiler blocks as
-collapsible `<details>`, and drops interface chrome such as spoiler toggle
-buttons and inline SVG icons.
+`dbd_archive.py`: headings, nested lists, emphasis, links, tables, code and
+images; BHVR's `home/leaving?target=` redirector unwrapped back to the real
+URL; forum quotes as blockquotes and spoilers as collapsible `<details>`;
+interface chrome such as spoiler toggles and inline SVG icons dropped.
 
-After the articles are written, two passes tidy the result: summaries from
-`summaries.json` are injected under the front matter, then the navigation
-lines are rebuilt so a newly added article wires itself into its neighbours.
-Both are idempotent — nothing changes if nothing changed.
+Two passes then tidy up — summaries injected under the front matter, then the
+navigation lines rebuilt so a new article wires itself into its neighbours.
+Both are idempotent.
 
-### Regenerating the summaries
+**Summaries.** `archive/summaries.json` maps article id to summary text. Edit
+an entry and re-run the bot to update that page; delete one and that page loses
+its TL;DR. The articles themselves are never touched.
 
-`archive/summaries.json` maps article id to summary text. Replace or edit an
-entry and re-run the bot; the page picks it up. Delete an entry and that page
-loses its TL;DR. The articles themselves are never touched by this.
+</details>
 
----
+<details>
+<summary><b>Weekly sync</b></summary>
 
-## Weekly sync
+<br>
 
 [`.github/workflows/archive.yml`](.github/workflows/archive.yml) re-runs the
 bot every Sunday and commits anything new, so posts made before the knowledge
-base comes down in October 2026 are not missed. It can also be run on demand
-from the Actions tab.
+base comes down are not missed. It can also be run on demand from the Actions
+tab.
 
 A quiet week produces no commit. Delete the workflow once the archive is
 locked.
 
+</details>
+
 ---
 
-## Licence
-
-The archived text and images remain the property of Behaviour Interactive and
-are reproduced here for preservation and reference only. The bot itself
-(`dbd_archive.py`) is free to reuse.
+An unofficial preservation effort, not affiliated with or endorsed by Behaviour
+Interactive. The archived text and images remain their property and are
+reproduced here for reference only. The bot (`dbd_archive.py`) is free to reuse.
