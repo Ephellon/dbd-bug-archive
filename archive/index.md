@@ -3,7 +3,7 @@
 An unofficial, read-only archive of BHVR's Dead by Daylight patch notes
 and developer updates, captured before their removal.
 
-Generated 2026-09-26T02:46:33Z · 479 articles.
+479 articles. See `manifest.json` for capture timestamps and image hashes.
 
 ## Live
 

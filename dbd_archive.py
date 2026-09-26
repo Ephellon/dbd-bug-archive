@@ -616,8 +616,8 @@ def write_index(root: str, manifest: dict) -> None:
         "An unofficial, read-only archive of BHVR's Dead by Daylight patch notes",
         "and developer updates, captured before their removal.",
         "",
-        f"Generated {manifest.get('generated', 'unknown')} · "
-        f"{len(manifest['articles'])} articles.",
+        f"{len(manifest['articles'])} articles. "
+        "See `manifest.json` for capture timestamps and image hashes.",
         "",
     ]
     for slug, (_cid, title) in SECTIONS.items():
