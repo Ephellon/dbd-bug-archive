@@ -11,11 +11,10 @@ down in October 2026. 479 articles, 2018 to 2026, with all their images.
 | To browse | Open [the index](archive/index.md) and pick a section |
 | A specific version | Press <kbd>t</kbd> and type it with dashes — `10-1-2`, not `10.1.2` |
 | Any mention of something | Press <kbd>/</kbd> and search — `Decisive Strike` |
+| A Table of Contents | Press the <img width="36" height="36" alt="image" align="middle" src="https://github.com/user-attachments/assets/004d6040-bc1c-4552-85a9-49516f1d8448" /> (Outline button) at the top right |
 
 Each page links to the previous and next patch, top and bottom, so you can read
 straight through a section without coming back here.
-
-The <img width="38" height="36" alt="image" align="middle" src="https://github.com/user-attachments/assets/734c7c58-0e18-49b8-b08f-cc12314c8d3a" /> (Outline button) at the top right of this module can provide a Table of Contents layout for easier navigation.
 
 ## What's here
 
