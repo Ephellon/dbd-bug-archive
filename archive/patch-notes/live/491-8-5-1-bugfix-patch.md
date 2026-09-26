@@ -9,6 +9,12 @@ updated: "2025-02-04T15:28:39+00:00"
 archived: "2026-09-26T02:18:12Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Nightmare receives a rework: new teleport VFX and Black Box addon changes exit-gate blocking for sleeping survivors. The 2V8 Resident Evil themed event returns, and Clairvoyance now shows a progress bar; the kill-by-your-hand manual entry is updated and generic perks can be searched with several keywords. The patch is otherwise a comprehensive bug-fix sweep - audio glitches for the Spirit and controller triggers, numerous character animation and interaction issues, extensive fixes to The Nightmare’s pallets, teleporting and aura detection, map navigation and clipping problems, perk display errors, UI button faults, matchmaking failures, plus performance optimizations.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [8.5.0 | Mid-Chapter](490-8-5-0-mid-chapter.md) · [Live](../../index.md#live) · [8.5.2 | Bugfix Patch](492-8-5-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

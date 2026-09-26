@@ -9,6 +9,14 @@ updated: "2020-03-02T15:33:26+00:00"
 archived: "2026-09-26T02:19:07Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Cursed Legacy update adds The Oni as a new Killer, Yui Kimura as a new Survivor, and the Sanctum of Wrath map for the Yamaoka Estate theme, plus a Japanese-themed lobby and an updated intro trailer. Disconnection penalties (temporary matchmaking bans) will activate on Dec 5, chat returns to the Survivor pre-lobby and custom lobbies, and several exclusive cosmetics and a Universal Winter Holiday charm are added.
+
+The patch also overhauls the rank-reset ladder, refines several killer and survivor perks, tweaks Legion and Spirit mechanics, and changes Deep Wound and protection-hit timing. Most of the update is comprised of extensive bug fixes—from killer abilities and map collisions to UI, audio, and achievement quirks—stabilising gameplay across platforms.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.3.2 | Hotfix](16-3-3-2-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [3.4.1 | Hotfix](18-3-4-1-hotfix.md) &rarr;
 <!-- /nav -->

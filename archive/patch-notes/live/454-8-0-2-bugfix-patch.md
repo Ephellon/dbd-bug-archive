@@ -9,6 +9,12 @@ updated: "2024-06-19T15:26:45+00:00"
 archived: "2026-09-26T02:18:16Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Lich got several tweaks: Mage Hand now lifts pallets slower (0.35→0.5 s), its Vorpal Sword addon makes pallets take longer to break (2.2→3.2 s), and a new Ring of Telekinesis addon grants a temporary 10% vault speed boost. Forgotten Ruins also received map fixes, ensuring at least four hooks in the dungeon, moving passages away from vaults and pallets, and adjusting interaction times for survivors and killers. The update rounds out with a broad sweep of bug fixes covering anniversary visual glitches, map collisions, passage-stuck cases, perk syncing, and general VFX and interaction issues.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [8.0.1 | Bugfix Patch](453-8-0-1-bugfix-patch.md) · [Live](../../index.md#live) · [8.1.0 | Tomb Raider](459-8-1-0-tomb-raider.md) &rarr;
 <!-- /nav -->

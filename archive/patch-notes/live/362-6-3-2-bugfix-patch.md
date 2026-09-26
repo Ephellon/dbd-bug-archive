@@ -9,6 +9,12 @@ updated: "2022-10-26T18:48:33+00:00"
 archived: "2026-09-26T02:18:29Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Key fixes in 6.3.2 target several killers, survivors and maps: the Oni’s ‘Bursting with Fury’ VFX and red hair now appear, the Wraith can interact with Unstable Rifts while cloaked, the Mastermind no longer traps survivors in Asylum, and hook placement works in Midwich Elementary. Survivor glitches—Carlos and Sheva’s screams, female arm snapping, Jeff’s eye pop, flashlight-vaulting quirks, and missing pumpkin-smash SFX for The Artist and Onryo—are resolved, along with generator muffling, Bloodpoint Offering bugs, matchmaking incentive icon loss and map interaction issues in Junkyard, Pale Rose ferry and Asylum. The patch also updates the Dramatic Death charm texture on Switch and Stadia, fixes its icon elsewhere, and removes crash-inducing Halloween cinematics; a known issue remains with Escape Artist challenge progression.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [6.3.1 | Bugfix Patch](359-6-3-1-bugfix-patch.md) · [Live](../../index.md#live) · [6.4.0 | Forged in Fog](365-6-4-0-forged-in-fog.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,12 @@ updated: "2023-06-21T14:59:16+00:00"
 archived: "2026-09-26T02:18:24Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Singularity got extensive balance tweaks: EMP crates per map cut to four, generation time up to 100 s, charging slowed by 10 % and charge time raised to 2.5 s, pod-disable duration lowered to 45 s, score caps removed and points for Assimilation and Teleportation raised to 250. The 7th Anniversary “Twisted Masquerade” event launches June 22, and a host of bugs were addressed, including missing Slipstream sound, bot pathing and perk handling fixes, animation and visual glitches for several killers, map visibility improvements on Dvarka Deepwood, perk aura corrections, UI glitches on consoles, platform-specific crashes, and numerous level-design clipping and interaction issues.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [7.0.0 | End Transmission](392-7-0-0-end-transmission.md) · [Live](../../index.md#live) · [7.0.2 | Bugfix Patch](396-7-0-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

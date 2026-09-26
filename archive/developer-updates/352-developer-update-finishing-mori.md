@@ -9,6 +9,12 @@ updated: "2022-09-22T14:51:31+00:00"
 archived: "2026-09-26T02:20:19Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Finishing Mori, a new system that triggers a killer’s execution animation when the last survivor is downed, is being previewed in an upcoming Public Test Build. The feature adds a Last Standing phase with expanded vision, automatically moves both players to a clear spot, and kills remaining survivors via the Entity. Survivors can now self-revive after 45 seconds on the ground, reducing the appeal of slugging. Corresponding perk changes remove built-in pick-up and Mori abilities from Unbreakable, Soul Guard, No Mither, Boon: Exponential, Rancor and Hex: Devour Hope, and tweak their effects. Memento Mori offerings are repurposed to grant bloodpoint bounties on Finishing Mori kills. These changes are a preview only and will not appear in the 6.3.0 update.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | August 23, 2022](348-developer-update-august-23-2022.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | October 2022](363-developer-update-october-2022.md) &rarr;
 <!-- /nav -->

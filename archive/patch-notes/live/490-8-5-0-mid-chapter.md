@@ -9,6 +9,14 @@ updated: "2025-01-28T15:28:04+00:00"
 archived: "2026-09-26T02:18:12Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Nightmare is overhauled: Dream Snares and Pallets become core abilities, with button-swap, projectile snare, remote rupture, faster Dream Projection usable on any generator or sleeping survivor, revised cooldowns and ranges, and numerous new addons that modify speed, charge time and sleep effects. Several killer and survivor perks are tweaked (Beast of Prey, Fire Up, Remember Me, Vigil, Wake Up!), deep-wound UI now shows a progress bar, default cosmetics appear in the outfit tab, and perk tags are expanded.
+
+The rest of the update focuses on stability, delivering audio, bot, character, map and UI bug fixes, plus PTB adjustments to the Nightmare’s snare, pallet and projection behavior and minor perk balance changes.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [8.4.2 | Bugfix Patch](484-8-4-2-bugfix-patch.md) · [Live](../../index.md#live) · [8.5.1 | Bugfix Patch](491-8-5-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

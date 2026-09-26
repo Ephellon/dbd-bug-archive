@@ -9,6 +9,12 @@ updated: "2023-09-18T13:55:22+00:00"
 archived: "2026-09-26T02:20:15Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+An anti-face-camping meter now appears on hooked Survivors, letting them unhook when the Killer stays nearby, but it disables after gates open. The Skull Merchant’s drones are overhauled: active zones are removed, drones gain Stealth and Scouting modes, three Lock-On stacks trigger a Claw Trap, and QoL tweaks raise drone count and reduce detection penalties, shifting her toward chase. Shattered Square is reshaped into a true square with clearer obstacles and shorter sightlines, and MacMillan Estate maps receive an alternate layout. Minor perk tweaks raise Furtive Chase’s terror-radius reduction and extend Background Player’s sprint boost. Killer balances add Bear-Traps and haste to Trapper, cut reloads for Huntress, Trickster and Deathslinger, and boost Legion’s speed. Changes land on PTB this week.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | Nicolas Cage PTB](399-developer-update-nicolas-cage-ptb.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | October 2023](412-developer-update-october-2023.md) &rarr;
 <!-- /nav -->

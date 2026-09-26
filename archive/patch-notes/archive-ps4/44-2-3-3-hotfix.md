@@ -9,6 +9,12 @@ updated: "2020-03-02T19:24:59+00:00"
 archived: "2026-09-26T02:19:18Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Spirit’s husk animation was reworked to transition smoothly when Yamaoka’s Haunting is activated, enhancing mind-game potential. The hotfix also resolved a range of issues: the Mangled status now applies the correct healing-speed penalty, the Clown’s gas bottles affect vault speed again, event items remain in Kill Your Friends, the Spirit’s husk no longer runs after the power ends, the Hallowed Blight event vial no longer shows on the HUD after completion, and several localization strings were tweaked.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.3.2 | Hotfix](43-2-3-2-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [2.4.0 | Darkness Among Us](45-2-4-0-darkness-among-us.md) &rarr;
 <!-- /nav -->

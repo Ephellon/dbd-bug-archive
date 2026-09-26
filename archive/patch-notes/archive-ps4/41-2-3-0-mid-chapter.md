@@ -9,6 +9,12 @@ updated: "2020-03-02T19:23:50+00:00"
 archived: "2026-09-26T02:19:17Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The update adds HUD icons showing equipped add-ons for both Survivors and Killers, displays burnt offerings on the pause screen, introduces an Event rarity for offerings and outfits and adds “Artifact” and “Event” filters in the Store catalog. It also expands perk unlocking to Bloodweb tiers 2-4, adjusts hook time, vault prompts, and flashlight feedback, revises map hook/spawn rules, pallet density and several specific map layouts, and updates healing times, Saboteur sabotage duration and emblem conditions. Audio tweaks affect Spirit phasing and small-killer footstep sounds. A broad bug-fix sweep covers killer collisions, pallet interactions, map geometry, perk glitches, UI text clipping, PS4 trophy and lobby invite issues.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.2.1 | Hotfix](40-2-2-1-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [2.3.1 | Hotfix](42-2-3-1-hotfix.md) &rarr;
 <!-- /nav -->

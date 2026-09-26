@@ -9,6 +9,12 @@ updated: "2024-05-08T14:53:01+00:00"
 archived: "2026-09-26T02:18:17Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Chaos Shuffle modifier launches on May 16 at 11:00 AM ET, accompanied by an event tome, and the Ultimate Weapon perk is reworked to make survivors within 32 m of a locker scream, expose their position and suffer 30 seconds of blindness. The update is otherwise a comprehensive bug-fix pass, addressing audio glitches in Mori previews, numerous character issues (Victor’s recall timer, latch restrictions and glow indicator, Xenomorph tail attacks, Nurse pallet-stun immunity, Legion hand animation), UI prompt overlaps, map collision and object-placement problems on most locations, stray visual flashes, and minor perk, store and equipment auto-equip bugs.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [7.7.0A | Bugfix Patch (Tentative Strobing Fix)](446-7-7-0a-bugfix-patch-tentative-strobing-fix.md) · [Live](../../index.md#live) · [8.0.0 | Dungeons & Dragons](452-8-0-0-dungeons-dragons.md) &rarr;
 <!-- /nav -->

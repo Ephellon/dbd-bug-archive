@@ -9,6 +9,12 @@ updated: "2024-12-12T16:07:40+00:00"
 archived: "2026-09-26T02:18:13Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Houndmaster receives a suite of balance adjustments: Chase Command cooldown drops to three seconds, movement-speed recovery after canceling commands is lengthened to one second, the dog’s hitbox and vault speed are increased, camera transitions are faster, pathing now pulls survivors toward the original grab point, and the Hindered effect on grabbed survivors rises to 10%. The Knotted Rope addon now reduces basic-attack cooldown on grabbed survivors to 2%, and Hex: Thrill of the Hunt’s token penalties are slightly lowered. The patch also delivers a broad wave of fixes—character animation glitches, command icon errors, map collision and visual bugs, and several perk token and audio issues—primarily targeting The Houndmaster, The Nurse, The Demogorgon and various maps.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [8.4.1 | Bugfix Patch](483-8-4-1-bugfix-patch.md) · [Live](../../index.md#live) · [8.5.0 | Mid-Chapter](490-8-5-0-mid-chapter.md) &rarr;
 <!-- /nav -->

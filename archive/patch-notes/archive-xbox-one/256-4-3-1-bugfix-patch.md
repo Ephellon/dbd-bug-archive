@@ -9,6 +9,12 @@ updated: "2020-10-28T14:26:55+00:00"
 archived: "2026-09-26T02:19:45Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Discordance, Nightmare, Demogorgon, and Blighted Serum interactions were corrected along with several survivor and killer visual and audio issues. Medkits with 32 charges now fully heal the second health state, survivor auras appear correctly when a Discordance-equipped killer approaches a repairing generator, and the Nightmare no longer freezes at the end of his mori. The Demogorgon now plays its Shred animation, Blighted Serum cannot be used before Blighted Rush after a hook, and Visceral Canker spawns only when appropriate. Additional fixes address first-person posture during intros, lingering models in the Cage of Atonement after disconnects, Madness audio levels, and killer music leaking into custom lobby spectators.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.3.0 | Mid-Chapter](249-4-3-0-mid-chapter.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [4.3.2 | Bugfix Patch](262-4-3-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

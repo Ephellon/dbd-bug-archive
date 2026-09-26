@@ -9,6 +9,12 @@ updated: "2023-02-23T14:58:45+00:00"
 archived: "2026-09-26T02:20:18Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Skull Merchant receives PTB polish: deploying drones no longer triggers the power cooldown, now 10 seconds for reactivations, and drones activate after 3 seconds. Unhackable time rises to 10 seconds, Lock-On lasts 60 seconds with slower decay, and the Killer gains Undetectable after 2 seconds in a zone. Claw Trap battery is extended to 45 seconds, scanner speed increased, and survivors no longer see reveal indicators. Survivors can now disable drones with traps, traps no longer force an unhackable state, and failed hacks cause immediate Lock-On. Perk updates: Eruption returns to 10 % total generator regression, THWACK! loses its timer, and Background Player activates on picking up another survivor with a 4-second sprint. These changes are slated for the March 7 Chapter release.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | February 2023](375-developer-update-february-2023.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | Tools of Torment](380-developer-update-tools-of-torment.md) &rarr;
 <!-- /nav -->

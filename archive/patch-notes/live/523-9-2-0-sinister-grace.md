@@ -9,6 +9,12 @@ updated: "2025-09-23T16:01:22+00:00"
 archived: "2026-09-26T02:18:08Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Krasue arrives as a new killer with interchangeable Body and Head forms, a 40-meter terror radius in Head form, Intestinal Whip, Regurgitate and Headlong Flight, plus three new killer perks (Ravenous, Wandering Eye, Hex: Overture of Doom). Survivor Vee Boonyasak joins with Road Life, ONE-TWO-THREE-FOUR! and Ghost Notes. The Shape receives a major rework, gaining Stalker, Pursuer and Evil Incarnate modes and the Slaughtering Strike attack, while many add-ons and perk values are adjusted. Numerous killer, survivor and perk balances are tweaked, match details now show equipped items, auto-recovery is streamlined, pallet density is balanced across realms, and extensive audio, bot, UI and VFX bugs are fixed.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [9.1.3 | Bugfix Patch](520-9-1-3-bugfix-patch.md) · [Live](../../index.md#live) · [9.2.1 | Bugfix Patch](524-9-2-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

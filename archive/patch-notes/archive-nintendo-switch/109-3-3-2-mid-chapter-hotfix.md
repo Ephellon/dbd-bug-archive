@@ -9,6 +9,12 @@ updated: "2020-02-28T21:37:55+00:00"
 archived: "2026-09-26T02:19:46Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The 3.3.2 update upgrades to Unreal Engine 4.22 and adds The Archives, a Rift reward system with Rift Fragments currency, Tome challenges, a lobby UI indicator and Charms cosmetic slots. Balance changes give Undetectable status to The Shape (Evil Within I), The Pig while crouching, The Wraith while cloaked and Ghost Face in Night Shroud, add survivor score events for wiggling, pallet drops and vaults, boost all med-kit healing speeds, and rework The Nurse’s blink recharge; Detective’s Hunch, Plunderer’s Instinct and Mettle of Man perks are also tweaked. Patch fixes map collision and visual glitches, perk and skill-check bugs, UI/HUD issues and Archives crashes, while noting remaining issues with killer camera rotation, disabled Animatic videos, currency icons and browser access on Switch devices.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.2.2 | Hotfix](108-3-2-2-hotfix.md) · [Archive: Nintendo Switch](../../index.md#archive-nintendo-switch) · [3.4.0 | Cursed Legacy](110-3-4-0-cursed-legacy.md) &rarr;
 <!-- /nav -->

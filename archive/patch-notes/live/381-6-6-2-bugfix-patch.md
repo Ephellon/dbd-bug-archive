@@ -9,6 +9,14 @@ updated: "2023-03-22T14:25:42+00:00"
 archived: "2026-09-26T02:18:25Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Skull Merchant is overhauled: Survivors grant up to +7% Haste, Claw Traps no longer recharge from failed hacks or active zones, and drones return only after their battery empties and are unhackable near trapped Survivors. Fast-vaulting Survivors break both pallet and trap, and hacked traps self-destruct. A new Ultrasonic Trap Speaker halves Undetectable start-up, Expired Batteries and Prototype Rotor rarities are adjusted, and Adaptive Lighting rises to 50%.
+
+The patch fixes bugs: progress now counts pallet breaks; audio cues and voice-overs are restored; bots gain pathing; model glitches on hooks and tally screens are resolved; chest in Shattered Square’s basement is removed; perk icons and effects work correctly; Xbox One intro cinematics no longer stutter; UI tooltips are corrected.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [6.6.1 | Bugfix Patch](379-6-6-1-bugfix-patch.md) · [Live](../../index.md#live) · [6.7.0 | Mid-Chapter](385-6-7-0-mid-chapter.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,12 @@ updated: "2024-11-27T14:57:21+00:00"
 archived: "2026-09-26T02:20:07Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Houndmaster received extensive PTB tweaks: completed generators now glow light orange, survivors with Houndsense appear bright red, and the Search Command’s radius, detection zone and cooldown were increased and cut to 2.5 m and 0.5 s respectively. Her movement-speed bonus on the search path rose to 6.0 m/s, while the Chase Command’s dog acceleration, redirect linger, and camera transition times were all improved for smoother redirects. The Knotted Rope add-on cooldown reduction to 10 % and the Exposed perk’s duration boost to 60/50/40 s were also applied. These balance adjustments, driven by player feedback, will be monitored and fine-tuned in upcoming hotfixes following the chapter release.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2V8 | Developer Update](480-2v8-developer-update.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | January 2025](487-developer-update-january-2025.md) &rarr;
 <!-- /nav -->

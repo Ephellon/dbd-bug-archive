@@ -9,6 +9,14 @@ updated: "2020-03-02T19:21:15+00:00"
 archived: "2026-09-26T02:19:16Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Patch 2.2.0 adds a player-report option in the Tally and a Help Desk link, introduces the Safe Hook Rescue score event and a Broken status from the new Deliverance perk, plus fresh menu and lobby music. Killer balance includes shortened interrupt animations, unified 4.4 m/s lure speeds for The Hag, Huntress and Spirit, tighter Huntress hatchet collision and faster, damage-free unhook actions. Map tweaks reduce long-chase windows and tidy debris; Bloodlust speed bonuses are lowered and Emblem screens now detail contributions. The Trapper’s buffer returns, the Wraith gains an uncloaking speed burst and a full add-on overhaul, and the Nurse’s interruption animations are adjusted.
+
+The update also bundles broad bug fixes across killers, maps, perks, UI and audio.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.1.2  | Hotfix](38-2-1-2-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [2.2.1 | Hotfix](40-2-2-1-hotfix.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,12 @@ updated: "2025-03-20T14:58:02+00:00"
 archived: "2026-09-26T02:20:06Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Design Preview process now incorporates a short five-minute survey and promises a two-week post-preview report, letting players see how their feedback informs killer and survivor changes. The Trickster rework has been redirected toward new, thematic gameplay tweaks that reward mains and attract new players, instead of simply reverting past changes, and no release timeline is set. A fresh Design Preview previewing the future of the Skull Merchant is promised soon.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | March 2025](494-developer-update-march-2025.md) · [Developer Updates](../index.md#developer-updates) · [Design Preview | The Skull Merchant](497-design-preview-the-skull-merchant.md) &rarr;
 <!-- /nav -->

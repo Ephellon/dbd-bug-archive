@@ -9,6 +9,12 @@ updated: "2020-03-02T15:35:23+00:00"
 archived: "2026-09-26T02:19:08Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Doctor gains a new secondary ability, Static Blast, replaces Treatment Mode and introduces a 1.5-second Shock Therapy cooldown, longer range and new Madness-based effects, plus dedicated chase music and score events. The Archives gain a Compendium page for revisiting past tomes, a new Rift and challenges for Tome II, and persistent chat-toggle settings across party, online and tally channels with Windows Store cross-compatibility. The invert-camera binding is removed, Twitch challenges and Dutch/Swedish language support are dropped, and the Cursed Legacy lobby is disabled. The Treatment Theatre map receives a visual overhaul and layout tweaks. Balance updates affect Gatekeeper, Hex : Ruin, and the Oni’s turn speed. The patch is dominated by widespread bug fixes for killers, maps, perks, UI and audio.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.4.2 | Hotfix](19-3-4-2-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [2.1.2 | Hotfix](21-2-1-2-hotfix.md) &rarr;
 <!-- /nav -->

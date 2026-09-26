@@ -9,6 +9,12 @@ updated: "2020-07-28T14:32:44+00:00"
 archived: "2026-09-26T02:19:43Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Aura System was refactored, altering its appearance, a Promo Code system was added to the Store, and killers can no longer switch characters while queuing. The Cannibal now starts with three chainsaw-sweep charges, gains a 2-second sweep and moves at 5.29 m/s, while the Hillbilly receives an overheat meter that pauses when not revving. Perk updates give Franklin’s Demise a timed item loss with aura reveal, Knock Out now slows crawling survivors and adds Blindness, Lightborn grants blindness immunity with aura reveal, and Tinkerer triggers earlier with longer Undetectable. The remainder consists of bug fixes across killers, survivors, perks, maps and UI—including audio, animation, camera, collision and texture issues—and PTB-origin changes such as disabled blood-stain VFX and the pause-on-release meter behavior.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.0.2 | Hotfix](202-4-0-2-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [ 4.1.1 | Bugfix Patch](217-4-1-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

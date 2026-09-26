@@ -9,6 +9,14 @@ updated: "2025-10-21T14:30:07+00:00"
 archived: "2026-09-26T02:18:07Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Twins and Houndmaster are back in the Haunted by Daylight queue, and The Shape receives a suite of balance tweaks—20% faster stun recovery and break speed in Evil Incarnate, longer mode duration, higher activation speed, faster Slaughtering Strike movement, reduced cooldown, higher bloodpoint reward, and smaller terror radii for both Pursuer and Evil Incarnate. Also Slaughtering Strike turning sensitivity and camera restriction were adjusted, with a planned PTB change to normalize its sensitivity.
+
+The patch is otherwise a broad bug-fix sweep, addressing numerous void-portal visibility glitches, audio anomalies, character-specific crashes and animation issues, map clipping and interaction bugs, perk timing problems, UI crashes, and miscellaneous platform quirks.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [9.2.2 | Bugfix Patch](525-9-2-2-bugfix-patch.md) · [Live](../../index.md#live) · [9.3.0 | Mid-Chapter](529-9-3-0-mid-chapter.md) &rarr;
 <!-- /nav -->

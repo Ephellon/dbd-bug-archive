@@ -9,6 +9,14 @@ updated: "2022-08-30T16:48:59+00:00"
 archived: "2026-09-26T02:18:30Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The 6.2.0 live update adds the Mastermind killer with three new perks—Superior Anatomy, Awakened Awareness and Terminus—plus two new survivors, Ada Wong and Rebecca Chambers, each bringing three unique perks. Streamer tools include anonymous mode and hidden matchmaking delay, while HUD connection indicators now display ping and packet loss details. The Raccoon City Police Station map receives East and West wing updates, unhooked survivor buffs are extended, and Bloodweb node costs drop a third.
+
+The remainder of the patch is a sweep of bug fixes covering matchmaking, cosmetics, animation, perk interactions, and numerous map-specific issues, alongside PTB tweaks to the Mastermind’s abilities and survivor perk balances. Known issues include a wrong Hyperfocus tier description and placeholder store banner text.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [6.1.2/6.1.3 | Bugfix Patch](345-6-1-2-6-1-3-bugfix-patch.md) · [Live](../../index.md#live) · [6.2.1 | Bugfix Patch](350-6-2-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

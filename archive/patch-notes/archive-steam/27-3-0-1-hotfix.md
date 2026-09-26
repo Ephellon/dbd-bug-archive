@@ -9,6 +9,12 @@ updated: "2020-03-02T15:22:44+00:00"
 archived: "2026-09-26T02:19:05Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Ghost Face received a suite of balance tweaks: stalk-rate add-ons now apply only when not leaning, the base Killer Instinct duration and its add-ons were nudged upward, and the detection area for revealing him expanded by 8 %. Visual and audio polish removed the stun VFX, reduced hit camera shake, and silenced the proximity sound in Night Shroud. The hotfix also corrected numerous perk and add-on bugs, fixed animation, pallet, exhaustion and camera issues across multiple killers, addressed crashes in lobby and match end, and added logging for ranking problems while improving audio cues and resolution changes.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.7.1 | Hotfix](26-2-7-1-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [3.0.2 | Hotfix](28-3-0-2-hotfix.md) &rarr;
 <!-- /nav -->

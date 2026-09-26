@@ -9,6 +9,12 @@ updated: "2020-02-28T22:02:30+00:00"
 archived: "2026-09-26T02:19:33Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Upgrading to Unreal Engine 4.20 brings realistic volumetric fog, re-balanced lighting, fog, sound and occlusion, and a reduced Killer red-stain visibility. The new Darkness Among Us chapter adds the Deep Wound status effect—Survivors must mend before bleed-out and Borrowed Time’s timer is cut to 10/15/20 s—while the updated matchmaking system was trialled in PTB. Additional content includes the Best New Trapper Mask for all, map-theme info in the pause menu, a map-scheduler for ranked play, and UI tweaks such as Killer stat displays. The patch is otherwise dominated by extensive bug fixes covering audio, Killer animations, map geometry, perk interactions, UI/HUD, and Xbox One controller/overlay issues.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.3.2 | Hotfix](80-2-3-2-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [2.5.0 | Mid-Chapter](82-2-5-0-mid-chapter.md) &rarr;
 <!-- /nav -->

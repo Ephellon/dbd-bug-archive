@@ -9,6 +9,12 @@ updated: "2020-03-02T14:56:17+00:00"
 archived: "2026-09-26T02:19:01Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+2.2.0 introduces a player-report option in the Tally and a direct Help Desk link, plus new menu and lobby music and Portuguese UI text. A Safe Hook Rescue score event and the Broken survivor status (tied to the new Deliverance perk) were added, alongside revised scoring for medkit insta-heals and unhook actions. Balance tweaks shorten killer interrupt animations, equalize lunge speed for Hag, Huntress and Spirit, adjust Huntress hatchet collision, cut unhook time, make unhooking immune to damage and cancellable, and reduce Bloodlust speed bonuses. Numerous map layouts received locker, window and debris tweaks, Trapper trap buffering returned, and the Wraith’s add-ons and uncloaking behavior were overhauled. The update also bundles bug fixes covering killers, maps, perks, UI and audio.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.1.1 | Hotfix](4-2-1-1-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [2.4.0 | Darkness Among Us](6-2-4-0-darkness-among-us.md) &rarr;
 <!-- /nav -->

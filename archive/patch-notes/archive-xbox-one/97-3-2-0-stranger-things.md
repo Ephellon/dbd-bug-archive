@@ -9,6 +9,14 @@ updated: "2020-02-28T22:15:51+00:00"
 archived: "2026-09-26T02:19:38Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The update introduces the Demogorgon killer, Survivors Nancy Wheeler and Steve Harrington, the Underground Complex - Hawkins National Laboratory map, and two new status effects: Oblivious for Survivors and Undetectable for Killers, applied to the Demogorgon and The Nightmare. It also adds Latin American Spanish and Turkish language support.
+
+Alongside the new content, the patch merges friend-grouping into survivor play, adds persistent party invites, and refines several balance items such as The Nightmare’s constant terror radius, expanded Bloodweb perks, and tweaks to Left Behind, Dark Sense, and Dying Light. The majority of the update is devoted to extensive bug fixes covering killers, maps, perks, audio, UI and miscellaneous systems, plus added logging and a rank-update retry mechanic.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.1.2 | Hotfix](96-3-1-2-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [3.2.1 | Hotfix](98-3-2-1-hotfix.md) &rarr;
 <!-- /nav -->

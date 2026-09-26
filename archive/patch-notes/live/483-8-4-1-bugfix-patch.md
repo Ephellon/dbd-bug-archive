@@ -9,6 +9,12 @@ updated: "2024-12-09T15:28:03+00:00"
 archived: "2026-09-26T02:18:13Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Houndmaster’s Chase Command cooldown drops to 4 s, completed generators turn light orange, Houndsense only shows within 20 m, and aura outlines are dimmed; addons gain longer Training Bell reveals, extended Mangled/Haemorrhage, and lower Gunpowder Tin bonus. The Dark Lord’s Medusa’s Hair hinder penalty is cut to 8 % for 3 s, Demogorgon’s Upside-Down speed rises to 32 m/s, Good Guy’s Hidey-Ho cooldown becomes 14 s and Slice & Dice lasts 1.8 s at 8 m/s. Human Greed now reveals chests and survivor auras longer and adds a quick kick, while Weave Attunement drops depleted items with aura visibility and inflicts Oblivious on pickup. The patch also fixes audio glitches, character power bugs, map collisions, perk prompt and token errors, and UI inventory refresh issues.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [8.4.0 | Doomed Course](482-8-4-0-doomed-course.md) · [Live](../../index.md#live) · [8.4.2 | Bugfix Patch](484-8-4-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

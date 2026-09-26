@@ -9,6 +9,12 @@ updated: "2025-07-07T18:52:38+00:00"
 archived: "2026-09-26T02:20:04Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The new Survivors’ Fog Vial creates a fog cloud that hides scratch marks, muffles sound and blocks aura reading. Item “charges” now count as uses for Keys, Maps and other tools, adding rarities, add-ons and revised key functions. The Executioner gets a longer Punishment of the Damned range; the Clown’s yellow bottles gain faster activation, stronger haste and larger smoke, while purple bottles are slightly nerfed. The Knight’s patrol paths are longer and snappier, and Pig’s crouch and ambush speeds increase with input buffering. Mouse-and-keyboard support arrives on consoles, spectator hotkeys are refined, and customization and loadout presets expand to seven with rename. Several perks—including Any Means Necessary, Appraisal and Streetwise—are rebalanced for higher pick rates and item compatibility.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | May 2025](507-developer-update-may-2025.md) · [Developer Updates](../index.md#developer-updates) · [Stats | 9th Anniversary](518-stats-9th-anniversary.md) &rarr;
 <!-- /nav -->

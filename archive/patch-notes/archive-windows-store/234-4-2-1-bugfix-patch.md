@@ -9,6 +9,12 @@ updated: "2020-09-24T14:34:54+00:00"
 archived: "2026-09-26T02:19:58Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The patch restores the intended volume of the Survivor heartbeat in the Terror Radius, corrects Huntress hatchet behavior when server-side hit validation is active, and fixes the floating-in-air glitch for Survivors hooked in the basement. It also resolves cross-platform friend-add issues for mobile players, makes Dragon’s Grip screams audible to the Killer, and addresses two performance problems - an FPS dip when looking at an active generator and a post-process effect-related slowdown. The update is purely a bug-fix hotfix for Windows Store players.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.2.0 | Descend Beyond](229-4-2-0-descend-beyond.md) · [Archive: Windows Store](../../index.md#archive-windows-store) · [4.2.2 | Bugfix Patch](239-4-2-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

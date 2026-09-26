@@ -9,6 +9,12 @@ updated: "2024-08-27T15:54:19+00:00"
 archived: "2026-09-26T02:18:15Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Trevor Belmont joins as a new survivor with three fresh perks, while The Dark Lord arrives as a new killer offering three transformable forms and a revamped power suite. The update also adds three killer-specific perks (Hex: Wretched Fate, Human Greed, Dominance) and refines existing abilities for The Doctor, The Dredge, The Nemesis and The Knight, plus numerous survivor perk cooldown and activation tweaks. Castle Vista now spawns Dracula’s sky-castle, Midwich Elementary receives a gameplay pass, and Intel XeSS support lands for PC. UI/UX changes reorder character lists, relocate addons, and add lobby rotation controls, while a wide-range bug-fix sweep addresses audio, bots, character animations, map collisions, platform crashes and online lobby visibility.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [8.1.2 | Bugfix Patch](466-8-1-2-bugfix-patch.md) · [Live](../../index.md#live) · [8.2.1 | Bugfix Patch](469-8-2-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

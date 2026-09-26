@@ -9,6 +9,12 @@ updated: "2023-11-06T21:49:20+00:00"
 archived: "2026-09-26T02:18:21Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Stranger Things returns to Dead by Daylight, restoring the original names and icons for its survivor and killer perks (e.g., Guardian → Babysitter, Jolt → Surge) while leaving their effects unchanged, and the Underground Complex map is reactivated with the Hawkins Lab ID offering back in the Bloodweb. The patch also delivers a broad sweep of bug fixes: challenges in Archives, Trickster bot dodging, survivor vault distances, Trapper animation glitches, map geometry issues on Pale Rose, Mount Ormond, and Knights, a Switch UI button error, a potential crash on the Event Entry screen, and store and bot-match crashes.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [7.3.2 | Bugfix Patch](415-7-3-2-bugfix-patch.md) · [Live](../../index.md#live) · [7.4.0 | Chucky](421-7-4-0-chucky.md) &rarr;
 <!-- /nav -->

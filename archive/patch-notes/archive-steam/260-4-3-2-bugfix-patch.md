@@ -9,6 +9,12 @@ updated: "2020-11-03T16:18:15+00:00"
 archived: "2026-09-26T02:19:13Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Discordance now reaches 64/96/128 meters and its aura after survivors leave a generator is cut to four seconds, while Blood Favor’s description was clarified to note it only applies to basic attacks. The patch also resolves a variety of issues: traps, phantasm and snares now place correctly on MacMillan Estate, Spirit’s breathing no longer plays while phasing, and the extra totems on Rotten Fields and Coal Tower have been removed. Halloween generators appear in Midwich Elementary, Jake’s beard shows on the Orbital Captain head, Yui’s Miss Speedway outfit no longer gaps when mixed, and the Blight’s Alchemist Ring no longer speeds rush-token recharge.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.3.1 | Bugfix Patch](254-4-3-1-bugfix-patch.md) · [Archive: Steam](../../index.md#archive-steam) · [4.4.0 | A Binding of Kin](270-4-4-0-a-binding-of-kin.md) &rarr;
 <!-- /nav -->

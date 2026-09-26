@@ -9,6 +9,14 @@ updated: "2020-03-02T19:58:11+00:00"
 archived: "2026-09-26T02:19:23Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Demogorgon’s Shred now breaks pallets, so the Red Moss add-on was reworked to greatly extend Undetectable duration and slow Upside-Down power recovery. Surge now records destruction scores per generator, Second Wind shows activation progress, and Survive With Friends matchmaking uses the highest group rank to fix a rank-20 bias.
+
+The hotfix also adds anti-aliasing to low settings and fixes aura, animation and perk display glitches for several killers (Trapper, Pig, Hillbilly, Huntress, Doctor, Nightmare). It corrects texture, lighting and collision problems on multiple maps, improves network and lobby disconnect handling, and includes minor localization tweaks. Known issues persist with end-game timer sync, Pig camera shake and untranslated warnings.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.2.0 | Stranger Things](61-3-2-0-stranger-things.md) · [Archive: PS4](../../index.md#archive-ps4) · [3.3.0 | Mid-Chapter](63-3-3-0-mid-chapter.md) &rarr;
 <!-- /nav -->

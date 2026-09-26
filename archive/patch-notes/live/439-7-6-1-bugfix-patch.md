@@ -9,6 +9,12 @@ updated: "2024-03-25T14:27:25+00:00"
 archived: "2026-09-26T02:18:18Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Twins killer returns to live play, the Hag’s egg add-ons receive increased Phantasm Trap durations (Cracked Turtle Egg +30%, Half Eggshell +25%, Powdered Eggshell +20%) and survivor bots now have slower, distance-scaled reaction times and limited vision penalties to aid new killers in custom matches. The patch also resolves numerous bugs: DLC cosmetics for the Unknown now apply retroactively, tutorial loadouts display correctly, lobby crashes, map geometry glitches on multiple locations, character movement issues for Charlotte and Oni, perk glitches for Endurance and Scourge Hook, UI button overlap, and a Switch outfit rendering bug. Known issue: Doctor’s Blood Shock outfit head texture distortion.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [7.6.0 | All Things Wicked](437-7-6-0-all-things-wicked.md) · [Live](../../index.md#live) · [7.6.2 | Bugfix Patch](441-7-6-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,12 @@ updated: "2026-06-23T17:40:51+00:00"
 archived: "2026-09-26T02:18:03Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Shane Wiigwas arrives as a new survivor with three perks—Wide Open Throttle (adds haste when fast-vaulting pallets), Lend a Hand (grants permanent healing charges when you bless or cleanse a totem), and Cross-Examination (now grants Elusive on the killer’s light marks). Lend a Hand’s condition was tweaked to allow repeated use per ally, and the Slasher’s Coroner’s Coffee add-on received haste and push adjustments. The 10th Anniversary Black Banquet event launches, adding menu-driven effects and a poison mechanic for killers. The rest of the update is a broad bug-fix sweep covering audio glitches, character visual and ability bugs, map geometry issues, perk alerts, UI quirks and miscellaneous crashes.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [10.0.0 | Jason Patch Notes](550-10-0-0-jason-patch-notes.md) · [Live](../../index.md#live) · [10.0.2 | Bugfix Patch](552-10-0-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

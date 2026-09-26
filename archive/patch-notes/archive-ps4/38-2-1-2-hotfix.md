@@ -9,6 +9,12 @@ updated: "2020-03-02T19:19:07+00:00"
 archived: "2026-09-26T02:19:16Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The hotfix pushes the BBQ event’s personal challenge deadline to Thursday August 23 at 15:00 UTC, giving players additional time to complete the limited-time objectives.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.1.1 | Hotfix](37-2-1-1-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [2.2.0 | Shattered Bloodline](39-2-2-0-shattered-bloodline.md) &rarr;
 <!-- /nav -->

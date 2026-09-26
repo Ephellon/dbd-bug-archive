@@ -9,6 +9,12 @@ updated: "2020-02-28T21:38:25+00:00"
 archived: "2026-09-26T02:19:46Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+New killer The Oni, survivor Yui Kimura, and the Sanctum of Wrath map join the Cursed Legacy chapter, alongside a Japanese-themed lobby and several cosmetics including Bill’s Ugly Sweater and a Universal Winter Holiday Charm. Disconnection penalties will soon enforce temporary matchmaking bans, and the rank-reset now drops players one crest lower. Several perk tweaks affect debuff visibility, Undetectable status on select killer perks, and protection-hit timing, while The Legion and The Spirit receive assorted speed, duration, and animation adjustments. The update is otherwise dominated by extensive bug fixes—collision and visual glitches on many maps, numerous killer animation and interaction issues, perk display errors, UI, audio, and networking stability improvements.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.3.2 | Mid-chapter & Hotfix](109-3-3-2-mid-chapter-hotfix.md) · [Archive: Nintendo Switch](../../index.md#archive-nintendo-switch) · [3.4.2 | Hotfix](111-3-4-2-hotfix.md) &rarr;
 <!-- /nav -->

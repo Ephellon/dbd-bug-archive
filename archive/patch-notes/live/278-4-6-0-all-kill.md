@@ -9,6 +9,14 @@ updated: "2021-03-30T14:32:03+00:00"
 archived: "2026-09-26T02:18:39Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Trickster joins the Killer roster and Yun-Jin Lee arrives as a new Survivor, while Party Privacy settings, a Chat Filter and Colorblind modes give players more control. HUD tweaks enlarge negative status timers and refine the player status bar; Decisive Strike now deactivates during certain actions and several perks (Smash Hit, Self Preservation, Starstruck, No Way Out) receive balance changes. Audio and visual updates refresh lobby, store and tally screens, and the Trickster gains new chase-mode voice lines.
+
+The remainder centers on stability: Blight animation and camera tweaks, Wraith speed changes, collision and map fixes, plus numerous crash and UI patches across platforms and performance improvements. Known issues include a Stadia Dream-Token bug and a Windows Store consent crash.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; _oldest_ · [Live](../../index.md#live) · [4.6.1 | Bugfix Patch](280-4-6-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

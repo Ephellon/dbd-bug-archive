@@ -9,6 +9,14 @@ updated: "2020-03-02T14:23:17+00:00"
 archived: "2026-09-26T02:19:00Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Emblem System introduced, evaluating performance across four categories for both survivors and killers, replacing previous victory conditions. Balance tweaks added scoring curves for chase events and increased Bloodpoint bonuses for offerings. Loadout validation was added and Russian, Polish and Japanese localizations were integrated.
+
+The patch largely addressed stability, fixing menu and loading-screen crashes, power-spawn glitches, Bloodweb and offering errors, audio and visual inconsistencies, and several killer and perk bugs. Minor audio and localization improvements were also applied. Known issues remain with Doctor tally screens, Cannibal chainsaw SFX and Huntress hatchet VFX.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; _oldest_ · [Archive: Steam](../../index.md#archive-steam) · [2.0.0 | Curtain Call](2-2-0-0-curtain-call.md) &rarr;
 <!-- /nav -->

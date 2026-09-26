@@ -9,6 +9,12 @@ updated: "2026-07-29T17:11:37+00:00"
 archived: "2026-09-26T02:20:01Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Dead by Daylight team posted a developer-update presenting fresh global stats broken down by region—Asia/Oceania, Latin America, Europe and North America. It highlights regional favorites such as the Ghoul as top killer and Feng Min as most-picked survivor in Asia/Oceania, the Huntress and Meg in Latin America, The Mastermind and Sable in Europe, and heavy Animatronic usage and shared Sable preference in North America, all observed during the first two weeks of The Slasher’s release and the first five days of Shane. The post covers early-game patterns and promises continued monitoring of kill rates as more data arrives.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [PTB To Live Changes: The Slasher](549-ptb-to-live-changes-the-slasher.md) · [Developer Updates](../index.md#developer-updates) · _newest_ &rarr;
 <!-- /nav -->

@@ -9,6 +9,12 @@ updated: "2022-07-19T14:30:21+00:00"
 archived: "2026-09-26T02:18:31Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Mid-Chapter 6.1.0 introduces Tome 12 “DISCORDANCE,” adds five new maze tiles to McMillan Estate, and overhauls core gameplay: generators now take 90 seconds for a solo repair, killer actions (hits, kicks, pallet hits) are 10 % faster, and a baseline Borrowed Time grants unhooked survivors a temporary speed boost and Endurance. Several killer and survivor perks receive major tweaks, including Barbecue and Chili losing its bloodpoint bonus, Dark Devotion triggering on any health loss, and Borrowed Time, Dead Hard and Off The Record reworked. The prestige and bloodweb systems are rebuilt with higher BP caps, new prestige levels, and altered rewards; Shrine of Secrets now unlocks perks globally. Matchmaking incentives, UI layout, Doctor performance, and dozens of map, animation and audio bugs are also fixed.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [6.0.2 | Bugfix Patch](339-6-0-2-bugfix-patch.md) · [Live](../../index.md#live) · [6.1.1 | Bugfix Patch](343-6-1-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,12 @@ updated: "2020-06-16T14:31:44+00:00"
 archived: "2026-09-26T02:19:49Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Silent Hill update adds the Executioner killer, Cheryl Mason survivor, Midwich Elementary School map, linked customization Sets, a Legendary rarity tier, inventory sorting options, 4K UI scaling and a block feature on the Tally screen. Balance tweaks remove the Clown’s bottle-throw slowdown and limit the Shape’s Evil Within add-ons to increase stalking only on the first activation. The remainder is a broad sweep of fixes covering map visual and collision glitches, character animation and sound issues, loadout and perk bugs, UI quirks and various cosmetic clipping problems.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.7.2 | Hotfix](192-3-7-2-hotfix.md) · [Archive: Nintendo Switch](../../index.md#archive-nintendo-switch) · [4.0.3 | Hotfix ](200-4-0-3-hotfix.md) &rarr;
 <!-- /nav -->

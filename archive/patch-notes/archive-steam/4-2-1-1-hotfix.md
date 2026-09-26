@@ -9,6 +9,12 @@ updated: "2020-03-02T15:07:23+00:00"
 archived: "2026-09-26T02:19:01Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Integrated Chinese and Korean community localization was added. The hotfix also resolved several gameplay and performance issues: the Hag retains collision when carrying Survivors, the Tinkerer’s Tier II activation no longer removes a Killer’s terror radius, framerate hitches in lobbies and matches after opening the Store were smoothed, and a PC-only bug that could prevent Survivors from sprinting was fixed.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.1.0 | Mid-Chapter](3-2-1-0-mid-chapter.md) · [Archive: Steam](../../index.md#archive-steam) · [2.2.0 | Shattered Bloodline](5-2-2-0-shattered-bloodline.md) &rarr;
 <!-- /nav -->

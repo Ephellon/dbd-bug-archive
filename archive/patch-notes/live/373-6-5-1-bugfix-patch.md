@@ -9,6 +9,12 @@ updated: "2023-01-31T15:25:22+00:00"
 archived: "2026-09-26T02:18:27Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Survivor activity HUD now displays Generator progress, giving players clearer repair information. The patch also stabilizes the experience with a host of bug fixes: crashes on exit are resolved, loadout swaps no longer cause lobby disconnects, store pricing displays correctly, and customization notifications appear. Custom games now show proper role changes and bots hit Skill Checks. Numerous Killer and Survivor glitches—from pallet breaks, aura reveals, animation stalls, to map-specific clipping and perk icons—have been corrected, and a known issue with the Mastermind’s Virulent Bound movement remains.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [6.5.0 | Mid-Chapter](371-6-5-0-mid-chapter.md) · [Live](../../index.md#live) · [6.5.2 | Bugfix Patch](374-6-5-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

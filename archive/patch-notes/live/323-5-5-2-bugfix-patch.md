@@ -9,6 +9,12 @@ updated: "2022-02-09T15:27:53+00:00"
 archived: "2026-09-26T02:18:33Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Boil Over now restores 33 % of current wiggle progress when falling from great heights, replacing the flat 25 % boost, and the Rite of the Executioner daily ritual was reduced to sending two survivors to the Cages of Atonement. The patch also resolves a visual Grade Reset glitch from 5.5.1, corrects several cosmetic unlock and clipping problems, fixes HUD score-alert formatting, rewards for players with zero pips, and restores missing animation and strike recovery for Nemesis. Numerous Nurse bugs—blink lunge timing, fatigue entry, hand animation, out-of-bounds blinks on Springwood and Backwater Swamp—are fixed, along with misc map, survivor ability, and lobby stability issues, including a PS4/PS5 lobby hang.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [5.5.1 | Bugfix Patch](313-5-5-1-bugfix-patch.md) · [Live](../../index.md#live) · [5.6.0 | Sadako Rising](325-5-6-0-sadako-rising.md) &rarr;
 <!-- /nav -->

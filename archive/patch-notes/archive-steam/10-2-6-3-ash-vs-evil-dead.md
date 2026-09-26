@@ -9,6 +9,12 @@ updated: "2020-03-02T15:15:39+00:00"
 archived: "2026-09-26T02:19:04Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Ashley J. Williams joins the survivor roster and Twitch Game On support is added. Decisive Strike’s stun was reduced to five seconds, allowing movement after one second, and the Enduring perk now shortens the stun to roughly 2.8 seconds. The update also delivers a broad set of fixes: The Plague’s abilities, The Nurse’s blink, The Wraith’s Bone Clapper, totem cleansing on Autohaven Wrecker maps, spectating camera behavior, various localisation and audio tweaks, and numerous crash and infinite-loading issues.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.6.0 | Demise of the Faithful](9-2-6-0-demise-of-the-faithful.md) · [Archive: Steam](../../index.md#archive-steam) · [2.7.0 | Mid-Chapter](11-2-7-0-mid-chapter.md) &rarr;
 <!-- /nav -->

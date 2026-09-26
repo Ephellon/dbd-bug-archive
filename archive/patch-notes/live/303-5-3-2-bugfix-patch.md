@@ -9,6 +9,12 @@ updated: "2021-11-02T20:12:07+00:00"
 archived: "2026-09-26T02:18:35Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Boon Totems have had their animation restriction lifted, making all totems snuffable for killers (temporarily until repositioning). The patch also delivers a sweep of bug fixes: archive UI now shows the correct challenge, store purchase errors no longer grant free survivors, and dual Bloodweb leveling is blocked, while the Clairvoyance perk stops pushing teammates and consuming each other. Interaction bar color works when blessing hexes, the Pig’s Video Tape add-on correctly kills with reverse bear traps and lets survivors move after generator completion, Adrenaline triggers at exit gates, foliage graphics stay intact, and various UI, performance and loading issues are resolved. Known issues remain with the Halloween Hook challenge, archive level refresh delays, and occasional Clairvoyance glitches.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [5.3.1 | Bugfix Patch](302-5-3-1-bugfix-patch.md) · [Live](../../index.md#live) · [5.4.0 | Portrait of a Murder](306-5-4-0-portrait-of-a-murder.md) &rarr;
 <!-- /nav -->

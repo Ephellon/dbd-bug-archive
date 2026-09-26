@@ -9,6 +9,12 @@ updated: "2024-07-24T14:25:39+00:00"
 archived: "2026-09-26T02:18:16Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Mount Ormond Resort receives its third map variation and Backwater Swamp maps return, while the Stridor perk’s pain grunts and breathing bonuses are increased and made additive. The Singularity’s biopod control now auto-targets survivors and destroys twice as fast. A brand-new 2V8 mode launches on July 25, featuring dual-killer duos, larger map variants such as Suffocation Pit and Azarov’s Resting Place, and an event tome. Switch lobby UI shifts to four-column navigation and removes owned tags. The patch also bundles extensive bug fixes across archives, bots, character animations, map collisions, perks, UI and gameplay consistency.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [8.1.0 | Tomb Raider](459-8-1-0-tomb-raider.md) · [Live](../../index.md#live) · [8.1.1a | Hotfix](463-8-1-1a-hotfix.md) &rarr;
 <!-- /nav -->

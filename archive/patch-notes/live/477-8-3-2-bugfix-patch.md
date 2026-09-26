@@ -9,6 +9,14 @@ updated: "2024-11-04T15:59:56+00:00"
 archived: "2026-09-26T02:18:14Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Skull Merchant basekit receives a speed revert to 4.6 m/s while inspecting her Radar, gains constant drone scan-line visibility and aura reveal within 32 m. Killer perks Machine Learning, Predator and Zanshin Tactics have their aura durations shortened, and survivor perks Distortion, Inner Focus and We’re Gonna Live Forever see timing and trigger adjustments. The Flashbang perk and Firecracker items are re-enabled, the Haunted by Daylight event tome advances to Levels 2 and 3, and bloodpoint rewards for several scoring events are increased.
+
+The patch also fixes Halloween event glitches, missing audio SFX, numerous character animation and ability bugs, map breakable-wall spawns and navigation issues, a platform crash on EAC shutdown, and cross-progression DLC sharing. A PS5-only update addresses potential graphical glitches on the Pro model.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [8.3.1 | Bugfix Patch](476-8-3-1-bugfix-patch.md) · [Live](../../index.md#live) · [8.4.0 | Doomed Course](482-8-4-0-doomed-course.md) &rarr;
 <!-- /nav -->

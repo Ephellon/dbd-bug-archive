@@ -9,6 +9,12 @@ updated: "2024-10-29T13:56:01+00:00"
 archived: "2026-09-26T02:20:08Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Developers finally published the long-awaited 2v8 statistics, revealing over seven million matches during the event and teasing a forthcoming version 2 of the mode. The data highlighted The Huntress as the most-played Killer, identified the top three Killer pairings, and showed Escapist as the dominant Survivor class. Additional metrics compared recent Singularity tweaks, noting a surge in matches and modest shifts in slipstreams and EMP use. Flashlight averages were broken down into blinds and saves per match, while healing analysis confirmed altruistic heals far outpace self-heals and that survivors act as meat shields roughly twice per trial.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | September 2024 PTB](474-developer-update-september-2024-ptb.md) · [Developer Updates](../index.md#developer-updates) · [2V8 | Developer Update](480-2v8-developer-update.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,14 @@ updated: "2020-02-28T21:33:45+00:00"
 archived: "2026-09-26T02:19:53Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Cursed Legacy update introduces the Oni killer, survivor Yui Kimura, the Sanctum of Wrath map for the Yamaoka Estate, a Japanese-themed lobby and numerous cosmetics including Bill’s Ugly Sweater and Frosty Eyes. It also adds a temporary disconnection-penalty system (activating Dec 5) and restores chat in survivor pre-lobbies and custom games, while refreshing the intro trailer.
+
+Balance tweaks include a one-crest-step rank reset, hidden debuff perk icons, faster protection-hit intervals, deep-wound timer changes and extensive adjustments to Legion and Spirit abilities. The patch is primarily a large bug-squash, fixing collider, animation, UI, audio and network issues across killers, maps and perks, plus various UI and achievement fixes.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; _oldest_ · [Archive: Windows Store](../../index.md#archive-windows-store) · [3.4.1 | Hotfix](116-3-4-1-hotfix.md) &rarr;
 <!-- /nav -->

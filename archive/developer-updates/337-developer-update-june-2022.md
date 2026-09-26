@@ -9,6 +9,12 @@ updated: "2022-06-22T17:16:26+00:00"
 archived: "2026-09-26T02:20:21Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The June 2022 update introduces a complete overhaul of perk progression, tying perk unlocks to character prestige, expanding prestige to level 100, removing teachable rarity, and allowing direct purchases from the Shrine of Secrets. It also adds matchmaking incentives that grant large Bloodpoint bonuses for under-populated roles, and modest gameplay tweaks such as slower generator completion, stronger generator kicks, and faster Killer actions. In addition, 39 meta-defining perks for both Killers and Survivors receive nerfs or buffs—including changes to Barbecue and Chilli, Hex Ruin, Pop Goes the Weasel, Dead Hard, Borrowed Time and Iron Will—while dozens of secondary perks are rebalanced. All changes will appear in the Public Test Build next week and will headline the upcoming Mid-Chapter.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; _oldest_ · [Developer Updates](../index.md#developer-updates) · [Developer Update | July 2022](341-developer-update-july-2022.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,12 @@ updated: "2020-02-28T22:22:03+00:00"
 archived: "2026-09-26T02:19:39Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The update upgrades Dead by Daylight to Unreal Engine 4.22 and launches The Archives, a new time-limited reward system with Rift Fragments, a challenge-granting Tome and the first “Charms” cosmetics that attach to Survivors or a Killer’s hook. It adds a lobby UI widget, new currency for tier progression, and balance tweaks such as Undetectable status on several Killer powers and new Survivor score events for wiggling, pallet drops and fast vaults, plus extensive med-kit speed changes and Nurse blink adjustments. The bulk of the patch addresses bugs: killer ability and animation issues, map collisions and visual glitches, perk and skill-check timing, UI and lobby problems, audio and localization fixes, and other stability improvements.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.2.2 | Hotfix](99-3-2-2-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [3.3.2 | Hotfix](101-3-3-2-hotfix.md) &rarr;
 <!-- /nav -->

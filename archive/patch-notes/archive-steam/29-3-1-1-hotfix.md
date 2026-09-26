@@ -9,6 +9,12 @@ updated: "2020-03-02T15:26:43+00:00"
 archived: "2026-09-26T02:19:05Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Nightmare’s HUD now supports multi-row action prompts, item and offering icons are slightly smaller, and the Huntress’s Cold Wasteland Survivor outfit icons were corrected after the 3.1.0 texture change. The update also sweeps through numerous bugs: exit-escape logging, Dream Snare duplication, perk interactions like Head On, Ghost Face ritual progress, aura visibility, model clipping, alarm-clock grabs, killer-perk location indicators, Madness bubble noise, map-specific geometry and collision issues on Badham Preschool, Lampkin Lane, MacMillan Estate, Coal Tower and Autohaven Wrecker, totem interaction prompts, and post-game Bloodpoint display. Finally, The Pig’s crouch-uncrouch speed curves were smoothed and overall average speed nudged upward.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.0.2 | Hotfix](28-3-0-2-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [3.2.1 | Hotfix](30-3-2-1-hotfix.md) &rarr;
 <!-- /nav -->

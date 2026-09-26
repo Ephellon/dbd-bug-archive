@@ -9,6 +9,12 @@ updated: "2021-08-10T14:58:02+00:00"
 archived: "2026-09-26T02:18:37Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Trickster received two balance tweaks: the Laceration decay timer was raised to 15 seconds and the maximum throw-speed bonus to 30 %. The rest of the 5.1.1 update is a sweeping bug-fix hotfix, addressing clipping and collision problems on several maps, correcting animation and camera glitches for multiple killers and survivors, fixing numerous cosmetic visual issues, and resolving store, purchase and cross-play errors. It also patches specific ability bugs for the Blight, Trapper, Spirit and other killers, and cleans up tutorial and HUD inconsistencies. Known issues remain with Blood Lodge, The Game and the Executioner’s rear geometry.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [5.1.0 | Mid-Chapter](290-5-1-0-mid-chapter.md) · [Live](../../index.md#live) · [5.2.0 | Hellraiser](294-5-2-0-hellraiser.md) &rarr;
 <!-- /nav -->

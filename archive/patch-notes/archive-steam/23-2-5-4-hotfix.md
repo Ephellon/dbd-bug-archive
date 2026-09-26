@@ -9,6 +9,12 @@ updated: "2020-03-02T19:32:47+00:00"
 archived: "2026-09-26T02:19:03Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Adjusted Lunar Event: Red Envelopes now always spawn two per level-50 Bloodweb, and Killer Objectives now grant +3 points for hooking a Survivor and +4 points for destroying a Lunar Vessel after a hook (up from +2 and +3). The hotfix also addressed bugs, fixing lost Lunar event progress when a host quits during match transition and correcting the Wake Up! perk’s missing exit-gate aura display.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.5.3 | Hotfix](22-2-5-3-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [2.6.2 | Hotfix](24-2-6-2-hotfix.md) &rarr;
 <!-- /nav -->

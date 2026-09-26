@@ -9,6 +9,14 @@ updated: "2026-01-27T16:00:56+00:00"
 archived: "2026-09-26T02:18:06Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The First" killer joins Stranger Things Chapter 2 with a Vine Attack and Upside-Down travel that generate Worldbreaker tokens and later deal damage, plus three new killer perks. New survivors Dustin Henderson and Eleven arrive, each with three perks focused on window traps, toolbox-to-medkit conversion, aura detection and team vision. The patch also adds a terror-radius heart, Jump-Start Rift quests, and removes or renames Halloween DLC outfits, perks and the Lampkin Lane map.
+
+The rest is mainly bug fixes: audio glitches and missing voice lines, bot AI tweaks, character animation and interaction fixes, map clipping and trap placement issues, perk icon and UI bugs, plus several crash fixes; PTB changes tighten The First’s cooldowns and clarify addon text.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [9.3.2 | Bugfix Patch](530-9-3-2-bugfix-patch.md) · [Live](../../index.md#live) · [9.4.1 | Bugfix Patch](535-9-4-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,12 @@ updated: "2020-08-05T14:31:05+00:00"
 archived: "2026-09-26T02:19:11Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Aura visuals were swapped back to a more legible version after complaints about the 4.1.0 system, and a large batch of add-ons for The Cannibal and The Hillbilly were rebalanced - charge-replenish rates, rev limits, rarity tiers and penalties were adjusted, several penalties were removed, and Speed Limiter now grants double bloodpoints and is common. The remainder of the update is a bundle of bug fixes addressing overly bright interior lighting, stray blood droplets, Demogorgon shred misses and brief chases, item charge depletion, Nancy Wheeler facial animation, unintended offering consumption, Wraith Blind Warrior-Mud blindness, Hillbilly chainsaw clipping on Treatment Theatre, and Cannibal tantrum issues under poor network conditions.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.1.0 | Mid-Chapter](210-4-1-0-mid-chapter.md) · [Archive: Steam](../../index.md#archive-steam) · [ 4.1.2 | Bug fix patch](219-4-1-2-bug-fix-patch.md) &rarr;
 <!-- /nav -->

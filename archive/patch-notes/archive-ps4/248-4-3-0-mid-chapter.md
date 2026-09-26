@@ -9,6 +9,14 @@ updated: "2020-10-20T14:24:39+00:00"
 archived: "2026-09-26T02:19:29Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Executioner was rebalanced: Punishment of the Damned cooldown drops to 2.25 s and cancelling Rites of Judgement now gives 1 s of 3.68 m/s speed while blocking attacks briefly. Numerous perks were tweaked—undetectable timers, broken status durations, haste values, Bloodpoint rewards and ranges were adjusted, and all perks now share the same rarity. Generator terminology was clarified and maps, lockers, footstep and blood VFX plus 4K character portraits received visual upgrades.
+
+The update also fixed a variety of bugs, including disabled daily rituals in custom games, store audio issues, cloud-ID display on soft-ban prompts, survivor carry/unhook glitches, incorrect Torment triggers, Hex totem visuals and Oni blood-orb placement; a known issue persists with occasional wrong killer start-match animation.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.2.2 | Bugfix Patch](240-4-2-2-bugfix-patch.md) · [Archive: PS4](../../index.md#archive-ps4) · [4.3.1 | Bugfix Patch](255-4-3-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

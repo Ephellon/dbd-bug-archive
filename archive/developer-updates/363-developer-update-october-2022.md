@@ -9,6 +9,12 @@ updated: "2022-10-28T15:49:42+00:00"
 archived: "2026-09-26T02:20:19Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Survivor bots are coming to custom matches, letting hosts add AI teammates via a ‘+’ button and remove them at will; Killer bots are promised later. The 6.4.0 update also brings visual refreshes for pallets and breakable walls, a new basement map area, flashlight tweaks that give Killers blind immunity while grabbing from lockers and add a 0.25-second save buffer, and matchmaking overhauls introducing team-based ratings and faster rating adjustment after long absences. Anti-cheat work continues with fixes to hooks, generators, dual-Killer starts, perk stacking, flashlight blinds and match length, while temporary ban durations are increased across the board.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | Finishing Mori](352-developer-update-finishing-mori.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | January 2023](369-developer-update-january-2023.md) &rarr;
 <!-- /nav -->

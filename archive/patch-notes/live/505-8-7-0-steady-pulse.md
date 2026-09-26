@@ -9,6 +9,12 @@ updated: "2025-05-06T14:52:59+00:00"
 archived: "2026-09-26T02:18:11Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Orela Rose debuts as a new survivor with three perks—Do no Harm, Duty of Care and Rapid Response—modifying healing speed, aura reveal and exhaustion. The patch also rebalances several killers, notably adjusting the Ghoul’s pallet cooldown and mask reveal, adding a Doctor interrupt cooldown, slowing the Houndmaster’s dog vault and boosting her deviousness BP, removing the Oni’s turn-rate limit, and changing the Singularity’s Overclock to a flat 3 % speed boost. New features include a unified Quest hub, pre-equipped loadouts, a perk previewer, upgraded character material shading and clearer Haste/Hindered icons. The rest of the update is a wide-range bug-fix sweep—audio, map collisions, AI, UI, perk and character glitches—and PTB reversions to Haste stacking with minor perk tweaks.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [8.6.2 | Bugfix Patch](502-8-6-2-bugfix-patch.md) · [Live](../../index.md#live) · [8.7.1 | Bugfix Patch](506-8-7-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

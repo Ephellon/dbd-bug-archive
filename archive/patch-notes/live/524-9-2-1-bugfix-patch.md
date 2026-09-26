@@ -9,6 +9,12 @@ updated: "2025-09-30T14:51:54+00:00"
 archived: "2026-09-26T02:18:08Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Krasue receives the only substantive changes: the initial Glowing Fungus count rises to five and the maximum drops to six, the Intestinal Whip obstruction-ignore window shrinks to 0.35 s, and Head Form vault and stun timers are modestly increased (pallet vault 2 s, window vault 1.8 s, pallet stun 2.5 s). The remainder of the 9.2.1 live patch is a broad sweep of fixes—audio sync and missing SFX for several killers, bot healing glitches, numerous character animation and interaction bugs (including misaligned hands, camera issues, and lost score events), map geometry problems, perk token and aura inconsistencies, platform DLC linking, UI display errors, quest progress duplication, and a few crash-preventing tweaks.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [9.2.0 | Sinister Grace](523-9-2-0-sinister-grace.md) · [Live](../../index.md#live) · [9.2.2 | Bugfix Patch](525-9-2-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

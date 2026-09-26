@@ -9,6 +9,12 @@ updated: "2026-07-06T14:30:06+00:00"
 archived: "2026-09-26T02:18:03Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Doctor returns to the 10th Anniversary Event queue, and the Slasher’s Deputy’s Badge add-on now triggers explosions at 2 m instead of 4 m and no longer reacts to regressing generators. The patch focuses on extensive bug fixes: event interactions (cake rarity, Snap Out Of It with Morsels, portal spawns, visual and audio glitches), audio language and timing issues, numerous character and animation bugs (item pickups, model clipping, power and shadow anomalies), map collisions and access problems across many maps, perk activation quirks, and a lingering Tome Challenge issue. No new content beyond these adjustments.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [10.0.1 | Bugfix Patch ](551-10-0-1-bugfix-patch.md) · [Live](../../index.md#live) · [10.0.3 | Bugfix Patch](553-10-0-3-bugfix-patch.md) &rarr;
 <!-- /nav -->

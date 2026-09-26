@@ -9,6 +9,14 @@ updated: "2025-09-03T15:36:55+00:00"
 archived: "2026-09-26T02:18:42Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The 9.2.0 PTB adds the Krasue killer, featuring detachable head-form, Unbodied Flesh power and three new perks, and the survivor Vee Boonyasak with Road Life, ONE-TWO-THREE-FOUR! and Ghost Notes. A new PTB flow now ports Steam-unlocked characters at level 50 Prestige 3, pre-loads items, and grants 12 500 Auric Cells and 1 million Bloodpoints. The Shape receives a full rework into Stalker, Pursuer and Evil Incarnate modes plus the Slaughtering Strike attack. Feature updates include tunneling and slugging reduction, unhook protections, and pallet density adjustments, while dozens of perks were rebalanced.
+
+The patch also delivers extensive bug fixes—audio glitches, bot movement, character VFX, map collisions, perk cooldowns, UI errors, and platform input issues—plus known issues with the Krasue third-person view and tunneling penalties.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [9.1.0 | PTB Patch Notes](514-9-1-0-ptb-patch-notes.md) · [Player Test Build (PTB)](../../index.md#player-test-build-ptb) · [9.3.0 | PTB Patch Notes](527-9-3-0-ptb-patch-notes.md) &rarr;
 <!-- /nav -->

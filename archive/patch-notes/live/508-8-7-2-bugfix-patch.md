@@ -9,6 +9,12 @@ updated: "2025-06-02T15:04:03+00:00"
 archived: "2026-09-26T02:18:10Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+An update to the Abandon option now records a survivor who flees while the remaining teammates are dying as a loss instead of a draw, and a small visual tweak corrects the hair colors on Sable’s Sudden Shading and Vittorio’s Geralt of Rivia head cosmetics on PC and Xbox. The patch also bundles a broad sweep of bug fixes: audio cues and animations for killers like The Oni, The Ghoul, and The Demogorgon are restored; map geometry glitches on several 2-v-8 arenas and classic maps are repaired; perk and quest progress issues are resolved; and UI crashes and cursor glitches are stabilized. Nintendo Switch and PlayStation will receive these fixes in the next title update.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [8.7.1 | Bugfix Patch](506-8-7-1-bugfix-patch.md) · [Live](../../index.md#live) · [9.0.0 | Five Nights at Freddy's](510-9-0-0-five-nights-at-freddys.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,12 @@ updated: "2022-08-01T15:59:22+00:00"
 archived: "2026-09-26T02:20:20Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Thanatophobia receives a rework in the upcoming 6.1.2 update, scaling its action-speed penalty per injured survivor and adding a larger bonus when all four are down, while Mettle of Man is adjusted to behave like other Endurance perks, activating after two protection hits and breaking on conspicuous actions. Pain Resonance’s generator interruption is restored to stop a Merciless Storm combo, and Dead Man’s Switch duration is cut to 20/25/30 seconds. The Clown’s permanent Haste bug is fixed, making him playable again, and orange glyph challenges are temporarily swapped pending visual rework. Matchmaking Incentives, broken after the Mid-Chapter launch, will be fixed in the 6.2.0 PTB. The 6.1.2 patch ships this week.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | July 2022](341-developer-update-july-2022.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | August 23, 2022](348-developer-update-august-23-2022.md) &rarr;
 <!-- /nav -->

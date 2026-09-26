@@ -9,6 +9,12 @@ updated: "2026-09-01T14:33:45+00:00"
 archived: "2026-09-26T02:18:02Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Judgment’s Divine Light curve window while Zealous is doubled to 0.6 seconds, and its UI reticule, charging bar and Zealous icon now behave correctly; the Knight now routes Guards around dropped pallets and abandons hunts longer than 48 m, with pallets no longer blocking Guard movement. Survivor perks Repressed Alliance and Vigil receive smaller block and exhaust-reduction timers. The patch also delivers a sweep of fixes: audio cues for the Judgment and several killers, character animation glitches, map collision and navigation bugs on multiple realms, UI inconsistencies, and text errors in perk descriptions.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [10.1.0 | Chorus of Sin](556-10-1-0-chorus-of-sin.md) · [Live](../../index.md#live) · [10.1.2 Bugfix Patch](558-10-1-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

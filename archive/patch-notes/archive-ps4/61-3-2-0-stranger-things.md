@@ -9,6 +9,12 @@ updated: "2020-03-02T19:57:27+00:00"
 archived: "2026-09-26T02:19:22Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The 3.2.0 Stranger Things update introduces the Demogorgon killer, Nancy Wheeler and Steve Harrington survivors, the Hawkins National Laboratory map, and two new status effects—Oblivious for Survivors and Undetectable for Killers, applied to the Demogorgon and The Nightmare. It also adds Latin American Spanish and Turkish language support and overhauls party management with persistent survivor groups and in-game invite notifications. Balance tweaks give The Nightmare an Oblivious effect in Dream World, expand Bloodweb perks at level 40, and adjust several survivor and killer perks. The remainder of the patch is a broad sweep of fixes covering killer abilities, map collisions, perk bugs, audio, UI, and various miscellaneous issues.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.1.2 | Hotfix](60-3-1-2-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [3.2.1 | Hotfix](62-3-2-1-hotfix.md) &rarr;
 <!-- /nav -->

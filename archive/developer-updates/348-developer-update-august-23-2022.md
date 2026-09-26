@@ -9,6 +9,12 @@ updated: "2022-08-23T13:55:20+00:00"
 archived: "2026-09-26T02:20:20Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Resident Evil: PROJECT W Chapter cuts Bloodweb node costs by roughly 33% and splits Racoon City Police Station into East and West wings, adding new pathways and fewer pallets. The update also extends unhooked survivor Endurance and Haste to 10 seconds with a 10% speed boost, reverts Mettle of Man to its original protection effect, and refines Albert Wesker’s (The Mastermind) rush detection, Virulent Bound damage, movement speed and collision precision. Perk tweaks include a single-use Reassurance per hook, removal of Awakened Awareness’s lingering aura, expanded Low Profile activation and a permanent, amplified action-speed bonus from Better Than New. The changes are largely balance tweaks and bug fixes heading into the live release.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | August 2022](344-developer-update-august-2022.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | Finishing Mori](352-developer-update-finishing-mori.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,12 @@ updated: "2024-05-09T13:55:10+00:00"
 archived: "2026-09-26T02:20:11Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Ahead of the 9th-year Chapter 8.0.0, the May 2024 developer update introduces a suite of balance tweaks and quality-of-life changes that will first appear on the Public Test Build. Chucky’s Scamper now only works with Slice & Dice and its cooldown is cut, while the Cannibal’s Chainsaw Sweep, tantrum time and collision box are adjusted to reduce add-on reliance. The Deathslinger gains faster reeling and reload speed, and the Blight’s ultra-rare add-ons are toned down. Several high-impact survivor perks (Deadlock, Background Player, Buckle Up, Pop Goes the Weasel, Pain Resonance, Invocation) see reduced durations or effects. The Shattered Square map lighting and item pop-up UI are reworked for better visibility.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | April 2024 PTB](444-developer-update-april-2024-ptb.md) · [Developer Updates](../index.md#developer-updates) · [Stats | April 2024](450-stats-april-2024.md) &rarr;
 <!-- /nav -->

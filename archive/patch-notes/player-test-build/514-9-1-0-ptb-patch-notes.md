@@ -9,6 +9,12 @@ updated: "2025-07-08T15:37:49+00:00"
 archived: "2026-09-26T02:18:42Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Rick Grimes and Michonne Grimes join the roster, each bringing three new survivor perks; Michonne is visible but unplayable in PTB until the live 9.1.0 launch. The Fog Vial item and reworked Key and Map items receive new variants, add-ons and functionality, while the Executioner, Clown, Pig, Knight and Oni get balance tweaks to ranges, durations, speeds and add-on effects. A new preset system expands loadout and cosmetic slots to seven, and spectating hotkeys and HUD markers are added for custom games. The Fallen Refuge area expands the chase space. The build also includes a broad set of audio, bot, character, map, perk and UI bug fixes, and known voice-line and outfit issues for the new survivors.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [9.0.0 | PTB Patch Notes](509-9-0-0-ptb-patch-notes.md) · [Player Test Build (PTB)](../../index.md#player-test-build-ptb) · [9.2.0 | PTB Patch Notes](522-9-2-0-ptb-patch-notes.md) &rarr;
 <!-- /nav -->

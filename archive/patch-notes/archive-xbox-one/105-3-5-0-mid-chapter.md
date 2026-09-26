@@ -9,6 +9,12 @@ updated: "2020-02-28T22:24:28+00:00"
 archived: "2026-09-26T02:19:40Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Doctor receives a new secondary ability, Static Blast, and loses Treatment Mode; his Shock Therapy cooldown is cut to 1.5 s, range up-scaled, and related add-ons tweaked, plus new chase music and score events. The Oni’s turn-speed cap is removed, Gatekeeper emblem now gives uniform generator points, and Hex: Ruin now affects all generators with faster regression. A Compendium page and a new Rift with challenges were added to the Archives, while the invert-camera binding was moved to Settings, Twitch challenges and the Cursed Legacy lobby were removed, and Treatment Theatre map received a visual overhaul. The update is otherwise a broad sweep of killer, map, UI and performance bug fixes.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.4.2 | Hotfix](104-3-4-2-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [3.5.1 | Hotfix](106-3-5-1-hotfix.md) &rarr;
 <!-- /nav -->

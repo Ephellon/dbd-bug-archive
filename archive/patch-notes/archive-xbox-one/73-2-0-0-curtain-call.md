@@ -9,6 +9,14 @@ updated: "2020-02-28T21:51:33+00:00"
 archived: "2026-09-26T02:19:31Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The update introduces an in-game Store (including the Shrine of Secrets), account-based Player Level progression that grants Iridescent Shards, and new Tutorial levels, alongside a redesign of confirmation prompts, main menu layout and idle killer animations. All characters now begin with their three personal perks unlocked and perk slots unlock earlier (levels 5/10/15). Hook auras are always visible to killers, Wraith cloak visuals and flashlight stun time are tweaked, and pallet mechanics were overhauled to remove the “vacuum” and shrink the stun hitbox. Iridescent Shards caps were removed, costs for Shrine teachable perks rose, and scoring rewards were increased with diminishing returns.
+
+The remainder of the patch focuses on bug fixes for killers, maps, UI, audio and Xbox One stability.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [1.9.4 - 1.9.4.1 | Emblems](72-1-9-4-1-9-4-1-emblems.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [2.1.0 | Mid-Chapter](74-2-1-0-mid-chapter.md) &rarr;
 <!-- /nav -->

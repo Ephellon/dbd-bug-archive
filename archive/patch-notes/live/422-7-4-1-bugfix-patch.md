@@ -9,6 +9,12 @@ updated: "2023-12-05T15:36:07+00:00"
 archived: "2026-09-26T02:18:20Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Input icons on killers’ powers now stay visible, dimming when unusable, and the Good Guy receives a short input-protection delay when entering Hidey-Ho mode. The Trickster’s Memento Blades add-on throws 10 % faster, and the Bone Chill winter event returns on Dec 14 with its own event tome. The patch also delivers a broad sweep of bug fixes: audio cues for glyphs and Good Guy VO, bot behavior fixes, numerous character animation and interaction glitches (Huntress, Nurse, Demogorgon, Good Guy), map geometry and interaction issues across multiple maps, and UI quirks in perk inventories and store banners.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [7.4.0 | Chucky](421-7-4-0-chucky.md) · [Live](../../index.md#live) · [7.4.2 | Bugfix Patch](424-7-4-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

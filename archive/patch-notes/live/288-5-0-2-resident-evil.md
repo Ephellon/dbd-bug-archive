@@ -9,6 +9,12 @@ updated: "2021-06-29T14:43:40+00:00"
 archived: "2026-09-26T02:18:38Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Performance on the Resident Evil chapter received a refresh: overall frame stability was boosted, especially for the Raccoon City Police Station map, while Switch visuals were scaled back to ease load and reduce crashes. The update also addressed a range of bugs, from The Nemesis’s tentacle failing to appear in menus and hitting survivors through walls, to UI glitches in tutorials, spectator mode, and customization, plus map-specific issues like generator repair on Pale Rose and stuck zombies in Ironworks of Misery. Additional fixes reduce out-of-memory crashes and correct various interaction and cursor bugs.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [5.0.1 | Resident Evil](287-5-0-1-resident-evil.md) · [Live](../../index.md#live) · [5.1.0 | Mid-Chapter](290-5-1-0-mid-chapter.md) &rarr;
 <!-- /nav -->

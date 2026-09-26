@@ -9,6 +9,12 @@ updated: "2023-03-09T16:29:44+00:00"
 archived: "2026-09-26T02:18:26Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Skull Merchant joins the Killer roster, while siblings Thalita and Renato Lyra arrive as new Survivors, each bringing three themed perks. Shelter Woods receives a command-center addition, Red Forest gets a visual overhaul, and Haddie Kaur’s cosmetics are refined. Quality-of-life tweaks include near-zero map repeat, removal of Any Means Necessary’s cooldown, revamped Eruption behavior, faster loading timeout handling and lobby player reporting. Bots gain extensive loadout options and smarter AI across many killers and maps. The update also delivers a broad sweep of bug fixes covering characters, environments, audio, UI and server stability.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [6.5.2 | Bugfix Patch](374-6-5-2-bugfix-patch.md) · [Live](../../index.md#live) · [6.6.1 | Bugfix Patch](379-6-6-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,14 @@ updated: "2020-04-28T14:30:12+00:00"
 archived: "2026-09-26T02:19:55Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Legion’s Feral Frenzy now sees scratch marks and blood pools at fatigue start, the Emblem System’s Benevolent thresholds were adjusted, Memento Mori animations now play after the charge completes, the generator repair efficiency debuff rose to 15%, great skill-check bloodpoint rewards increased to 300, and the Entity instantly drains survivors’ life bars when all remaining players reach the struggle phase on hook.
+
+The update adds Archive Tome 03, a Rift details screen, hook-escape feedback, controller sensitivity options and score events for hook sabotage, totem cleansing and Jigsaw box digging, while rebalancing window safety on Coldwind Farm, MacMillan Estate and Autohaven Wreckers maps, tightening maze-tile spacing, tweaking a few perks and fixing bug, collision and audio issues across killers, survivors, maps and cosmetics.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.6.2 | Hotfix](176-3-6-2-hotfix.md) · [Archive: Windows Store](../../index.md#archive-windows-store) · [3.7.1 | Hotfix](184-3-7-1-hotfix.md) &rarr;
 <!-- /nav -->

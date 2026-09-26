@@ -9,6 +9,12 @@ updated: "2020-10-28T14:26:35+00:00"
 archived: "2026-09-26T02:19:30Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Bugfixes target a range of killers, survivors and systems. The Nightmare’s final mori now dissolves correctly, the Demogorgon’s Shred animation returns, and the Blighted Serum no longer lets the killer act before Blighted Rush after a hook. Survivor issues addressed include full healing with 32-charge medkits, proper Discordance aura display when repairing generators, correct survivor model removal from the Cage of Atonement on disconnect, and fixed Madness audio levels when switching spectated players. Additional fixes restore Halloween hook auras, killer first-person posture during intros, killer music in custom lobbies, and a tentative framerate drop remedy.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.3.0 | Mid-Chapter](248-4-3-0-mid-chapter.md) · [Archive: PS4](../../index.md#archive-ps4) · [4.3.2 | Bugfix Patch](261-4-3-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,12 @@ updated: "2024-08-22T19:45:53+00:00"
 archived: "2026-09-26T02:20:09Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Hellfire now moves at 2 m/s and charges in 0.9 s, while Wolf Form’s base speed rises to 4.6 m/s, pounce cooldown drops to 20 s and the first-pounce collision no longer ends the power. Nemesis’s Tentacle Strike range expands to 6.5 m and its cooldown shortens to 2.25 s. The Knight’s guards receive individual cooldowns (Assassin 30 s, Jailer 25 s, Carnifex 20 s), summoning a new guard despawns the current one and basic attacks cut guard cooldowns to 10 s. Chest-closing cooldown is cut to 60/45/30 s from 80/70/60 s, and the rule barring upgraded items from persisting after a trial will be removed in an upcoming minor patch.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | August 2024](464-developer-update-august-2024.md) · [Developer Updates](../index.md#developer-updates) · [Stats | September 2024](470-stats-september-2024.md) &rarr;
 <!-- /nav -->

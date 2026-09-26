@@ -9,6 +9,14 @@ updated: "2020-09-08T15:09:59+00:00"
 archived: "2026-09-26T02:19:11Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Blight joins the roster as a new killer and Felix Richter arrives as a new survivor in the Descend Beyond chapter, accompanied by five new offerings that affect realm, basement and hatch spawns. The patch also refreshes generators, pallets, lockers and chests, adds breakable walls to Springwood and Yamaoka Estate, and corrects flashlight aiming.
+
+A broad set of fixes addresses lingering issues for many killers (Deathslinger stun, Hillbilly speed, Legion masks, Oni blood-fury, Plague arc, Shape stance, Trapper aura), survivor navigation glitches, perk interaction errors, graphics crashes, rank-update problems and PTB-specific collision and animation bugs for the Blight and other characters.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.1.3 | Bugfix Patch](227-4-1-3-bugfix-patch.md) · [Archive: Steam](../../index.md#archive-steam) · [4.2.1 | Bugfix Patch](233-4-2-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

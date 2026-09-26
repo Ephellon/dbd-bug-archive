@@ -9,6 +9,14 @@ updated: "2022-08-02T15:00:00+00:00"
 archived: "2026-09-26T02:18:30Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Thanatophobia, Mettle of Man, Dead Man’s Switch and Pain Resonance received balance tweaks, with lowered penalties, corrected endurance handling, shorter activation times and added generator interruption. The Clown killer was re-enabled and a glyph challenge swap in Tome 12 was applied, while prestige now boosts low-level bloodweb add-on rarity.
+
+Alongside these changes the patch delivers a broad suite of fixes: visual and animation glitches, interaction rubber-banding, perk and add-on interaction bugs, bloodweb progression and loading errors, map collision issues on Gideon and MacMillan Estate, and miscellaneous cosmetics and audio problems. Platforms differ between version 6.1.2 and 6.1.3 but cross-play remains unaffected.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [6.1.1 | Bugfix Patch](343-6-1-1-bugfix-patch.md) · [Live](../../index.md#live) · [6.2.0 | Resident Evil: PROJECT W](349-6-2-0-resident-evil-project-w.md) &rarr;
 <!-- /nav -->

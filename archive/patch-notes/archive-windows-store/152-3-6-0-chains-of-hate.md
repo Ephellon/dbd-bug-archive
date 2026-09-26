@@ -9,6 +9,14 @@ updated: "2020-03-10T15:00:36+00:00"
 archived: "2026-09-26T02:19:54Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+New survivor Zarina Kassir, new killer The Deathslinger and the new map Dead Dawg Saloon - Grave of Glenvale arrive, alongside a high-ping HUD icon that warns at 150 ms (white) and 300 ms (red).
+
+Balance updates overhaul hook sabotage, toolbox repair speed, and the Doctor’s madness system - removing passive decay, simplifying tiers, and reworking affliction add-ons. The Plague, Trapper and other killers receive minor tweaks, and survivor perks Saboteur and Ace in the Hole are adjusted. The patch also bundles extensive bug fixes covering emblem progress, custom-game flow, killer animations, map collisions, cosmetics clipping, audio mismatches and language display issues.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.5.2 | Hotfix](120-3-5-2-hotfix.md) · [Archive: Windows Store](../../index.md#archive-windows-store) · [3.6.1 | Hotfix](168-3-6-1-hotfix.md) &rarr;
 <!-- /nav -->

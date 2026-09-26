@@ -9,6 +9,12 @@ updated: "2020-03-02T15:28:10+00:00"
 archived: "2026-09-26T02:19:06Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Stranger Things adds the Demogorgon killer, Nancy Wheeler and Steve Harrington survivors, and the Hawkins Laboratory map, alongside two new status effects—Oblivious for Survivors and Undetectable for Killers—currently used by the Demogorgon and Nightmare. The update also overhauls party management with persistent survivor parties and a unified friends list, expands Bloodweb perk slots, tweaks several survivor and killer perks, and adjusts audio, art and UI elements. Most of the patch consists of extensive bug fixes covering killer abilities, map collisions, perk interactions, audio, localization and matchmaking stability.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.1.0 | Mid-Chapter](13-3-1-0-mid-chapter.md) · [Archive: Steam](../../index.md#archive-steam) · [3.3.1 | Mid-Chapter](15-3-3-1-mid-chapter.md) &rarr;
 <!-- /nav -->

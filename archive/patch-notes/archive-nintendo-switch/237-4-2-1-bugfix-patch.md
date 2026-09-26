@@ -9,6 +9,12 @@ updated: "2020-09-17T14:52:31+00:00"
 archived: "2026-09-26T02:19:51Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Switch build restores the survivor heartbeat volume in the terror radius, corrects Huntress hatchet behavior under server-side hit validation, and fixes floating survivors that appeared above basement hooks. It also stops PC/console users from inadvertently adding mobile players as friends, ensures Dragon’s Grip scream cues are audible to killers, and resolves two performance regressions - an FPS dip when viewing an active generator and a post-process effect-related slowdown.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.2.0 | Descend Beyond](232-4-2-0-descend-beyond.md) · [Archive: Nintendo Switch](../../index.md#archive-nintendo-switch) · [4.2.2 | Bugfix Patch](242-4-2-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

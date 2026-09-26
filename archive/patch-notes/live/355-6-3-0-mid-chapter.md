@@ -9,6 +9,12 @@ updated: "2022-10-11T15:31:15+00:00"
 archived: "2026-09-26T02:18:29Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Options now feature separate Accessibility and Online tabs, moving social/privacy to Online and subtitle/colorblind to Accessibility, and adding a trial timer limit. Flashlights receive a slower click speed, matching sound and a short on/off delay to reduce strobing. The Archives UI is revamped: press-and-hold is removed, completed challenges stay until claimed, and players can assign both a survivor and a killer challenge at once. Prestige catch-up grants two extra prestige levels to qualifying players, The Hag gains new music, and the “Haunted by Daylight” Halloween event with two new tomes arrives. Minor performance tweaks target the Huntress and archive assets, while a large batch of bug fixes covers incentives, perks, cosmetics, map collisions, Mastermind mechanics and various visual/audio glitches.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [6.2.2 | Bugfix Patch](351-6-2-2-bugfix-patch.md) · [Live](../../index.md#live) · [6.3.1 | Bugfix Patch](359-6-3-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

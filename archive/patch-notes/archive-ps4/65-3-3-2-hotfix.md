@@ -9,6 +9,12 @@ updated: "2020-03-02T20:06:48+00:00"
 archived: "2026-09-26T02:19:23Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Several systems received fixes on PS4. Progress and reward bugs were addressed, including pip loss on disconnect, Rite of the Last Breath ritual tracking, and Tome level display. Crash sources in the Archives, Collection tab, and custom-game host loading were resolved. Visual and LOD glitches affecting the Family Residence, Shack, survivor shadows, mask transitions, and The Clown’s gas bottles were corrected. Perk interactions were refined, fixing Plunderer’s Instinct auras, Great Skill Check exploits, and medkit add-on returns. Additional stability improvements prevent killers from losing Bloodlust with The Nightmare, ensure proper scream-hook animation with Calm Spirit, and stop role-switch abuse in custom lobbies.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.2.2 | Hotfix](64-3-2-2-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [3.4.0 | Cursed Legacy](66-3-4-0-cursed-legacy.md) &rarr;
 <!-- /nav -->

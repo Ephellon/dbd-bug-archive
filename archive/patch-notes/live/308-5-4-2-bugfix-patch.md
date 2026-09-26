@@ -9,6 +9,12 @@ updated: "2021-12-15T15:26:39+00:00"
 archived: "2026-09-26T02:18:34Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Artist’s performance was optimized when using all Dire Crows, and the patch addressed a wide range of bugs: resolution slider issues, UI localization and menu overlap, broken Lament Configuration audio/visuals, collision problems on Suffocation Pit stairs and Eyrie of Crows trees, generator kick limitations on Grim Pantry, incorrect crow swarm spread with Severed Hands, Prowler achievement tracking, Thrill of the Hunt token reset, Corrective Action token consumption, invisible Cenobite Mori for female survivors, Nemesis double-triggered footsteps, missing Spirit chase music, Snowmen interaction stutter in the Bone Chill event, generator light and spark visual glitches, and an Irridescent Flesh add-on token bug for the Cannibal.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [5.4.1 | Bugfix Patch](307-5-4-1-bugfix-patch.md) · [Live](../../index.md#live) · [5.5.0 | Mid-Chapter](311-5-5-0-mid-chapter.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,12 @@ updated: "2023-10-18T15:04:46+00:00"
 archived: "2026-09-26T02:18:21Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Trapper’s Bear Traps now spawn near generators at trial start, and the Skull Merchant receives unique prompts to show drone rotation direction. The Haunted by Daylight Halloween event launches with a new Dark Trinkets currency, an event-details tab, and collection-milestone rewards. The patch also bundles extensive bug fixes: anti-face-camp UI and audio tweaks, skill-check progress handling, bot pathing, character animation and clipping issues (including Demogorgon hand and Cenobite power), map vault climbing, perk activation errors, cross-platform friend visibility, UI glitches in Archives and lobby, and missing event cosmetics.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [7.3.0 | Mid-Chapter](413-7-3-0-mid-chapter.md) · [Live](../../index.md#live) · [7.3.2 | Bugfix Patch](415-7-3-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

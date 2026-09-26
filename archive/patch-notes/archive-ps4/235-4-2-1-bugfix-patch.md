@@ -9,6 +9,12 @@ updated: "2020-09-24T14:34:44+00:00"
 archived: "2026-09-26T02:19:29Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Huntress' hatchet interactions, the Survivor heartbeat sound in the Terror Radius, and the Dragon's Grip perk's scream audibility were corrected, alongside a fix for floating Survivors hooked in the basement. The patch also resolved a cross-platform friend-adding glitch and addressed several performance issues—including FPS drops when viewing active generators and a post-process effect bug.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.2.0 | Descend Beyond](230-4-2-0-descend-beyond.md) · [Archive: PS4](../../index.md#archive-ps4) · [4.2.2 | Bugfix Patch](240-4-2-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

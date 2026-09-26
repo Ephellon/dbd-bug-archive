@@ -9,6 +9,12 @@ updated: "2023-11-02T13:55:34+00:00"
 archived: "2026-09-26T02:20:15Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Player Cards arrive as a new decorative banner and badge system, visible in menus and post-match scoreboards, with rarity-based visuals and future expansion. The Trickster receives a major overhaul: blade fire rate rises to four per second, recoil is removed, laceration meter expands to eight hits and decays faster, movement speed climbs to 4.6 m/s with a larger terror radius, and Main Event now charges after six blades and lasts five seconds, plus several add-on tweaks. Garden of Joy and Red Forest maps get layout, pallet loop and visual adjustments, and both realms’ size is reduced for better pacing. All changes appear in the PTB starting Nov 8, with a full rollout in the following weeks.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | October 2023](412-developer-update-october-2023.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | November 2023 PTB](420-developer-update-november-2023-ptb.md) &rarr;
 <!-- /nav -->

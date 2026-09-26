@@ -9,6 +9,14 @@ updated: "2020-02-28T22:11:14+00:00"
 archived: "2026-09-26T02:19:37Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Ghost Face now loses his power when stunned inside Night Shroud, and Lullabies are no longer directional.
+
+The hotfix also resolves a range of issues: Vigil no longer extends Exhaustion, Furtive Chase stops swapping the Obsession, missing visual effects for Spirit’s phasing and Hag’s hit splatter are restored, locker-sticking after a lunge is fixed, female survivors can vault the Autohaven Wrecker bus window, Ghost Face can crouch after a disconnect and his reveal sound no longer loops, and the killer-carrying music returns. Audio levels were rebalanced for better headphone compatibility and miscellaneous cosmetics were polished.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.0.1 | Hotfix](92-3-0-1-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [3.1.0 | Mid-Chapter](94-3-1-0-mid-chapter.md) &rarr;
 <!-- /nav -->

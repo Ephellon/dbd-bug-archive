@@ -9,6 +9,14 @@ updated: "2020-10-20T14:25:31+00:00"
 archived: "2026-09-26T02:19:58Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Executioner is rebalanced: Punishment of the Damned cooldown is cut, a short speed boost follows cancelled Rites of Judgement, and attack timing is tightened. Several perks receive adjustments, notably longer Undetectable for Trail of Torment, extended Broken for Forced Penance, increased Haste for Blood Pact, Bloodpoints on Any Means Necessary and For the People, and revised effects for a range of other perks. Generator terminology is clarified, UI icons gain 4K resolution and perk rarity is unified.
+
+System and gameplay bugs are fixed, addressing survivor carry glitches, token timing, Hex totem visuals, skill-check animation, and various interaction issues; a known issue persists where the killer may see an incorrect animation during the match-start camera pan.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.2.2 | Bugfix Patch](239-4-2-2-bugfix-patch.md) · [Archive: Windows Store](../../index.md#archive-windows-store) · [4.3.1 | Bugfix Patch](257-4-3-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

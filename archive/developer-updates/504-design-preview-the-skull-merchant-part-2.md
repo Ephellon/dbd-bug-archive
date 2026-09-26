@@ -9,6 +9,14 @@ updated: "2025-04-29T14:06:57+00:00"
 archived: "2026-09-26T02:20:05Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Skull Merchant’s rework now adds a shoulder-mounted Drone Buddy and keeps her five deployable Stealth Drones, removes the aura reveal when hacking, and makes Global Detection track both walking and running survivors to match drone sensing. Stealth Drone scan lines are visible but stop short of the ground, propulsion now only injures and tags survivors with a removable Claw Trap, and the new EMP dart ability from the Buddy down-fires only on trapped survivors.
+
+The preview walks through a typical chase, shows survivor counterplay such as crouch-walking, hacking drones, and using obstacles to dodge the EMP, and states the design is an evolved proposal built on community feedback and will inform future updates.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Stats | January - March 2025](503-stats-january-march-2025.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | May 2025](507-developer-update-may-2025.md) &rarr;
 <!-- /nav -->

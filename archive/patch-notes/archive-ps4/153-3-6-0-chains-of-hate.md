@@ -9,6 +9,12 @@ updated: "2020-03-10T15:00:03+00:00"
 archived: "2026-09-26T02:19:25Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Zarina Kassir joins the survivor roster, the Deathslinger arrives as the latest killer, and the Dead Dawg Saloon - Grave of Glenvale debuts as a new map, alongside a high-ping HUD indicator. The patch reshapes hook sabotage, toolbox repair and trap interactions, overhauls the Doctor’s madness mechanics and affliction add-ons, tweaks several killer and survivor perks, and adjusts item handling. The bulk of the update is a sweeping bug-fix pass covering emblems, custom games, animation glitches, map collisions, cosmetic clipping, audio and localization issues.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.5.2 | Hotfix](71-3-5-2-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [3.6.0a | Hotfix](156-3-6-0a-hotfix.md) &rarr;
 <!-- /nav -->

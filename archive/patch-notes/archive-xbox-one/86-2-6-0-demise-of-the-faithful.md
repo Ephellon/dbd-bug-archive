@@ -9,6 +9,12 @@ updated: "2020-02-28T22:07:43+00:00"
 archived: "2026-09-26T02:19:35Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Plague joins the killer roster, Jane Romero becomes a new survivor, and The Temple of Purgation adds a Red Forest-themed map. The update also shows matchmaking queue times, revamps character swap controls, and upgrades to Unreal Engine 4.21 while adjusting EULA consent options. Audio occlusion, terror radius scaling, and several perk values (Barbecue and Chili, Deerstalker, Decisive Strike, etc.) were tweaked, and new scoring events for perk-based stuns were added. Emblem thresholds and ranking pipping rules were overhauled. The remainder of the patch is a broad collection of bug fixes covering audio glitches, killer and map-specific anomalies, UI issues, and miscellaneous stability improvements across all platforms.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.5.4 | Hotfix](85-2-5-4-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [2.6.3 | Ash VS Evil Dead](87-2-6-3-ash-vs-evil-dead.md) &rarr;
 <!-- /nav -->

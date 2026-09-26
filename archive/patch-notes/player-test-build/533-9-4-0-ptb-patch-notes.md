@@ -9,6 +9,12 @@ updated: "2026-01-06T15:30:09+00:00"
 archived: "2026-09-26T02:18:42Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The First killer arrives with Vine Attack and Upside Down/Undergate abilities, plus three new perks, while new survivors Dustin Henderson and Eleven join with three unique perks each. The 2V8 update adds The Good Guy killer tweaks, Nemesis zombie enhancements, Brute, Fearmonger and Enforcer team-skill changes, and a Torchbearer survivor class, alongside new maps Groaning Storehouse and Rotten Field, visual terror-radius animation, dual terror radii, tonics, and expanded cooperative healing. The 9.4.0 PTB runs Jan 6-13 2026, granting maxed characters, 12,500 Auric Cells and 1 M Bloodpoints for testing. Extensive bug fixes cover 2V8 interaction issues, audio glitches, bot behavior, character models, map geometry, perk logic, UI crashes and miscellaneous stability improvements.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [9.3.0 | PTB Patch Notes](527-9-3-0-ptb-patch-notes.md) · [Player Test Build (PTB)](../../index.md#player-test-build-ptb) · [9.5.0 | PTB Patch Notes](537-9-5-0-ptb-patch-notes.md) &rarr;
 <!-- /nav -->

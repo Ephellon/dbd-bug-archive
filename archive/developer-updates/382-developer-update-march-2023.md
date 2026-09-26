@@ -9,6 +9,12 @@ updated: "2023-03-27T14:37:05+00:00"
 archived: "2026-09-26T02:20:17Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The March 2023 Developer Update introduces Bloodweb quality-of-life tools - a chain purchase, automatic node buying and press-to-buy toggles - plus a visual terror-radius indicator for deaf or hard-of-hearing survivors. Autohaven Wreckers maps Blood Lodge and Gas Heaven receive layout overhauls, and healing was slowed to 24 seconds with rebalanced med-kits and add-ons. Numerous perks were tweaked, including Gearhead, Overzealous, Scourge Hook, Dead Hard, Call of Brine, Overcharge, and Circle of Healing. Small killer adjustments affect the Hillbilly’s overheat, Pig, Oni, Nightmare, Executioner, and Clown, while flashlight interactions with several killers were removed and a new trap-clearing mechanic added for the Hag. The update also previews visual changes for Deep Rift tiers and notes the PTB opening next week.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | Tools of Torment](380-developer-update-tools-of-torment.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | April 2023](384-developer-update-april-2023.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,12 @@ updated: "2020-10-20T14:24:56+00:00"
 archived: "2026-09-26T02:19:45Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Executioner balance was overhauled: missing Punishment of the Damned costs less, Rites of Judgement cancellation grants a speed boost and 1 s attack lockout, and its cooldown drops to 2.25 s. Many perks were tweaked, including Trail of Torment’s undetectable ending when a generator stops regressing, Forced Penance’s broken status lasting up to 80 s, Blood Pact haste increased, and Bloodpoint rewards on Any Means Necessary and For the People. Generator terminology was clarified, all perks were set to three rarity tiers, 4K UI icons and visual VFX—map and locker updates—were added. The patch also fixed gameplay bugs, from carry-state and unhook control loss to Hex token displays and skill-check animation glitches, though a Killer animation glitch at match start remains.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.2.2 | Bugfix Patch](241-4-2-2-bugfix-patch.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [4.3.1 | Bugfix Patch](256-4-3-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

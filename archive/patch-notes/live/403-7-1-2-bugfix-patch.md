@@ -9,6 +9,12 @@ updated: "2023-08-09T15:12:43+00:00"
 archived: "2026-09-26T02:18:23Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Improved Player Reporting Feedback was activated, and the patch resolves a wide range of bugs across killers, survivors, perks, UI, and maps. Fixes include correct downward vaulting for several killers, Ghostface camera behavior, Deathslinger crouch lock, and multiple perk animation issues such as Dramaturgy and Virtulent Bond. Survivors now hear correctly when hooked, can be healed and picked up with Plot Twist, and female survivors receive hit sounds from The Spirit. UI glitches like tier button lag, overlapping tooltips, and lobby button states were addressed, while level-design problems such as crate climbing, Nurse stalling, trap visibility, map collisions and generator errors were fixed. Minor crashes on all platforms were also patched.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [7.1.1 | Bugfix Patch](401-7-1-1-bugfix-patch.md) · [Live](../../index.md#live) · [7.1.2a | Bugfix Patch](404-7-1-2a-bugfix-patch.md) &rarr;
 <!-- /nav -->

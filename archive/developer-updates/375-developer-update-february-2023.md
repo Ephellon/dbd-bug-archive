@@ -9,6 +9,12 @@ updated: "2023-02-10T14:55:50+00:00"
 archived: "2026-09-26T02:20:18Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Red Forest receives a visual overhaul, preserving its rainy feel and lore details, while a new Map Repeat Prevention system stops consecutive map repeats unless an offering is used. Survivor bots in custom matches now allow full loadout editing and gain extensive AI upgrades—better navigation, aggressive rescues, totem hunting, audio cue reactions, and power-specific behaviors. Perk tweaks include Eruption losing only current generator progress and revealing a survivor’s aura instead of incapacitating, and Any Means Necessary losing its cooldown to reset unbroken pallets. The studio also announced expanded outfit production capacity and a strengthened anti-cheat team; most of these changes enter the Public Test Build next week.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | Year 7 Roadmap Additions](372-developer-update-year-7-roadmap-additions.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | Tools of Torment PTB](377-developer-update-tools-of-torment-ptb.md) &rarr;
 <!-- /nav -->

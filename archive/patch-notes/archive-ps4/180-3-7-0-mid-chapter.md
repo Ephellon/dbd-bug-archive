@@ -9,6 +9,12 @@ updated: "2020-04-28T14:27:00+00:00"
 archived: "2026-09-26T02:19:26Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Archives added Tome 03 and a Details screen for Rift content, and the Entity now instantly drains Survivors’ health once they reach the Struggle phase on the hook. Repair-speed efficiency debuff rose to 15 %, great skill-check bonuses were adjusted, Memento Mori animation now starts at charge end, and Legion’s Feral Frenzy regains scratch-mark visibility. Controller sensitivity options were expanded, new hook-escape feedback and score events were added, and party-management visuals were refreshed. Map balance received window-safety reductions and layout tweaks on Coldwind Farm, MacMillan Estate, Autohaven Wreckers and others, while perks such as Head-On, Prove Thyself, Stake Out and Sole Survivor gained visual or numerical updates. The remainder is a bug-fix sweep covering clipping, animation, audio and score-event issues across killers, survivors, maps and UI.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.6.2 | Hotfix](174-3-6-2-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [3.7.1 | Hotfix](186-3-7-1-hotfix.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,12 @@ updated: "2020-02-28T21:35:05+00:00"
 archived: "2026-09-26T02:19:54Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Doctor receives a major overhaul: Treatment Mode and static-field VFX are removed, Shock Therapy cooldown is set to 1.5 s, range increased 10 % and a new secondary ability, Static Blast, is added with its own score event. The Oni’s turn-speed limit on Demon Strike is lifted, Gatekeeper emblem scores are flattened, and Hex : Ruin now regresses idle generators. A Compendium page lets players revisit previous Tomes, a new Rift and challenges appear for Tome II, and party, lobby and tally chat become cross-compatible with Steam. The Treatment Theatre map is visually reworked, invert-camera keybinding is removed, Twitch challenges and the Cursed Legacy lobby are disabled. The update is largely a collection of extensive bug fixes covering killers, maps, perks, UI and audio.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.4.2 | Hotfix](117-3-4-2-hotfix.md) · [Archive: Windows Store](../../index.md#archive-windows-store) · [3.5.1 | Hotfix](119-3-5-1-hotfix.md) &rarr;
 <!-- /nav -->

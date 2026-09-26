@@ -9,6 +9,12 @@ updated: "2020-03-02T19:30:06+00:00"
 archived: "2026-09-26T02:19:18Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+New lobby shortcuts let players switch characters, and all Survivors now have idle animations at campfire. Audio defaults return with remixed footstep, music and VO volumes and no attenuation. Killer perk texts and timers are clarified and the Legion’s Frenzy no longer drains power. The Pig’s crouch speed, terror radius and dash scores are tweaked. Hook placement, procedural chest spacing and totem placement are reworked, and status-timer effects keep only the longest timer. Survivor perks receive balance changes, while UI hides Killer loadout info and requires item pickup. Patch adds bug fixes for audio, Killer visuals, map lighting and collisions, perk timers, UI glitches; known problems include Prove Thyself’s missing repair bonus, disconnected-player icons not updating and basement interaction glitches.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.4.0 | Darkness Among Us](45-2-4-0-darkness-among-us.md) · [Archive: PS4](../../index.md#archive-ps4) · [2.5.1 | Hotfix](47-2-5-1-hotfix.md) &rarr;
 <!-- /nav -->

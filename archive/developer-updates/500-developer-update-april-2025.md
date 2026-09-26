@@ -9,6 +9,12 @@ updated: "2025-04-10T13:58:17+00:00"
 archived: "2026-09-26T02:20:05Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+April 2025’s Developer Update previews the 8.7 PTB, centering on a unified Quests menu that replaces Daily Rituals, Tome Challenges and Event Tomes, adds automatic rewards, Milestone and pinned quests, and lets players toggle notifications. It also expands Deep Rift levels, moves Archives access, introduces a pre-game Perk widget, pre-equips new Survivors and Killers with starter Perks, items and add-ons, limits unhook cancellations to three attempts, and adds a brief grace period for skill-check releases. Killer tweaks lower Snug’s vault speed and double the Houndmaster’s Deviousness Bloodpoints. Status effects no longer stack, widget displays current Haste/Hindered values, and several Perks receive modest buffs while Hex : Pentimento and Totem-rekindling penalties are reworked.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Design Preview | The Skull Merchant](497-design-preview-the-skull-merchant.md) · [Developer Updates](../index.md#developer-updates) · [Stats | January - March 2025](503-stats-january-march-2025.md) &rarr;
 <!-- /nav -->

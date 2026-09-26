@@ -9,6 +9,12 @@ updated: "2021-05-19T14:28:54+00:00"
 archived: "2026-09-26T02:18:38Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Hook-struggle scoring, the Survivor pick-up zones on the Gas Station car pile and certain Basement walls, a mis-placed hatch on Grim Pantry, and blocked basements on Coldwind Farm were corrected, while the Deathslinger’s reel animation, Legion vault clipping, and the Hag’s mud-phantasm accessories now function properly. The Soul Guard perk icon, exit-gate spacing on Rancid Abattoir, Wake-Up timer scaling, network-connection errors, survivor-tutorial crash, and a PC gamepad performance dip were also fixed, alongside desync issues when a Survivor disconnects and a bug that let players switch Killers while matchmaking.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.7.1 | Bugfix Patch](282-4-7-1-bugfix-patch.md) · [Live](../../index.md#live) · [5.0.0 | Resident Evil](286-5-0-0-resident-evil.md) &rarr;
 <!-- /nav -->

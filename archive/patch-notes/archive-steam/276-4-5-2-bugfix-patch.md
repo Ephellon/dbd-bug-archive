@@ -9,6 +9,12 @@ updated: "2021-02-23T15:31:44+00:00"
 archived: "2026-09-26T02:19:14Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Camera height for crawling was restored and survivor locomotion animations tweaked for tighter controls, while the HUD got an overhaul: objectives moved to bottom-left, icons enlarged with shading, generator count font upsized, hook count widget reduced, player status widgets shifted lower, timer bars widened, and a new independent Skill Check size setting added. The patch also fixed gameplay bugs, correcting hit-registration distance errors, excessive crawl speed, missing event bloodpoints on indoor generators, interaction-priority glitches, Calm Spirit trap screams, Hex: The Third Seal and Undying reset issues, missing haste icon, early nurse fatigue attacks, Demogorgon add-on speed boosts, and various UI, collision and perk anomalies across killers and maps. Known issue: Skill Check UI scaler remains English-only until the next chapter.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.5.1 | Bugfix Patch](275-4-5-1-bugfix-patch.md) · [Archive: Steam](../../index.md#archive-steam) · _newest_ &rarr;
 <!-- /nav -->

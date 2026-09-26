@@ -9,6 +9,12 @@ updated: "2020-09-08T15:11:02+00:00"
 archived: "2026-09-26T02:19:51Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Blight joins the Killer roster and Felix Richter becomes a new Survivor, accompanied by new offerings such as Sacrificial Ward and several blueprint types. The update also gives visual overhauls to generators, pallets, lockers and chests, plus map tweaks on Springwood and Yamaoka Estate, and refines flashlight aiming. The remainder focuses on a broad sweep of bug fixes across killers, survivors, perks and stability.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.1.2 | Bug fix patch ](224-4-1-2-bug-fix-patch.md) · [Archive: Nintendo Switch](../../index.md#archive-nintendo-switch) · [4.2.1 | Bugfix Patch](237-4-2-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

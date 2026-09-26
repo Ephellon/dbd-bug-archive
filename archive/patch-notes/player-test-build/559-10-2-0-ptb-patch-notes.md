@@ -9,6 +9,14 @@ updated: "2026-09-15T15:20:44+00:00"
 archived: "2026-09-26T02:18:40Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The PTB introduces a Survivor Intent System that lets players send predefined text messages via a wheel, with customizable inputs, mute options, opt-out toggles and anti-spam cooldowns. It also adds new trial-exit mechanics: human Survivors can Abandon when only bots remain, Survivors can Surrender when all are dying, and Killers gain Abandon or End Trial options under specific bot conditions.
+
+Alongside these features, dozens of Killer and Survivor perks receive balance tweaks—most notably higher haste for Agitation and Iron Grasp, expanded aura ranges, stronger token-based bonuses, and reworks of Hex, Blood Pact, and many support perks. The update bundles extensive bug fixes covering audio cues, bot behavior, character animations, map collisions, perk notifications, quest progress, and UI presentation.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [10.1.0 | PTB Patch Notes](555-10-1-0-ptb-patch-notes.md) · [Player Test Build (PTB)](../../index.md#player-test-build-ptb) · _newest_ &rarr;
 <!-- /nav -->

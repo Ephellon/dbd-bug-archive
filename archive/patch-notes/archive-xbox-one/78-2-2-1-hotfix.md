@@ -9,6 +9,12 @@ updated: "2020-02-28T21:57:04+00:00"
 archived: "2026-09-26T02:19:33Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Hotfix 2.2.1 rolls back the Huntress hatchet hitbox modifications from 2.2.0 and brings the Spirit’s power recharge down to 15 seconds. The update also patches numerous issues: the Spirit no longer blinds instantly to flashlights, pallets stop pushing killers without stunning, the Shape’s Halloween theme music now plays in loadout, Hag traps correctly emit terror radius, and the Clown’s speed boost from VHS Porn and Smelly Inner Soles is fixed. Additional fixes address Spirit talisman cooldowns, French perk description formatting, Hex: Devour Hope token timing, and an extended Yamaoka’s Haunting duration in client-side play.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.2.0 | Shattered Bloodline](77-2-2-0-shattered-bloodline.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [2.3.0 | Mid-Chapter](79-2-3-0-mid-chapter.md) &rarr;
 <!-- /nav -->

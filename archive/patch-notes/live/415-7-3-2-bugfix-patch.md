@@ -9,6 +9,12 @@ updated: "2023-10-26T14:53:57+00:00"
 archived: "2026-09-26T02:18:21Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Skull Merchant’s Low Power Mode add-on was overhauled, halting drone rotation entirely and removing the 25% power-cooldown reduction. Shattered Square now spawns up to 18 pallets to avoid empty sections, with loop safety tweaked. The patch also bundles extensive fixes: audio no longer plays from collected memory shards; numerous animation and clipping issues for Huntress, Xenomorph, female survivors, Legion, Cannibal and Demogorgon were resolved; map-specific spawn and collision bugs on Nostromo Wreckage, MacMillan Estate, Temple of Purgation, Eyrie of Crows, Raccoon City Police Station, Coldwind Farm, Disturbed Ward, and Father Campbell’s Chapel were corrected; Haunted By Daylight lighting resets correctly; Skull Merchant claw traps and drone tracking work after disconnects; and a rare mid-trial disconnect bug was fixed.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [7.3.1 | Bugfix Patch](414-7-3-1-bugfix-patch.md) · [Live](../../index.md#live) · [7.3.3 | Bugfix Patch](417-7-3-3-bugfix-patch.md) &rarr;
 <!-- /nav -->

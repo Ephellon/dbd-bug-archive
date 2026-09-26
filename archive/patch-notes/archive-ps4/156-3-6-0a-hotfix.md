@@ -9,6 +9,12 @@ updated: "2020-03-13T15:12:22+00:00"
 archived: "2026-09-26T02:19:26Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The 3.6.0a hotfix for PS4 resolves a bug where Auric Cell pack DLCs were sometimes not consumed and converted into in-game currency, ensuring all previously purchased packs now convert correctly at login. The update primarily consists of this fix and advises players who missed their cells to fully close, update, and restart the game.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.6.0 | Chains of Hate](153-3-6-0-chains-of-hate.md) · [Archive: PS4](../../index.md#archive-ps4) · [3.6.1 | Hotfix](171-3-6-1-hotfix.md) &rarr;
 <!-- /nav -->

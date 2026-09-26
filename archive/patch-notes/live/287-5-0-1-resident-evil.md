@@ -9,6 +9,12 @@ updated: "2021-06-22T14:52:20+00:00"
 archived: "2026-09-26T02:18:38Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Raccoon City Police Station is back for custom matches while the RPD Badge offering remains temporarily disabled, though it can still be collected. The update also smooths a host of issues: The Nemesis’s tentacle animation, interruption ability and memory usage are fixed; The Clown’s bottle collisions and smoke VFX are corrected; The Shape and The Nightmare now reliably play their themes; The Hag’s Phantasm Traps, various generator and trap glitches on Hawkins, Lampkin Lane, Gas Haven and Chalet maps, and animation-related crashes are resolved. Audio fixes restore missing Halloween, Nightmare laugh and Trickster weapon sounds, and UI/locale bugs, settings persistence, and several stability problems are addressed. Performance investigations continue across platforms.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [5.0.0 | Resident Evil](286-5-0-0-resident-evil.md) · [Live](../../index.md#live) · [5.0.2 | Resident Evil](288-5-0-2-resident-evil.md) &rarr;
 <!-- /nav -->

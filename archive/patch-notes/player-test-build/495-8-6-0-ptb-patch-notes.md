@@ -9,6 +9,12 @@ updated: "2025-03-11T15:24:49+00:00"
 archived: "2026-09-26T02:18:43Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Ghoul introduces Kagune Leap and Enraged Mode with three new killer perks; Forsaken Boneyard gets layout tweaks and the new Dead Sands map, Scratch Marks spawn is improved, a Surrender option is added, blood-point values, Deep Wound mend times, terror-radius ranges, perk balances and various killer updates are applied. The PTB also carries extensive bug fixes covering audio, bots, character animations, environmental collisions, perks, UI and platform stability, while progress data is copied to PTB servers and Auric Cells remain non-transferable.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [8.5.0 | PTB Patch Notes](488-8-5-0-ptb-patch-notes.md) · [Player Test Build (PTB)](../../index.md#player-test-build-ptb) · [8.7.0 | PTB Patch Notes](501-8-7-0-ptb-patch-notes.md) &rarr;
 <!-- /nav -->

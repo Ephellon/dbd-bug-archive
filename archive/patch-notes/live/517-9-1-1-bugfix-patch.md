@@ -9,6 +9,12 @@ updated: "2025-08-06T16:13:11+00:00"
 archived: "2026-09-26T02:18:09Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Streetwise and Last Stand perks have been re-enabled, and the Fog Vial received visual and audio tweaks—its fog cloud opacity lowered to 33% and ambient volume reduced by 3 dB, while the Potent Extract add-on now cuts visibility by only 5%. The rest of the patch is a broad sweep of bug fixes: chase initiation and music, item charge handling, survivor/killer speed glitches, numerous character animation and voice issues, map collision and trigger problems, perk interactions, UI tooltip and audio bugs, platform quirks, and quest tracking errors.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [9.1.0 | The Walking Dead](516-9-1-0-the-walking-dead.md) · [Live](../../index.md#live) · [9.1.2 | Bugfix Patch](519-9-1-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

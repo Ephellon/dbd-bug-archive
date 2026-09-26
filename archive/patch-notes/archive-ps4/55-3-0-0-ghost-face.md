@@ -9,6 +9,12 @@ updated: "2020-03-02T19:51:07+00:00"
 archived: "2026-09-26T02:19:21Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Ghost Face joins the roster, bringing new lobby character rotation and fresh menu music. The update also retunes swing animations and adds hit-visual effects for killers, introduces stun VFX, makes survivors’ heads follow camera direction, and refines vaulting, cosmetic lighting, and map window layouts while adding new maze tiles for Yamaoka Estate. Perks receive several cooldown and efficiency adjustments for both survivors and killers, and emblem scoring events are expanded. The bulk of the patch consists of extensive bug fixes - addressing stuck survivors, add-on glitches, animation and clipping issues, map geometry and texture problems, perk misbehaviour, UI anomalies, audio quirks, and network-related disconnects. Known visual and audio issues remain.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.7.1 | Hotfix](54-2-7-1-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [3.0.1 | Hotfix](56-3-0-1-hotfix.md) &rarr;
 <!-- /nav -->

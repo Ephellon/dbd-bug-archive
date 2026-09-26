@@ -9,6 +9,14 @@ updated: "2023-01-03T16:55:45+00:00"
 archived: "2026-09-26T02:20:19Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The 6.5.0 update adds a Survivor Activity HUD showing each survivor’s action, chase indicator and carry state to play. Wiggle leaves beta, removing the fast-wiggle bonus from great skill checks and adding quieter idle sounds. The Nurse’s blink attacks become special attacks and her add-ons are rebalanced. The Knight gains path speed bonuses and a 10-second patrol limit. The Eyrie of Crows map is reshaped into a square layout with moved maze tiles for killer balance.
+
+A tracker shows progress, and the matchmaking screen lets you browse the archive, store and bloodpoints while queuing. Merciless Killer ratings switch to a tier based on kills. Iridescent Shard purchases expand to several more characters, releasing on all platforms after a PTB preview.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | October 2022](363-developer-update-october-2022.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | Year 7 Roadmap Additions](372-developer-update-year-7-roadmap-additions.md) &rarr;
 <!-- /nav -->

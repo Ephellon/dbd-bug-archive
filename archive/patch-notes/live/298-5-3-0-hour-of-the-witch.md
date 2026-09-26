@@ -9,6 +9,12 @@ updated: "2021-10-19T14:35:02+00:00"
 archived: "2026-09-26T02:18:36Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Mikaela Reid joins as a new survivor and The Archives now support event content, bringing the Halloween-themed Midnight Grove event and Tome IX. The hatch appears only with one survivor left and can be opened with a key (2.5 s, no progress loss); survivor portrait updates and item description clarifications also arrive. The Trapper receives a major overhaul—carry capacity to two, trap count fixed at six, aura color changed, plus new, rebalanced, and removed add-ons—and other killers (Wraith, Hillbilly, Nurse, etc.) get targeted nerfs or buffs. Survivor and killer perks are renamed and buffed, and numerous UI, audio, animation, and map-specific bugs are fixed, alongside PTB tweaks to Hex Blood Favor, Boon perks, and Deathslinger add-ons.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [5.2.2 | Bugfix Patch](296-5-2-2-bugfix-patch.md) · [Live](../../index.md#live) · [5.3.0a | Hotfix](300-5-3-0a-hotfix.md) &rarr;
 <!-- /nav -->

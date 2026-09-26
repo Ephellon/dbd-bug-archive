@@ -9,6 +9,14 @@ updated: "2021-06-15T17:29:40+00:00"
 archived: "2026-09-26T02:18:38Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Resident Evil adds the Nemesis as a new Killer, new Survivors Jill Valentine and Leon S. Kennedy, and the Raccoon City Police Station map. Tutorials now feature a streamlined entry flow, solo bot matches, new rewards and optional descriptive tooltips, while the Settings menu is reorganized into tabs and several Legendary outfits show custom portraits.
+
+Balance is tweaked for Demogorgon add-ons, Franklin’s Demise, Lucky Break and Blight, and PTB changes refine Nemesis zombie respawn, audio range, collision, and several perks such as Lethal Pursuer, Hysteria and Eruption. The update also bundles a barrage of fixes—perks, map collisions, animation clipping, audio glitches, crash stability and platform-specific issues—plus a known Xbox onboarding bug.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.7.2 | Bugfix Patch](283-4-7-2-bugfix-patch.md) · [Live](../../index.md#live) · [5.0.1 | Resident Evil](287-5-0-1-resident-evil.md) &rarr;
 <!-- /nav -->

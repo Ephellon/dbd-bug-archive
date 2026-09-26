@@ -9,6 +9,12 @@ updated: "2024-08-06T17:56:02+00:00"
 archived: "2026-09-26T02:18:15Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Stridor and Iron Will perks were rebalanced so their audio effects are no longer multiplicative, with Stridor increasing survivor grunts and Iron Will reducing them instead of silencing completely. The update also delivers a broad sweep of fixes: corrected 2v8 cage music, self-care icon lighting, and aura chase SFX; resolved audio cue for killers replaced by bots; improved bot pathing and Huntress hatchet charge; addressed character visual glitches for Singularity, Knight, Trapper, and Mastermind; repaired numerous perk bugs including Invocation: Weaving Spiders, Specialist, Flash Grenade crafting, and Dead Hard; fixed Wraith cloaking on Switch, escape cake bloodpoint awards, and rare game-freeze scenarios.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [8.1.1a | Hotfix](463-8-1-1a-hotfix.md) · [Live](../../index.md#live) · [8.2.0 | Castlevania](468-8-2-0-castlevania.md) &rarr;
 <!-- /nav -->

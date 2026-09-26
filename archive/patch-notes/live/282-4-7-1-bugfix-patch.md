@@ -9,6 +9,12 @@ updated: "2021-05-11T14:26:45+00:00"
 archived: "2026-09-26T02:18:39Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Blight's rush now has a per-frame turn-rate cap and higher controller sensitivity, and the Huntress' Wooden Fox add-on now triggers undetectable at reload start and lasts 15 seconds, with ammo count now updating after reload. The update also addresses a wide range of issues—from shop purchase glitches and stray survivor emotes to map-specific collision and interaction bugs on Torment Creek, Coldwind Farm, Léry's Memorial Institute and others, as well as visual and animation problems for killers like the Hag, Twins, Nightmare and Nurse, plus a console-only crash fix for Xbox Series X|S. Most of the patch consists of comprehensive bug fixes across characters, maps and UI.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.7.0 | Mid-Chapter](281-4-7-0-mid-chapter.md) · [Live](../../index.md#live) · [4.7.2 | Bugfix Patch](283-4-7-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,12 @@ updated: "2024-09-09T13:54:25+00:00"
 archived: "2026-09-26T02:20:09Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The September 2024 developer update released extensive statistical insight into The Lich’s debut, detailing average usage rates for each of his four powers and the typical outcomes of his dice rolls. It also quantified totem cleansing and blessing frequencies across all maps, highlighting which locations see the most or least activity, and clarified that hex and boon figures only consider matches where the relevant perk type was active. The data aims to inform balance decisions and player expectations.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | August 2024 PTB](467-developer-update-august-2024-ptb.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | September 2024](472-developer-update-september-2024.md) &rarr;
 <!-- /nav -->

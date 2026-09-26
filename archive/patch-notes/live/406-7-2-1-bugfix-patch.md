@@ -9,6 +9,12 @@ updated: "2023-09-05T14:28:19+00:00"
 archived: "2026-09-26T02:18:22Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Xenomorph was patched to end tunnel animation stutter, stop tail attacks on escaped survivors, hide generator, locker and survivor vision during tunnel transitions, and fix missing tail and lighting bugs; the Oni outfit Minotaur, Trickster, Doctor, Ellen Ripley and other characters also received clipping and effect fixes. Map issues were addressed on Haddonfield, Nostromo Wreckage, Eyrie of Crows, Thompson’s House, Badham Preschool and Temple of Purgation, correcting invisible collisions, hidden traps, vaulting misalignments and grab restrictions. Perks Light-Footed, Blood Rush and Blast Mine were tweaked, UI glitches with match results and bot loadout pages were resolved, and several audio, archive and miscellaneous localization and achievement bugs were fixed.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [7.2.0 | Alien](405-7-2-0-alien.md) · [Live](../../index.md#live) · [7.2.2 | Bugfix Patch](408-7-2-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

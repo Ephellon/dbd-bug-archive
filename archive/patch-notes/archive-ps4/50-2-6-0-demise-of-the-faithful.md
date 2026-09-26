@@ -9,6 +9,12 @@ updated: "2020-03-02T19:33:35+00:00"
 archived: "2026-09-26T02:19:19Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Plague joins the Killer roster, Jane Romero is added as a Survivor, and the Red Forest-themed Temple of Purgation map debuts. New quality-of-life features include matchmaking queue timers, L3/R3 character-swap controls (blocked while ready), an updated Unreal Engine 4.21 backend, and revised Daily Ritual progress displays. Audio occlusion, several emblem scoring formulas, perk ranges, terror-radius scaling and a new Killer-stun bloodpoint event receive balance tweaks, while the ranking system now uses distinct pipping thresholds per rank group. The patch also brings extensive bug fixes—audio and localization glitches, numerous killer animation and aura issues, map collision and object-placement bugs, UI inconsistencies, and various survivability and cosmetic errors—plus general platform optimisations.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.5.4 | Hotfix](49-2-5-4-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [2.6.3 | Ash VS Evil Dead](51-2-6-3-ash-vs-evil-dead.md) &rarr;
 <!-- /nav -->

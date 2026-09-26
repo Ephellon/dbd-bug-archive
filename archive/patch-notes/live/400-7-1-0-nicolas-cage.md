@@ -9,6 +9,12 @@ updated: "2023-07-25T14:44:59+00:00"
 archived: "2026-09-26T02:18:23Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Nicolas Cage joins the survivor roster with three active abilities—Dramaturgy, Scene Partner, and Plot Twist—while The Onryo receives extensive power reworks, including revised TV projection stacks, faster TV cooldowns, altered Cursed Tape behavior, and a new Demanifestation stance that no longer allows stuns. Hook-grab mindgames are removed, the Brand New Part toolbox add-on now installs after a skill check, and disconnected survivors are replaced by bots that can use the new survivor’s perks. UI updates add earlier consent pop-ups and fresh character portraits, and a wave of audio, bot, character, map, perk and platform bug fixes stabilizes gameplay. PTB tweaks further balance Onryo’s Condemned stacks, cooldowns and perk descriptions.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [7.0.2 | Bugfix Patch](396-7-0-2-bugfix-patch.md) · [Live](../../index.md#live) · [7.1.1 | Bugfix Patch](401-7-1-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

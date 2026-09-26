@@ -9,6 +9,14 @@ updated: "2020-08-05T14:34:46+00:00"
 archived: "2026-09-26T02:19:57Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Aura visuals were reverted to a clearer style after the 4.1.0 version proved hard to spot on small objects and in bright lighting. The patch also rebalances many add-ons for The Cannibal and The Hillbilly, tweaking charge-rate and rev-time bonuses, reverting overly harsh nerfs on Knife Scratches, Beast’s Marks and Engravings, removing unnecessary penalties, and adjusting rarities for items such as Speed Limiter, Lo Pro Chains and Apex Muffler.
+
+Bug fixes cover overly bright interior lights, lingering blood droplets from the Executioner, missed Demogorgon shred hits and brief chases, premature item depletion, Nancy Wheeler facial animation, unintended offering consumption on character switch, Wraith Blind Warrior-Mud failure, Hillbilly chainsaw counter pass on Treatment Theatre, and Cannibal tantrum problems under poor network.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.1.0 | Mid-Chapter](211-4-1-0-mid-chapter.md) · [Archive: Windows Store](../../index.md#archive-windows-store) · [4.1.2 | Bug fix patch ](220-4-1-2-bug-fix-patch.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,12 @@ updated: "2020-03-02T19:24:38+00:00"
 archived: "2026-09-26T02:19:17Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Hallowed Blight widget was updated to correctly display the merged survivor and killer event objectives. The hotfix also resolves the event-vial progress reset that occurred when a killer completed a survivor objective—or vice-versa—an issue introduced by the objective merge.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.3.1 | Hotfix](42-2-3-1-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [2.3.3 | Hotfix](44-2-3-3-hotfix.md) &rarr;
 <!-- /nav -->

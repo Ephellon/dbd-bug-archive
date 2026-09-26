@@ -9,6 +9,14 @@ updated: "2021-09-07T14:56:02+00:00"
 archived: "2026-09-26T02:18:37Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The update adds The Cenobite killer, replaces Ranks with Grades (five tiers with sub-levels), introduces a Large Text HUD option, enables Skill-Based Matchmaking, and refreshes pallet visuals. It also brings back Blood Lodge and The Game maps, boosts Nemesis’s Tier 3 tentacle charge speed and badge durations, and tweaks several Nemesis addons and rituals.
+
+The bulk of the patch is performance and stability work—fixes for audio cues, perk timing, animation glitches, map collision and UI issues across many maps—and extensive Cenobite PTB refinements (gateway limits, chain mechanics, animation and VFX fixes). Known issues include translation gaps, a disabled Dead Dawg Saloon map and persistent large-text setting on consoles.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [5.1.1 | Bugfix Patch](291-5-1-1-bugfix-patch.md) · [Live](../../index.md#live) · [5.2.1 | Bugfix Patch](295-5-2-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

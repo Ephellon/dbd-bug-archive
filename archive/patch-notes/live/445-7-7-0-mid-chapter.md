@@ -9,6 +9,12 @@ updated: "2024-04-23T15:22:28+00:00"
 archived: "2026-09-26T02:18:18Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The update moves Dead by Daylight to Unreal Engine 5, trims about 18 GB from console installs and replaces the old store with a new layout featuring separate wardrobes for killers and survivors, weekly gifts, collections, bundles and preview tools for cosmetics, powers, perks and mori. Killer revisions include The Twins’ faster switch and recall times, new visual terror-radius cues, and a cooldown display, while The Blight receives improved collision detection. The Haddonfield - Lampkin Lane map is shortened and given new line-of-sight blockers, and perks Ultimate Weapon, Decisive Strike and Adrenaline are rebalanced. The remainder of the patch focuses on broad bug fixes—audio cues, character animations, map interactions, bot behavior, UI glitches and miscellaneous stability issues.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [7.6.2 | Bugfix Patch](441-7-6-2-bugfix-patch.md) · [Live](../../index.md#live) · [7.7.0A | Bugfix Patch (Tentative Strobing Fix)](446-7-7-0a-bugfix-patch-tentative-strobing-fix.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,12 @@ updated: "2020-09-08T15:10:29+00:00"
 archived: "2026-09-26T02:19:29Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The update introduces the new Killer The Blight and new Survivor Felix Richter, along with a Rare Offering (Sacrificial Ward) and multiple Common Blueprint offerings that influence basement hook and hatch spawns. It also refreshes the look of core objects—generators, pallets, lockers, chests—and adds visual tweaks and breakable walls to Springwood and Yamaoka Estate, while centering flashlight aim. The remainder of the patch focuses on stability: dozens of fixes address killer and survivor animation quirks, perk visual bugs, map-specific positioning issues, crash scenarios, rank-update errors and HTML markup in player-name notifications.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.1.2 | Bug fix patch ](222-4-1-2-bug-fix-patch.md) · [Archive: PS4](../../index.md#archive-ps4) · [4.2.1 | Bugfix Patch](235-4-2-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

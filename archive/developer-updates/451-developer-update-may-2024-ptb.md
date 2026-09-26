@@ -9,6 +9,12 @@ updated: "2024-06-03T13:06:22+00:00"
 archived: "2026-09-26T02:20:11Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Lich gets a faster spell cycle: cooldown down to 38 s, charge time 0.2 s, and charging speed now 4 m/s. Fly spell lasts 4 s, ends with a collision, while Flight of the Damned spawns faster, shoots at 9 m/s and recovers at 3.68 m/s. Dispelling Sphere and Mage Hand also see longer durations and reduced movement penalties, and Magic Items now reveal the Killer’s aura for only 1.5 s. The Blight’s Compound Thirty-Three add-on now caps Rush tokens at five. Perks Bardic Inspiration, Still Sight, Weave Attunement and Dark Arrogance receive longer durations, increased aura ranges or higher vault speed bonuses.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Stats | April 2024](450-stats-april-2024.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | June 2024](455-developer-update-june-2024.md) &rarr;
 <!-- /nav -->

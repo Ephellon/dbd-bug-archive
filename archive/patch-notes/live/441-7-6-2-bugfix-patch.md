@@ -9,6 +9,12 @@ updated: "2024-04-01T12:25:08+00:00"
 archived: "2026-09-26T02:18:18Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Clown received reworked add-ons - Sticky Soda Bottle and Cheap Gin Bottle now increase Invigoration by 2% and 3% - and The Huntress saw her Leather Loop and Infantry Belt add-ons changed to grant 2% and 3% Haste for 5 seconds. The patch also addressed a wide range of bugs: killer animation and interaction quirks (The Unknown’s lunge, teleport vision, Spirit locker visibility, Cenobite healing, Good Guy hooking, Cannibal camera clipping, Doctor outfit texture), map placement and clipping issues in Underground Complex, Dead Dawg Saloon and Garden of Joy, a lingering audio jingle for Dwight’s pants, and an Epic-platform scoreboard grade visibility glitch.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [7.6.1 | Bugfix Patch](439-7-6-1-bugfix-patch.md) · [Live](../../index.md#live) · [7.7.0 | Mid-Chapter](445-7-7-0-mid-chapter.md) &rarr;
 <!-- /nav -->

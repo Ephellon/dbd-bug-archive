@@ -9,6 +9,12 @@ updated: "2020-08-12T14:30:59+00:00"
 archived: "2026-09-26T02:19:50Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Hillbilly’s Overheat mechanic was tweaked, reducing base heat dissipation from -5 to -3.5 charges per second to make heat management more impactful. The update also resolves various Switch-specific issues, fixing chainsaw reset and extreme lunge bugs for the Hillbilly, preventing the Nurse from blinking into terrain, stopping killers from freezing mid-animation after high falls, and lowering the frequency of Sync Error code 111 on the Tally screen.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.1.1 | Bug fix Patch ](223-4-1-1-bug-fix-patch.md) · [Archive: Nintendo Switch](../../index.md#archive-nintendo-switch) · [4.2.0 | Descend Beyond](232-4-2-0-descend-beyond.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,12 @@ updated: "2024-07-12T13:57:59+00:00"
 archived: "2026-09-26T02:20:10Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Banner spawn times now scale with patrol path length, up to double delay, to make longer routes more valuable. The recent Biopod auto-aim and slower targeting time have been reverted; instead, holding the Ability button will auto-aim the pod while a tap retains manual control, and destruction time is cut to 0.75 s. Token capacity for Specialists was raised to six, Stridor’s effect switched to additive, and the gap between perk tiers was narrowed. Character select received smaller portraits, four icons per row and the removal of “Owned” tags to keep it clean and simple. All changes accompany a mix of balance tweaks and UI clean-up, with Stridor and Biopod options slated for a minor update soon.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | June 2024](455-developer-update-june-2024.md) · [Developer Updates](../index.md#developer-updates) · [Stats | July 2024](460-stats-july-2024.md) &rarr;
 <!-- /nav -->

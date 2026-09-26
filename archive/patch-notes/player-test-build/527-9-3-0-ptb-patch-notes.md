@@ -9,6 +9,12 @@ updated: "2025-11-04T15:30:10+00:00"
 archived: "2026-09-26T02:18:42Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Unhook Protections now give survivors 30 s of 10 % Haste, Endurance, Elusive, silence and AFK-crow immunity plus a killer-aura reveal; a Resolve Bar lets downed survivors self-recover after 120 s, filling when downed. Hooking a different survivor adds 15 s Bloodlust and a Bloodpoint boost. Tunneling and slugging reductions, crow timers, anti-facecamp meters that scale with killer proximity (base fill cut) were added, and Underground Complex navigation was fixed. Unhook perks and Tenacity were reworked, Killer perk Furtive Chase now reduces terror radius, Shape’s Slaughtering Strike camera matches controls, Cenobite chains no longer bind survivors, and Skull Merchant drones got rotation. UI now logs faster, has a redesigned menu and scratch-mark colors; bug fixes addressed audio, animation, map collisions, perk bugs and crashes.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [9.2.0 | PTB Patch Notes](522-9-2-0-ptb-patch-notes.md) · [Player Test Build (PTB)](../../index.md#player-test-build-ptb) · [9.4.0 | PTB Patch Notes](533-9-4-0-ptb-patch-notes.md) &rarr;
 <!-- /nav -->

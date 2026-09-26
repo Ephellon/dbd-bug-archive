@@ -9,6 +9,12 @@ updated: "2020-04-28T14:25:41+00:00"
 archived: "2026-09-26T02:19:09Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+All Survivors entering the Struggle phase now cause a drain; the generator repair-speed efficiency debuff rises to 15 %, skill-check progression falls to 1 % while blood-point reward doubles; Legion regains sight of scratch marks during Feral Frenzy and Benevolent Emblem is tweaked. New content adds Tome 03, a Rift details screen, UI tweaks, and perk updates give Head-On feedback, raise Prove Thyself’s repair speed to 15 %, add 1 % progression to Stake Out checks make Sole Survivor light up at one token. Window safety is lowered on Coldwind Farm, MacMillan Estate, Autohaven Wreckers and Backwater Swamp maps with drop-downs and vaults, and maze-tile spacing is increased. The patch delivers bug-fixes for invite notifications, score events, clipping, collision, animation, audio and perk issues across killers and survivors.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.6.2 | Hotfix](173-3-6-2-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [3.7.1 | Hotfix](187-3-7-1-hotfix.md) &rarr;
 <!-- /nav -->

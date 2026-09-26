@@ -9,6 +9,12 @@ updated: "2026-05-12T14:30:01+00:00"
 archived: "2026-09-26T02:18:04Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Pig's Amanda’s Letter add-on has been re-enabled, restoring its effect on Rift Breaker Tokens. The patch also delivers a broad sweep of stability fixes: audio glitches for the Krasue, Nightmare, Dredge, Tomie and Demogorgon are resolved; visual and animation bugs for survivors and killers such as Feng Min, Xenomorph, Blight, Nurse and several add-ons are corrected; map collision and camera issues in Freddy Fazbear’s Pizza, Midwich Elementary and The Forgotten Ruins are fixed; perk misbehaviors like Phantom Fear, Nowhere to Hide, Leader and Hex: No One Escapes Death are addressed; and platform-specific problems on PC, Switch and Switch 2—including controller icons, resize crashes and stray logos—are patched. A tentative fix for flashing lights in trials is also included.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [9.6.1 | Bugfix Patch](545-9-6-1-bugfix-patch.md) · [Live](../../index.md#live) · [10.0.0 | Jason Patch Notes](550-10-0-0-jason-patch-notes.md) &rarr;
 <!-- /nav -->

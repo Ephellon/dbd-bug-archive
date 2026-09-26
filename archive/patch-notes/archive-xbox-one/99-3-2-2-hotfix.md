@@ -9,6 +9,12 @@ updated: "2020-02-28T22:21:25+00:00"
 archived: "2026-09-26T02:19:38Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Hag's teleport scream, the Nurse's ability to blink inside Azarov’s Resting Place, the Infectious Fright scream delay, and Second Wind disabling when grabbed were all fixed, along with a visual desync on the End Game Collapse timer and broken control-sensitivity sliders. Additional fixes address Survivor misalignment at high ping, lobby entry for Survive With Friends groups, host spectator returns in custom games, hair shadow rendering, and various LOD issues. The only known problem is the Clown’s bottle hit still triggering the Bottle Toss score event twice.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.2.1 | Hotfix](98-3-2-1-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [3.3.0 | Mid-Chapter](100-3-3-0-mid-chapter.md) &rarr;
 <!-- /nav -->

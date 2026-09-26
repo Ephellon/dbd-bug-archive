@@ -9,6 +9,12 @@ updated: "2020-02-28T22:13:07+00:00"
 archived: "2026-09-26T02:19:37Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The 3.1.0 Mid-Chapter update introduces William “Bill” Overbeck as a new survivor, adds four Left 4 Dead outfit sets, and expands language support to Portuguese (Brazil), Korean, Simplified and Traditional Chinese. Badham Preschool receives five new map variations with adjusted pallet loops, unique tiles and improved totem hiding, while The Nightmare gets a brand-new power set (Microsleep, Dream Snares and Dream Projection) and updated add-ons. Bloodpoint values for several survivor and killer events are increased, the Exposed status now shows a visual/SFX cue, and Cannibal’s chainsaw cooldown is aligned with missed attacks. The release is chiefly a wave of audio, localisation, map-specific and general gameplay bug fixes, plus assorted UI and perk tweaks.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.0.2 | Hotfix](93-3-0-2-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [3.1.1 | Hotfix](95-3-1-1-hotfix.md) &rarr;
 <!-- /nav -->

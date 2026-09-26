@@ -9,6 +9,12 @@ updated: "2025-12-18T15:00:11+00:00"
 archived: "2026-09-26T02:20:02Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The 2025 Year in Review highlighted the Stats system, summarizing player activity across the past twelve months. It celebrated killers’ high-damage play, noting how pallets dreaded their approach, while survivors were praised for relentless repair efforts and chaotic interactions with the Entity. The update mainly served as a community thank-you, showcasing overall kill-and-survival trends rather than introducing new content, and pointed players toward the official stats tracker for personal breakdowns.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Stats | Haunted by Daylight](528-stats-haunted-by-daylight.md) · [Developer Updates](../index.md#developer-updates) · [Stats | First Look at Stats in 2026](540-stats-first-look-at-stats-in-2026.md) &rarr;
 <!-- /nav -->

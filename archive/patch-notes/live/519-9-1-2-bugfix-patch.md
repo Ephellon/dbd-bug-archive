@@ -9,6 +9,12 @@ updated: "2025-08-14T14:29:01+00:00"
 archived: "2026-09-26T02:18:09Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The 2V8 event returns on August 19 with a new “Play While You Wait” option that lets you start a 2v8 Survivor match while queued for a Killer game. Legion’s innate skills are toned down, the Shadow and Escapist classes receive team-skill adjustments, and the Guide adds generator-trap and listening-device mechanics. Three new maps - Treatment Theatre, The Shattered Square and Greenville Square - launch, while the Game map, Jigsaw Piece offering and Blood Rush perk are re-enabled; Fog Vials now cap at two charges and grant The Singularity a teleport. The patch rounds out a wave of audio, character, environment, perk, platform and quest fixes, plus stability improvements.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [9.1.1 | Bugfix Patch](517-9-1-1-bugfix-patch.md) · [Live](../../index.md#live) · [9.1.3 | Bugfix Patch](520-9-1-3-bugfix-patch.md) &rarr;
 <!-- /nav -->

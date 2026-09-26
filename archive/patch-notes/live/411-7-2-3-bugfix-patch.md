@@ -9,6 +9,12 @@ updated: "2023-09-20T14:28:20+00:00"
 archived: "2026-09-26T02:18:22Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Survivors can no longer slip through locker collisions and the missing animation for placing Blast Mine or Wiretap traps on generators has been restored, ending unintended invisibility and untargetability. The patch also reactivates Flashlights and the three perks Dramaturgy, Appraisal and Residual Manifest. Apart from these adjustments, the update consists mainly of assorted bug fixes and went live at the scheduled 11 am ET time.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [7.2.2 | Bugfix Patch](408-7-2-2-bugfix-patch.md) · [Live](../../index.md#live) · [7.3.0 | Mid-Chapter](413-7-3-0-mid-chapter.md) &rarr;
 <!-- /nav -->

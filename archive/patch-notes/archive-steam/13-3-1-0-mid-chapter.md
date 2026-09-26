@@ -9,6 +9,12 @@ updated: "2020-03-18T19:57:50+00:00"
 archived: "2026-09-26T02:19:05Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Nightmare receives a power overhaul: Microsleep shows the killer within 16 m, falls asleep after 60 s with a 32 m lullaby, and can be awakened by allies, skill checks or removing an alarm clock; new Dream Snares and Dream Projection add token-based traps and generator-husk swaps, and Exposed gets visual/audio cues. Badham Preschool adds five map variants, unique tiles, adjusted pallet loops and generator sides, and tighter pallet spacing. Bloodpoint rewards for cleansing, scouting, healing, Hatch Escape and Blind were raised, plus new killer score events for totem, hook sabotage and Jigsaw Box. Support for Latin American Spanish, Dutch, Turkish and Swedish returns, lobby music reverts, and bug fixes address audio glitches, map collisions, perk interactions, UI prompts and tutorials.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.0.0 | Ghost Face](12-3-0-0-ghost-face.md) · [Archive: Steam](../../index.md#archive-steam) · [3.2.0 | Stranger Things](14-3-2-0-stranger-things.md) &rarr;
 <!-- /nav -->

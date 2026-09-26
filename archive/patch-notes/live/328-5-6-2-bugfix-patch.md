@@ -9,6 +9,12 @@ updated: "2022-03-23T15:26:28+00:00"
 archived: "2026-09-26T02:18:33Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Bloodletting, Vector Victory and Pulcinella cosmetics were corrected to no longer unlock for free on the Epic Games Store, and the Shrine of Secrets perk duplication bug was fixed. The patch also resolves numerous platform-specific crashes and audio glitches - including a Switch crash with Boon: Dark Theory, a PS4 achievement lockout for Sadako Rising, and missing Onryo SFX - and addresses broken map interactions on MacMillan Estate, chain-saw SFX for Hillbilly, Nurse blink charge animation, and several DLC and achievement tracking issues for Onryo, Demogorgon, Nemesis and others. Remaining known issue: killer sound effects may disappear when switching from the Play-as-Killer menu to the Store.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [5.6.1 | Bugfix Patch](327-5-6-1-bugfix-patch.md) · [Live](../../index.md#live) · [5.7.0 | Mid-Chapter](330-5-7-0-mid-chapter.md) &rarr;
 <!-- /nav -->

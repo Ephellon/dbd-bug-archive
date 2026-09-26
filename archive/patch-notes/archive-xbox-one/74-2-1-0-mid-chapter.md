@@ -9,6 +9,12 @@ updated: "2020-02-28T21:53:32+00:00"
 archived: "2026-09-26T02:19:32Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Mid-Chapter 2.1.0 adds a progress bar to emblem tooltips, shows extra status-effect alerts for Vigil and Decisive Strike, and introduces a proficiency HUD that displays other players’ interaction progress. It tweaks gameplay: killer pick-up time drops to 3 s, the Obsession now alerts all players when chased, exhaustion stops healing while running, and Wraith’s uncloaking visual cue is delayed. Rank-reset pip pools are restructured and several killer and survivor perks receive new effects or scaling. The Trapper gains two common add-ons, faster trap-set phases and longer disarm noise radius; the Hag’s traps and add-ons are buffed, and other killers see minor timing and speed tweaks. The update also includes bug fixes for audio, animation, map geometry, UI and Xbox One issues.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.0.0 | Curtain Call](73-2-0-0-curtain-call.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [2.1.1 | Hotfix](75-2-1-1-hotfix.md) &rarr;
 <!-- /nav -->

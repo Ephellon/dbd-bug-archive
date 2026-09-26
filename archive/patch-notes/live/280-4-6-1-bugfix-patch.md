@@ -9,6 +9,14 @@ updated: "2021-04-14T14:30:52+00:00"
 archived: "2026-09-26T02:18:39Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Trickster was rebalanced: movement speed is faster while throwing blades and during Main Event, recoil and spread were removed, blade wind-up is faster, wind-down longer, Laceration meter decays slower and art clearer, and Showstopper’s cooldown after Main Event is reduced. Add-ons lost speed bonus and Iridescent Photocard now injures at max laceration.
+
+The rest of the patch is a broad bug-fix pass covering pallet stun and Spirit Fury collisions, Trickster point tracking, Main Event add-on duration, Wraith post-uncloak boost timing, animation glitches for Pyramid Head, Oni, Nurse and Victor, Blight sound, map lighting and collision issues on Red Forest, Swamp and Yamaoka Estate, scoreboard rank display, lobby privacy, Smash Hit UI, locker and hatch behavior, and assorted platform crashes.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.6.0 | All-Kill](278-4-6-0-all-kill.md) · [Live](../../index.md#live) · [4.7.0 | Mid-Chapter](281-4-7-0-mid-chapter.md) &rarr;
 <!-- /nav -->

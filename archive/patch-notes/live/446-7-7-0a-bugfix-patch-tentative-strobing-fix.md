@@ -9,6 +9,12 @@ updated: "2024-05-01T16:03:31+00:00"
 archived: "2026-09-26T02:18:17Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+A tentative fix for the strobing / flashing white lights issue was deployed across Windows Store, PlayStation 4, PlayStation 5, Switch and Xbox, with the initial hotfix released for Steam and Epic Games Store. The patch primarily addresses this visual bug and the developers are asking players to report any remaining instances after updating.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [7.7.0 | Mid-Chapter](445-7-7-0-mid-chapter.md) · [Live](../../index.md#live) · [7.7.1 | Bugfix Patch](447-7-7-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,12 @@ updated: "2023-05-03T15:00:15+00:00"
 archived: "2026-09-26T02:18:25Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Bot interactions for The Mastermind’s Uroboros Infection and The Dredge locker use were tweaked, and key character visual bugs—including The Oni intro VFX, The Ghost Face cosmetic swaps, The Spirit vault jitter, The Knight token reset, The Wraith flashlight clipping and The Huntress hatchet clipping—were fixed; a choppy-animation optimization was also disabled. Collision and navigation problems on Blackwater Swamp, MacMillan Estate, Raccoon City and several other maps were resolved. Audio glitches for The Shape and The Skull Merchant were corrected, and UI crashes, privacy-policy toggle, Bloodweb tooltip coloring and terror-radius visual cue were addressed, restoring the Bloodweb’s intended purchase priority. Known issues persist for The Dredge’s Masquerade Colours and the Any Means Necessary perk.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [6.7.0 | Mid-Chapter](385-6-7-0-mid-chapter.md) · [Live](../../index.md#live) · [6.7.2 | Bugfix Patch](388-6-7-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

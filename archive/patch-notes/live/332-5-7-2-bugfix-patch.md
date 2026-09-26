@@ -9,6 +9,12 @@ updated: "2022-05-10T14:42:23+00:00"
 archived: "2026-09-26T02:18:32Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+New chase music was added for Ghost Face, giving his pursuit a distinct soundtrack. The remainder of the patch is a broad sweep of bug fixes: breathing sounds for James Sunderland, correct metal SFX on braziers in Eyrie of Crows, idle animations for Legion, promo code entry, and numerous perk and status-effect interactions (Rancor, Bitter Murmur, Hemorrhage, Fuming Mix Tape, etc.). It also resolves visual and collision glitches on several maps—including stair hits in Midwich Elementary, vault seams in Lery’s Institute, and Victor’s pounce issues on RPD and Haddonfield—plus UI and tutorial account-transfer bugs. Known issues remain with Ghost Face’s Olsen’s Driver’s License addon and missing exit-gate animations for injured survivors under the Nemesis T-Virus.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [5.7.1 | Bugfix Patch](331-5-7-1-bugfix-patch.md) · [Live](../../index.md#live) · [6.0.0 | Roots of Dread](334-6-0-0-roots-of-dread.md) &rarr;
 <!-- /nav -->

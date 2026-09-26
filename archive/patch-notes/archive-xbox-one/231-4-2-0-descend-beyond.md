@@ -9,6 +9,12 @@ updated: "2020-09-08T15:10:48+00:00"
 archived: "2026-09-26T02:19:44Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Blight joins the roster as a new killer and Felix Richter arrives as a new survivor, each accompanied by several new offerings including Sacrificial Ward, Bloodied Blueprint, Torn Blueprint, Annotated Blueprint and Vigo’s Blueprint. The patch also refreshes visuals for generators, pallets, lockers, chests and adds breakable walls to Springwood and Yamaoka Estate, while correcting flashlight aiming. The bulk of the update is bug fixing: stun, speed, animation and aura issues for killers such as Deathslinger, Hillbilly, Legion, Oni, Plague, Shape and Trapper are resolved; survivor stuck-on-hill and misalignment glitches are addressed along with perk display bugs, graphics crash fixes and social notification markup handling.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.1.2 | Bug fix patch ](221-4-1-2-bug-fix-patch.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [4.2.1 | Bugfix Patch](236-4-2-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

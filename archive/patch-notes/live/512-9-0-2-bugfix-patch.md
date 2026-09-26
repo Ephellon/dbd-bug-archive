@@ -9,6 +9,12 @@ updated: "2025-07-02T14:30:01+00:00"
 archived: "2026-09-26T02:18:09Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Animatronic add-ons were rebalanced: Security Guard’s Badge now reduces effect to 25%, Streamers to 15%, Party Hat duration changed to -20%, Bonnie’s Guitar Strings undetectable duration cut to -100%, Foxy’s Hook now lasts 6 seconds, and Endo CPU break speed raised to 40%. The patch then focused on extensive bug fixes, addressing visual and audio glitches for the Anniversary event, correcting survivor bot camera and animation issues, polishing numerous killer interactions (The Nightmare, The Artist, The Ghoul, The Nurse, The Legion, Xenomorph), fixing Animatronic UI and power behavior, repairing map navigation and collision bugs, fixing perk text, Steam startup stalls, and quest completion problems. Known issues include missing Victor chase music and Animatronic blind-spot during security room grabs.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [9.0.1 | Bugfix Patch](511-9-0-1-bugfix-patch.md) · [Live](../../index.md#live) · [9.1.0 | The Walking Dead](516-9-1-0-the-walking-dead.md) &rarr;
 <!-- /nav -->

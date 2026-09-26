@@ -9,6 +9,12 @@ updated: "2020-12-16T18:27:16+00:00"
 archived: "2026-09-26T02:19:13Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Victor’s recall timer has been reduced to 30 seconds after detaching from Charlotte, down from 45. The rest of the 4.4.2 update is a sweeping bug-fix pass: store UI now updates during outfit sales, bright lighting tiles and camera tilt issues are resolved, flashlight and survivor-perk interactions (Power Struggle, Deception, Oppression, etc.) are stabilized, and numerous Twins-related animation, aura, and exit-gate glitches are fixed. Map-specific glitches on Autohaven Wreckers and Gas Heaven, trap placement, outfit rendering, and badge reward messages have also been addressed, and the Deception perk icon now shows cooldown timing.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.4.1 | Bugfix Patch](271-4-4-1-bugfix-patch.md) · [Archive: Steam](../../index.md#archive-steam) · [4.5.0 | Mid-Chapter](274-4-5-0-mid-chapter.md) &rarr;
 <!-- /nav -->

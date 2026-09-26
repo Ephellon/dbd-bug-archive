@@ -9,6 +9,12 @@ updated: "2022-03-15T15:08:09+00:00"
 archived: "2026-09-26T02:18:33Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Wake Up and Object of Obsession perks have been restored across all platforms after a bug fix. The update also addresses a broad range of stability and visual issues, including survivors stuck on Silent Hill, killer pickup failures on the basement stairs, lobby music bleed in custom games, outfit customization resets, sliding-door glitches on Gideon Meat Plant, charm preview errors, and numerous crashes linked to specific perks. Map-specific problems such as broken walls in Badham Preschool, broken tiles in Yamaoka Estate, and VFX misplacements for The Onryo have been corrected, alongside several survivor animation and wiggle-progress bugs. A known issue remains with missing killer sound effects when switching from the Killer menu to the Store.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [5.6.0 | Sadako Rising](325-5-6-0-sadako-rising.md) · [Live](../../index.md#live) · [5.6.2 | Bugfix Patch](328-5-6-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,14 @@ updated: "2020-02-28T22:21:09+00:00"
 archived: "2026-09-26T02:19:38Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Demogorgon’s Shred now breaks pallets by default, prompting a rework of the Red Moss add-on to boost Undetectable duration and slow Upside-Down power recovery. Surge now awards a Destruction score per affected generator, Second Wind displays activation progress, and Survive With Friends matchmaking now uses the highest group rank instead of the average.
+
+The hotfix also adds low-setting Temporal Anti-Aliasing and resolves dozens of visual, animation, and map glitches—including trap aura, speed, camera, and shadow bugs for Trapper, Pig, Hillbilly, Huntress, Doctor, Nightmare and others—as well as numerous network, disconnection, and crash issues across custom games and the Friends List, plus minor localization tweaks.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.2.0 | Stranger Things](97-3-2-0-stranger-things.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [3.2.2 | Hotfix](99-3-2-2-hotfix.md) &rarr;
 <!-- /nav -->

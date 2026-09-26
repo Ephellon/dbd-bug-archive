@@ -9,6 +9,12 @@ updated: "2025-05-15T14:28:21+00:00"
 archived: "2026-09-26T02:18:11Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Nemesis killer returns, and the 2V8 game mode is reinstated on May 15 with Ghost Face and Oni added, bringing new limited-time quests. Bot AI also sees upgrades: killers can take indirect routes, pursue around tall-wall loops, and avoid targeting freshly unhooked survivors, while survivor bots seek alternative hatches. The patch primarily addresses a wide sweep of bugs—audio glitches, character animation and interaction issues (including several survivors and killers like The Ghoul, Nurse, Legion, and Doctor), map clipping problems, perk HUD errors, UI overlaps, and platform-specific crashes. Overall, the update restores Nemesis, refreshes 2V8, improves bot behavior, and polishes stability across the game.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [8.7.0 | Steady Pulse](505-8-7-0-steady-pulse.md) · [Live](../../index.md#live) · [8.7.2 | Bugfix Patch](508-8-7-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

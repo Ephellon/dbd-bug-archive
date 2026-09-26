@@ -9,6 +9,12 @@ updated: "2020-02-28T22:04:32+00:00"
 archived: "2026-09-26T02:19:34Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Xbox One receives a 2.5.1 hotfix that resolves interaction problems—including survivors being unable to interact or being teleported back to the basement—and fixes a standing-at-campfire glitch. The update also corrects Prove Thyself not applying to its owner, wrong Self-Care tier descriptions, a Badham Preschool window vault bug, and a Game Over score error for The Pig. Several crashes are addressed, such as disconnects during a Mori, status-effect crashes, and tally-screen crashes in Kill Your Friends. Bloodweb issues are patched, including refresh failures when swapping characters or opening Mystery Boxes, and a prestige-abuse exploit.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.5.0 | Mid-Chapter](82-2-5-0-mid-chapter.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [2.5.3 | Hotfix](84-2-5-3-hotfix.md) &rarr;
 <!-- /nav -->

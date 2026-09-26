@@ -9,6 +9,12 @@ updated: "2025-08-26T15:18:38+00:00"
 archived: "2026-09-26T02:18:08Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Last Stand perk has been re-enabled, restoring its ability to protect Survivors during fast-vaults. The patch also resolves several character-specific glitches: The Spirit’s hands now return to normal after Phase-Walk, The Deathslinger can spear Survivors using Last Stand while they fast-vault pallets, and the Dark Lord’s Hellfire passes through Killer shack pallets. Miscellaneous fixes address broader issues, including Killers being able to injure fast-vaulting Survivors with Last Stand, preventing Survivors from getting stuck in lockers, stopping infinite Finesse use, correcting Fog Vial fog that blocked certain Killer projectiles, and fixing floating Survivor models in the lobby.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [9.1.2 | Bugfix Patch](519-9-1-2-bugfix-patch.md) · [Live](../../index.md#live) · [9.2.0 | Sinister Grace](523-9-2-0-sinister-grace.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,12 @@ updated: "2021-12-07T15:25:38+00:00"
 archived: "2026-09-26T02:18:35Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Crow Food, Sprint & Slash, and Beast Awakens archive challenges now properly track progress, and the Blight turn-rate exploit via frame-rate limiting is closed. Visual and audio bugs affecting Oni, Spirit, The Artist, and several UI elements—including disappearing hair, lingering crow auras, missing Thai accents, oversized manual buttons, and incorrect store badge behavior—are resolved. Pickup mechanics near the Exit Gates in Autohaven Wreckers, hook model display in the lobby, spotlight timing on generators, black-ink VFX on Mori, and the token count for Coup de Grace and Corrective Action have all been fixed. The patch is largely a comprehensive bug-fix sweep across challenges, cosmetics, and core gameplay systems.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [5.4.0 | Portrait of a Murder](306-5-4-0-portrait-of-a-murder.md) · [Live](../../index.md#live) · [5.4.2 | Bugfix Patch](308-5-4-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

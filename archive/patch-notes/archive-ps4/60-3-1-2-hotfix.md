@@ -9,6 +9,12 @@ updated: "2020-03-02T19:56:19+00:00"
 archived: "2026-09-26T02:19:22Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The 3.1.2 hotfix resolves Dream World lighting differences between Survivors and The Nightmare, stops crashes when loading the store catalog or switching roles in Kill Your Friends lobbies, and fixes intermittent failures of Dead Hard’s speed boost and Sprint Burst activation. The update mainly consists of stability and perk-function fixes, while the known issues list rank and pip reset inconsistencies and a problem where Survivors can exit through the gate and keep playing, both still being worked on.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.1.1 | Hotfix](59-3-1-1-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [3.2.0 | Stranger Things](61-3-2-0-stranger-things.md) &rarr;
 <!-- /nav -->

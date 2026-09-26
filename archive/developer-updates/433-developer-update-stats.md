@@ -9,6 +9,12 @@ updated: "2024-02-15T13:55:28+00:00"
 archived: "2026-09-26T02:20:13Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Developers shared an expanded stats roundup, adding the 10 most-used Perks for each role, the top 10 Killer pick-rates, and a new “Deadliest Killers” list showing kill percentages, plus survival odds for solo versus group play and high-MMR survivors. The data covers millions of matches and highlights shifts in popularity, with the Doctor, Deathslinger and others hovering around 3-4% pick-rate, while Executioner, Hag and Artist top the kill-rate chart at 60%. The update is purely informational, bundling community-requested metrics and reminding players that raw numbers don’t reflect individual experience.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | January 2024 PTB](429-developer-update-january-2024-ptb.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | February 2024](434-developer-update-february-2024.md) &rarr;
 <!-- /nav -->

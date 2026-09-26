@@ -9,6 +9,12 @@ updated: "2020-03-02T20:22:13+00:00"
 archived: "2026-09-26T02:19:04Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Survivor pip thresholds were rebalanced, lowering the +1 and +2 requirements for ranks 9-12, 8-5, and 1-4 while leaving ranks 20-13 unchanged. The update also patches audio duplication when cleansing from a fountain, restores the ability to Ready or Unready after a teammate disconnects post-timer, and fixes a transient pre-lobby glitch triggered by exiting the Twitch Challenges menu before load completion.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.6.2 | Hotfix](24-2-6-2-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [2.7.1 | Hotfix](26-2-7-1-hotfix.md) &rarr;
 <!-- /nav -->

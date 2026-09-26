@@ -9,6 +9,14 @@ updated: "2022-09-06T14:21:18+00:00"
 archived: "2026-09-26T02:18:30Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Mastermind received two gameplay tweaks: the grab detection radius for Virulent Bound was enlarged and damage dealt with the ability now contributes to the Chaser emblem. Additionally, the orange glyph challenge “Glyph Massacre” received updated visual feedback.
+
+The update also addressed a range of bugs, including a subtle camera offset causing motion sickness, distorted survivor models, and various interaction glitches with Virulent Bound such as wall-through grabs, stair-related failures, clipping, incorrect sound cues, missed Decisive Strike triggers, and broken perk effects like Hyperfocus and Alert. UI problems like missing First Aid Spray icons, persistent generator auras, HUD brightness issues, lobby name-tag cuts and incorrect perk prompts were also resolved.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [6.2.0 | Resident Evil: PROJECT W](349-6-2-0-resident-evil-project-w.md) · [Live](../../index.md#live) · [6.2.2 | Bugfix Patch](351-6-2-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,14 @@ updated: "2020-08-05T14:33:36+00:00"
 archived: "2026-09-26T02:19:28Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The aura visuals introduced in 4.1.0 are swapped for a clearer version after visibility complaints, and many add-ons for The Cannibal and The Hillbilly are rebalanced - chainsaw charge rates, tantrum thresholds and speed bonuses are restored or adjusted, several penalties are removed, and rarities for items like Speed Limiter, Lo Pro Chains and Apex Muffler are changed.
+
+The rest of the update is a general bug-fix pass targeting bright interior lighting, lingering blood droplets, Demogorgon ability misses, item charge depletion, Nancy Wheeler animation, unwanted offering consumption, Wraith Blind Warrior-Mud blindness, Hillbilly chainsaw collision on Treatment Theatre and Cannibal tantrum issues under poor network.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.1.0 | Mid-Chapter](212-4-1-0-mid-chapter.md) · [Archive: PS4](../../index.md#archive-ps4) · [4.1.2 | Bug fix patch ](222-4-1-2-bug-fix-patch.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,14 @@ updated: "2021-09-21T14:35:45+00:00"
 archived: "2026-09-26T02:18:36Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The pallet’s visual style was rolled back to its original version, with the newer look slated to return in a future update.
+
+Bug fixes cover a range of systems: scoring and bonus bloodpoints for the Cenobite, Nemesis charging speed, survivor model sync in lobbies, killer disconnection penalties, Cenobite lunge momentum and chase-music restart, mis-categorised Lament Guardian scores, stray spectating sounds, generator-completed alerts, Engineer Guild quest progress, misplaced hooks on Resident Evil, a partially indestructible pallet in Gideon Meat Plant, lingering Gateway SFX, chain-hunt start cue, store banner alignment, a PC-only 4K performance dip, loading-screen ESC soft-lock, grade-reset popup timing and a Tally screen crash. The Dead Dawg Saloon map remains disabled pending the next update.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [5.2.1 | Bugfix Patch](295-5-2-1-bugfix-patch.md) · [Live](../../index.md#live) · [5.3.0 | Hour of the Witch](298-5-3-0-hour-of-the-witch.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,12 @@ updated: "2026-05-05T14:30:02+00:00"
 archived: "2026-09-26T02:18:04Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Doctor's Shock Therapy delay was shortened to 0.65 seconds and Ghost Face’s crouch speed raised to 4 m/s, while the new Discipline add-ons further cut the Doctor’s detonation delay. The update also refreshed the Diminishing Returns list in the manual, tweaked the progress-bar animation, and increased Mastermind’s Bound token timer for 2v8. The bulk of the patch comprises extensive bug fixes covering 2v8 map collisions, AI pathing, audio balance, character visual glitches, perk interactions, UI friend-list issues and server disconnects.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [9.6.0 | Patch Notes](544-9-6-0-patch-notes.md) · [Live](../../index.md#live) · [9.6.2 | Bugfix Patch](546-9-6-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

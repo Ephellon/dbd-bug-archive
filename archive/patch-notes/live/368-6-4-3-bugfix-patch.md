@@ -9,6 +9,12 @@ updated: "2022-12-15T15:42:41+00:00"
 archived: "2026-09-26T02:18:27Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Knight’s chase entry no longer fails when a Guard is active, and Bone Chill’s invisibility glitch after exiting a Snowman has been fixed along with collision-sticking issues. Survivor perk bugs were addressed: Kindred’s Killer Aura now displays correctly and Inner Healing heals one health state after cleansing a Totem and staying in a Locker. The Game map no longer contains an invisible collision zone, and undetectable killers no longer unintentionally reveal their aura. The patch is primarily a collection of stability fixes, with remaining known issues on Nowhere To Hide’s aura detection and a missing foot animation for the Knight.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [6.4.2 | Bugfix Patch](367-6-4-2-bugfix-patch.md) · [Live](../../index.md#live) · [6.5.0 | Mid-Chapter](371-6-5-0-mid-chapter.md) &rarr;
 <!-- /nav -->

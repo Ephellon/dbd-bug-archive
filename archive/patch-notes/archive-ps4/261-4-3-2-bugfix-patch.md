@@ -9,6 +9,12 @@ updated: "2020-11-03T16:18:26+00:00"
 archived: "2026-09-26T02:19:30Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Discordance’s detection range was expanded to 64/96/128 m and its aura now fades after 4 seconds instead of 8, while Blood Favor’s description was clarified to note it only triggers on basic attacks. The patch also swept away a variety of bugs: trap and snare placement errors on Macmillan Estate maps, lingering Spirit breathing sounds, permanent Totems on Rotten Fields and Coal Tower, missing Halloween-event generators in Midwich Elementary, missing beard on Jake’s Orbital Captain head cosmetic, outfit piece gaps on Yui’s Miss Speedway set, and the Blight’s Alchemist Ring incorrectly speeding up rush-token recharge.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.3.1 | Bugfix Patch](255-4-3-1-bugfix-patch.md) · [Archive: PS4](../../index.md#archive-ps4) · _newest_ &rarr;
 <!-- /nav -->

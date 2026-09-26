@@ -9,6 +9,14 @@ updated: "2020-03-02T19:17:34+00:00"
 archived: "2026-09-26T02:19:16Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The mid-chapter 2.1.0 update adds a progress bar to emblem tooltips, status-effect alerts for Vigil and Decisive Strike, and a Proficiency overlay on interaction bars. Killer pickup time drops to three seconds, Obsession now shows a chase icon for all players, Exhaustion stops recovering while running and the Wraith’s uncloaking smoke is retimed. Rank reset pools and pip returns are restructured, and several killer and survivor perks—including Bitter Murmur, Brutal Strength and Ace In The Hole—receive new effects.
+
+Trapper gains Padded Jaws and Trapper Sack add-ons and faster trap phases; Hag add-ons buffed; Huntress charge reduced; Shape Tier I carry speed matches higher tiers; Brand New Part now gives generator progress. The patch adds audio, animation, map and UI stability fixes.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.0.0 | Curtain Call](35-2-0-0-curtain-call.md) · [Archive: PS4](../../index.md#archive-ps4) · [2.1.1 | Hotfix](37-2-1-1-hotfix.md) &rarr;
 <!-- /nav -->

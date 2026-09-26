@@ -9,6 +9,12 @@ updated: "2020-10-20T14:25:48+00:00"
 archived: "2026-09-26T02:20:00Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Executioner is rebalanced: canceling Rites of Judgement slows movement for one second and blocks attacks, and Punishment of the Damned cooldown is cut to 2.25 s. Perks are adjusted—Trail of Torment’s undetectable lasts until the generator stops regressing, Forced Penance’s broken timing, Blood Pact’s haste boost, and Any Means Necessary and For the People grant Bloodpoints; ranges and durations are tweaked. Generator terminology is clarified and text for Surge, Pop Goes the Weasel and Overcharge updated. Visuals add locker VFX, footstep and blood effects, 4K icons. The patch also fixes many Stadia bugs such as carrier issues, lingering control loss, Hex totem display errors and incorrect Executioner or Oni interactions; UI/audio fixes; wrong killer animation at match start remains.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; _oldest_ · [Archive: Stadia](../../index.md#archive-stadia) · [4.3.1 | Bugfix Patch](259-4-3-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

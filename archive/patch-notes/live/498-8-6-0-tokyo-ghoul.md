@@ -9,6 +9,12 @@ updated: "2025-04-02T15:59:04+00:00"
 archived: "2026-09-26T02:18:12Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Ghoul arrives as a new killer, wielding Kagune Leap and Enraged Mode, plus three exclusive Hex perks (Nothing But Misery, Forever Entwined, None Are Free). A new map, Dead Sands, expands the Forsaken Boneyard theme, and event tomes return for Blood Moon and Chaos Shuffle. Surrender now retains BP, XP and challenge progress under specific conditions, while scratch-mark spawning, loadout counters and chat UI receive improvements. Survivor bloodpoint values are broadly increased and several score categories reshuffled. Numerous killer powers (Legion, Xenomorph, Good Guy, Oni) and terror-radius ranges are tweaked, and a massive bug-fix wave covers audio, AI, animation, environment and UI issues.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [8.5.2 | Bugfix Patch](492-8-5-2-bugfix-patch.md) · [Live](../../index.md#live) · [8.6.1 | Bugfix Patch](499-8-6-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

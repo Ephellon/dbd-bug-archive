@@ -9,6 +9,12 @@ updated: "2025-07-29T16:07:30+00:00"
 archived: "2026-09-26T02:18:09Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Rick Grimes and Michonne Grimes join the survivor roster with three new perks each, and the Fog Vial item returns with new variants and add-ons. The Executioner receives larger Punishment of the Damned range, longer Rites of Judgement, held-input actions and many add-on reworks; the Clown, Pig, Knight and Oni also get speed, animation and add-on tweaks. Survivor items Key and Map are reworked with channeling, new charges and add-ons, while several killer and survivor perks (Insidious, Hubris, Built to Last, etc.) are balanced. A new Fallen Refuge map, custom-game spectate UI, console keyboard-mouse support, expanded presets and “Into the Fog” quests land, and the update is rounded out by extensive bug fixes across audio, bots, characters, maps and UI.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [9.0.2 | Bugfix Patch](512-9-0-2-bugfix-patch.md) · [Live](../../index.md#live) · [9.1.1 | Bugfix Patch](517-9-1-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

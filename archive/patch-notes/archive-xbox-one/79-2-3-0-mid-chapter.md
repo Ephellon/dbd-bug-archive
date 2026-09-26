@@ -9,6 +9,12 @@ updated: "2020-02-28T22:00:26+00:00"
 archived: "2026-09-26T02:19:33Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+New HUD panels now display equipped add-ons for both Survivors and Killers, while a fresh event-specific rarity and Store filters for Artifact and Event items were added, plus extra pause-screen info on burnt offerings and login progress. Balance updates include disabling Moon Bouquet offerings, unlocking perks at Bloodweb tiers 2-4, shortening hook time to 1.5 s, tighter vault timing, revised hook distance rules, increased healing time, removal of toolbox sabotage efficiency penalties, and multiple perk adjustments (Alert, Bond, Iron Will, Hex No One Escapes Death, Make Your Choice, Beast of Prey). The patch also overhauled map hook spacing, pallet density and flashlight feedback, and delivered broad bug fixes covering Killer collisions, map geometry, perk functionality, UI glitches and Xbox One-specific store and tutorial issues.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.2.1 | Hotfix](78-2-2-1-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [2.3.2 | Hotfix](80-2-3-2-hotfix.md) &rarr;
 <!-- /nav -->

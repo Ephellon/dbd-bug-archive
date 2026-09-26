@@ -9,6 +9,12 @@ updated: "2026-09-17T15:02:29+00:00"
 archived: "2026-09-26T02:18:02Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Judgment’s Divine Light timing was adjusted—Zealous window back to 0.8 s, non-Zealous now 0.3 s, and survivors rescued from Exile spawn ≥32 m away with 1 s immunity. The Xenomorph joins 2v8 with turret-destroying and faster tunnel cooldowns, and Invoking Salt appears in chests as a one-time ritual granting temporary haste. Ghostface’s Night Shroud and Stalking charges, the Executioner’s punishment width, the Guide’s 24 m aura-reveal, default uncommon starter items, Nostromo Wreckage map, side-uncage angles, and chest spawns (20→27) were also updated. The remainder of the patch is a broad sweep of fixes—audio bugs, character animation and ability glitches (including several Judgment exile issues), map collisions, perk description errors, UI inconsistencies, matchmaking crashes and assorted 2v8 navigation and anti-camp problems.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [10.1.1 Bugfix Patch](557-10-1-1-bugfix-patch.md) · [Live](../../index.md#live) · _newest_ &rarr;
 <!-- /nav -->

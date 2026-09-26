@@ -9,6 +9,12 @@ updated: "2023-11-23T14:58:05+00:00"
 archived: "2026-09-26T02:20:14Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Chucky joins the roster with only minor tweaks, while survivor pallet-scamper time is nudged to 1.4 seconds and killers now move slower after a missed Slice & Dice, whose base duration is extended to 1.2 seconds. A broad Add-On balance pass reduces the power of duration-boosting items and reshapes several others. The new Killer perk Batteries Included now deactivates when the exit gates power up, curbing its end-game boost. Trickster’s throw rate is reverted to three blades per second, Main Event now needs eight blades to charge, and a handful of Add-Ons receive revised effects. All changes go live with the November 28 update.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | November 2023](416-developer-update-november-2023.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | January 2024](427-developer-update-january-2024.md) &rarr;
 <!-- /nav -->

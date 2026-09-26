@@ -9,6 +9,14 @@ updated: "2020-08-11T14:31:12+00:00"
 archived: "2026-09-26T02:19:00Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Hillbilly's heat dissipation was lowered from -5 to -3.5 charges per second, making the Overheat system relevant again and forcing players to manage the chainsaw heat.
+
+The patch also addressed several bugs: it ensures the Hillbilly's chainsaw charge fully resets after stun and stops extreme lunges, prevents the Nurse from blinking into hills, stops killers from freezing mid-animation after high falls, and reduces Sync Error 111 on the Tally screen.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.1.1 | Bug fix Patch](215-4-1-1-bug-fix-patch.md) · [Archive: Steam](../../index.md#archive-steam) · [4.1.3 | Bugfix Patch](227-4-1-3-bugfix-patch.md) &rarr;
 <!-- /nav -->

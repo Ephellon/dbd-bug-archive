@@ -9,6 +9,14 @@ updated: "2024-06-13T14:25:32+00:00"
 archived: "2026-09-26T02:18:17Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Good Guy’s Power Drill and Automatic Screwdriver add-ons now reduce Hidey-Ho cooldown by 10% and 8% respectively after a Slice & Dice hit, instead of the previous higher values, while a temporary power-recharge bug is noted. A new graphics setting lets players choose full-size or reduced item previews during matches.
+
+The patch also fixes audio (The Legion’s outfit voice), bot interactions, numerous character animation and clipping problems (including The Pig, The Onryo, The Twins, Blight and Lich VFX), map loading and collision issues on several maps, perk icon and illusion bugs, a PS4 startup black-screen, subtitle playback in cinematics, and UI quirks like the Flame Turret info display. Known issue: Archives progress widget remains hidden for certain challenges.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [8.0.0 | Dungeons & Dragons](452-8-0-0-dungeons-dragons.md) · [Live](../../index.md#live) · [8.0.2 | Bugfix Patch](454-8-0-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

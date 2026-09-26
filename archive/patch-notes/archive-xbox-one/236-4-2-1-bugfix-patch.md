@@ -9,6 +9,12 @@ updated: "2020-09-17T14:52:13+00:00"
 archived: "2026-09-26T02:19:44Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The patch quiets the Survivors’ heartbeat sound in the Terror Radius, corrects the Huntress’ hatchet behavior under server-side hit validation, stops Survivors from floating when hooked in the basement, and fixes cross-platform friend requests that let PC or console players add mobile users. It also restores Dragon’s Grip scream audibility for Killers and resolves two performance issues: an FPS dip when viewing an active generator and a post-process effect causing lag for some players.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.2.0 | Descend Beyond](231-4-2-0-descend-beyond.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [4.2.2 | Bugfix Patch](241-4-2-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

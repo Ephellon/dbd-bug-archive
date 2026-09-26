@@ -9,6 +9,12 @@ updated: "2020-02-28T22:11:03+00:00"
 archived: "2026-09-26T02:19:36Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Ghost Face received several balance tweaks: stalk-rate add-ons now apply only when not leaning, lean stalking is twice as fast, base Killer Instinct is 2 seconds and its add-ons are slightly longer, detection area is 8 % wider, and the Night Shroud proximity sound was removed; the stun visual effect was removed and camera shake on hits reduced. The hotfix also addressed a wide range of bugs, fixing perk token displays, action-speed bonuses, perk activation sounds, interaction-time changes, exhaustion handling, locker crawl state, killer and survivor camera shake, visual glitches such as red stains, animation issues, audio problems, lobby crashes, ranking logging, and several event-related audio and UI glitches.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.0.0 | Ghost Face](91-3-0-0-ghost-face.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [3.0.2 | Hotfix](93-3-0-2-hotfix.md) &rarr;
 <!-- /nav -->

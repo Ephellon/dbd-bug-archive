@@ -9,6 +9,12 @@ updated: "2025-06-17T16:12:48+00:00"
 archived: "2026-09-26T02:18:10Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Animatronic arrives as a new Killer with the Fire Axe power, Fazbear’s Fright, and a map-wide Security Door system, while Freddy Fazbear’s Pizza debuts as a brand-new map. Three new Killer perks (Help Wanted, Phantom Fear, Haywire) and numerous perk tweaks, plus updated offerings, spawn rules, and a new Map Game Mode round out the content. The update also adds extensive quality-of-life changes—including an AFK crow detection system, auto-Bloodweb progression, revamped disconnection penalties, gamma calibration, Spectator Mode hotkeys, and French voice-over support—alongside performance optimisations. The majority of the patch consists of bug fixes across audio, characters, environments, UI and the new Animatronic mechanics, and known issues are listed for the Switch 2 lobby crash.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [8.7.2 | Bugfix Patch](508-8-7-2-bugfix-patch.md) · [Live](../../index.md#live) · [9.0.1 | Bugfix Patch](511-9-0-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,12 @@ updated: "2020-03-02T15:35:55+00:00"
 archived: "2026-09-26T02:19:08Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Treatment Theatre received balance tweaks: window loop safety was lowered in its large rectangle rooms while pallet loop safety was raised to around 80 +. The hotfix also addressed a range of bugs—movement extrapolation now correctly stays disabled for Survivors, the Alpine Ski Vest Meg cosmetic only drops at level 35, missing visual effects for Nea’s torsos and The Doctor’s add-ons were corrected, audio issues for The Plague and fireworks were adjusted, several killer mechanics (The Legion jacket audio, Decisive Strike vs. The Doctor, Snap Out Of It progress, The Hag’s stain brightness, Nightmare’s snare animation) were fixed, numerous map collision and totem problems in Treatment Theatre, Springwood, and Underground Complex were resolved, and lobby, chat and ranking achievement glitches were patched.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.2.2 | Hotfix](31-3-2-2-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [3.5.2 | Hotfix](33-3-5-2-hotfix.md) &rarr;
 <!-- /nav -->

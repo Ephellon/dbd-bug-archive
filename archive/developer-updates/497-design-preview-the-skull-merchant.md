@@ -9,6 +9,12 @@ updated: "2025-03-24T16:30:10+00:00"
 archived: "2026-09-26T02:20:06Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Dead by Daylight’s developers outlined a forthcoming overhaul of the Killer Skull Merchant, shifting her from a passive, complex kit toward an active, intel-focused playstyle. The redesign introduces Drones 2.0 with slower, invisible detection zones, remote control using a new Power resource, and a burst-propulsion attack that damages Survivors, while removing legacy effects like Hindered and Claw Trap. Drone Hacking returns with higher risk-reward, revealing the Killer’s aura on success and exposing the hacker on failure. A tentative “global detection” power will briefly reveal sprinting Survivors, echoing a red-light-green-light mechanic. The team emphasized balancing fun for both sides and said the timeline remains pending, with updates to follow.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Design Preview | Future Plans + Update on The Trickster](496-design-preview-future-plans-update-on-the-trickster.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | April 2025](500-developer-update-april-2025.md) &rarr;
 <!-- /nav -->

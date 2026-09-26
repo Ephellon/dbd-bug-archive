@@ -9,6 +9,12 @@ updated: "2022-06-27T14:38:02+00:00"
 archived: "2026-09-26T02:18:31Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Dredge’s Nightfall vision was tweaked, lowering its maximum visible range to 20 m (from 24 m) while extending survivor sight to 54 m. The update then focused on a broad sweep of bug fixes: console tutorial crashes, PS4 intro-screen graphics, incorrect perk prompt for the Pig, performance drops when the Dredge teleports, camera lockouts and VFX glitches tied to locker use, missing add-on description text, lighting flicker in Autohaven Wreckers, model clipping with the Twisted Plaything outfit, missing confetti on small generators, weapon snapping for Trapper and Wraith, male survivor animation snaps, hook placement on Coldwind Farm, and glyph positioning issues on The Pale Rose and The Game.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [6.0.1 | Bugfix Patch](335-6-0-1-bugfix-patch.md) · [Live](../../index.md#live) · [6.1.0 | Mid-Chapter ](342-6-1-0-mid-chapter.md) &rarr;
 <!-- /nav -->

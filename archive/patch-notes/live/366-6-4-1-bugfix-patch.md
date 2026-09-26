@@ -9,6 +9,12 @@ updated: "2022-12-15T14:09:44+00:00"
 archived: "2026-09-26T02:18:28Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Repressed Alliance’s description now clarifies it can’t activate while another survivor repairs the same generator, and Hex: Face the Darkness’s tooltip was adjusted. The rest of the patch is a broad bug-fix sweep: animation loops, clipping, misaligned attack trails, visual and audio mismatches, and numerous issues with The Knight’s guard mechanics, path-creation, and orders; Oni’s cosmetic texture, Huntress’s camera clip, map lighting and mist, Dream World darkness, pallet visuals, and various perk, achievement and sound glitches were also resolved. A known issue remains where the Knight’s feet do not animate in first-person when looking down while attacking.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [6.4.0 | Forged in Fog](365-6-4-0-forged-in-fog.md) · [Live](../../index.md#live) · [6.4.2 | Bugfix Patch](367-6-4-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

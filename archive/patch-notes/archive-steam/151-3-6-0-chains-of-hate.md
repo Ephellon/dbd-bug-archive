@@ -9,6 +9,12 @@ updated: "2020-03-11T16:26:41+00:00"
 archived: "2026-09-26T02:19:08Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The update introduces Survivor Zarina Kassir, Killer The Deathslinger, and the Dead Dawg Saloon - Grave of Glenvale map, plus a HUD high-ping warning icon. Major balance tweaks include removing hook sabotage skill checks, altering Toolbox and Bear Trap interactions, reshaping The Doctor’s madness system and affliction add-ons, and adjusting several killer abilities such as the Plague’s fountains and Trapper’s traps. The patch also overhauls toolboxes, item charge handling, and adds new perk effects. A broad set of fixes addresses emblem progress, animation glitches, map collisions, audio and cosmetic clipping, as well as numerous killer-specific bugs and PTB-to-live adjustments.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.5.2 | Hotfix](33-3-5-2-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [3.6.1 | Hotfix](170-3-6-1-hotfix.md) &rarr;
 <!-- /nav -->

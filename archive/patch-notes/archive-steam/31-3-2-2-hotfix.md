@@ -9,6 +9,12 @@ updated: "2020-03-02T15:29:23+00:00"
 archived: "2026-09-26T02:19:06Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Red Forest matches no longer crash when graphic quality is changed, the Store catalog load crash and the role-switch crash in Kill Your Friends lobbies are resolved, and Dream World lighting now matches for Survivors and The Nightmare. The Dead Hard speed boost and Sprint Burst activation bugs have also been fixed. Players still report rank and pip resets and a glitch allowing Survivors to leave the map via the exit gate, both under investigation.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.2.1 | Hotfix](30-3-2-1-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [3.5.1 | Hotfix](32-3-5-1-hotfix.md) &rarr;
 <!-- /nav -->

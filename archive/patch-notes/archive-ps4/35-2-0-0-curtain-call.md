@@ -9,6 +9,12 @@ updated: "2020-03-02T19:15:42+00:00"
 archived: "2026-09-26T02:19:15Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Dwight receives a new head item for Leatherface owners, killers get idle lobby animations, and the main menu now plays DLC-themed music while the store—now housing the Shrine of Secrets—offers characters, cosmetics and a player-level progression that grants Iridescent Shards. Tutorial levels, redesigned confirmation prompts, and a revamped shards economy (no cap, shards earned via leveling) accompany balance changes: perk-slot requirements lowered, personal perks unlocked at level 1, hook auras always visible, Wraith flashlight stun reduced, and map tweaks such as added totems and adjusted hook counts. The update is rounded out by extensive bug fixes covering killers (e.g., Wraith stain, Huntress hatchet collisions), map geometry, UI, audio, and PS4-specific stability issues.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [1.9.4 - 1.9.4.1 | Emblems](34-1-9-4-1-9-4-1-emblems.md) · [Archive: PS4](../../index.md#archive-ps4) · [2.1.0 | Mid-Chapter](36-2-1-0-mid-chapter.md) &rarr;
 <!-- /nav -->

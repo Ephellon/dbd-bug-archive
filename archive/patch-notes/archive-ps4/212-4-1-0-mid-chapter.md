@@ -9,6 +9,14 @@ updated: "2020-07-28T14:30:20+00:00"
 archived: "2026-09-26T02:19:28Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Aura System was refactored, changing its visual look, a Promo Code store was added and killers can no longer swap characters while queuing, enabling skill-based matchmaking. The Cannibal now has Chainsaw Sweep charges, faster sweep speed and revised add-ons; the Hillbilly gains an overheat meter that limits chainsaw use and updated add-ons. Perk balance affects Franklin’s Demise, Knock Out, Lightborn and Tinkerer.
+
+The rest of the update is a wide bug-fix sweep: killer audio and animation glitches, survivor sound and movement bugs, many map collision and texture issues, perk token and aura outline errors, and UI scaling fixes for sub-4K screens. PTB changes also turn off blood-stain VFX and pause tantrum and overheat meters when the power button is released.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.0.2 | Hotfix](203-4-0-2-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [4.1.1 | Bugfix Patch](216-4-1-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

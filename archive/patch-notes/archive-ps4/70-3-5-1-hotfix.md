@@ -9,6 +9,12 @@ updated: "2020-03-02T20:11:36+00:00"
 archived: "2026-09-26T02:19:25Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Treatment Theatre map received balance tweaks: window loop safety was lowered in several large rooms while pallet loop safety was raised to around 80-82, addressing overly strong window vaults identified in PTB. The hotfix also corrected the movement extrapolation system that had unintentionally affected Survivor movement, and resolved numerous bugs—including misplaced cosmetic grants, missing visual effects for The Doctor and The Plague, audio issues, broken Decisive Strike interaction, flawed trap and pallet visuals, collision problems on Treatment Theatre, Springwood, and Underground Complex maps, and lobby UI glitches. With these fixes the Springwood maps are back in rotation.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.5.0 | Mid-Chapter](69-3-5-0-mid-chapter.md) · [Archive: PS4](../../index.md#archive-ps4) · [3.5.2 | Hotfix](71-3-5-2-hotfix.md) &rarr;
 <!-- /nav -->

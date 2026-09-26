@@ -9,6 +9,12 @@ updated: "2023-07-04T17:04:12+00:00"
 archived: "2026-09-26T02:20:16Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The update introduces AI survivor bots that replace disconnected players, and a “Successful Report” window that notifies you when your reports lead to bans. The Onryo receives major power adjustments—including altered Condemned application, new cooldowns and revised Cursed Tape behavior—while hook-grab mechanics are removed. Brand New Parts now trigger a skill check and reduce generator charge faster. A large batch of perk balances for both killers and survivors lands, alongside minor tweaks to the Executioner, Spirit and Hag add-ons. Coldwind Farm’s Fractured Cowshed and Rancid Abattoir maps get layout revisions to curb survivor-friendly setups. All changes will be testable on the upcoming Public Test Build.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | End Transmission Release](393-developer-update-end-transmission-release.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | Nicolas Cage PTB](399-developer-update-nicolas-cage-ptb.md) &rarr;
 <!-- /nav -->

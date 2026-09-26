@@ -9,6 +9,14 @@ updated: "2022-11-22T18:13:31+00:00"
 archived: "2026-09-26T02:18:28Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Knight joins the roster with three new perks—Nowhere to Hide, Hex: Face the Darkness, and Hubris—while Vittorio Toscano debuts as a survivor, bringing Potential Energy, Fogwise, and Quick Gambit. The Shattered Square arrives as the latest map, and the existing Basement receives wider stairs and visual tweaks to pallets and doors. Flashlight mechanics are adjusted so late-stage blinds now stun the killer, and PS5 gains haptic feedback. Hosts can now add survivor bots to custom matches.
+
+The update also refines guard behavior, rebalances several add-ons and perk timers, and addresses numerous bugs—including animation stalls, aura visibility, map clipping, tutorial steps, and flashlight blind timing—across all platforms.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [6.3.2 | Bugfix Patch](362-6-3-2-bugfix-patch.md) · [Live](../../index.md#live) · [6.4.1 | Bugfix Patch](366-6-4-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

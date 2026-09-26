@@ -9,6 +9,12 @@ updated: "2022-09-14T18:01:25+00:00"
 archived: "2026-09-26T02:18:29Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Anonymous Mode was stripped from PlayStation 4, PlayStation 5, Xbox, Windows Store, Switch and Stadia builds, leaving only platform-level name-hiding options for streamers while keeping in-game reporting intact. The Blast Mine trap now activates at 50 % generator progress (down from 66 %) and stays active 40/45/50 seconds (up from 35/40/45) and no longer returns to the killer if the generator isn’t kicked, with a small buff added. Perk tooltips for Wiretap and Bite the Bullet were clarified, and the Blast Mine description was updated. The patch primarily addresses stability and visual glitches, fixing crashes with The Mastermind, lobby name-tag clipping, animation and sound errors, perk activation bugs, map-specific spawns, UI translation issues and several token-vignette and skybox problems.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [6.2.1 | Bugfix Patch](350-6-2-1-bugfix-patch.md) · [Live](../../index.md#live) · [6.3.0 | Mid-Chapter ](355-6-3-0-mid-chapter.md) &rarr;
 <!-- /nav -->

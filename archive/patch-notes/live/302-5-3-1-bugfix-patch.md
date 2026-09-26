@@ -9,6 +9,12 @@ updated: "2021-10-26T20:55:43+00:00"
 archived: "2026-09-26T02:18:35Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Clairvoyance now reveals Hatch auras after they spawn and Dead Hard gains server-side hit validation, fixing the reliance on the killer’s client. The Midnight Grove event pumpkins now respond to player presence and display correctly, and several Halloween-related visual and timer issues were resolved. Across all platforms the patch also squash an infinite loading screen, stabilises Circle of Healing interactions, corrects numerous perk and challenge progress bugs, fixes Spirit teleport glitches, map lighting and hatch key problems, refines Twin and Victor add-on ranges, prevents simultaneous use of Dead Hard and Balanced Landing, and addresses various cosmetic and achievement glitches. Known issues include the disabled Treatment Theatre map and limited progress on the Halloween Hook challenge.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [5.3.0a | Hotfix](300-5-3-0a-hotfix.md) · [Live](../../index.md#live) · [5.3.2 | Bugfix Patch](303-5-3-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,12 @@ updated: "2020-03-02T19:54:47+00:00"
 archived: "2026-09-26T02:19:22Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The update adds five new Badham Preschool map variations with unique tiles, altered pallet loops, reduced pallet spacing, and enhanced totem hiding, while overhauling The Nightmare’s power: passive sleep, microsleep vision range, new Dream Snares and Dream Projection abilities, plus refreshed add-ons and lower Dream World visual intensity. Bloodpoint rewards for cleansing, map scouting, healing, hatch escapes and killer blinds are increased, and new score events for totem, hook sabotage and Jigsaw Box interrupts were added. Lobby music returns to default, Exposed status now shows a visual/SFX cue, and Head On perk gains clearer conditions. The patch also delivers extensive bug fixes across audio, killers, maps, UI and several perk behaviours.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.0.2 | Hotfix](57-3-0-2-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [3.1.1 | Hotfix](59-3-1-1-hotfix.md) &rarr;
 <!-- /nav -->

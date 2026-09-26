@@ -9,6 +9,12 @@ updated: "2020-06-16T14:30:02+00:00"
 archived: "2026-09-26T02:19:10Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Executioner killer, Cheryl Mason survivor, and Midwich Elementary School map arrive, alongside linked customization Sets, a Legendary rarity, inventory sorting options, 4K UI scaling and a block feature on the tally screen. Balance adjustments remove the Clown’s bottle slowdown and clarify The Shape’s Evil Within add-on behavior. The update also revises several perk durations and effects (Forced Penance, Trail of Torment, Deathbound, Soul Guard, Blood Pact) from PTB. The bulk of the change is a wide-range bug sweep covering asset offsets, texture flicker, collision and navigation issues on legacy maps, load-out respawn glitches, animation and translation fixes, and numerous cosmetic clipping corrections.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.7.2 | Hotfix](189-3-7-2-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [4.0.2 | Hotfix](204-4-0-2-hotfix.md) &rarr;
 <!-- /nav -->

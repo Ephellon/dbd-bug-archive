@@ -9,6 +9,12 @@ updated: "2020-03-02T15:08:52+00:00"
 archived: "2026-09-26T02:19:02Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Survivor interaction and map-specific bugs were addressed, fixing issues that prevented interactions, teleported survivors from the basement, and blocked vaulting a Badham Preschool window, as well as correcting Prove Thyself’s effect and Self-Care description values across languages. The update also repairs The Pig’s Game Over score event, resolves crashes from disconnects during a Mori or status-effect handling, and improves HUD survivor icon updates after disconnects. Additional fixes target loading hangs, placeholder text in non-English customizations, Bloodweb refresh problems when switching characters or opening Mystery Boxes, a prestige-UI exploit, and character-swap glitches that broke Bloodweb paths. Logging was added to help diagnose a Bloodweb color-freeze issue.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.5.0 | Mid-Chapter](7-2-5-0-mid-chapter.md) · [Archive: Steam](../../index.md#archive-steam) · [2.6.0 | Demise of the Faithful](9-2-6-0-demise-of-the-faithful.md) &rarr;
 <!-- /nav -->

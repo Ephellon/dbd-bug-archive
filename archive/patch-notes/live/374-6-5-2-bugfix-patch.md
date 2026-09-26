@@ -9,6 +9,12 @@ updated: "2023-02-08T15:25:40+00:00"
 archived: "2026-09-26T02:18:27Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Merciless Killer’s Adept achievement now correctly registers four survivor kills, though broader Adept unlock bugs remain under investigation. The update fixes the missing outfit purchase prompt, eliminates swap-arrow icons after the Bloodweb, corrects Spirit’s Furin audio, Huntress menu music looping, Charlotte camera lock, Victor pounce reach, lingering Hex: Huntress Lullaby effects, and Knight’s end-path grab. Survivor fixes address distorted female faces in cages and lockers, tutorial direction lock, wiggle skill-check Bloodpoint rewards, removal of Mangled penalties on Mend, Snap Out of It and Recover, and map aura reads. Map changes stop generators spawning too close in Raccoon City Police Station, prevent climbing on the Eyrie of Crows rock, and grant the Raccoon City Recruit achievement for West Wing generator repairs.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [6.5.1 | Bugfix Patch](373-6-5-1-bugfix-patch.md) · [Live](../../index.md#live) · [6.6.0 | Tools of Torment](378-6-6-0-tools-of-torment.md) &rarr;
 <!-- /nav -->

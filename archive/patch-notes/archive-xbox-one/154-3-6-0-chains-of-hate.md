@@ -9,6 +9,12 @@ updated: "2020-03-10T15:00:17+00:00"
 archived: "2026-09-26T02:19:41Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Chains of Hate update adds survivor Zarina Kassir, killer The Deathslinger, and the Dead Dawg Saloon - Grave of Glenvale map, plus a high-ping HUD indicator. Balance tweaks remove hook sabotage checks, adjust toolbox repair speed and charge handling, prevent Bear Trap sabotage, change the Doctor’s madness mechanics and add standardized affliction add-ons, give the Plague an extra Corrupted Fountain, and modify Trapper trap reset rules. The Deathslinger arrives with its own kit. The patch is otherwise dominated by extensive bug fixes covering emblems, custom games, killer animations, map collisions, cosmetic clipping, and audio/locale issues across Xbox One.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.5.2 | Hotfix](107-3-5-2-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [3.6.1 | Hotfix](169-3-6-1-hotfix.md) &rarr;
 <!-- /nav -->

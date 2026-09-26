@@ -9,6 +9,12 @@ updated: "2020-02-28T22:09:53+00:00"
 archived: "2026-09-26T02:19:36Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Ash’s voice lines were restored, The Shape’s standing kill radius was corrected, and map-specific glitches—including stuck kill-vaults on Shrimp Boat and dim auras on Mount Ormond—were fixed. The hotfix also overhauled network-related failures, preventing looping disconnect audio, erroneous host messages, infinite loading screens, and camera-shake bugs, while smoothing End Game Collapse timing, ritual progress (The Savior, Blood Dance, Reconstruction), and Left Behind perk values. Additional cosmetic tweaks addressed Ashy Slashy flashlight aim, missing Nea textures, and placeholder strings, and extra logging was added for entity blocker and camera-follow issues.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.7.0 | Mid-Chapter](89-2-7-0-mid-chapter.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [3.0.0 | Ghost Face](91-3-0-0-ghost-face.md) &rarr;
 <!-- /nav -->

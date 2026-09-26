@@ -9,6 +9,14 @@ updated: "2025-01-27T16:27:15+00:00"
 archived: "2026-09-26T02:20:07Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Nightmare’s Power overhaul - Dream Snares get longer hinder duration and cooldown, Dream Pallets’ rupture range expands and can’t be dropped, Dream Projection now cancels teleport and incurs full cooldown, movement speed is reduced while charging, a killer-only aura appears after teleport and new SFX/VFX accompany projections, and the Wake Up interaction now overrides healing.
+
+Minor add-on adjustments (Jump Rope cooldown halved, Unicorn Block range halved) and perk reworks - Wake Up! now scales exit-gate speed per alive survivor, and Beast of Prey’s Undetectable duration doubles - round out a set of balance tweaks and quality-of-life fixes aimed at bringing the PTB changes live.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | January 2025](487-developer-update-january-2025.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | March 2025](494-developer-update-march-2025.md) &rarr;
 <!-- /nav -->

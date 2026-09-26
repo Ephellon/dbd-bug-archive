@@ -9,6 +9,12 @@ updated: "2022-04-27T14:40:40+00:00"
 archived: "2026-09-26T02:18:26Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The update adds a UI indicator to the Searching for Friends popup, revamps Haddonfield’s visuals, removes survivor difficulty tiers and re-classifies killers into Easy-Very Hard categories, and overhauls the Hemorrhage status effect so it now steadily drains healing (7 %/s), with Sloppy Butcher and Nightmare add-ons adjusted. Legion receives unique terror-radius and chase music, extensive Feral Slash tweaks, new speed-stacking mechanics and a suite of reworked add-ons; Ghost Face gains its own music, longer Marked duration, refined stalk/reveal zones and many add-on buffs. Several perks (Boil Over, Circle of Healing) were rebalanced, a new searchable friend-loading indicator was added, and the patch includes a large visual-bug-fix sweep across maps, characters and UI alongside an engine update that increases download size.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [5.6.2 | Bugfix Patch](328-5-6-2-bugfix-patch.md) · [Live](../../index.md#live) · [5.7.1 | Bugfix Patch](331-5-7-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

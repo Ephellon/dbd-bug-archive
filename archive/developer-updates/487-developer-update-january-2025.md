@@ -9,6 +9,12 @@ updated: "2025-01-07T14:58:03+00:00"
 archived: "2026-09-26T02:20:07Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Nightmare (Freddy Krueger) receives a major rework: players can now press the active ability to toggle between Dream Snares and Dream Pallets, with the snares moving at 12 m/s, affecting both asleep and awake survivors, and pallets exploding after 1.5 seconds to injure or extend sleep timers. Teleportation to generators and healing survivors is faster (30-second cooldown) and can no longer be cancelled, while Dream Projection now reveals nearby survivors. The Dream World gains visual polish, alarm-clock cooldowns, and a new aura reveal for healing survivors. An overhaul of add-ons, a Realm Prevention System to avoid back-to-back Realm repeats, a clearer Deep Wound UI bar, and a limited-time free-character event are also introduced. The changes are slated for the upcoming PTB.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | November 2024 PTB](481-developer-update-november-2024-ptb.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | January 2025 PTB](489-developer-update-january-2025-ptb.md) &rarr;
 <!-- /nav -->

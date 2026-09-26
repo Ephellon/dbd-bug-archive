@@ -9,6 +9,12 @@ updated: "2020-02-28T21:39:20+00:00"
 archived: "2026-09-26T02:19:47Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Doctor received a major overhaul: Treatment Mode was removed, a 60-second Static Blast secondary power and 1.5-second Shock Therapy cooldown were added, chase music and new score events were introduced, and several add-on rarities and effects were adjusted. A new Compendium page in the Archives lets players revisit old tomes, a new Rift and challenges for Tome II were added, the invert-camera keybinding was stripped from controls, Twitch challenges and the Cursed Legacy lobby were removed, and the Treatment Theatre map was visually reworked. Balance tweaks affect Gatekeeper generator scores, Hex Ruin regression, and the Oni’s turn angle. The update is dominated by extensive bug fixes covering killers, maps, perks, UI, cosmetics and audio.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.4.2 | Hotfix](111-3-4-2-hotfix.md) · [Archive: Nintendo Switch](../../index.md#archive-nintendo-switch) · [3.5.1 | Hotfix](113-3-5-1-hotfix.md) &rarr;
 <!-- /nav -->

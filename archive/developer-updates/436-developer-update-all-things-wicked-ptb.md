@@ -9,6 +9,14 @@ updated: "2024-03-07T14:55:06+00:00"
 archived: "2026-09-26T02:20:13Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Weakness duration now increases by six seconds when a Survivor is injured by UVX, the Hindered effect on airborne hits is raised to six percent, and Homemade Mask blind duration is extended to sixty seconds. The Reverse Bear Trap timer reduction and Huntress hatchet-speed change were reverted. The Redhead’s Pinkie Finger Add-On now caps The Clown’s bottle capacity at one, while the Invocation perk permanently reduces generator requirements by ten and its healing speed buff is lifted to seventy percent. The self-unhook perk was reworked to always succeed in the basement and grant a killer-aura reveal for up to twenty seconds.
+
+The team presented these adjustments as direct responses to PTB feedback and added a watch-list to monitor The Unknown, Invocation mechanics and The Pig’s performance, without committing to further changes.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | February 2024](434-developer-update-february-2024.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | March 2024](440-developer-update-march-2024.md) &rarr;
 <!-- /nav -->

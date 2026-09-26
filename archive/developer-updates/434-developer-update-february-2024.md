@@ -9,6 +9,12 @@ updated: "2024-02-19T14:55:43+00:00"
 archived: "2026-09-26T02:20:13Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The February 2024 developer update rebalances several killers—The Pig, The Hag, The Clown, The Doctor, The Demogorgon, The Huntress and The Blight—with tweaks such as longer Ambush duration and faster crouch for The Pig, increased teleport range and quicker trap setup for The Hag, faster Afterpiece Antidote and larger bottle capacity for The Clown, extended Shock Therapy range, reduced Shred cooldown, higher hatchet capacity and faster wind-up for The Huntress, and an extra rush for The Blight. The Mangled status now expires after 60-90 seconds, and the automatic Bloodweb purchase button is unlocked for all characters once any survivor is prestiged; all changes are in the upcoming public test build.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | Stats!](433-developer-update-stats.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | All Things Wicked PTB](436-developer-update-all-things-wicked-ptb.md) &rarr;
 <!-- /nav -->

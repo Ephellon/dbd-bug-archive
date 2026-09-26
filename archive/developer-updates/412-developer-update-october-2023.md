@@ -9,6 +9,12 @@ updated: "2023-10-05T13:58:01+00:00"
 archived: "2026-09-26T02:20:15Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Skull Merchant’s power is overhauled: drones can now toggle rotation direction, be recalled without cooldown, have larger radius, faster rotation, front-and-back beams, and a shorter start-up time, all to make scanning more reliable. Anti-face-camping is introduced with a 7-second grace period after a hook, slowed fill from dying survivors and a pause when a survivor is carried, and a horizontal-distance weighting to reduce false detections. Perks Furtive Chase and Background Player receive reworks to boost Undetectable/Haste on hooks and increase sprint speed after pickups. The Trapper’s bear-traps will spawn nearer generators, and Shattered Square sees slightly fewer pallets and adjusted loops. Most changes launch with the update; the trap-spawn tweak follows in a minor patch.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | September 2023](409-developer-update-september-2023.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | November 2023](416-developer-update-november-2023.md) &rarr;
 <!-- /nav -->

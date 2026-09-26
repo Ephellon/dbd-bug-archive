@@ -9,6 +9,12 @@ updated: "2026-07-21T14:33:02+00:00"
 archived: "2026-09-26T02:18:03Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Slasher’s jump-scare anti-camp penalty no longer spans multiple floors, and several of his add-ons received balance tweaks (Sauna Rock, Two Nails, Mirror Shards, Toxic Waste, Sleeping Bag, Party Noisemaker). A new survivor perk, Cross-Examination, now leaves light marks that grant Elusive when standing on them. The Summer Screams event returns with weekly Chaos Shuffle, Lights Out and 2v8 modes; Lights Out now reveals pallet, vault and breakable wall auras up to 32 m, keeps gates lit after completion and adds Fog Vial support, while Chaos Shuffle unlocks all perks and add-ons. The update is largely a comprehensive bug-fix sweep covering 2v8 gameplay, audio, character animations, map traps, perks, UI and miscellaneous systems.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [10.0.2 | Bugfix Patch](552-10-0-2-bugfix-patch.md) · [Live](../../index.md#live) · [10.1.0 | Chorus of Sin](556-10-1-0-chorus-of-sin.md) &rarr;
 <!-- /nav -->

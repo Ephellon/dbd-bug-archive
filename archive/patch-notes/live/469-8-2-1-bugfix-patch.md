@@ -9,6 +9,14 @@ updated: "2024-09-04T14:25:04+00:00"
 archived: "2026-09-26T02:18:15Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Exultation now retains upgraded-item rarity at trial end, and the Lights Out - Castlevania modifier launches with a new Candelabra item and an event tome, while Chaos Shuffle returns later in September.
+
+The rest of the update is a broad bug-fix sweep covering audio glitches, character visual and animation errors, map collisions and start-of-match lag on several locations, survivor perk token and activation bugs—including Human Greed, Plunderer’s Instinct, Weave Attunement, White Ward, Moment of Glory and Hex : Wretched Fate—UI and platform install screen issues, and miscellaneous problems with Broken-status healing scores and skill-check spamming.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [8.2.0 | Castlevania](468-8-2-0-castlevania.md) · [Live](../../index.md#live) · [8.2.2 | Bugfix Patch](471-8-2-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

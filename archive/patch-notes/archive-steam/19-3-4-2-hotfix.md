@@ -9,6 +9,12 @@ updated: "2020-03-02T15:34:14+00:00"
 archived: "2026-09-26T02:19:08Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Nightmare’s Outdoor Rope, Jump Rope and Swing Chains add-ons have had their action-speed debuffs reduced, and The Oni receives several tweaks: Renjiro’s Bloody Glove now lets survivors absorb blood orbs with a shorter, stacking aura reveal, and the Demon Dash turn ratio was adjusted for smoother controller and keyboard turning. The hotfix also bundles a broad sweep of stability fixes—including crashes on lobby load, stuck-in-lobby states, power and perk glitches for multiple killers, animation and movement bugs, map-specific clipping and FPS issues, plus miscellaneous cosmetic and VFX improvements. Known issues note occasional invitation failures and a missing Kanabō during the Oni’s mori animation.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.4.1 | Hotfix](18-3-4-1-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [3.5.0 | Mid-Chapter](20-3-5-0-mid-chapter.md) &rarr;
 <!-- /nav -->

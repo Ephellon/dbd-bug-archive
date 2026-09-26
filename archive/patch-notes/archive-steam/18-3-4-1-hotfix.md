@@ -9,6 +9,12 @@ updated: "2020-03-02T15:33:44+00:00"
 archived: "2026-09-26T02:19:07Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The 3.4.1 hotfix resolves several survivor positioning bugs, preventing characters from falling out of the map when hooked or through the floor after being dropped from a killer’s shoulder. It also stabilizes the wiggle interaction, fixing UI flickering and disappearance when the action is interrupted, when items are picked up and dropped, or when a killer grabs a survivor nearby. The update consists entirely of these bug corrections with no new content.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.4.0 | Cursed Legacy](17-3-4-0-cursed-legacy.md) · [Archive: Steam](../../index.md#archive-steam) · [3.4.2 | Hotfix](19-3-4-2-hotfix.md) &rarr;
 <!-- /nav -->

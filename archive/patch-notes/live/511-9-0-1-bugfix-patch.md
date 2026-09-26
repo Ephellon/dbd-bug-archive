@@ -9,6 +9,12 @@ updated: "2025-06-26T15:45:10+00:00"
 archived: "2026-09-26T02:18:10Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+AFK Crows now grant points more slowly, with longer intervals (120-180 s), a 30-second grace period, and reduced accrual rates while moving or after Exit Gates power. The Animatronic receives visual aura tweaks, new Deviousness-based score events and added survivor score triggers for camera reveals, axe removal and door entry, while its axe and grab mechanics are fixed. The 9th Anniversary Twisted Masquerade event returns June 26. The patch also addresses a wide range of bugs: audio loops, missing SFX, invisible killers, map texture glitches, character animation stalls, platform crashes and UI warnings, plus numerous specific issues with The Animatronic, killers, survivors and maps.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [9.0.0 | Five Nights at Freddy's](510-9-0-0-five-nights-at-freddys.md) · [Live](../../index.md#live) · [9.0.2 | Bugfix Patch](512-9-0-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

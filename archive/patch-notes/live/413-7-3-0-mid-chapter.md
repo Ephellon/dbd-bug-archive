@@ -9,6 +9,12 @@ updated: "2023-10-10T18:57:02+00:00"
 archived: "2026-09-26T02:18:21Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Skull Merchant receives an overhaul: starts with six drones, Eyes in the Sky scan, Radar, revised Lock-On and dozens of add-ons; The Trapper now gains 7.5% Haste after setting a bear trap and spawns eight traps at match start. Huntress, Trickster, Deathslinger and other killers see faster reloads, while perks Furtive Chase and Background Player gain new functionality and increased sprint speed. Anti-face-camp system lets hooked survivors escape after a meter fills. Shattered Square is shrunk and cleaned up, and new variants of the MacMillan Estate maps arrive. Bots get skill-check and navigation tweaks, and wave of bug fixes touches archives, audio, UI, platforms and collisions. Tome 17 opens and the Haunted by Daylight Halloween event introduces Dark Trinkets.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [7.2.3 | Bugfix Patch](411-7-2-3-bugfix-patch.md) · [Live](../../index.md#live) · [7.3.1 | Bugfix Patch](414-7-3-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

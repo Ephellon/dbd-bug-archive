@@ -9,6 +9,12 @@ updated: "2022-07-12T16:46:38+00:00"
 archived: "2026-09-26T02:20:20Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Mid-Chapter (post-6.1.0 PTB) overhauls progression: perks now unlock via prestige, Bloodpoint caps per category rise to 10 k (40 k per match), prestige cost drops to 20 k, total BP cap doubles to 2 M, and catch-up grants two bonus prestige levels up to prestige 9. Visuals are refined with purple-bordered perk charms, new prestige icons and animated scratch-mark portrait effects. Gameplay receives several perk tweaks—Endurance no longer bypasses Deep Wound, Spine Chill requires line of sight and shows a terror-radius icon, Dead Hard’s Endurance is trimmed to 0.5 s, Off the Record deactivates at powered gates, Overcharge regression is toned to 75-200 % speed, plus other minor perk adjustments. All changes launch with the Mid-Chapter later this month.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | June 2022](337-developer-update-june-2022.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | August 2022](344-developer-update-august-2022.md) &rarr;
 <!-- /nav -->

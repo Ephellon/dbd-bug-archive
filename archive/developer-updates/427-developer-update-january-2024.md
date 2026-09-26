@@ -9,6 +9,14 @@ updated: "2024-01-08T17:06:21+00:00"
 archived: "2026-09-26T02:20:14Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The January 2024 developer update introduces key gameplay tweaks: generator regression is capped at eight events and kick damage raised to 5%; a new FOV slider (87-103°) for killers; The Onryo’s Condemned mechanics, cursed-tape behavior, and ability to chase while Demanifested are restored; The Hillbilly’s Overheat is replaced by Overdrive and his chainsaw sprint is faster; The Blight’s add-ons are rebalanced; perks Save the Best for Last, Grim Embrace, Quick Gambit, Hex: Ruin, Shadowborn and Monitor & Abuse receive adjustments; and Mount Ormond’s layout is overhauled.
+
+All changes will be testable on the Public Test Build starting tomorrow, with the full live release scheduled for the weeks after. A limited-time Lights Out modifier is also announced for future months.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | November 2023 PTB](420-developer-update-november-2023-ptb.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | January 2024 PTB](429-developer-update-january-2024-ptb.md) &rarr;
 <!-- /nav -->

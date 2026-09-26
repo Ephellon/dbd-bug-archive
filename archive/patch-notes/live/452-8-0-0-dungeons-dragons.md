@@ -9,6 +9,14 @@ updated: "2024-06-03T15:25:17+00:00"
 archived: "2026-09-26T02:18:17Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Aestri Yazar joins survivors with three new perks—Mirrored Illusion, Bardic Inspiration, Still Sight—while the Lich arrives as a new killer wielding four spells and Magic Items that interact with survivors, alongside four killer perks. The Forgotten Ruins map also launches.
+
+The patch reshapes the live game with numerous balance tweaks to existing killer and survivor perks, adjustments to several killers’ add-ons, and a suite of toolbox speed changes. It also delivers a broad wave of bug, crash and visual fixes across characters, maps, UI, platforms and the Archives system, plus PTB tweaks for the Lich’s spells and items.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [7.7.1 | Bugfix Patch](447-7-7-1-bugfix-patch.md) · [Live](../../index.md#live) · [8.0.1 | Bugfix Patch](453-8-0-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

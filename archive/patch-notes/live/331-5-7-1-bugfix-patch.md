@@ -9,6 +9,12 @@ updated: "2022-05-03T18:10:56+00:00"
 archived: "2026-09-26T02:18:32Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Ghost Face’s chase music was lowered as a temporary fix while a new track is developed, and Meg’s vault in the Killer tutorial was restored. The patch also resolves a range of map and gameplay bugs, including a misplaced totem in Haddonfield’s Strode House, generator interruption quirks, Legion’s power gauge issue with Julie’s Mix Tape, Blight’s Soul Chemical skill-check regression, and several interaction and UI glitches on Stadia, Switch and PS5. Additional fixes address Survivor audio while mad, survivor selection persistence, Dead Hard landing on Ormond, exit-gate body-blocking, glyph access, Dream Snares, and water-tower exploits. Known issues remain with fence pick-ups in Haddonfield, Ghost Face’s Olsen’s Driver’s License add-on, and the disabled Mary’s Letter map offering.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [5.7.0 | Mid-Chapter](330-5-7-0-mid-chapter.md) · [Live](../../index.md#live) · [5.7.2 | Bugfix Patch](332-5-7-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,12 @@ updated: "2020-02-28T22:14:20+00:00"
 archived: "2026-09-26T02:19:37Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Dream World lighting inconsistencies between Survivors and The Nightmare were corrected, alongside several crash fixes—specifically failures loading the store catalog and role-switching in Kill Your Friends lobbies after Match Management changes. Perk reliability was also improved, ensuring Dead Hard always grants its speed boost and Sprint Burst triggers reliably. The update primarily consists of these bug fixes, while rank and pip volatility and a gating exploit allowing survivors to leave the map and continue playing remain known issues under internal testing.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.1.1 | Hotfix](95-3-1-1-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [3.2.0 | Stranger Things](97-3-2-0-stranger-things.md) &rarr;
 <!-- /nav -->

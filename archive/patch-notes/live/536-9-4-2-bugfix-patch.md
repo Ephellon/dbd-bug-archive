@@ -9,6 +9,12 @@ updated: "2026-02-10T15:30:03+00:00"
 archived: "2026-09-26T02:18:06Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Good Guy arrives with faster Slice & Dice, longer attack duration and new vision of Illusionary Footfalls, while The Nemesis gains two extra Zombies and a 35 % speed boost. Killer class skills for Brute, Fearmonger and Enforcer receive speed, haste and utility tweaks, and the Torchbearer survivor class debuts with a Flash Grenade, aura-revealing flashlight and Endurance grants. New maps Groaning Storehouse and Rotten Field join the rotation, and Tonics re-introduce herb-style health items, Dual Terror Radius now shows both killers, and cooperative healing allows three survivors to heal together. The patch also bundles extensive bug fixes covering audio cues, character power glitches, map interaction issues and perk display problems.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [9.4.1 | Bugfix Patch](535-9-4-1-bugfix-patch.md) · [Live](../../index.md#live) · [9.5.0 | All-Kill: Comeback](538-9-5-0-all-kill-comeback.md) &rarr;
 <!-- /nav -->

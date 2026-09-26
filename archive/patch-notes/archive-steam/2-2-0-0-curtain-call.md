@@ -9,6 +9,12 @@ updated: "2020-03-02T14:29:49+00:00"
 archived: "2026-09-26T02:19:00Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Player Level progression and an in-game Store (hosting the Shrine of Secrets) launch, rewarding Iridescent Shards on level-up and replacing the old RedShell tool. New tutorial levels, a Dwight head cosmetic, idle lobby animations, main-menu music and Simplified Chinese, Japanese and Korean localization were added, and confirmation prompts were redesigned. Balance shifts include lower perk-slot unlock levels, always-visible hook auras, reduced Wraith flashlight stun, reworked pallet hitboxes and interaction, and a full overhaul of the Iridescent Shard economy plus increased Bloodpoint rewards. The patch also tweaks map layouts, hook counts, totem placement and scoring, and adjusts several emblem thresholds.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [1.9.4 - 1.9.4c | Emblems](1-1-9-4-1-9-4c-emblems.md) · [Archive: Steam](../../index.md#archive-steam) · [2.1.0 | Mid-Chapter](3-2-1-0-mid-chapter.md) &rarr;
 <!-- /nav -->

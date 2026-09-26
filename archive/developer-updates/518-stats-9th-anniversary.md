@@ -9,6 +9,12 @@ updated: "2025-08-08T17:00:24+00:00"
 archived: "2026-09-26T02:20:04Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The developers released post-event statistics for the 9th Anniversary Masquerade and the Five Nights at Freddy’s Chapter, highlighting player behavior and engagement. Data shows Survivors leaned heavily toward stealth tactics while Killers favored aggressive chases that sent Survivors across the map, and Bloodpoint earnings spiked during the event. The summary also includes total trials played, the number of jump-scares triggered by the animatronic antagonist, and how often that foe was captured on camera, illustrating how both sides embraced surprise throughout the celebration.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | July 2025](513-developer-update-july-2025.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | August 2025](521-developer-update-august-2025.md) &rarr;
 <!-- /nav -->

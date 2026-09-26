@@ -9,6 +9,14 @@ updated: "2024-07-16T15:25:07+00:00"
 archived: "2026-09-26T02:18:16Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Introduce new survivor Lara Croft with three perks (Finesse, Hardened, Specialist) and several perk buffs for killers and survivors, plus extensive rework of The Knight (new guard cycling, path length modifiers, hunt timers, detection tweaks and addon changes) and The Singularity adjustments (tagging timing, aim-assist, pod controls, EMP tweaks). Also note hook respawn after sacrifice, new map variations for Mount Ormond Resort, Family Residence, Sanctum of Wrath, and UI lobby overhaul adding perk widget and merged character panels.
+
+The rest of the patch is mainly audio, bot, environment and UI bug fixes, plus PTB clarifications for the new perks and several stability fixes; a few known issues remain with floating models and a disabled map variation.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [8.0.2 | Bugfix Patch](454-8-0-2-bugfix-patch.md) · [Live](../../index.md#live) · [8.1.1 | Bugfix Patch](462-8-1-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,12 @@ updated: "2023-03-14T14:34:44+00:00"
 archived: "2026-09-26T02:18:26Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Skull Merchant’s power UI received a visual overhaul, correcting display anomalies and ensuring active states are shown correctly. The patch also delivers a broad sweep of bug fixes: challenge progress now tracks accurately, audio glitches for Spirit’s phase ability and menu pop-ups are resolved, bots gain smarter behavior against lockers, drones, and specific add-ons, and numerous character animation and clipping issues—including Legion’s door break, Survivor hand distortion, and The Artist’s arm jitter—are fixed. Perk interactions such as Grim Embrace, Teamwork: Power of Two and Friendly Competition now work reliably, platform-specific map listings, store access and Switch launch crashes are addressed, and UI tooltips and load-out pop-ups are corrected.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [6.6.0 | Tools of Torment](378-6-6-0-tools-of-torment.md) · [Live](../../index.md#live) · [6.6.2 | Bugfix Patch](381-6-6-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

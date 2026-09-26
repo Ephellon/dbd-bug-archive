@@ -9,6 +9,14 @@ updated: "2020-12-02T18:23:09+00:00"
 archived: "2026-09-26T02:19:13Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The A Binding of Kin chapter arrives, adding the Twins killer and survivor Élodie Rakoto, while the Nightmare on Elm Street DLC launches on Switch, Windows Store, Stadia, PS5 and Xbox Series X|S. Rituals were streamlined, blood-point values standardized, sabotage now needs four hooks, and Blight’s new add-ons adjust Rush token regen and trigger a difficult skill check at close range. Visual refreshes touch Ormond, Junkyard, the Hatch, Totem and the Twins lobby.
+
+The update is a batch of fixes - correcting cloud-ID bans, chest interactions, animation glitches, map lighting, trap visibility, generator and wall bugs, and numerous killer-specific issues - plus platform-specific Xbox One and Switch patches. Known issues focus on the Twins’ locker mechanics and several of Élodie’s perks.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.3.2 | Bugfix Patch](260-4-3-2-bugfix-patch.md) · [Archive: Steam](../../index.md#archive-steam) · [4.4.1 | Bugfix Patch](271-4-4-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

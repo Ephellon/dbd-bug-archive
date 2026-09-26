@@ -9,6 +9,12 @@ updated: "2024-09-13T11:58:44+00:00"
 archived: "2026-09-26T02:20:09Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Killers can now finish the final Survivor with a Mori without needing an Offering, while objects that block the camera fade away; Memento Mori Offerings have been repurposed to award a sizable Bloodpoint boost on a Mori. A massive wave of perk reworks follows: survivor perks gain linger effects, range boosts, cooldown removals and simplified mechanics, while many killer perks receive token removals, duration tweaks, and new aura-reveal triggers. Additional balance changes target drones (fewer scan lines, reduced hinder penalty), The Hillbilly’s Overdrive (shorter duration, lower speed), Victor’s recovery times, and a HUD update for The Unknown. Overall the patch focuses on fine-tuning gameplay rather than adding new content.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Stats | September 2024](470-stats-september-2024.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | September 2024 PTB](474-developer-update-september-2024-ptb.md) &rarr;
 <!-- /nav -->

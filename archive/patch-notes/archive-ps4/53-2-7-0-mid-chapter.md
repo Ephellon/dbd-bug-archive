@@ -9,6 +9,12 @@ updated: "2020-03-02T19:46:19+00:00"
 archived: "2026-09-26T02:19:20Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+End Game Collapse is overhauled: closing the hatch powers exit gates, the timer starts at two minutes and slows when survivors are downed, and sacrificed survivors count as kills; new scoring rewards killers for gate opens, hatch closes and late kills, and survivors for late heals, rescues and releasing gates. Added a lobby ping-delay, games under five players are cancelled and restored DLC character theme music. Balance improves controller movement, shortens notification bubbles, boards up Coldwind Farm maze walls, hides Deep Wound timers from killers and fixes window RNG on Treatment Theatre. The Legion receives Feral Frenzy reworks and add-on tweaks, while Wraith, Pig and Plague get ability changes. The patch fixes audio, localization, map geometry, UI and trophy issues.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.6.4 | Hotfix](52-2-6-4-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [2.7.1 | Hotfix](54-2-7-1-hotfix.md) &rarr;
 <!-- /nav -->

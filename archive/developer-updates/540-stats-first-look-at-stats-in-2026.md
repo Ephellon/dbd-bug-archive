@@ -9,6 +9,12 @@ updated: "2026-03-27T18:20:51+00:00"
 archived: "2026-09-26T02:20:02Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Survivor Sable leads the overall popularity rankings, with Feng second, while high-MMR players also favor Sable. Among killers, Ghoul tops the high-MMR list and Huntress remains the most used across all tiers; Krasue leads high-MMR carnage and The Lich dominates the broad-MMR rankings. The developer update presents a six-month statistical snapshot, noting that “high MMR” refers to players with 1800+ rating (about 18 % of the base). It also hints at future periodic releases for stats-hungry players.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Stats | 2025 Year in Review](532-stats-2025-year-in-review.md) · [Developer Updates](../index.md#developer-updates) · [Stats | The Trickster](543-stats-the-trickster.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,12 @@ updated: "2020-03-02T20:06:05+00:00"
 archived: "2026-09-26T02:19:23Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The 3.3.0 Mid-Chapter update upgrades the game to Unreal Engine 4.22 and launches The Archives, adding a new Rift reward system, Rift Fragments currency, a Tome of challenges, and a charm cosmetic slot for survivors and killers. It also adjusts several killer powers to grant Undetectable (The Shape, Pig, Wraith, Ghost Face) and introduces new survivor score events for wiggling, pallet drops, fast vaulting and teammate disconnects. Med-kits receive healing-speed boosts and new add-on effects, while the Nurse’s blink recharge is now staggered and her add-ons are rebalanced. The patch is rounded out by extensive bug fixes covering killer abilities, map collisions, perk visuals, audio, UI and lobby stability.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.2.1 | Hotfix](62-3-2-1-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [3.2.2 | Hotfix](64-3-2-2-hotfix.md) &rarr;
 <!-- /nav -->

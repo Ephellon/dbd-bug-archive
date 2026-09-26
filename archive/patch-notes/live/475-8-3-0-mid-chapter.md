@@ -9,6 +9,14 @@ updated: "2024-10-08T15:11:19+00:00"
 archived: "2026-09-26T02:18:14Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+8.3.0 Mid-Chapter rebalances many perks: Blood Echo, Dead Man’s Switch, Deathbound, Predator, THWACK! and Zanshin Tactics get shorter timers or new token rules; survivors gain updates to Bloodrush, Corrective Action, Distortion, Teamwork and other perks with altered cooldowns and aura reveals. Killer adjustments include reduced Hillbilly Overdrive values, constant Skull Merchant drones with faster rotation and a brief haste buff, Twins and Unknown cooldown tweaks, a new window in Springwood, and Cypress Mori added to the basekit.
+
+The update also bundles a bug-fix sweep covering archive challenges, audio cues, bot AI, character animations, map tile generation, void-zone assets, perk icons, platform crashes and UI glitches. PTB changes tweak Deathbound, Zanshin Tactics, Corrective Action and Distortion, while offering reverts are applied.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [8.2.2 | Bugfix Patch](471-8-2-2-bugfix-patch.md) · [Live](../../index.md#live) · [8.3.1 | Bugfix Patch](476-8-3-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,14 @@ updated: "2021-02-09T15:26:36+00:00"
 archived: "2026-09-26T02:19:14Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The 4.5.0 Mid-Chapter update revamps the HUD: player status moves left, objectives top-center, score alerts right, and new Hook Count and survivor-portrait widgets appear for killers and survivors. It also adds updated survivor locomotion animations, flashlight-while-crouching, and visual tweaks to maps, Nurse outfits, and the Clown’s base model.
+
+Balance changes give The Clown separate Tonic and Antidote bottles with a faster reload and an Invigorated speed boost, adjust Trapper bear-trap escape odds and make the Wraith fully invisible past 20 m and improve uncloaking. Misc perk and Hex tweaks accompany numerous UI, audio and platform-specific bug fixes and PTB-resolved animation issues. Known issue: Thai UI text errors in tutorials.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.4.2 | Bugfix Patch](272-4-4-2-bugfix-patch.md) · [Archive: Steam](../../index.md#archive-steam) · [4.5.1 | Bugfix Patch](275-4-5-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

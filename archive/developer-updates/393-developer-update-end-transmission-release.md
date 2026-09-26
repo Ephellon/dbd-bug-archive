@@ -9,6 +9,12 @@ updated: "2023-06-20T13:58:37+00:00"
 archived: "2026-09-26T02:20:16Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Singularity’s Biopods and EMP mechanics received balance tweaks after the End Transmission launch. Supply Cases were cut from five to four, EMP generation time was raised to 100 seconds, and disabled-Biopod duration trimmed to 45 seconds. EMPs now charge in 2.5 seconds (up from 2) and survivors are slowed 10 % while charging, discouraging the “hold-EMP-until-chase” strategy. These adjustments aim to restore killer counterplay and encourage more strategic use of EMPs. All changes roll out in the upcoming 7.0.1 bug-fix patch.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | End Transmission](390-developer-update-end-transmission.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | July 2023](397-developer-update-july-2023.md) &rarr;
 <!-- /nav -->

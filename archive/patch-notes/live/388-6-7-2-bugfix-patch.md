@@ -9,6 +9,12 @@ updated: "2023-05-18T14:57:29+00:00"
 archived: "2026-09-26T02:18:25Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Two new outfits have been added to the in-game store along with a selection of Anniversary and Pride celebration charms. The update also includes a broad set of bug fixes across gameplay, UI and performance, arriving on May 18 2023 for all platforms.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [6.7.1 | Bugfix Patch](387-6-7-1-bugfix-patch.md) · [Live](../../index.md#live) · [7.0.0 | End Transmission](392-7-0-0-end-transmission.md) &rarr;
 <!-- /nav -->

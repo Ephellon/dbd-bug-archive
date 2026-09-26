@@ -9,6 +9,12 @@ updated: "2020-03-02T19:58:37+00:00"
 archived: "2026-09-26T02:19:23Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Hag’s teleport scream, The Nurse’s ability to blink in Azarov’s Resting Place, and the End Game Collapse timer visual sync were among the fixes in the 3.2.2 hotfix. It also corrected control-sensitivity sliders, removed the Infectious Fright scream delay, ensured Second Wind disables when grabbed, fixed high-ping survivor misalignment with the Jigsaw box, resolved Survive With Friends lobby entry, host-spectator return to splash screen, hair shadow casting, various LOD issues and a lobby disconnect delay after a killer leaves. A known issue remains where direct Clown bottle hits generate duplicate score events.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.3.0 | Mid-Chapter](63-3-3-0-mid-chapter.md) · [Archive: PS4](../../index.md#archive-ps4) · [3.3.2 | Hotfix](65-3-3-2-hotfix.md) &rarr;
 <!-- /nav -->

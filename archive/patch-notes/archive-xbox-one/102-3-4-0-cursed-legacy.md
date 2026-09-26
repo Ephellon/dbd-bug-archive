@@ -9,6 +9,12 @@ updated: "2020-02-28T22:23:17+00:00"
 archived: "2026-09-26T02:19:39Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Cursed Legacy update introduces The Oni as a new Killer, Yui Kimura as a new Survivor, and the Sanctum of Wrath map for the Yamaoka Estate theme, plus a Japanese lobby and several cosmetics including Bill’s Ugly Sweater and a universal holiday charm. It also overhauls the rank-reset ladder, hides debuff perk icons until applied, and revises Protection Hit timing and Deep Wound behavior; Legion and Spirit receive specific speed and add-on tweaks. The bulk of the patch is extensive bug fixing—collision and visual issues on many maps, numerous Killer interaction glitches (Nurse, Ghost Face, Huntress, etc.), perk display bugs, network stability, UI, audio and achievement problems.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.3.2 | Hotfix](101-3-3-2-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [3.4.1 | Hotfix](103-3-4-1-hotfix.md) &rarr;
 <!-- /nav -->

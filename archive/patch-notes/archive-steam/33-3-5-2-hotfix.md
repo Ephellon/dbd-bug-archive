@@ -9,6 +9,14 @@ updated: "2020-03-02T15:36:46+00:00"
 archived: "2026-09-26T02:18:59Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Gates Closed" was added as a new Gatekeeper Emblem bonus for ending trials with the gates shut, while the previous "Generators Remaining" condition was removed, and the Totems in Treatment Theatre were relocated to improve concealment.
+
+The hotfix also addressed numerous map and UI problems: Treatment Theatre now correctly allows unhooking when the Killer face-camps, fixes totem collision and prevents survivors from exiting the world after totem destruction; Rift lighting and challenge displays were corrected, the progress bar now remains visible, and overlay menus no longer freeze at lobby timeout. Hawkins Lab screen-darkening, Hag red-stain glitches, Bear-Trap interaction bugs, and several cosmetic preview issues in The Rift and Spirit’s headband were resolved, and level-progress errors were fixed.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.5.1 | Hotfix](32-3-5-1-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [3.6.0 | Chains of Hate](151-3-6-0-chains-of-hate.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,14 @@ updated: "2020-07-28T14:28:25+00:00"
 archived: "2026-09-26T02:18:59Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Aura system was refactored, changing its visual appearance while making it easier to maintain; a new promo-code store feature and a lock on killer selection in lobby were added. The Cannibal received Chainsaw Sweep charges, faster sweep speed and revised add-ons, and the Hillbilly gained an overheat meter that limits chainsaw use and updated add-ons. Four killer perks—Franklin’s Demise, Knock Out, Lightborn and Tinkerer—were rebalanced with new timers, aura reveals and lower thresholds.
+
+The update also delivered extensive bug fixes covering killer audio and animation glitches, survivor sound and interaction issues, numerous map collision and texture problems, perk outline bugs and UI scaling adjustments for non-4K displays.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.0.2 | Hotfix](204-4-0-2-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [4.1.1 | Bug fix Patch](215-4-1-1-bug-fix-patch.md) &rarr;
 <!-- /nav -->

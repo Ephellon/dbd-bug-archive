@@ -9,6 +9,12 @@ updated: "2025-11-24T16:00:06+00:00"
 archived: "2026-09-26T02:20:03Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Haunted by Daylight revealed that Survivors and Killers together destroyed over 150 million pumpkins, with Killers freeing a massive number of Void haunts and even flinging them at Survivors. Survivors favored using Void Crystals as distractions rather than for generator repairs, sending countless skill checks into the Void. The event data is now tracked on the stats tracker, covering past and future Limited Time Events.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | August 2025](521-developer-update-august-2025.md) · [Developer Updates](../index.md#developer-updates) · [Stats | 2025 Year in Review](532-stats-2025-year-in-review.md) &rarr;
 <!-- /nav -->

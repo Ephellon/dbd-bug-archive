@@ -9,6 +9,14 @@ updated: "2020-04-28T14:27:55+00:00"
 archived: "2026-09-26T02:19:42Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Legion’s Feral Frenzy vision returns, the Entity instantly drains survivors who reach the struggle phase on hooks, the generator repair-speed efficiency debuff is increased to 15 %, great skill checks now give 1 % progression but 300 Bloodpoints, Memento Mori animations start at the end of the charge, Benevolent Emblem thresholds are adjusted, and solo-hook-escape feedback is added.
+
+Balance trims window safety on several maps and tightens layout spacing, while perks receive minor upgrades - Head-On shows readiness, Prove Thyself adds 15 % repair speed per survivor, Stake Out adds extra great-skill-check progression, and Sole Survivor lights up after one token; the rest of the update is a broad polish fixing UI, collision, animation and audio bugs and applying PTB changes.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.6.2 | Hotfix](175-3-6-2-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [3.7.1 | Hotfix](185-3-7-1-hotfix.md) &rarr;
 <!-- /nav -->

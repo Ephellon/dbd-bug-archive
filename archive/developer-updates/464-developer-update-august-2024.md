@@ -9,6 +9,12 @@ updated: "2024-08-02T17:16:38+00:00"
 archived: "2026-09-26T02:20:09Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Dredge receives faster movement while charging its Power and teleporting outside Nightfall, louder sound reduction, and adjusted add-ons; the Doctor’s Static Blast cooldown drops dramatically when no survivors are nearby and its charge speed rises; the Nemesis now reaches Mutation Rate 2 after five contamination points and its infection hindered penalty lasts longer. Across the board, numerous perks (Blast Mine, Wiretap, Chemical Trap, Mirrored Illusion, Dance With Me, Deception, Diversion, Flashbang) see lowered activation requirements, shorter cooldowns or trap durations. Hook phases are extended to 70 seconds, Scratch Mark visibility is improved, bathroom breakable walls are removed, hallway sightlines and exit-gate views are narrowed, and prestige levels are hidden in pre-game lobbies. All changes are slated for the upcoming PTB.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Stats | July 2024](460-stats-july-2024.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | August 2024 PTB](467-developer-update-august-2024-ptb.md) &rarr;
 <!-- /nav -->

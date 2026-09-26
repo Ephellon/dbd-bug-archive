@@ -9,6 +9,12 @@ updated: "2025-11-25T15:31:06+00:00"
 archived: "2026-09-26T02:18:07Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The hook system got the biggest overhaul: Resolve Bar now shows to other Survivors while hooked, Anti-Facecamp meter fills faster when a Killer camps and its base rate was halved, a universal 7-second grace period applies to all hooked Survivors, and unhooked Survivors gain 10 % Haste for 15 seconds. Mindbreaker perk was re-enabled, Breakdown and Wicked disabled; Skull Merchant drones received higher rotation speed, reduced cooldown and slower lock-on. Conviction now requires healing another Survivor and Tenacity’s Haste boost rose to 30-50 %. Bloodpoint rewards for hooks increased, pallet density adjusted on several maps, Underground Complex navigation and Autohaven Wreckers lighting improved, and UI/UX login, settings and match-detail menus were streamlined. Numerous audio, character, map and UI bugs were also fixed.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [9.2.3 | Bugfix Patch](526-9-2-3-bugfix-patch.md) · [Live](../../index.md#live) · [9.3.2 | Bugfix Patch](530-9-3-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

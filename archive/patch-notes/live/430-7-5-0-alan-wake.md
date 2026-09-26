@@ -9,6 +9,12 @@ updated: "2024-01-30T16:58:26+00:00"
 archived: "2026-09-26T02:18:19Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Players now have a beta Field-of-View slider to reduce motion-sickness, and the new survivor Alan Wake joins with Champion of Light, Boon: Illumination and Deadline. The Hillbilly’s Chainsaw Sprint runs faster, cooldowns drop and Overdrive gains extra speed and duration, while the Onryo loses its teleport cooldown and receives a self-charging power meter that applies Condemned at high charge. Generators are limited to eight regression events, preventing endless “3-gen” strategies and updating Hex: Ruin, Monitor and Abuse among others. Mount Ormond’s entrance loop is reworked for smoother play, and the Nowhere to Hide perk and The Knight killer are re-enabled. The patch also bundles bug fixes covering challenges, audio levels, bot logic, character animations, map collisions, UI pop-ups and PTB issues.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [7.4.2 | Bugfix Patch](424-7-4-2-bugfix-patch.md) · [Live](../../index.md#live) · [7.5.0 | Hotfix](431-7-5-0-hotfix.md) &rarr;
 <!-- /nav -->

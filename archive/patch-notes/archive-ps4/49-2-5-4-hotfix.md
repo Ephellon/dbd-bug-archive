@@ -9,6 +9,12 @@ updated: "2020-03-02T19:31:29+00:00"
 archived: "2026-09-26T02:19:19Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Lunar event adjustments now guarantee two Red Envelopes in level-50 Bloodwebs and increase Killer Objective scores to +3 points for hooking a Survivor and +4 for destroying a Lunar Vessel after a hook. The hotfix also resolves two bugs: event progress no longer lingers when a host leaves during match transition, and the Wake Up! perk correctly displays exit-gate auras.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.5.3 | Hotfix](48-2-5-3-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [2.6.0 | Demise of the Faithful](50-2-6-0-demise-of-the-faithful.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,12 @@ updated: "2020-02-28T22:10:43+00:00"
 archived: "2026-09-26T02:19:36Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Ghost Face joins the roster and the lobby now lets you rotate characters while a menu track plays. Killer swing animations and hit VFX were aligned to hit distance, stun VFX added for pallet impacts, and survivors now turn heads toward the camera view; fast-vault rules were tightened. Cosmetic lighting, hair, Killer Instinct, chase volume and several map layouts (Lery’s Institute windows, MacMillan Estate obstacles, Yamaoka maze tiles) received adjustments, and scoring events were added for Lightbringer, Benevolent and Evader emblems. Multiple survivor and killer perks were rebalanced, including Streetwise, Windows of Opportunity, Mettle of Man, Pop Goes the Weasel and Enduring. The update also delivers bug fixes covering trapped survivors, animation clipping, map geometry, perk triggers, UI, audio, connectivity and save-data stability.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.7.1 | Hotfix](90-2-7-1-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [3.0.1 | Hotfix](92-3-0-1-hotfix.md) &rarr;
 <!-- /nav -->

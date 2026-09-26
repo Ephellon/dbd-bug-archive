@@ -9,6 +9,12 @@ updated: "2020-10-20T15:31:47+00:00"
 archived: "2026-09-26T02:19:12Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Executioner received a balance overhaul: missing Punishment of the Damned costs less, canceling Rites of Judgement grants a brief speed boost. Several perks were reworked - Trail of Torment’s undetectable state now lasts until the generator stops regressing, Forced Penance’s broken effect lasts up to 80 seconds, Blood Pact’s haste increased, and others gained Bloodpoint rewards and adjusted ranges. Generator terminology was clarified and text for Surge, Pop Goes the Weasel and Overcharge updated. Visuals were refreshed across maps, lockers, footstep and blood VFX, and 4K UI icons were added; all perks now share the same rarity tiers. The update also fixed numerous gameplay and system bugs, from carry-and-hook glitches to Hex totem appearance issues and store audio problems.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.2.2 | Bugfix Patch](238-4-2-2-bugfix-patch.md) · [Archive: Steam](../../index.md#archive-steam) · [4.3.1 | Bugfix Patch](254-4-3-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

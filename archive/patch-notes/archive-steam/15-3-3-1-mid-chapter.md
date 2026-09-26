@@ -9,6 +9,14 @@ updated: "2020-03-02T15:31:18+00:00"
 archived: "2026-09-26T02:19:07Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The mid-chapter patch adds The Archives, a time-limited Rift reward system with new Rift Fragments currency, and introduces Charms as a cosmetic type. It updates the engine to UE 4.22, adds a lobby UI element for Archive feedback, and expands survivor scoring with events for wiggling, pallet drops and fast vaults. Med-kit and add-on speeds are increased, several killer powers gain Undetectable, and The Nurse’s blink recharge is now staggered. Detective’s Hunch, Plunderer’s Instinct and Mettle of Man receive perk tweaks.
+
+The remainder is a broad stability refresh: killer abilities, map collision and visual glitches, perk VFX/audio, UI/HUD interactions, dedicated-server quirks and audio/localisation issues are all addressed across most maps and systems.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.2.0 | Stranger Things](14-3-2-0-stranger-things.md) · [Archive: Steam](../../index.md#archive-steam) · [3.3.2 | Hotfix](16-3-3-2-hotfix.md) &rarr;
 <!-- /nav -->

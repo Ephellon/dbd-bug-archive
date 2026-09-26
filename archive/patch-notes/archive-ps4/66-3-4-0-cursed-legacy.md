@@ -9,6 +9,12 @@ updated: "2020-03-02T20:07:23+00:00"
 archived: "2026-09-26T02:19:24Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Cursed Legacy update introduces The Oni killer, survivor Yui Kimura, the Sanctum of Wrath map for the Yamaoka Estate theme, a Japanese-themed lobby, and new cosmetics including past convention items and a universal holiday charm, plus an updated intro trailer. It also changes the season-end rank reset to drop players one crest, hides debuff perks until applied, speeds up Protection Hit intervals, and tweaks several Killer perks, Legion and Spirit mechanics, and survivor perks. The patch is chiefly a comprehensive bug-fix pass, correcting interaction and collision problems for many Killers (Nurse blink snap, Ghost Face prompts, Huntress hatchet clipping), fixing map geometry and texture glitches, perk visual bugs, and assorted network, UI, audio and trophy issues.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.3.2 | Hotfix](65-3-3-2-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [3.4.1 | Hotfix](67-3-4-1-hotfix.md) &rarr;
 <!-- /nav -->

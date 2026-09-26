@@ -9,6 +9,12 @@ updated: "2026-04-07T14:30:07+00:00"
 archived: "2026-09-26T02:18:41Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Diminishing Returns now caps stacked positive and negative modifiers in trials, applying only the strongest value at full strength while reducing subsequent stacks to 50%, 25%, 12.5% and 5%, with Killer powers and Survivor item add-ons excluded. The update also introduces animated progress bars that change color by speed, visible team perk load-outs in match details, hover-able descriptions in Spectator mode, and new customizable aura types for highlighted, surfaced, marked, Killer objects and breakable walls. Numerous killers received balance tweaks—including speed changes for The Blight, The Cannibal, The Demogorgon and others—and several add-ons were adjusted. The patch chiefly contains audio, bot, character, map and general bug fixes, and notes a known T-pose spectral bug.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [9.5.0 | PTB Patch Notes](537-9-5-0-ptb-patch-notes.md) · [Player Test Build (PTB)](../../index.md#player-test-build-ptb) · [10.0.0 | Jason PTB Patch Notes](548-10-0-0-jason-ptb-patch-notes.md) &rarr;
 <!-- /nav -->

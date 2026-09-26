@@ -9,6 +9,12 @@ updated: "2023-12-13T15:32:18+00:00"
 archived: "2026-09-26T02:18:20Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Flashlight items and the perks Residual Manifest, Dramaturgy and Appraisal have been re-enabled, and the Good Guy’s Batteries Included perk now grants 5 % Haste within 12 m of a finished generator with a lingering speed boost, removing its deactivation when all generators are done. The Trickster’s throw cadence was shortened to 0.3 s, his Main Event throw-rate multiplier raised to 66 % and duration to six seconds, and Laceration decay time returned to 15 s. The update also restores bot dodge of special attacks and resolves numerous animation, collision and UI bugs affecting The Good Guy, The Trickster, The Demogorgon, The Huntress and several maps, plus minor crashes and locker-clipping issues.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [7.4.1 | Bugfix Patch](422-7-4-1-bugfix-patch.md) · [Live](../../index.md#live) · [7.5.0 | Alan Wake](430-7-5-0-alan-wake.md) &rarr;
 <!-- /nav -->

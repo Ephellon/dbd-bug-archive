@@ -9,6 +9,14 @@ updated: "2023-06-13T14:25:52+00:00"
 archived: "2026-09-26T02:18:24Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The update adds The Singularity killer with Quantum Instantiation power, Gabriel Soma survivor with three new perks, and the Dvarka Deepwood - Toba Landing map. It also introduces a loadout search bar and a three-tier item-rules system separating Survivor, Special and Temporary items.
+
+Most of the patch is dedicated to extensive bug fixes - audio issues, visual glitches for many killers and survivors, map collision problems, bot behavior tweaks, UI hard-locks and crashes across platforms - plus PTB tweaks to Biopod visuals, EMP handling, bot awareness of the Singularity and map navigation. Minor perk balances for Pop Goes the Weasel, Déjà Vu and Flashbang are also included.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [6.7.2 | Bugfix Patch](388-6-7-2-bugfix-patch.md) · [Live](../../index.md#live) · [7.0.1 | Bugfix Patch](394-7-0-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

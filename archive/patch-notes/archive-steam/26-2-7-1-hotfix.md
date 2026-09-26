@@ -9,6 +9,12 @@ updated: "2020-03-02T15:21:14+00:00"
 archived: "2026-09-26T02:19:04Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Network disconnect handling and End Game Collapse behavior were overhauled, fixing loops of disconnect audio, erroneous host messages, infinite loading screens, and various end-game timer issues. The hotfix also resolved a range of killer and survivor bugs—Ash’s voice-overs, The Shape’s standing-kill radius, The Clown’s gas crosshair, The Trapper’s window-vault snag, The Wraith’s blood-drip glitch, The Plague’s emblem scoring, and Nea’s missing textures—plus aura dimming on Mount Ormond Resort, window-vault stutter on Shrimp Boat, and added logging for entity-blocking and camera anomalies.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.6.4 | Hotfix](25-2-6-4-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [3.0.1 | Hotfix](27-3-0-1-hotfix.md) &rarr;
 <!-- /nav -->

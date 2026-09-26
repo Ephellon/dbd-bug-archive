@@ -9,6 +9,12 @@ updated: "2020-03-02T19:21:45+00:00"
 archived: "2026-09-26T02:19:17Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Huntress hatchet hitbox reverts to pre-2.2.0 behavior and Spirit’s power recharge is cut from 20 to 15 seconds. The hotfix also patches numerous issues: the Spirit no longer blinds instantly from flashlights and Yamaoka’s Haunting duration is corrected; pallets stop pushing killers without stun; the Shape’s Halloween music now plays; triggered Hag traps regain terror radius; the Clown’s speed boost from VHS Porn and Smelly Inner Soles is fixed; add-on interactions for Kaiun and Katsumori talismans no longer alter Yamaoka’s cooldown; French perk text is formatted; Hex: Devour Hope only grants tokens on unhook completion; and the Spirit’s husk texture no longer appears bright.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.2.0 | Shattered Bloodline](39-2-2-0-shattered-bloodline.md) · [Archive: PS4](../../index.md#archive-ps4) · [2.3.0 | Mid-Chapter](41-2-3-0-mid-chapter.md) &rarr;
 <!-- /nav -->

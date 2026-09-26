@@ -9,6 +9,14 @@ updated: "2023-05-31T17:51:01+00:00"
 archived: "2026-09-26T02:20:18Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Skull Merchant receives a growing Haste bonus based on tracked survivors, pallet-breakage when vaulting a Claw Trap, delayed drone return until traps are destroyed, instant trap loss on battery expiry, and unhackable drones near traps; several add-ons (Ultrasonic Trap Speaker, Expired Batteries, Prototype Rotor, Adaptive Lighting) are re-tiered and rebalanced. Perk-induced screams are also reverted to 2D, map-wide sounds with the original audio instead of the 3D version introduced in 6.6.0.
+
+These changes aim to improve chase risk, generator defense, and trap utility based on community feedback, and will go live in next week’s update while the team continues work on the next major release.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | Tools of Torment PTB](377-developer-update-tools-of-torment-ptb.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | March 2023](382-developer-update-march-2023.md) &rarr;
 <!-- /nav -->

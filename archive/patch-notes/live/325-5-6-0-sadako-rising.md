@@ -9,6 +9,14 @@ updated: "2022-03-08T22:43:12+00:00"
 archived: "2026-09-26T02:18:33Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The update introduces The Onryō killer, Yoichi Asakawa survivor, and several new perks (Scourge Hook: Floods of Rage, Call of Brine, Merciless Storm, Parental Guidance, Empathic Connection, Boon: Dark Theory). It also returns the Nurse to rotation, adds custom map SFX intros, a 16:9 viewport lock, lobby subtitles, and language-aware support links, plus a daily rituals reset due to a tracking overhaul.
+
+The bulk of the patch is stability work—network-latency skill-check fixes, numerous AI, animation, UI, and VFX bugs, and platform-specific issues—plus balance tweaks to The Onryō’s manifest/demanifest times, range, terror radius and Condemned progression. Known issues include misplaced charms, disabled maps/offers, resolution clipping, and a few tutorial and model glitches.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [5.5.2 | Bugfix Patch](323-5-5-2-bugfix-patch.md) · [Live](../../index.md#live) · [5.6.1 | Bugfix Patch](327-5-6-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

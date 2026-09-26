@@ -9,6 +9,12 @@ updated: "2023-04-18T15:08:16+00:00"
 archived: "2026-09-26T02:18:25Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Autohaven Wreckers - Blood Lodge and Gas Heaven got a map rework, fixing unsafe pallets, adding lockers and adjusting pallet density and gas station placement. The Archives introduced Tome 15 and Core Memory challenges while removing Lightburn references, and Light-Killer interactions were stripped (Nurse, Hag, Wraith, Artist, Spirit). Healing Great skill check bonus fell to 3%, and several killers received tweaks and add-on changes. Perks such as Scourge Hook, Gearhead, Circle of Healing, Dead Hard and Overcharge were updated. Med-kits now have 24 charges, boost healing others and enable self-heal with add-ons; the Bloodweb added automated purchasing and UI aids. The patch also added a Visual Terror Radius accessibility option, console Anonymous Mode and bug, audio, bot, character and UI fixes.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [6.6.2 | Bugfix Patch](381-6-6-2-bugfix-patch.md) · [Live](../../index.md#live) · [6.7.1 | Bugfix Patch](387-6-7-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

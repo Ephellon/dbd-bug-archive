@@ -9,6 +9,14 @@ updated: "2021-09-20T18:58:28+00:00"
 archived: "2026-09-26T02:18:36Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Pinhead’s chain hunt now respawns chains if the Solve interaction is stopped and his teleport prioritises same-level locations, while the Dead Dawg Saloon and Raccoon City Police Station maps have been re-enabled.
+
+The update primarily addresses a wide range of bugs, restoring Steam Family Share and Cross-Progression DLC sharing, fixing audio cues, visual glitches, interaction quirks, map collision issues, perk timing, achievement tracking, and several survivor and killer interaction problems across multiple maps. A known issue remains where the Cenobite’s chase music does not restart after using Summons of Pain.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [5.2.0 | Hellraiser](294-5-2-0-hellraiser.md) · [Live](../../index.md#live) · [5.2.2 | Bugfix Patch](296-5-2-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

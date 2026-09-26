@@ -9,6 +9,12 @@ updated: "2024-03-28T13:57:39+00:00"
 archived: "2026-09-26T02:20:12Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Twins receive faster swaps—Charlotte now switches in 1.5 seconds, Victor unbinds in 0.75 seconds and can be recalled anytime, with pounce mechanics that latch onto dying Survivors, grant Charlotte 10 % haste while attached, and no longer reveal nearby Survivors. The Blight’s rush collision detection is tightened, and a map overhaul shrinks the layout, adds openings, pallets and lockers, and eases house loops. Decisive Strike gains a stab animation and a longer five-second stun, while Adrenaline’s exceptions are removed and its speed boost shortened. Ultimate Weapon now reveals auras instead of screams with a cooldown. Emblem pip loss is eliminated, store gets a redesign with Specials, Collections, bundles and a free gift, and Rifts open on update day with a Rift bundle.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | All Things Wicked PTB](436-developer-update-all-things-wicked-ptb.md) · [Developer Updates](../index.md#developer-updates) · [Stats | March 2024](443-stats-march-2024.md) &rarr;
 <!-- /nav -->

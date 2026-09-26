@@ -9,6 +9,12 @@ updated: "2025-09-02T13:59:47+00:00"
 archived: "2026-09-26T02:20:03Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Shape receives an overhaul: Evil Within splits into Stalker and Pursuer modes, with a chargeable Evil Incarnate form granting higher speed, larger terror radius, a Slaughtering Strike lunge and grab-kill ability; stalking points are removed and range trimmed. Survivors gain passive crawling recovery, can pick themselves up after 90 seconds in the Dying state (toggleable in Custom Games), and receive hidden hook status, temporary haste, endurance, elusiveness and collision-free immunity after unhooking, while killers earn burst damage, haste and limited reveal after hooking a new survivor. Anti-tunnelling bonuses reward spread hooks, a stealth-silence status curtails aura clues, weekly lore tomes return, and killers Clown, Unknown, Vampire, Wolf, Bat, Ghoul and Oni see balance tweaks and add-on reworks.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Stats | 9th Anniversary](518-stats-9th-anniversary.md) · [Developer Updates](../index.md#developer-updates) · [Stats | Haunted by Daylight](528-stats-haunted-by-daylight.md) &rarr;
 <!-- /nav -->

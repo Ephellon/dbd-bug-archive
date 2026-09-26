@@ -9,6 +9,12 @@ updated: "2020-02-28T22:13:50+00:00"
 archived: "2026-09-26T02:19:37Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Nightmare’s HUD prompts now support multiple rows, the Huntress’ Cold Wasteland survivor outfit icons were corrected, and The Pig’s crouch-and-uncrouch speed curves were smoothed and slightly sped up. The hotfix also adds extensive bug fixes: overlapping prompts, Dream Snares duplication, perk deactivation, Ghost Face ritual progress, aura blocking, visual glitches, map geometry errors on Badham Preschool, Lampkin Lane, MacMillan Estate, Autohaven Wrecker and Coal Tower, heavy bleeding interaction, and post-game Bloodpoint display, plus added logging for exit-escape failures.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.1.0 | Mid-Chapter](94-3-1-0-mid-chapter.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [3.1.2 | Hotfix](96-3-1-2-hotfix.md) &rarr;
 <!-- /nav -->

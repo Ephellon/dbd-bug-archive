@@ -9,6 +9,12 @@ updated: "2020-03-02T15:09:55+00:00"
 archived: "2026-09-26T02:19:02Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Lunar event bugs were patched: crashes triggered by the event’s start and by the tally screen in Kill Your Friends matches were fixed, and a progression glitch that gave survivors event progress when another survivor escaped with a lantern was resolved. Additional hotfixes corrected Bloodpoints refund display when swapping characters during Bloodweb purchases, restored proper Madness meter tier display against the Doctor, and reverted erroneous Spanish perk descriptions that showed Lunar objective text.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.1.2 | Hotfix](21-2-1-2-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [2.5.4 | Hotfix](23-2-5-4-hotfix.md) &rarr;
 <!-- /nav -->

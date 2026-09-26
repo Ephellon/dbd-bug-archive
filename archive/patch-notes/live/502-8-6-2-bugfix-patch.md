@@ -9,6 +9,12 @@ updated: "2025-04-17T14:29:18+00:00"
 archived: "2026-09-26T02:18:11Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Ghoul was rebalanced: tentacle range cut to 14 m, Enraged mode to 40 s (grab-attack bonus to 10 s), reticle stickiness to 0.18 s and aiming sensitivity reduced by 94 %, grab-attack distance lowered, and a cooldown now follows pallet breaks. Add-ons Fresh Coffee, Hinami’s Umbrella, Blood-stained Handkerchief, Taiyaki and Yamori’s Mask received rarity changes and effect tweaks. The new killer perk “None are Free” now grants up to four tokens on first hook and blocks windows and pallets for 12-16 s per token after generators finish, removing the global block. The update also fixes bugs across archives, Blood Moon, maps, character animations, Ghoul QTE and spectator feedback, perk exhaustion, UI crashes, name/icon errors and cosmetics loading, though survivors grunt when vaulting with Balanced Landing.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [8.6.1 | Bugfix Patch](499-8-6-1-bugfix-patch.md) · [Live](../../index.md#live) · [8.7.0 | Steady Pulse](505-8-7-0-steady-pulse.md) &rarr;
 <!-- /nav -->

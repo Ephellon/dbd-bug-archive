@@ -9,6 +9,12 @@ updated: "2025-04-15T15:06:13+00:00"
 archived: "2026-09-26T02:18:43Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Orela Rose joins the roster as a new survivor, bringing three unique perks—Do no Harm, Duty of Care, and Rapid Response—that modify healing speed, grant nearby haste on protection hits, and tie exhausted status to aura visibility. The PTB also launches a unified Quest System, a Killer surrender option after the final generator, revised rarity tags, rebalanced Haste/Hindered stacking, and bot camera and flashlight tweaks. Various audio, character, map, perk and UI bugs were addressed, including terrain SFX fixes, Knight power stability, collision issues on several maps, and UI notification and tally screen glitches.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [8.6.0 | PTB Patch Notes](495-8-6-0-ptb-patch-notes.md) · [Player Test Build (PTB)](../../index.md#player-test-build-ptb) · [9.0.0 | PTB Patch Notes](509-9-0-0-ptb-patch-notes.md) &rarr;
 <!-- /nav -->

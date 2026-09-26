@@ -9,6 +9,12 @@ updated: "2024-07-19T12:04:55+00:00"
 archived: "2026-09-26T02:20:10Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+July 2024 stats reveal The Pig placed over a million traps, while survivors searched an average of 6.85 Jigsaw Boxes per match and triggered Reverse Bear Traps at a low 0.17 kills per game. Survivors spent about one minute under chase, tossing one to two pallets each, and Bloodlust I appeared in roughly half of matches, with higher tiers far rarer. The platform logged more than 88 million matches, awarding over 13 trillion Bloodpoints during the Blood Moon event, and players exchanged over 574 million “gg” messages and 151 million quiet props.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | June 2024 PTB](458-developer-update-june-2024-ptb.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | August 2024](464-developer-update-august-2024.md) &rarr;
 <!-- /nav -->

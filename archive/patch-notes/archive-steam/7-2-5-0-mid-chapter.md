@@ -9,6 +9,14 @@ updated: "2020-03-02T15:06:08+00:00"
 archived: "2026-09-26T02:19:02Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Mid-Chapter 2.5.0 adds lobby shortcuts for character selection and idle animations for all survivors at the campfire. Killer perks are tweaked—Bamboozle wording, Blood Warden timer, Iron Maiden notification, Spies from the Shadows range and visual cue, Surveillance sound and aura—while The Legion’s Frenzy no longer drains power and its VFX are toned down, and The Pig gains faster crouch, larger terror radius and higher dash-attack scores.
+
+Hook placement was rebuilt with minimum distances and extra hooks on maps; survivor perks (Leader, Prove Thyself, Distortion, Technician) were rebalanced, status-effect timers now keep longest duration, UI hides killer loadouts until match and requires item pickup, vaults keep momentum, and chest drop rates were tweaked. Audio, animation, map and UI bugs were fixed.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.4.0 | Darkness Among Us](6-2-4-0-darkness-among-us.md) · [Archive: Steam](../../index.md#archive-steam) · [2.5.1 | Hotfix](8-2-5-1-hotfix.md) &rarr;
 <!-- /nav -->

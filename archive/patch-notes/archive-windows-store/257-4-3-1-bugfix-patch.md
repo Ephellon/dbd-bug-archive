@@ -9,6 +9,12 @@ updated: "2020-10-28T14:27:15+00:00"
 archived: "2026-09-26T02:19:59Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The patch resolves numerous bugs across killers, survivors and perks, including medkits with 32 charges not fully healing the second health state, Discordance auras disappearing during generator repairs, an incorrect first-person posture during killer intros, and missing Halloween hook auras. It also fixes the Nightmare’s mori dissolve, adds the Demogorgon’s Shred animation, prevents premature Blighted Serum power use, removes stray Visceral Canker spawns, stops survivor models lingering in Cage of Atonement after disconnects, corrects Madness audio level switches, and silences killer-theme music for spectators in custom lobbies.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.3.0 | Mid-Chapter](251-4-3-0-mid-chapter.md) · [Archive: Windows Store](../../index.md#archive-windows-store) · [4.3.2 | Bugfix Patch](264-4-3-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

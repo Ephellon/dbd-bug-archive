@@ -9,6 +9,14 @@ updated: "2020-04-28T14:29:05+00:00"
 archived: "2026-09-26T02:19:48Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Struggle phase now instantly drains survivors’ remaining health once all are hooked, repair-speed efficiency debuff rises to 15%, great skill-check repair bonus drops to 1% while bloodpoints increase to 300, Memento Mori animations start after the charge, Legion’s Feral Frenzy regains sight of scratch marks and blood, Benevolent Emblem thresholds are tweaked, controller sensitivity range expands, new score events track hook sabotage, cleansing and Jigsaw digging, party silhouettes update, Archives Tome 03 and a Rift details screen are added, and offering descriptions reveal with the item.
+
+It also rebalances window safety across Coldwind Farm, MacMillan Estate and other maps, adds maze-tile spacing tweaks, refines several perks, and includes a broad set of bug fixes for UI, collision, animation, audio and perk interactions.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.6.2 | Hotfix](177-3-6-2-hotfix.md) · [Archive: Nintendo Switch](../../index.md#archive-nintendo-switch) · [3.7.1 | Hotfix](188-3-7-1-hotfix.md) &rarr;
 <!-- /nav -->

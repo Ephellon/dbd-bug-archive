@@ -9,6 +9,12 @@ updated: "2020-02-28T22:04:41+00:00"
 archived: "2026-09-26T02:19:34Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Hotfix 2.5.3 addresses several Lunar event issues on Xbox One, fixing crashes introduced at the event’s start and correcting survivor progress bugs that awarded points when another survivor escaped with a lantern. It also resolves visual glitches with Bloodpoint refunds during Bloodweb purchases, restores the Madness meter’s tier-progress display against the Doctor, and reverts incorrect Spanish text for Leader, Technician and Distortion that was showing the Lunar objective. The remainder of the update consists solely of these targeted bug fixes.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.5.1 | Hotfix](83-2-5-1-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [2.5.4 | Hotfix](85-2-5-4-hotfix.md) &rarr;
 <!-- /nav -->

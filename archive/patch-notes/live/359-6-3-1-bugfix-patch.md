@@ -9,6 +9,12 @@ updated: "2022-10-18T14:23:44+00:00"
 archived: "2026-09-26T02:18:29Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Fixes target the Xbox account-switch save bug, Windows Store store purchase glitch, tutorial reward display, post-match crashes and a custom-match kill-timer issue. Across the Archives UI number formatting, localization and compendium crashes are resolved, while map-specific problems such as body-blocking in Raccoon City Police Station’s basement stairs, flashlight aim drift and female survivor arm snapping are corrected. Audio bugs affecting several killers, the Blight’s hit SFX and memory-tome voicelines are fixed, and limits on flashbang carrying and Meg’s tutorial escape are restored. A texture update applies to the Dramatic Death charm and missing skeleton textures on Haunted by Daylight event shirts are added. Known issues remain with the event intro replay, a custom-game DLC toggle crash and non-consuming Bloodpoint Offerings.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [6.3.0 | Mid-Chapter ](355-6-3-0-mid-chapter.md) · [Live](../../index.md#live) · [6.3.2 | Bugfix Patch](362-6-3-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

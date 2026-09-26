@@ -9,6 +9,12 @@ updated: "2020-03-02T19:27:40+00:00"
 archived: "2026-09-26T02:19:18Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Darkness Among Us brings the Deep Wound status effect, letting Survivors mend themselves or each other without a med-kit, and shortens Borrowed Time’s bleed-out timer to 10/15/20 seconds. The update also migrates the game to Unreal Engine 4.20, adding realistic volumetric fog, revised lighting and sound balance, and reduces the visibility range of the Killer’s red stain. A new matchmaking system was trialled in PTB, and UI tweaks now show map/theme info in pause and basic Killer stats. The patch is otherwise a broad stability pass, fixing audio, localization, numerous Killer and map glitches, perk interactions and PS4-specific UI and trophy issues.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.3.3 | Hotfix](44-2-3-3-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [2.5.0 | Mid-Chapter](46-2-5-0-mid-chapter.md) &rarr;
 <!-- /nav -->

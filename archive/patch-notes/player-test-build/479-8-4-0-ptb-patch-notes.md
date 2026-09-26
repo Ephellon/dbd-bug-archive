@@ -9,6 +9,14 @@ updated: "2024-11-09T00:04:32+00:00"
 archived: "2026-09-26T02:18:44Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+New content for the PTB includes the Houndmaster killer with her dog-controlled Chase and Search powers, the survivor Taurie Cain with three new perks, and the Ormond Lake Mine map for testing. Players’ Live progress and save data were transferred to PTB, and 12,500 Auric Cells are granted for the session (non-transferable).
+
+The update also tweaks numerous killer basekits and addons—Dark Lord, Demogorgon, Ghost Face, Good Guy, Lich, Shape and others—and revises several survivor perks and chest interaction times. Across the board, the patch focuses on bug fixes: environmental collisions and textures (especially on the new map), UI crashes, bot locomotion, perk interactions, and miscellaneous issues such as platform-exclusive outfit visibility.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [8.3.0 | PTB](473-8-3-0-ptb.md) · [Player Test Build (PTB)](../../index.md#player-test-build-ptb) · [8.5.0 | PTB Patch Notes](488-8-5-0-ptb-patch-notes.md) &rarr;
 <!-- /nav -->

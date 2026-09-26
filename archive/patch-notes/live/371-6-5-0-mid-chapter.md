@@ -9,6 +9,12 @@ updated: "2023-01-24T15:33:46+00:00"
 archived: "2026-09-26T02:18:27Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Mid-chapter 6.5.0 launches the Moonlight Burrow Lunar New Year event and opens Tome 14 - Betrayal, adds a Survivor Activity HUD indicator, a Merciless Killer rating for four kills, and lets players browse the Store, Archives and Daily Rituals while queued. The Wiggle system becomes a ping-pong skill check with controller tweaks, while The Knight receives Guard-path speed and damage changes and The Nurse gains Blink-attack reclassification plus several add-on tweaks; Eyrie of Crows is shortened and its generators redistributed. The update is otherwise a sweeping bug-fix pass covering PlayStation, Windows Store, audio cues, killer and survivor mechanics, map collisions and UI inconsistencies.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [6.4.3 | Bugfix Patch](368-6-4-3-bugfix-patch.md) · [Live](../../index.md#live) · [6.5.1 | Bugfix Patch](373-6-5-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

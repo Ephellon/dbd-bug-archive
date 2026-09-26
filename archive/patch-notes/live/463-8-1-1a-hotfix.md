@@ -9,6 +9,12 @@ updated: "2024-07-31T14:25:26+00:00"
 archived: "2026-09-26T02:18:15Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Version 8.1.1a introduces a hotfix that resolves a map-tile desynchronization issue, ensuring server-generated tiles match what players see. The update also enforces a version lock, preventing players on 8.1.1a from matchmaking or partying with those on 8.1.1.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [8.1.1 | Bugfix Patch](462-8-1-1-bugfix-patch.md) · [Live](../../index.md#live) · [8.1.2 | Bugfix Patch](466-8-1-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

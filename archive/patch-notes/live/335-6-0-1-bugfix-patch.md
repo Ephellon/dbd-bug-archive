@@ -9,6 +9,12 @@ updated: "2022-06-16T13:27:51+00:00"
 archived: "2026-09-26T02:18:31Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Twisted Masquerade’s 6th-Anniversary event has been pushed to start June 16 at 11:30 AM ET. The update focuses on a broad sweep of bug fixes - performance lag in the loadout menu and an occasional survivor crawl-speed boost were tentatively addressed, while crashes tied to The Dredge’s teleport and other killers were resolved. Almost every Dredge-related visual, sound and locker-interaction issue was corrected, including missing smoke, vignette desaturation, duplicate impact SFX, and animation glitches. Additional UI glitches, audio bugs, and map collision problems were also patched, with known rubber-banding and tutorial-match crashes still under investigation.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [6.0.0 | Roots of Dread](334-6-0-0-roots-of-dread.md) · [Live](../../index.md#live) · [6.0.2 | Bugfix Patch](339-6-0-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

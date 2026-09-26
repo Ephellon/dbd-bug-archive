@@ -9,6 +9,12 @@ updated: "2020-02-28T22:04:23+00:00"
 archived: "2026-09-26T02:19:34Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Mid-Chapter 2.5.0 adds lobby controls to switch characters without opening the selection panel, new idle animations for all Survivors at the campfire, and redirects clicks on locked characters to their store page. Audio returns to default music with rebalanced footstep, music and VO volumes, while numerous killer and survivor perks receive text, timer, notification and scaling adjustments (e.g., Bamboozle, Blood Warden, Iron Maiden, Leader, Prove Thyself). Hook distribution and chest spacing are overhauled, a crow bomb appears on Grim Pantry, and the UI now hides killer loadouts during matches, requires item pickup, and shows mori icons. The update also fixes audio, visual, map collision, perk and HUD bugs, and refines vault momentum, chest drop rates and scoring terminology.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.4.0 | Darkness Among Us](81-2-4-0-darkness-among-us.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [2.5.1 | Hotfix](83-2-5-1-hotfix.md) &rarr;
 <!-- /nav -->

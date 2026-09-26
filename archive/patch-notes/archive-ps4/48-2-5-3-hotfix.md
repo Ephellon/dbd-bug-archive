@@ -9,6 +9,12 @@ updated: "2020-03-02T19:30:41+00:00"
 archived: "2026-09-26T02:19:19Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Lunar event on PS4 was hotfixed, addressing crashes and progression bugs. Crashes triggered by the event’s start were resolved, and survivors now only earn Lunar objective progress when they personally complete it, not when a teammate escapes with a lantern. Bloodpoint refunds display correctly when swapping characters during Bloodweb purchases, and the Madness meter now shows tier progress against the Doctor. Additionally, erroneous Spanish text for Leader, Technician and Distortion was reverted to their proper descriptions.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.5.1 | Hotfix](47-2-5-1-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [2.5.4 | Hotfix](49-2-5-4-hotfix.md) &rarr;
 <!-- /nav -->

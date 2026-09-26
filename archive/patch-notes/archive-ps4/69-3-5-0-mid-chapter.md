@@ -9,6 +9,12 @@ updated: "2020-03-02T20:10:13+00:00"
 archived: "2026-09-26T02:19:24Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The update adds a Compendium page to the Archives for revisiting past Tomes, introduces a new Rift and challenges for Tome II, removes the invert-camera keybind, drops Twitch challenges, Dutch and Swedish language support, and disables the Cursed Legacy lobby. Balance changes include flattening generator scores on the Gatekeeper emblem, redesigning Hex: Ruin to affect all generators, lifting the Oni’s turn-speed cap, and overhauling The Doctor with a permanent Shock Therapy, a 1.5 s cooldown, a new Static Blast ability, chase music, and numerous add-on tweaks plus Snap Out Of It adjustments; the Treatment Theatre map receives a visual overhaul. The patch is otherwise dominated by extensive killer, map, perk, UI, audio and miscellaneous bug fixes and minor optimizations.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.4.2 | Hotfix](68-3-4-2-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [3.5.1 | Hotfix](70-3-5-1-hotfix.md) &rarr;
 <!-- /nav -->

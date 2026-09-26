@@ -9,6 +9,12 @@ updated: "2026-08-25T14:32:19+00:00"
 archived: "2026-09-26T02:18:02Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Judgment arrives as a new Killer with the Will of the Gods power, wielding controllable Divine Light, Zealous and Exile mechanics, plus three brand-new perks; Aurora joins as a Survivor with three unique perks and a Boon Totem. The patch also overhauls unhook protections, adjusts numerous Killer and Survivor perks (A Nurse’s Calling, Coulrophobia, Sprint Burst, Vigil, etc.), adds a Gameplay Showcase, revamped power tooltips, a redesigned matchmaking button, split hook timer bars and a new MMR formula. The bulk of the update is a sweeping bug-fix wave covering audio, character animations, bot behavior, map collision and visual issues, UI glitches and occasional crashes.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [10.0.3 | Bugfix Patch](553-10-0-3-bugfix-patch.md) · [Live](../../index.md#live) · [10.1.1 Bugfix Patch](557-10-1-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

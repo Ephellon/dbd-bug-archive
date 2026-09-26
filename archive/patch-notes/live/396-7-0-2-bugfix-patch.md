@@ -9,6 +9,12 @@ updated: "2023-06-28T14:28:33+00:00"
 archived: "2026-09-26T02:18:24Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Singularity’s add-ons receive multiple tweaks—Kid’s Ball Glove overclock time trimmed to 15%, rarity shifts for several items, Cremated Remains now grants blindness, Nanomachine Gel’s broken effect reduced, and other balance changes—while The Nemesis’ Damaged Syringe now adds five seconds to vaccine use. The update also delivers extensive bug fixes: bot item handling, survivor animation on The Executioner’s trail, Nightmare pallet placement, platform crashes on PS5, Steam and Epic, Twisted Masquerade interaction visuals, UI HUD opacity, perk activation quirks, and numerous map navigation and collision issues. Known issues remain with outdated Singularity add-on text and an incorrect Overclock value.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [7.0.1 | Bugfix Patch](394-7-0-1-bugfix-patch.md) · [Live](../../index.md#live) · [7.1.0 | Nicolas Cage](400-7-1-0-nicolas-cage.md) &rarr;
 <!-- /nav -->

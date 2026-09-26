@@ -9,6 +9,12 @@ updated: "2021-07-27T14:28:47+00:00"
 archived: "2026-09-26T02:18:37Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Players can now toggle HUD elements in the Settings menu, new tutorials with tooltips were added, lighting on Hospital was improved, and the Trickster received a full overhaul: Laceration max lowered to 6, faster decay, more knives required for Main Event, new knife-hit indicators and several addon tweaks, and the live knife count reduced to 44. Technical tweaks give unhooking priority over self-care, auto-attack on refused grabs, stun validation and corrected killer-only hearing effects. The patch also refreshes many survivor outfits and facial textures and re-enables the Raccoon City Police Department map. Most of the notes cover extensive bug fixes across gameplay, maps, animations, audio and performance.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [5.0.2 | Resident Evil](288-5-0-2-resident-evil.md) · [Live](../../index.md#live) · [5.1.1 | Bugfix Patch](291-5-1-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

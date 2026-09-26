@@ -9,6 +9,12 @@ updated: "2025-04-09T14:29:21+00:00"
 archived: "2026-09-26T02:18:11Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Loadout UI now displays remaining units on equipped items and the search bar accepts direct typing, while the Blood Moon event’s community-goal Bloodpoint bonus has been extended to regular matches. The update also resolves numerous issues: animation skips for The Good Guy and Blood Can, fatigue token abuse by The Blight, hatchet spawns against Huntress, survivor animation jitter from Dream Snare, and zombie navigation bugs on Clock Tower, Crotus Prenn Asylum and Hawkins Lab. The Ghoul’s camera zoom, FOV slider lock, Kagune Leap reticle and aura glitches are fixed, as are several audio loops and perk interactions such as Clean Break against The Twins. Map-specific interaction problems, environmental collisions, loadout visual glitches, and archive text errors are also patched.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [8.6.0 | Tokyo Ghoul](498-8-6-0-tokyo-ghoul.md) · [Live](../../index.md#live) · [8.6.2 | Bugfix Patch](502-8-6-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

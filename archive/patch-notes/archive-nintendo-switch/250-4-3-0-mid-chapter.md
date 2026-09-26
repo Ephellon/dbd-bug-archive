@@ -9,6 +9,14 @@ updated: "2020-10-20T14:25:13+00:00"
 archived: "2026-09-26T02:19:52Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Executioner receives balance tweaks: canceling Rites of Judgement now grants a brief speed boost, attack cooldowns are reduced, and Punishment of the Damned’s recovery time is shortened. Several perks are reworked - Trail of Torment’s undetectable lasts until a generator stops regressing, Forced Penance’s broken status is extended, Blood Pact’s haste increased, and many others gain Bloodpoint awards, range or duration changes. Generator terminology is clarified, maps, lockers, footprints and blood VFX are refreshed, and 4K UI icons plus uniform perk rarity tiers are added.
+
+System and gameplay bugs are addressed, fixing carry-and-hook glitches, control loss after unhooking, Hex totem visibility, perk interaction bugs, and Executioner and Oni quirks. A known issue remains where the killer may display an incorrect start-match animation.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.2.2 | Bugfix Patch](242-4-2-2-bugfix-patch.md) · [Archive: Nintendo Switch](../../index.md#archive-nintendo-switch) · [4.3.1 | Bugfix Patch](258-4-3-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

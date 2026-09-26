@@ -9,6 +9,12 @@ updated: "2020-12-08T17:08:44+00:00"
 archived: "2026-09-26T02:19:13Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Technical Flashlight rework restores normal accuracy, adds new VFX, animations and audio cues for blinding, while Appraisal now limits chest rummaging to one per chest and Ebony & Ivory require the second hook phase. Victor can search lockers, blocking survivors up to ten seconds, and Hoarder’s detection radius is increased (32/48/64 m) with its rarity penalty removed. The update also expands Hoarder chest spawns and fixes Victor and Twins misalignments. Most of the patch is a wide-range bug-fix sweep covering flashlight beam behavior, Victor power glitches, Twins mechanics, cross-platform friend list visibility, perk icons and other interaction and networking issues, plus a Stadia-only friends-list fix. Known issue: the flashlight beam may disappear when using Lightborn to blind a killer.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.4.0 | A Binding of Kin](270-4-4-0-a-binding-of-kin.md) · [Archive: Steam](../../index.md#archive-steam) · [4.4.2 | Bugfix Patch](272-4-4-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

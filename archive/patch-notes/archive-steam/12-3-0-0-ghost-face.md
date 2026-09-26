@@ -9,6 +9,14 @@ updated: "2020-03-02T15:22:19+00:00"
 archived: "2026-09-26T02:19:04Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Ghost Face joins as the new Killer and the lobby lets players rotate characters with lobby music. Swing animations and impact VFX now match hit distance, pallet-stun VFX were added, Survivors’ heads follow the camera and fast-vault rules were tightened. Chase volume was adjusted, window layouts on Lery’s Memorial Institute were standardized, and Lightbringer, Benevolent and Evader emblem scoring events were added. Several survivor and killer perks were rebalanced.
+
+The update adds a bug-fix sweep for interaction and add-on glitches, map geometry and texture clipping, perk activation bugs, audio overlaps, UI quirks. Known issues include windowed-mode resolution changes, limited token stacking on some perks, missing Spirit phasing VFX, overlapping heartbeat audio and no Killer music while carrying Survivors.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.7.0 | Mid-Chapter](11-2-7-0-mid-chapter.md) · [Archive: Steam](../../index.md#archive-steam) · [3.1.0 | Mid-Chapter](13-3-1-0-mid-chapter.md) &rarr;
 <!-- /nav -->

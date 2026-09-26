@@ -9,6 +9,12 @@ updated: "2020-09-24T14:33:41+00:00"
 archived: "2026-09-26T02:19:51Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Blight now breaks pallets and breakable walls by attacking during a Lethal Dash, and its Compound 21 add-on reveal range was halved to 8 m and duration cut to three seconds. The patch also adds a Japanese promo-code expiration notice and fixes the police-car blue light on Switch, while gameplay tweaks resolve input drop-outs when hooking, breaking pallets or damaging generators, reduce network-latency movement stutter, standardise killer stun times, lock camera pitch during the Blight’s injection, stop Iron Maiden from accelerating locker grabs, and prevent survivors from becoming permanently stuck on hooks.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.2.1 | Bugfix Patch](237-4-2-1-bugfix-patch.md) · [Archive: Nintendo Switch](../../index.md#archive-nintendo-switch) · [4.3.0 | Mid-Chapter](250-4-3-0-mid-chapter.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,12 @@ updated: "2026-02-03T15:30:48+00:00"
 archived: "2026-09-26T02:18:06Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The First, The Deathslinger, The Xenomorph and other killers got numerous visual and animation fixes, including corrected aiming reticles, locker interactions, and camera locks, while the Turn Back the Clock perk now respects activation timers and visual cues for all killers. Audio glitches such as misplaced survivor screams and Dustin voice timing were resolved, bot healing near drones was improved, and map collisions on the Underground Complex ventilation were added. Additional perk bugs—ranging from generator completion with Brand New Part Toolbox to token accrual on We See You—were addressed, and miscellaneous issues like incorrect generator aura colors were fixed.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [9.4.0 | Stranger Things Chapter 2](534-9-4-0-stranger-things-chapter-2.md) · [Live](../../index.md#live) · [9.4.2 | Bugfix Patch](536-9-4-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

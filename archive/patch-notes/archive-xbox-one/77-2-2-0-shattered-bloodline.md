@@ -9,6 +9,12 @@ updated: "2020-02-28T21:55:51+00:00"
 archived: "2026-09-26T02:19:32Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Patch 2.2.0 introduces a new player-reporting option in the Tally, a Help Desk link, and the Safe Hook Rescue score event that rewards survivors who rescue teammates after unhooking, alongside a new Broken status effect applied by the Deliverance perk. It also adds menu and lobby music, Portuguese text, and rebalances several killers (shorter interrupt animations, uniform lunge speed for 4.4 m/s killers, Huntress hatchet collision) plus unhook and pallet throw animations. Map geometry is tweaked across most locations, Bloodlust speed bonuses are reduced, Emblem screens now show contribution breakdowns, and the Trapper’s trap buffering returns. The Wraith receives an add-on overhaul, the Nurse’s interruption animations are readjusted, and a killer, map, perk, programming, audio, UI and localization bugs are fixed.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.1.2 | Hotfix](76-2-1-2-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [2.2.1 | Hotfix](78-2-2-1-hotfix.md) &rarr;
 <!-- /nav -->

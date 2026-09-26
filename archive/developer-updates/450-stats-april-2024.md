@@ -9,6 +9,12 @@ updated: "2024-05-17T14:06:06+00:00"
 archived: "2026-09-26T02:20:11Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Unknown posted a 64 % kill rate and 10 % usage in its debut month, topping the most-popular Killer list, while the Hillbilly fell to 4 % after his recent patch. The new generator-regression limit cut three-generator matches from 10 % to 4.5 % and left regular matches largely unchanged, with only 1.4 % seeing a blocked generator and an average of 3.5 kicks per game. Meanwhile Nemesis demonstrated overwhelming zombie-killing power, delivering roughly ten times more punches and whips than survivors, who endured 48 million zombie attacks (about 1.74 per match).
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | May 2024](448-developer-update-may-2024.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | May 2024 PTB](451-developer-update-may-2024-ptb.md) &rarr;
 <!-- /nav -->

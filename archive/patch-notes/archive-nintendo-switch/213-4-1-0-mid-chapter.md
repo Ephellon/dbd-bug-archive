@@ -9,6 +9,14 @@ updated: "2020-07-28T14:32:14+00:00"
 archived: "2026-09-26T02:19:50Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Cannibal now has three Chainsaw Sweep charges, faster sweep speed and revised add-ons, while the Hillbilly gains an overheat meter that limits chainsaw use and also sees its add-ons updated. A technical Aura rework changes its appearance, a Promo Code system is added to the Store, and killers can no longer switch characters while queuing.
+
+The rest of the patch focuses on stability, fixing audio, animation and collision issues for multiple killers and survivors, correcting perk token and aura display bugs, polishing map geometry and texture glitches, and adjusting UI scaling for lower-resolution displays.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.0.3 | Hotfix ](200-4-0-3-hotfix.md) · [Archive: Nintendo Switch](../../index.md#archive-nintendo-switch) · [4.1.1 | Bug fix Patch ](223-4-1-1-bug-fix-patch.md) &rarr;
 <!-- /nav -->

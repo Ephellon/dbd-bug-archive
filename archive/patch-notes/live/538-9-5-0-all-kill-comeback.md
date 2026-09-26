@@ -9,6 +9,14 @@ updated: "2026-03-17T14:30:07+00:00"
 archived: "2026-09-26T02:18:05Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The update adds the Trickster’s Delusion map, introduces survivor Kwon Tae-Young with Flow State, A Place For Us and Five Moves Ahead perks, and overhauls The Trickster’s power with a new Style Points/Rank system, adjusted blade count, speed, laceration mechanics and revamped add-ons.
+
+All perk descriptions for killers and survivors were rewritten for clearer, shorter language and UI tooltips now expand status effects; aura colors became customizable and a new prestige menu with extra rewards was added, along with extensive bug fixes to audio, bot behavior, character animations, map collisions and UI.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [9.4.2 | Bugfix Patch](536-9-4-2-bugfix-patch.md) · [Live](../../index.md#live) · [9.5.1 | Bugfix Patch](539-9-5-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

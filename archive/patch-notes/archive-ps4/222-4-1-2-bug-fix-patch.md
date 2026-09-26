@@ -9,6 +9,12 @@ updated: "2020-08-11T14:33:15+00:00"
 archived: "2026-09-26T02:19:28Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Hillbilly’s Overheat mechanic was tweaked, lowering the base heat dissipation from -5 to -3.5 charges per second so heat buildup now requires active management. The patch also bundles a range of PS4 fixes: the Hillbilly’s chainsaw charge now resets correctly after stun and no longer lunges at extreme speeds, the Nurse’s blink no longer traps her in terrain, killers no longer freeze mid-animation after high falls, and the frequency of Sync Error 111 on the Tally screen has been reduced.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.1.1 | Bugfix Patch](216-4-1-1-bugfix-patch.md) · [Archive: PS4](../../index.md#archive-ps4) · [4.2.0 | Descend Beyond](230-4-2-0-descend-beyond.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,14 @@ updated: "2026-03-31T14:30:22+00:00"
 archived: "2026-09-26T02:18:05Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Trickster received a longer Laceration Meter decay delay (now 16 seconds) and multiple add-on tweaks: common add-ons now grant eight total blades and start with eight extra, style-rank decay, throw-speed boosts, haste, and faster vault/break actions; rare and visceral add-ons extend reveal time, damage boost per style rank, and refill blades at 75 % capacity.
+
+The patch mostly consists of a wide-range bug-fix sweep, addressing audio anomalies (incorrect Huntress lullaby range, voice line and menu music issues), character animation glitches, map lighting and collision errors, perk timing, UI display problems and several Mastermind and bot interaction bugs, alongside a few known issues.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [9.5.1 | Bugfix Patch](539-9-5-1-bugfix-patch.md) · [Live](../../index.md#live) · [9.6.0 | Patch Notes](544-9-6-0-patch-notes.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,12 @@ updated: "2025-12-09T15:30:26+00:00"
 archived: "2026-09-26T02:18:07Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Skull Merchant’s Undetectable now lasts eight seconds and is granted when recalling a drone, while the Breakdown and Wicked survivor perks have been re-enabled with their original hook-break and aura durations. Pallet loops on seven maps—including Autohaven Wreckers and The MacMillan Estate—were adjusted for safer spawns, and the Bone Chill event returns on December 9. The update is otherwise a comprehensive bug-fix sweep covering audio glitches, character animation and outfit issues, numerous map collision and interaction problems, perk obsession duplication, platform friend-adding and controller vibration bugs, quest tracking errors, UI icon bugs, and miscellaneous effects such as flashbang blind and AFK crow dissolution.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [9.3.0 | Mid-Chapter](529-9-3-0-mid-chapter.md) · [Live](../../index.md#live) · [9.4.0 | Stranger Things Chapter 2](534-9-4-0-stranger-things-chapter-2.md) &rarr;
 <!-- /nav -->

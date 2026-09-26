@@ -9,6 +9,12 @@ updated: "2024-11-28T15:57:02+00:00"
 archived: "2026-09-26T02:18:13Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Houndmaster arrives as a new Killer with the Scent of Blood power, adding Chase and Search commands, and three exclusive perks (All-Shaking Thunder, Scourge Hook: Jagged Compass, No Quarter). New Survivor Taurie Cain joins with three unique perks (Invocation: Treacherous Crows, Clean Break, Shoulder the Burden). The update also reduces Sacrificial Ward Offering rarity, tweaks dozens of existing Killer and Survivor abilities, rebalances several perks, and overhauls UI elements such as the activity and perk HUDs, inbox, and store carousel. It ships with a large batch of bug fixes covering map geometry, character interactions, UI crashes, and PTB-only issues for the Houndmaster and her dog, plus performance and collision tweaks.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [8.3.2 | Bugfix Patch](477-8-3-2-bugfix-patch.md) · [Live](../../index.md#live) · [8.4.1 | Bugfix Patch](483-8-4-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

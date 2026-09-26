@@ -9,6 +9,12 @@ updated: "2025-03-07T16:58:19+00:00"
 archived: "2026-09-26T02:20:06Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Legion’s fatigue, Feral Frenzy and movement values are tuned, Xenomorph’s tail charge, tunnel exit speed and heat mechanics receive adjustments, Good Guy’s Slice & Dice acceleration is sped up, and several killers (Hillbilly, Blight, Pig, Ghost Face, Skull Merchant) get their terror radii changed to match playstyle. Self-and altruistic-mending times are lowered, and a suite of perk cooldowns and durations (Quick and Quiet, Deception, Dance With Me, Red Herring, Knock Out, Alien Instinct, Hysteria, Deathbound, Nemesis) are updated for better balance. A new “Surrender” option appears in match details for specific bot or stalled-game scenarios, and the Forsaken Boneyard realm adds a Shack-centered map with revised tiles. The changes arrive in the upcoming PTB for the 8.6.0 update.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | January 2025 PTB](489-developer-update-january-2025-ptb.md) · [Developer Updates](../index.md#developer-updates) · [Design Preview | Future Plans + Update on The Trickster](496-design-preview-future-plans-update-on-the-trickster.md) &rarr;
 <!-- /nav -->

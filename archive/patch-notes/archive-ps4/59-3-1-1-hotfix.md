@@ -9,6 +9,12 @@ updated: "2020-03-02T19:55:40+00:00"
 archived: "2026-09-26T02:19:22Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+William “Bill” Overbeck becomes a new survivor and four Left 4 Dead outfits for Dwight, Meg, Claudette and Jake are added, while UI tweaks expand prompt rows, shrink icon sizes and correct Huntress outfit icons. The update also smooths the Pig’s crouch speed transition, a change missed in 3.1.0. The bulk of the hotfix addresses visual glitches, collision and interaction bugs across several maps—overlapping prompts, mis-placed Dream Snares, locker perk deactivation, incorrect aura visibility, map asset disappearing, faulty fence collisions, totem prompt angles, and post-match bloodpoint display—plus assorted perk and perk-related issues.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.1.0 | Mid-Chapter](58-3-1-0-mid-chapter.md) · [Archive: PS4](../../index.md#archive-ps4) · [3.1.2 | Hotfix](60-3-1-2-hotfix.md) &rarr;
 <!-- /nav -->

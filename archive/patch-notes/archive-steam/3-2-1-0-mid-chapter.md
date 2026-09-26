@@ -9,6 +9,12 @@ updated: "2020-03-02T15:07:43+00:00"
 archived: "2026-09-26T02:19:00Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Mid-chapter adds a progress bar to emblem tooltips, status-effect alerts for Vigil and Decisive Strike, and a proficiency overlay for interaction progress. Balance shortens Killer pick-up to three seconds, makes every player’s Obsession status visible with chase alerts, stops Exhaustion recovery while running, and tweaks the Wraith’s uncloaking smoke. Rank reset now protects ranks 15-20 and revises pip returns. Killer and Survivor perks are reworked, notably Bitter Murmur aura reveal, Brutal Strength generator speed, Hangman’s Trick trap timer and Dark Sense aura reveal. The Trapper gains two new add-ons and faster traps, Huntress charge times are reduced, and Brand New Part now grants partial generator progress. Numerous audio, animation, map geometry, perk, UI and PC stability fixes were applied.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.0.0 | Curtain Call](2-2-0-0-curtain-call.md) · [Archive: Steam](../../index.md#archive-steam) · [2.1.1 | Hotfix](4-2-1-1-hotfix.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,12 @@ updated: "2025-10-07T14:59:33+00:00"
 archived: "2026-09-26T02:18:07Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Krasue receives ability adjustments: leech fully removed on hook, head-form weave time raised to 1.2 s, Intestinal Whip wind-up to 0.3 s with shorter collision, and Regurgitate cooldowns increased to 1.3 s. Survivor perk Off The Record regains the Endurance effect and its duration is cut to 30/35/40 s. The patch chiefly fixes bugs—audio direction, character animations and interactions (female survivor locker float, barbed-wire trails, Lich spell VFX, Blight rush after pallet stun, Dark Lord model, Animatronic jumpscare and match-end issues), map navigation and clipping glitches, quest progression, UI crashes, lobby and score handling, and various visual/audio issues. A known issue states the REVERENCE Rift Pass will launch missing Claudette head cosmetics, to be gifted later.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [9.2.1 | Bugfix Patch](524-9-2-1-bugfix-patch.md) · [Live](../../index.md#live) · [9.2.3 | Bugfix Patch](526-9-2-3-bugfix-patch.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,12 @@ updated: "2022-12-15T14:09:37+00:00"
 archived: "2026-09-26T02:18:28Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Knight’s guards now apply the Killer’s default 2.5% generator regression loss, unaffected by perks, and the Bone Chill holiday event returns on Dec 8 with seasonal cosmetics and visitors. The patch also resolves a PlayStation analog-cursor freeze, fixes several Knight animation and pathing issues, restores the Oni’s weapon visibility on the results screen, and corrects the Guardia Compagnia perk’s terror-radius icon and Spine Chill repair bonus. Across maps, numerous collision, pallet, and object placement bugs are addressed, including fixes on Temple of Purgation, Autohaven Wrecker’s, Crotus Prenn Asylum, Garden of Joy, The Shattered Square and Decimated Borgo Realm offerings. Miscellaneous visual glitches for survivors and loadout visibility in custom games are also fixed.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [6.4.1 | Bugfix Patch](366-6-4-1-bugfix-patch.md) · [Live](../../index.md#live) · [6.4.3 | Bugfix Patch](368-6-4-3-bugfix-patch.md) &rarr;
 <!-- /nav -->

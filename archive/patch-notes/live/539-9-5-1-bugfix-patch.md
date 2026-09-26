@@ -9,6 +9,12 @@ updated: "2026-03-24T14:30:07+00:00"
 archived: "2026-09-26T02:18:05Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Trickster's S-Rank now pauses Laceration Meter decay, and its power description was clarified; all perks and killer powers are now supported on Blood Generators with a new marker for unsupported ones, Blood Cans can be held alongside a regular or killer item, and the generator completion score event is shared among survivors. The patch also adds a Blood Moon launch on March 26. Beyond these changes the update is a broad bug-fix sweep covering audio glitches, character animation and aura issues, numerous map collision and interaction problems, perk icon and activation bugs, quest progress errors, and UI overlaps, with a single known issue for The Mastermind.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [9.5.0 | All-Kill: Comeback](538-9-5-0-all-kill-comeback.md) · [Live](../../index.md#live) · [9.5.2 | Bugfix Patch](541-9-5-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

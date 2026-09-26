@@ -9,6 +9,12 @@ updated: "2020-03-02T20:21:25+00:00"
 archived: "2026-09-26T02:19:20Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Survivor pipe thresholds were revised: at ranks 9-12 the +1 threshold is now 10 (down from 11) and +2 is 14; at ranks 8-5 +1 is 11 and +2 remains 14; at ranks 1-4 +1 is 12 and +2 is 15. All other rank thresholds stay unchanged. The update also included several stability fixes, correcting repeated cleansing audio from fountains, lobby ready/unready glitches after a player disconnect, and a transient pre-lobby screen issue when exiting Twitch Challenges.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.6.3 | Ash VS Evil Dead](51-2-6-3-ash-vs-evil-dead.md) · [Archive: PS4](../../index.md#archive-ps4) · [2.7.0 | Mid-Chapter](53-2-7-0-mid-chapter.md) &rarr;
 <!-- /nav -->

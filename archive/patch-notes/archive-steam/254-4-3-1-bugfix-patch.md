@@ -9,6 +9,12 @@ updated: "2020-10-28T14:26:09+00:00"
 archived: "2026-09-26T02:19:12Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Multiple core systems received fixes in 4.3.1. Medkits with 32 charges now fully heal the second health state, Discordance auras correctly show during generator repairs, and killers retain proper first-person posture after intros. Halloween hook auras, the Nightmare’s mori dissolve, and the Demogorgon’s Shred animation were restored, while the Blighted Serum no longer permits early power use after a hook. Quest-related cankers, survivor models stuck in the Cage of Atonement on disconnect, Madness audio levels, and killer music leaking to spectators in custom lobbies have all been corrected.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.3.0 | Mid-Chapter](247-4-3-0-mid-chapter.md) · [Archive: Steam](../../index.md#archive-steam) · [4.3.2 | Bugfix Patch](260-4-3-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

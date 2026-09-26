@@ -9,6 +9,14 @@ updated: "2026-06-16T14:32:39+00:00"
 archived: "2026-09-26T02:18:03Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Slasher (Jason) arrives with the Omnipresent Evil ability—granting invisibility, Undetectable and vision through Mist Clouds and footprints—plus a Jump Scare teleport and Throwing Spikes that injure, impale or immobilise survivors. Three exclusive perks (Hex: Scared to Death, Silent Shadow, Rampage) join the roster, while aura colour customization expands and a new Killer Power Match Details tab offers on-the-fly power explanations. The Doctor’s vignette and light/shake intensity have been toned down.
+
+Beyond the new killer, the update is dominated by bug fixes: audio glitches, character animation and aura errors, map collision and projectile issues, perk and UI inconsistencies, platform-specific problems and miscellaneous gameplay fixes. Known issues note temporary Epic achievement loss and limited Switch availability of the DLC.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [9.6.2 | Bugfix Patch](546-9-6-2-bugfix-patch.md) · [Live](../../index.md#live) · [10.0.1 | Bugfix Patch ](551-10-0-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

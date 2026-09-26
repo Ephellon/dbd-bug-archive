@@ -9,6 +9,12 @@ updated: "2024-03-13T12:06:25+00:00"
 archived: "2026-09-26T02:18:19Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Unknown arrives as a new Killer with Hallucinations and teleportation, while Sable Ward adds three basement-focused Survivor perks that modify generator progress, allow med-kit-free healing and guarantee. The Greenville Square map opens on the Withered Isle and Mangled now includes timers on each source for choice. Existing killers get balance tweaks - rushes for The Blight, faster Afterpiece Antidote for The Clown, reduced Shred cooldown for The Demogorgon, longer Shock Therapy range for The Doctor, more hatchets for The Huntress and quicker ambush attacks for The Pig. The patch adds Bloodweb UI shortcuts, load-out search, outfit tag fixes and audio, bot, map and perk bug fixes, with issues for The Unknown DLC cosmetic, Twins-Charlotte navigation and Scourge Hook percentages.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [7.5.1 | Bugfix Patch](432-7-5-1-bugfix-patch.md) · [Live](../../index.md#live) · [7.6.1 | Bugfix Patch](439-7-6-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

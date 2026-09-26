@@ -9,6 +9,12 @@ updated: "2020-09-24T14:30:30+00:00"
 archived: "2026-09-26T02:19:12Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Blight now destroys pallets and breakable walls while performing a Lethal Dash, and its Compound 21 add-on was rebalanced—its reveal radius cut from 16 m to 8 m and its effect duration reduced from six to three seconds. The patch also adds a Japanese-region Auric Cell expiration notice and addresses a suite of gameplay glitches, including input-lagged actions when hooking, breaking pallets or damaging generators, network-related movement stutter, inconsistent stun times, unintended camera-pitch control during the Blight’s injection, accelerated locker-grab timing with Iron Maiden, and survivors getting stuck on hooks.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.2.1 | Bugfix Patch](233-4-2-1-bugfix-patch.md) · [Archive: Steam](../../index.md#archive-steam) · [4.3.0 | Mid-Chapter](247-4-3-0-mid-chapter.md) &rarr;
 <!-- /nav -->

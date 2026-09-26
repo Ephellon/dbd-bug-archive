@@ -9,6 +9,12 @@ updated: "2020-03-10T15:00:28+00:00"
 archived: "2026-09-26T02:19:48Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+New survivor Zarina Kassir, new killer The Deathslinger and the Dead Dawg Saloon - Grave of Glenvale map arrive, plus a high-ping HUD icon. The update overhauls several systems: hook sabotage skill checks are removed, toolbox repair rates and skill-check chances are tweaked, The Doctor’s madness mechanics and affliction add-ons are simplified, and the Trapper’s bear traps can no longer be sabotaged. A handful of perk adjustments and item charge handling changes accompany these balances. The build is primarily a bug-fix sweep, addressing emblems, killer animations, custom-game lobby issues, map collisions, cosmetic clipping and audio localisation across the Switch version.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.5.2 | Hotfix](114-3-5-2-hotfix.md) · [Archive: Nintendo Switch](../../index.md#archive-nintendo-switch) · [3.6.1 | Hotfix](172-3-6-1-hotfix.md) &rarr;
 <!-- /nav -->

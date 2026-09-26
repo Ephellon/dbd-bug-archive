@@ -9,6 +9,12 @@ updated: "2026-08-04T14:30:18+00:00"
 archived: "2026-09-26T02:18:40Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Judgment arrives as a new killer with the Will of the Gods power, letting players control a movable Divine Light that can be cast to damage and mark survivors as Heretics, and a Zealous state that enhances its abilities; the PTB also adds Aurora as a new survivor with token-based perks that boost haste, healing and grant a unique Boon Totem. Numerous balance tweaks adjust unhook protections, several killer and survivor perks (including A Nurse’s Calling, Call of Brine, Coulrophobia, Sprint Burst and others) and introduce a Gameplay Showcase UI section. The update is rounded out by extensive bug fixes covering audio glitches, character visual errors, bot behavior, map collisions, perk displays and UI inconsistencies.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [10.0.0 | Jason PTB Patch Notes](548-10-0-0-jason-ptb-patch-notes.md) · [Player Test Build (PTB)](../../index.md#player-test-build-ptb) · [10.2.0 PTB Patch Notes](559-10-2-0-ptb-patch-notes.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,12 @@ updated: "2022-02-02T15:28:49+00:00"
 archived: "2026-09-26T02:18:34Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Wiggle progress now stays steady during both new and old interactions. The Coldwind Farm - Fractured Cowshed and Crotus Prenn Asylum - Father Campbell’s Chapel maps have been re-enabled. The patch primarily delivers a broad sweep of bug fixes: lingering tooltips, several killer-specific issues (Cannibal pallet break, Demogorgon shred, Nemesis tentacle visibility, Nurse blink delays), perk cooldown glitches, interaction interruptions, animation mismatches, achievement unlocking errors, UI and VFX problems, map geometry quirks, and missing cosmetics. Known issues note the Haddonfield map and Strode Realty Key offering remain disabled, and the Nurse still suffers blink-related delays and fatigue state bugs.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [5.5.0 | Mid-Chapter](311-5-5-0-mid-chapter.md) · [Live](../../index.md#live) · [5.5.2 | Bugfix Patch](323-5-5-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

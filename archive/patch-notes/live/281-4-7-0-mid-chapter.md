@@ -9,6 +9,12 @@ updated: "2021-05-05T19:04:03+00:00"
 archived: "2026-09-26T02:18:39Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Mid-Chapter 4.7 adds Tome VII to the Archives, replaces settings checkboxes with ON/OFF steppers, refreshes all Coldwind Farm maps and optimizes the Doctor’s VFX. Killer updates include the Twins’ faster cooldown and stronger Ultra-Rare addons, the Demogorgon’s quicker portal traversal and Shred speed, the Nightmare’s reduced trap charges and new Dream-World sound cues, and a Huntress addon overhaul fixing rarity and hatchet limits. Survivors gain a new hook-struggle system using skill checks, while perks such as Small Game, Object of Obsession, Lucky Break and Zanshin Tactics are rebalanced. The patch also bundles extensive bug, audio and platform-specific fixes and minor map tweaks.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.6.1 | Bugfix Patch](280-4-6-1-bugfix-patch.md) · [Live](../../index.md#live) · [4.7.1 | Bugfix Patch](282-4-7-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

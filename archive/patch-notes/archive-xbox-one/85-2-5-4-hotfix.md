@@ -9,6 +9,12 @@ updated: "2020-02-28T22:06:22+00:00"
 archived: "2026-09-26T02:19:35Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Lunar Event tweaks now guarantee two Red Envelopes in level-50 Bloodwebs and raise killer points to three for each hook and four for destroying a Lunar Vessel after a hook. The hotfix also resolves a bug that mistakenly handed Lunar progress to clients when the host left during match transition, and fixes the Wake Up! perk not displaying exit-gate auras.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.5.3 | Hotfix](84-2-5-3-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [2.6.0 | Demise of the Faithful](86-2-6-0-demise-of-the-faithful.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,12 @@ updated: "2020-10-28T14:28:05+00:00"
 archived: "2026-09-26T02:20:00Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Medkit healing, the Discordance perk, Nightmare, Demogorgon, Blighted Serum and related quest cankers all receive bug fixes, alongside survivor aura visibility, first-person intro posture, hook aura display, Shred animation, post-Mori dissolution, and lingering models in the Cage of Atonement. Audio levels for Madness, killer music in custom lobbies, and other visual/audio quirks are also corrected, making the patch a comprehensive clean-up of numerous gameplay, animation and sound issues.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.3.0 | Mid-Chapter](252-4-3-0-mid-chapter.md) · [Archive: Stadia](../../index.md#archive-stadia) · [4.3.2 | Bugfix Patch](265-4-3-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

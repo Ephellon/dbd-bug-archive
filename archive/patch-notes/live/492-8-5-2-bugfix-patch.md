@@ -9,6 +9,12 @@ updated: "2025-02-12T15:29:28+00:00"
 archived: "2026-09-26T02:18:12Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Survivor's Herb interaction snap time has been reduced, and a series of stability fixes were deployed across the live client. Bot-cage glitches, floating survivors, and map-specific collision issues in Raccoon City Police Station, Coldwind Farm, Mother's Dwelling and other areas were resolved, along with animation interruptions for the Deathslinger's harpoon and window vaults. Audio bugs affecting outfit sounds, footstep SFX, Slice & Dice screams and several killer voices were corrected. Character-related problems such as outfit clipping, duplicate weapon models, Bloodweb node errors, add-on misbehaviour, and the Twins' instant recall were fixed. UI visibility issues in lobbies and Beginner Mode tooltips were also addressed.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [8.5.1 | Bugfix Patch](491-8-5-1-bugfix-patch.md) · [Live](../../index.md#live) · [8.6.0 | Tokyo Ghoul](498-8-6-0-tokyo-ghoul.md) &rarr;
 <!-- /nav -->

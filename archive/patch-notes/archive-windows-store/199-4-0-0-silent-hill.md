@@ -9,6 +9,14 @@ updated: "2020-06-16T14:32:36+00:00"
 archived: "2026-09-26T02:19:56Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+New content adds the Executioner killer, Cheryl Mason survivor, and Midwich Elementary School map, plus customization sets, a Legendary rarity tier, inventory sorting options, UI scaling for 4K screens and a block feature on the Tally screen. Balance tweaks remove the Clown’s bottle-throw slowdown and adjust the Shape’s Evil Within add-on wording.
+
+The remainder focuses on extensive bug fixes: collision and geometry issues across multiple maps, stuck or animation glitches for survivors and killers, UI and lobby display problems, perk and power bugs, language translation fixes, and cosmetic clipping corrections.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.7.2 | Hotfix](193-3-7-2-hotfix.md) · [Archive: Windows Store](../../index.md#archive-windows-store) · [4.0.2 | Hotfix](201-4-0-2-hotfix.md) &rarr;
 <!-- /nav -->

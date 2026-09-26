@@ -9,6 +9,12 @@ updated: "2020-03-02T15:28:57+00:00"
 archived: "2026-09-26T02:19:06Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Demogorgon’s Shred now automatically breaks pallets, prompting a reworked Red Moss add-on that extends Undetectable duration and slows Upside-Down power recovery; Surge now earns a Destruction score per affected generator and Second Wind shows activation progress, while Survive With Friends matchmaking now uses the highest group rank. The hotfix also adds Temporal Anti-Aliasing to low graphics settings and resolves numerous visual and audio glitches for killers such as Trapper, Pig, Hillbilly, Huntress, Doctor and The Shape, corrects map lighting, texture and collision bugs across several locations, and fixes a suite of network, lobby and crash issues. Known issues remain with end-game timer sync, Pig’s camera shake and untranslated warnings.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.1.1 | Hotfix](29-3-1-1-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [3.2.2 | Hotfix](31-3-2-2-hotfix.md) &rarr;
 <!-- /nav -->

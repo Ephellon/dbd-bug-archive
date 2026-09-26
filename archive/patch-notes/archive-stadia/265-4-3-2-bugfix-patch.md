@@ -9,6 +9,12 @@ updated: "2020-11-03T16:19:16+00:00"
 archived: "2026-09-26T02:20:00Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Discordance’s detection range was extended to 64/96/128 meters and its post-generator aura trimmed to four seconds, while Blood Favor’s description now clarifies it only triggers on basic attacks. The update also resolves numerous bugs: trap and snare placement on Macmillan Estate, Spirit’s breathing during phase, extra totems on Rotten Fields and Coal Tower, missing Halloween generators in Midwich Elementary, missing beard on the Orbital Captain head, outfit clipping on Yui’s Miss Speedway set, and the Blight’s Alchemist Ring erroneously affecting rush token recharge.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.3.1 | Bugfix Patch](259-4-3-1-bugfix-patch.md) · [Archive: Stadia](../../index.md#archive-stadia) · _newest_ &rarr;
 <!-- /nav -->

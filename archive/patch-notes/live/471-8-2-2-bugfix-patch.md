@@ -9,6 +9,12 @@ updated: "2024-09-11T14:25:44+00:00"
 archived: "2026-09-26T02:18:14Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Eight original characters—including Ace Visconti, Feng Min, Kate Denson, Adam Francis, The Hag, The Doctor, The Clown and The Spirit—saw their shop price cut to 125 AC/$1.25, and the Maddening Darkness DLC was lowered to $9.99. The Nemesis’ Licker Tongue now hinders survivors for 1 second, and the Dark Lord received faster bat movement (6.5 m/s), increased teleport speed (12 m/s), a halved shapeshift cooldown (2.5 s) and a reduced Magical Ticket proc chance (10%). The patch also addressed a range of bugs, fixing missing idle and theme sounds, several character animation and addon glitches, collision and interaction issues on multiple maps, and a Fire Up perk token-gain bug.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [8.2.1 | Bugfix Patch](469-8-2-1-bugfix-patch.md) · [Live](../../index.md#live) · [8.3.0 | Mid-Chapter](475-8-3-0-mid-chapter.md) &rarr;
 <!-- /nav -->

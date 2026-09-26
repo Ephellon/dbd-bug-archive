@@ -9,6 +9,12 @@ updated: "2020-03-02T20:08:45+00:00"
 archived: "2026-09-26T02:19:24Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+A hotfix addressed several survivor-related bugs on PS4. It corrected a problem where survivors could fall out of the world when hooked, and another where they could drop through floors from a killer’s shoulder. The update also stabilized the wiggle UI, stopping flickering during interruptions and preventing it from disappearing after being picked up, dropped, or grabbed by a killer near another survivor.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.4.0 | Cursed Legacy](66-3-4-0-cursed-legacy.md) · [Archive: PS4](../../index.md#archive-ps4) · [3.4.2 | Hotfix](68-3-4-2-hotfix.md) &rarr;
 <!-- /nav -->

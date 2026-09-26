@@ -9,6 +9,12 @@ updated: "2024-10-16T19:12:49+00:00"
 archived: "2026-09-26T02:18:14Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Haunted By Daylight launches on October 17 at 11 am ET, opening its event Tome the same time. The patch also resolves a wide range of bugs: audio glitches for female survivors and Legion’s outfit, bot blind-spot prediction and slower Deathslinger reaction, character visual issues for Renato, Good Guy, Cenobite, Deathslinger’s outfit and Trevor Belmont, several map faults on Badham, Raccoon City Police Station, Suffocation Pit, Wreckers’ Yard, The Game and Mori Finisher assets, and numerous perk malfunctions (Deathbound, Distortion, Hex: Huntress Lullaby, THWACK!, Blood Rush). UI anomalies, matchmaking anti-cheat timeouts, flashlight-while-screaming misuse, and various crashes are also fixed, with Mori animation FPV errors noted for future work.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [8.3.0 | Mid-Chapter](475-8-3-0-mid-chapter.md) · [Live](../../index.md#live) · [8.3.2 | Bugfix Patch](477-8-3-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

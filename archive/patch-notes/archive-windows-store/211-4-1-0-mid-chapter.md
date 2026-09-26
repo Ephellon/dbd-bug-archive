@@ -9,6 +9,12 @@ updated: "2020-07-28T14:29:30+00:00"
 archived: "2026-09-26T02:19:57Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Aura system was technically refactored, changing its visuals, a promo-code store feature was added and killers can no longer switch characters while queuing, preparing future skill-based matchmaking. The Cannibal received three chainsaw-sweep charges, faster sweep speed and a full add-on overhaul, while the Hillbilly gained an overheat meter that limits chainsaw use and also saw most add-ons revised. Several perks - Franklin’s Demise, Knock Out, Lightborn and Tinkerer - were tweaked. The patch primarily delivered wide-ranging bug fixes for killers, survivors, perks, maps and UI, and incorporated PTB tweaks such as paused meters and disabled blood-stain VFX.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.0.2 | Hotfix](201-4-0-2-hotfix.md) · [Archive: Windows Store](../../index.md#archive-windows-store) · [4.1.1 | Bugfix Patch](218-4-1-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

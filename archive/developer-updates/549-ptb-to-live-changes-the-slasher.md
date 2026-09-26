@@ -9,6 +9,12 @@ updated: "2026-06-10T17:01:49+00:00"
 archived: "2026-09-26T02:20:01Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Jason’s The Slasher chapter gets balance tweaks before going Live. Pinned rescues no longer count as healing, husk attacks gain a short delay, anti-camp slowdown boosts from X2 to X3, and cancelling the charge projectile now applies a heftier speed penalty. Addon values are adjusted: Toxic Waste range ↑ to 8 m, Coroner’s Coffee haste ↓ to 8 %, Bloody Magazine range ↓ to 8 m, Eye Goop undetectable ↑ to 13 s, Iridescent Boat Motor block ↑ to 13 s, and Deputy’s Badge is reworked to explode generators within 4 m only while Omnipresent Evil is active. Silent Shadow now grants Undetectable on each hook and once all generators finish, replacing the early-match effect. These alterations shift the PTB version toward the June 16 Live release.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Stats | Blood Moon 2026](547-stats-blood-moon-2026.md) · [Developer Updates](../index.md#developer-updates) · [Stats | Global Stats](554-stats-global-stats.md) &rarr;
 <!-- /nav -->

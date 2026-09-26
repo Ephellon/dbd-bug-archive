@@ -9,6 +9,12 @@ updated: "2025-01-08T15:28:14+00:00"
 archived: "2026-09-26T02:18:44Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Nightmare is reworked: Dream Snares and Dream Pallets become base abilities with button-swap controls, ranged projectiles, Rupture and faster Dream Projection (2.5 s, 30 s cooldown). Dream World visuals improve and new addons adjust snare size, pallet delay, sleep gain and more. Killer and Survivor perks are balanced - Beast of Prey gains temporary Undetectable, Fire Up’s speed bonus rises, Vigil’s radius expands, and Wake Up! speeds Exit Gate opening. New features add deep-wound progress bars, a limited-time character trial system (The Nightmare and Quentin Smith free for all), revised map repeat logic, outfit tab cosmetics and action-bar normalization. The build also includes broad bug fixes for audio, bot behavior, character interactions, map collisions, perk functionality, UI placeholders and miscellaneous issues.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [8.4.0 | PTB Patch Notes](479-8-4-0-ptb-patch-notes.md) · [Player Test Build (PTB)](../../index.md#player-test-build-ptb) · [8.6.0 | PTB Patch Notes](495-8-6-0-ptb-patch-notes.md) &rarr;
 <!-- /nav -->

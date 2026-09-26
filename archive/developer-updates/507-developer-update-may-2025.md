@@ -9,6 +9,14 @@ updated: "2025-05-26T12:58:23+00:00"
 archived: "2026-09-26T02:20:04Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Added a “going next” detector that tags intentional survivor sacrifices and gives a Disconnection Penalty Point, while self-unhooks on first hook require Slippery Meat, Up the Ante, or Luck offerings, which now also unlock self-unhooking. Updated AFK detection spawns crows that at three strip survivor collision, introduced an Auto Bloodweb button, allowed early Mori activation, made map offerings probabilistic and hidden, tightened spawn rules and swapped Shroud of Separation/Vanishing names.
+
+The Lich now starts with all spells, has lower cooldowns and faster Dispelling Sphere, while The Artist’s add-ons were rebalanced. Numerous survivor perks—including Call of Brine, Dark Devotion, Hex: Retribution and Light-Footed—receive minor buffs.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Design Preview | The Skull Merchant Part 2](504-design-preview-the-skull-merchant-part-2.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | July 2025](513-developer-update-july-2025.md) &rarr;
 <!-- /nav -->

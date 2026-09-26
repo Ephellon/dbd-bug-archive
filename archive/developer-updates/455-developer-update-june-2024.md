@@ -9,6 +9,14 @@ updated: "2024-06-25T12:26:33+00:00"
 archived: "2026-09-26T02:20:10Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The update lets The Knight swap guards and requires patrol paths of at least 10 m, granting up to 1.5× longer hunt time. Hunt times, banner spawns, break speeds and detection ranges for The Carnifex, The Jailer and The Assassin are reshuffled, and The Knight’s guard depletes faster near the Killer. The Singularity gains Biopod targeting tweaks, new aim-assist, altered Overclock duration and cooldown, and EMPs now have reduced passive printing and shorter slipstream immunity.
+
+Cooldowns for I’m All Ears, Trail of Torment, Oppression, Dragon’s Grip and other perks are cut, while Machine Learning and Babysitter durations are extended. Hooks repair themselves 60 seconds after a sacrifice, and Yamaoka Estate and Mount Ormond Resort receive layout variations. UI tweaks complete the patch.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | May 2024 PTB](451-developer-update-may-2024-ptb.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | June 2024 PTB](458-developer-update-june-2024-ptb.md) &rarr;
 <!-- /nav -->

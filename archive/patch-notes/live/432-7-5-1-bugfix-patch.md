@@ -9,6 +9,14 @@ updated: "2024-02-08T15:44:42+00:00"
 archived: "2026-09-26T02:18:19Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Blight receives two new addons (Adrenaline Vial and Compound Thirty-Three) adjusting Rush token limits, speed, turn rate and duration, while the Hillbilly gains Greased Throttle and The Thompson’s Mix to shorten Chainsaw recovery outside Overdrive. The Onryo’s power is rebalanced: Condemned cooldown removed, stack cap raised to three, projection boost and manifesting speed increased. A Lights Out modifier runs from Feb 7-14, 2024 with an event tome.
+
+The patch also fixes numerous bugs across archives, achievements, audio, bots, character models, maps, perks and UI, addressing skill-check tracking, sound overlaps, bot navigation, colliders, perk calculations and menu responsiveness.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [7.5.0 | Hotfix](431-7-5-0-hotfix.md) · [Live](../../index.md#live) · [7.6.0 | All Things Wicked](437-7-6-0-all-things-wicked.md) &rarr;
 <!-- /nav -->

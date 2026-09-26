@@ -9,6 +9,14 @@ updated: "2026-05-28T15:03:52+00:00"
 archived: "2026-09-26T02:18:41Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Slasher arrives on the Jason PTB with the Omnipresent Evil power, granting invisibility and Undetectable while revealing survivors via mist clouds and footprints, plus Jump Scare movement and Throwing Spikes that impale and immobilize. New killer perks Hex: Scared to Death, Silent Shadow and Rampage accompany him, and a placeholder original survivor adds three fresh survivor perks.
+
+The PTB also unlocks all Steam-purchased characters at Prestige 3, grants 12.5 k Auric Cells and 1 M Bloodpoints, pre-loads offerings at 99, and adds new aura colour options and a Killer Power tab. The update primarily delivers bug fixes - correcting Mastermind wall grabs, audio anomalies, AI awareness, numerous map collisions, perk wording, UI glitches, and stability issues across consoles and tutorials.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [9.6.0 | PTB Patch Notes](542-9-6-0-ptb-patch-notes.md) · [Player Test Build (PTB)](../../index.md#player-test-build-ptb) · [10.1.0 | PTB Patch Notes](555-10-1-0-ptb-patch-notes.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,12 @@ updated: "2023-01-26T14:57:12+00:00"
 archived: "2026-09-26T02:20:18Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Year 7 roadmap now outlines several upcoming systems: streamlined Bloodweb spending, expanded Survivor bot loadouts with custom perk sets, a map-repeat-prevention mechanic, visual terror-radius cues for accessibility, a visual refresh of the remaining Realm Beyond map, a renewed cadence of perk balance updates, and a new limited-time cosmetic rotation purchasable with Auric Cells. These initiatives follow the July perk overhaul, September Finishing Mori PTB, December bots in custom matches and team-based ratings, and the January rollout of the wiggle system, queue improvements, archive-challenge tracking and Survivor Activity HUD. All listed features are slated for release over the next few months via multiple updates, with details to be revealed as each approaches.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | January 2023](369-developer-update-january-2023.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | February 2023](375-developer-update-february-2023.md) &rarr;
 <!-- /nav -->

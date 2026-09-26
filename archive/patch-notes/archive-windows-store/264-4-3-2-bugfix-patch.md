@@ -9,6 +9,12 @@ updated: "2020-11-03T16:19:05+00:00"
 archived: "2026-09-26T02:19:59Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Discordance’s detection radii were expanded to 64-96-128 m and its aura linger after a survivor leaves a generator was cut from eight to four seconds, while Blood Favor’s description was clarified to note it only triggers on basic attacks. The patch also resolves a slew of map and gameplay issues, including improper trap placement on Macmillan Estate, Spirit’s phantom breathing sounds, uncleanable totems on Rotten Fields and Coal Tower, missing Halloween generators on Midwich Elementary, a missing beard on the Orbital Captain cosmetic, outfit gaps on Yui’s Miss Speedway set, and an unintended Alchemist Ring rush-token bonus for The Blight.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.3.1 | Bugfix Patch](257-4-3-1-bugfix-patch.md) · [Archive: Windows Store](../../index.md#archive-windows-store) · _newest_ &rarr;
 <!-- /nav -->

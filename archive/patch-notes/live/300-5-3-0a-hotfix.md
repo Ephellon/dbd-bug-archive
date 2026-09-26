@@ -9,6 +9,12 @@ updated: "2021-10-22T14:36:38+00:00"
 archived: "2026-09-26T02:18:36Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Steam players received a hotfix that tentatively resolves an infinite loading-screen bug; the fix is only on Steam and does not affect cross-play matching. The update also notes lingering localization translation errors as a known issue.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [5.3.0 | Hour of the Witch](298-5-3-0-hour-of-the-witch.md) · [Live](../../index.md#live) · [5.3.1 | Bugfix Patch](302-5-3-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

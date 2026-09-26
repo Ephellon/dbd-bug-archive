@@ -9,6 +9,12 @@ updated: "2020-03-02T19:46:51+00:00"
 archived: "2026-09-26T02:19:20Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Ash’s voice lines, The Shape’s standing kill radius, and several killer visual quirks were fixed, alongside major network and end-game stability work. The PS4 hotfix resolves looping disconnect audio, erroneous host messages, match-cancellation warnings, infinite loading screens, and lobby-timer crashes; it also corrects End Game Collapse timing, ensures immediate sacrifice and ritual progress after collapse, and fixes progression for The Savior, Blood Dance and Reconstruction rituals. Additional tweaks address flashlight aim for Ash’s hand cosmetic, aura visibility, camera shake, weapon blood-drip glitches, map-specific vaulting bugs, inaccurate perk values, and missing Nea textures.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.7.0 | Mid-Chapter](53-2-7-0-mid-chapter.md) · [Archive: PS4](../../index.md#archive-ps4) · [3.0.0 | Ghost Face](55-3-0-0-ghost-face.md) &rarr;
 <!-- /nav -->

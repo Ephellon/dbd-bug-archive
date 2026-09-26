@@ -9,6 +9,12 @@ updated: "2020-09-08T15:11:17+00:00"
 archived: "2026-09-26T02:19:58Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Blight joins the killer roster and architect Felix Richter becomes a new survivor, accompanied by a suite of new offerings such as Sacrificial Ward and several blueprints that affect basement and hatch spawns. The patch also refreshes visuals for generators, pallets, lockers, chests and adds breakable walls to Springwood and Yamaoka Estate, while correcting flashlight aiming to the screen centre. The bulk of the update consists of broad bug fixes: stun, speed and animation quirks for many killers, survivor stuck and alignment issues, perk aura and interaction glitches, plus stability improvements for graphics settings, rank updates and player-name markup.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.1.2 | Bug fix patch ](220-4-1-2-bug-fix-patch.md) · [Archive: Windows Store](../../index.md#archive-windows-store) · [4.2.1 | Bugfix Patch](234-4-2-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

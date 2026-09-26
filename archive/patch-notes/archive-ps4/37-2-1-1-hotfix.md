@@ -9,6 +9,12 @@ updated: "2020-03-02T19:17:53+00:00"
 archived: "2026-09-26T02:19:16Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Hag’s shoulder-carry collision bug and the Tinkerer Tier II terror-radius glitch are addressed, alongside a fix for framerate hitches that could appear in lobbies and matches after opening the Store. The hotfix primarily targets these stability issues on PS4, improving survivor-killer interactions and overall performance.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.1.0 | Mid-Chapter](36-2-1-0-mid-chapter.md) · [Archive: PS4](../../index.md#archive-ps4) · [2.1.2  | Hotfix](38-2-1-2-hotfix.md) &rarr;
 <!-- /nav -->

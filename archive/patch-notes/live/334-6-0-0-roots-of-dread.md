@@ -9,6 +9,14 @@ updated: "2022-06-07T14:45:09+00:00"
 archived: "2026-09-26T02:18:32Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Roots of Dread update introduces the Dredge as a new killer with three unique perks—Dissolution, Darkness Revealed, and Septic Touch—plus the survivor Haddie Kaur with Inner Focus, Residual Manifest, and Overzealous, a new map Garden of Joy, the general killer perk Shattered Hope, UI menu redesign, controller navigation removal, and the ability to save loadout presets. Additional tweaks include a reworked Ghost Face Driver’s License add-on, extra Jigsaw boxes for the Pig, and clearer Entity text.
+
+The remainder of the patch focuses on extensive bug and PTB fixes covering power loading, animation glitches, locker interactions, map assets, perk behavior, UI alignment, and online stability, while listing several known issues such as Dredge animation quirks and occasional rubber-banding.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [5.7.2 | Bugfix Patch](332-5-7-2-bugfix-patch.md) · [Live](../../index.md#live) · [6.0.1 | Bugfix Patch](335-6-0-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

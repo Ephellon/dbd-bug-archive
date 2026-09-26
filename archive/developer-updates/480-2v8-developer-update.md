@@ -9,6 +9,12 @@ updated: "2024-11-11T17:57:21+00:00"
 archived: "2026-09-26T02:20:08Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The 2v8 mode returns with a redesign: survivors enter cages after being picked up, unhook speed is 15 % faster near a killer, and cages stay put when a survivor is nearby. Generator repair rates now scale with completed generators and cage states, aura visibility is limited, and multi-survivor repairs always reveal auras. Five new 2v8-treated maps join and three killers - the Blight, Spirit and Deathslinger - arrive with speed adjustments. All killer and survivor classes are overhauled, adding Killer Classes (Shadow, Brute, Enforcer, Fearmonger) and Survivor Classes (Medic, Scout, Guide, Escapist) with activatable powers. Existing killers receive balance tweaks such as visible trap auras for The Trapper and faster wall-break actions for The Wraith.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Stats | October 2024](478-stats-october-2024.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | November 2024 PTB](481-developer-update-november-2024-ptb.md) &rarr;
 <!-- /nav -->

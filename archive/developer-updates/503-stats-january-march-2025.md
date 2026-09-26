@@ -9,6 +9,12 @@ updated: "2025-04-22T14:58:32+00:00"
 archived: "2026-09-26T02:20:05Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The team released a quarterly statistical overview for January-March 2025, spotlighting killer pick and kill rates and survivor escape rates. The Mastermind and The Blight topped pick-rate charts across MMR tiers, while The Nightmare’s recent rework boosted his kill rate among high-MMR players; The Lich, Twins, Blight and Nurse also remained strong. Overall killer kill rate averaged 60 % (63 % at high MMR). Survivor escape rates held steady at 41 % across all MMR and 42 % for high MMR, with coordinated high-MMR groups escaping most and solo players in lower brackets outpacing the average. No new content was added, the note simply reports these balance-related trends.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | April 2025](500-developer-update-april-2025.md) · [Developer Updates](../index.md#developer-updates) · [Design Preview | The Skull Merchant Part 2](504-design-preview-the-skull-merchant-part-2.md) &rarr;
 <!-- /nav -->

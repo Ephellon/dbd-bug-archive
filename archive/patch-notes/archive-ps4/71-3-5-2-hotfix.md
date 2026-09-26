@@ -9,6 +9,12 @@ updated: "2020-03-02T20:12:34+00:00"
 archived: "2026-09-26T02:19:25Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Gates Closed was added to the Gatekeeper Emblem and the Generators Remaining condition removed, while the Treatment Theatre’s totem spawn was relocated for better concealment. The hotfix also tweaked lighting in The Rift, stair wall collisions in Treatment Theatre, and several map-specific quirks such as a dark screen in Hawkins Lab and a disappearing Rift progress bar. A sweep of bugs was applied: unhooking while the killer faces camps, Hag red-stain tint changes, Bear Trap interaction avoidance, infinite overlay loading, level-up errors, and various cosmetic preview glitches, plus a Spirit headband model issue.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.5.1 | Hotfix](70-3-5-1-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [3.6.0 | Chains of Hate](153-3-6-0-chains-of-hate.md) &rarr;
 <!-- /nav -->

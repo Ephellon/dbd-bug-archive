@@ -9,6 +9,12 @@ updated: "2023-08-15T14:28:32+00:00"
 archived: "2026-09-26T02:18:23Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Stadia-owned entitlements were restored on Steam and the Epic Games Store, fixing the disappearance issue introduced with the 7.1.0 update. The 7.1.2a patch is a targeted bug-fix hotfix addressing that entitlement problem.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [7.1.2 | Bugfix Patch](403-7-1-2-bugfix-patch.md) · [Live](../../index.md#live) · [7.2.0 | Alien](405-7-2-0-alien.md) &rarr;
 <!-- /nav -->

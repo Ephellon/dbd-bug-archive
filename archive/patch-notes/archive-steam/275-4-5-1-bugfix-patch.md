@@ -9,6 +9,12 @@ updated: "2021-02-16T15:24:53+00:00"
 archived: "2026-09-26T02:19:14Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Floating survivors in the lobby, missing Auris model in the Observer’s hand, Meg’s Golden Summer outfit icon, and Victor’s incapacitated opacity were corrected, alongside UI text errors in Thai and French. Audio muting while spectating, missing tutorial SFX, and a spectator lock when the final survivor tallies were also fixed. Map-related bugs were addressed: glyph placement on Gideon Meat Plant, Sanctum of Wrath, The Pale Rose, Midwich Elementary School and both Asylum maps, plus collision problems in Autohaven Wreckers and Crotus Penn Asylum, which are now re-enabled. Additional fixes include unbreakable set breaking, pips carryover between matches, and a PS5-only crash on trial start after a party join. Known issue: killers cannot see their own charms on hooks.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.5.0 | Mid-Chapter](274-4-5-0-mid-chapter.md) · [Archive: Steam](../../index.md#archive-steam) · [4.5.2 | Bugfix Patch](276-4-5-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

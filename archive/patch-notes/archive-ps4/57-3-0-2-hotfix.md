@@ -9,6 +9,12 @@ updated: "2020-03-02T19:52:16+00:00"
 archived: "2026-09-26T02:19:21Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Ghost Face now loses his power when stunned during Night Shroud and his Lullabies are no longer directional. The hotfix also resolves numerous bugs: Vigil no longer prolongs Exhaustion, Furtive Chase stops swapping Obsession on unhook, Spirit’s passive phasing visual, Hag’s hit splatter and camera shake, locker-sticking on lunge exits, female Survivors vaulting the Autohaven Wrecker bus window, Ghost Face crouch/lean after a disconnect, and looping Reveal SFX. Missing survivor-carrying music and various audio imbalances are fixed, and several cosmetic tweaks were applied.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.0.1 | Hotfix](56-3-0-1-hotfix.md) · [Archive: PS4](../../index.md#archive-ps4) · [3.1.0 | Mid-Chapter](58-3-1-0-mid-chapter.md) &rarr;
 <!-- /nav -->

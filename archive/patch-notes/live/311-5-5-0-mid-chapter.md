@@ -9,6 +9,12 @@ updated: "2022-01-25T18:05:15+00:00"
 archived: "2026-09-26T02:18:34Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Interaction controls get a revamp: players can set interactions to Toggle, ending them with a second press, and Survivors gain a Run-to-Cancel option to abort actions by sprinting. A beta Wiggle system introduces a dual-skill-check input, available temporarily with a BP bonus. The patch also shrinks Steam downloads by ~20 GB thanks to increased file compression. In addition, numerous security patches, hit-feedback tweaks, and a large number of bug fixes—especially around sound, map glitches, perk behavior, and a comprehensive Nurse power overhaul—have been applied. Several map offerings are disabled pending updates.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [5.4.2 | Bugfix Patch](308-5-4-2-bugfix-patch.md) · [Live](../../index.md#live) · [5.5.1 | Bugfix Patch](313-5-5-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

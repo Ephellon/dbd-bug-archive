@@ -9,6 +9,12 @@ updated: "2020-03-02T15:20:01+00:00"
 archived: "2026-09-26T02:19:15Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Mid-Chapter 2.7.0 adds the End Game Collapse system, making the hatch spawn when one survivor remains, instantly powering exit gates, and starting a two-minute timer that slows when survivors are downed or hooked; new scoring events reward killers for gate opens, hatch closes and late sacrifices, and survivors for late heals, rescues, pressure and generator repairs after the hatch. The update also adds Chinese, adds ping delay, cancels games with fewer than five players, and restores DLC theme music. Balance tweaks include controller input smoothing, shorter notification bubbles, maze wall boarding on Coldwind Farm, and numerous perk, add-on and Legion Feral Frenzy changes. The patch is dominated by bug fixes across audio, localization, map geometry, UI and perk functionality.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.6.3 | Ash VS Evil Dead](10-2-6-3-ash-vs-evil-dead.md) · [Archive: Steam](../../index.md#archive-steam) · [3.0.0 | Ghost Face](12-3-0-0-ghost-face.md) &rarr;
 <!-- /nav -->

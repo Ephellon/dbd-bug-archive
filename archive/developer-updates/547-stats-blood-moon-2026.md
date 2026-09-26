@@ -9,6 +9,12 @@ updated: "2026-05-25T17:00:17+00:00"
 archived: "2026-09-26T02:20:01Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Blood Moon 2026 event stats revealed over 19 million trials and a massive accumulation of Bloodpoints. Survivors heavily engaged with Blood Generators and Bloodsense Maps, while Killers focused on cannibalizing cans and stomping generators. The update serves purely as a performance recap and invites player feedback for future stat tracking. No gameplay changes or fixes accompany this release.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Stats | The Trickster](543-stats-the-trickster.md) · [Developer Updates](../index.md#developer-updates) · [PTB To Live Changes: The Slasher](549-ptb-to-live-changes-the-slasher.md) &rarr;
 <!-- /nav -->

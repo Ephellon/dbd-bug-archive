@@ -9,6 +9,12 @@ updated: "2023-07-24T13:59:37+00:00"
 archived: "2026-09-26T02:20:16Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Onryo received balance tweaks: hitting a survivor carrying a Cursed Tape now adds two Condemned stacks and destroys the tape, and hooking a tape-carrier no longer spreads Condemned. Projection cooldown is cut to 10 seconds (from 15) and TV disable times are lowered to 45 seconds for projection and 70 seconds for survivor-caused disables. Hangman’s Trick’s Scourge Hook aura range was doubled to 12 m, though this change will land in a future minor patch rather than the upcoming release. Planned blade-wipe animation changes were rolled back after causing motion-sickness. All adjustments stem from PTB feedback ahead of the Nicolas Cage Chapter launch.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | July 2023](397-developer-update-july-2023.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | September 2023](409-developer-update-september-2023.md) &rarr;
 <!-- /nav -->

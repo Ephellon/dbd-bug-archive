@@ -9,6 +9,12 @@ updated: "2024-04-18T14:55:20+00:00"
 archived: "2026-09-26T02:20:12Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Twins’ Victor has been reverted to latched onto injured Survivors and no longer triggers Charlotte’s Haste, restoring original behavior while keeping quality-of-life tweaks like faster switching and recall. The Blight’s Summoning Stone and Soul Chemical addons were toned down, and his collision detection remains unchanged. The new Decisive Strike animation was removed after it altered the perk’s timing. Upcoming changes to the Ultimate Weapon perk will revert to the scream aura and shift its effect radius to 32 m from the locker instead of the Killer’s terror radius. Overall the PTB adjustments focus on rebalancing The Twins, modest addon nerfs, and reverting a problematic perk animation.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Stats | March 2024](443-stats-march-2024.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | May 2024](448-developer-update-may-2024.md) &rarr;
 <!-- /nav -->

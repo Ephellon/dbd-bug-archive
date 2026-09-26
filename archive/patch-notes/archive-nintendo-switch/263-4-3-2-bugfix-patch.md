@@ -9,6 +9,12 @@ updated: "2020-11-03T16:18:52+00:00"
 archived: "2026-09-26T02:19:52Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Discordance received a range boost to 64/96/128 meters and its aura after leaving a generator was cut from eight to four seconds, while Blood Favor’s description was clarified to note it only applies to basic attacks. The patch also resolved a variety of issues across the Switch version, including placement bugs for traps and snares on Macmillan Estate maps, improper Spirit breathing sounds, persistent Totems on Rotten Fields and Coal Tower, unrealistic fog visuals, missing Halloween generators in Midwich Elementary, several cosmetic glitches such as Jake’s missing beard and gaps in Yui’s Miss Speedway outfit, and an erroneous token-recharge bonus from the Blight’s Alchemist Ring add-on.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.3.1 | Bugfix Patch](258-4-3-1-bugfix-patch.md) · [Archive: Nintendo Switch](../../index.md#archive-nintendo-switch) · _newest_ &rarr;
 <!-- /nav -->

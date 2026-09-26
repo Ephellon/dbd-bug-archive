@@ -9,6 +9,12 @@ updated: "2024-01-25T14:58:27+00:00"
 archived: "2026-09-26T02:20:14Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The January 2024 PTB rebalanced The Onryō, The Blight and The Hillbilly and tweaked two Survivor perks. Onryō caps Condemned at two stacks per hook (four after a second hook) and only projects Condemned when her power meter, recharging over ten seconds, is full. Blight’s Compound Thirty-Three turn-rate boost was cut to 11% per rush and its distance lowered; Iridescent Blight Tag now triggers a 20-second power cooldown on any rush, and Adrenaline Vial lost its turn-rate penalty. Hillbilly add-ons received reduced recovery and heat-dissipation values. Save the Best for Last now loses two tokens per hit, Quick Gambit’s repair boost returns to 6-8%, and a Watch List was added for Onryō, Hillbilly, Grim Embrace + Dead Man’s Switch and Generator changes.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | January 2024](427-developer-update-january-2024.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | Stats!](433-developer-update-stats.md) &rarr;
 <!-- /nav -->

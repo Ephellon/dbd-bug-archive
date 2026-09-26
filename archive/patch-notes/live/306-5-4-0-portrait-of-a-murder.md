@@ -9,6 +9,14 @@ updated: "2021-11-30T16:05:51+00:00"
 archived: "2026-09-26T02:18:35Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Added a new Killer The Artist with Grim Embrace, Scourge Hook: Pain Resonance and Hex: Pentimento, a new Survivor Jonah Vasquez with Overcome, Corrective Action and Boon: Exponential, and the new map Eyrie of Crows. Loadout and customization menus now feature numbered page markers, the Store shows a New/Sale badge, and subtitles can be toggled for in-game speech (currently only Trickster).
+
+The remainder of the update is a broad bug-fix sweep touching tutorial UI, perk and totem interactions, sound cues, item charge handling, animation hitches, map geometry issues and several killer-specific glitches, plus a performance optimisation for The Spirit and balance adjustments to the Cenobite’s addons.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [5.3.2 | Bugfix Patch](303-5-3-2-bugfix-patch.md) · [Live](../../index.md#live) · [5.4.1 | Bugfix Patch](307-5-4-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

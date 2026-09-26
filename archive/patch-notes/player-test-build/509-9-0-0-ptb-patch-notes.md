@@ -9,6 +9,12 @@ updated: "2025-05-27T16:00:28+00:00"
 archived: "2026-09-26T02:18:43Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Animatronic killer, wielding a fire axe and a security-door system, arrives alongside the new Freddy Fazbear’s Pizza map and three killer perks (Help Wanted, Phantom Fear, Haywire). The PTB also brings quality-of-life tweaks such as an AFK crow detection, auto-bloodweb progression, gamma calibration, updated spawn rules, expanded spectator controls and voice-over language options, plus a host of balance changes to existing perks, The Lich spells and add-ons, and numerous audio, character and map bug fixes. Progress and Auric Cells are now copied to PTB servers but will not transfer to live.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [8.7.0 | PTB Patch Notes](501-8-7-0-ptb-patch-notes.md) · [Player Test Build (PTB)](../../index.md#player-test-build-ptb) · [9.1.0 | PTB Patch Notes](514-9-1-0-ptb-patch-notes.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,12 @@ updated: "2020-08-05T14:34:09+00:00"
 archived: "2026-09-26T02:19:31Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Arcane aura visuals were swapped for a more visible version and dozens of add-ons for The Cannibal and The Hillbilly were retuned: charge-replenish rates for Primer Bulb, Spark Plug, Long Guide Bar and The Grease were increased, several nerfs were rolled back (Knife Scratches, Beast’s Marks, Death and Doom Engravings), speed penalties removed, rarities adjusted and new effects added to Black Grease, Mother’s Helpers, Lo Pro Chains, Apex Muffler, Iridescent Brick and others. The update is otherwise a bug-fix sweep, addressing interior lighting brightness, lingering blood droplets, Demogorgon shred and chase glitches, item depletion timing, Nancy Wheeler facial animation, unintended offering consumption, Wraith blind-warrior add-on, Hillbilly chainsaw counter on Treatment Theatre and Cannibal tantrum networking issues.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.1.0 | Mid-Chapter](214-4-1-0-mid-chapter.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [4.1.2 | Bug fix patch ](221-4-1-2-bug-fix-patch.md) &rarr;
 <!-- /nav -->

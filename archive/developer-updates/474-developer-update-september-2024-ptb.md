@@ -9,6 +9,12 @@ updated: "2024-10-03T15:15:12+00:00"
 archived: "2026-09-26T02:20:08Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Ivory & Ebony Memento Mori Offerings were reverted to allow double-hook kills, while the Cypress Offering was retired with a one-million-bloodpoint claim window. The Skull Merchant received several drone adjustments—5 % Haste after a scan, increased hinder, faster rotation, slower deployment speed, and loss of fast-vault detection—aimed at balancing its power. Hillbilly’s Overdrive Chainsaw speed was nudged to 12 m/s, Distortion tokens were re-added and now recharge in-chase, and a temporary aura reveal now follows dropped pallets, restoring limited Zanshin Tactics reading. Corrective Action again converts missed skill checks, now reveals the survivor’s aura and has unlimited range, and its effect ends when a health state is lost.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | September 2024](472-developer-update-september-2024.md) · [Developer Updates](../index.md#developer-updates) · [Stats | October 2024](478-stats-october-2024.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,12 @@ updated: "2020-03-02T15:32:11+00:00"
 archived: "2026-09-26T02:19:07Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Shape, Ghost Face and Nightmare received latency-related fixes, and the Plunderer's Instinct perk now displays item auras correctly. The hotfix also resolves a range of stability and progression bugs: pips no longer disappear when players disconnect via private-lobby invites, daily rites and achievement progress work again, crashes in the Archives and during custom-game loading are eliminated, and the Tome now opens at the proper level. Additional tweaks correct survivor shadow rendering, totem cleansing on Family Residence, LOD on Shack basements, UI greying of the Back button, and platform-specific issues such as missing Auric Cell Packs on Windows Store and character jitter with uncapped FPS.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [3.3.1 | Mid-Chapter](15-3-3-1-mid-chapter.md) · [Archive: Steam](../../index.md#archive-steam) · [3.4.0 | Cursed Legacy](17-3-4-0-cursed-legacy.md) &rarr;
 <!-- /nav -->

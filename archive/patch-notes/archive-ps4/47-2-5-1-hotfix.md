@@ -9,6 +9,12 @@ updated: "2020-03-02T19:30:27+00:00"
 archived: "2026-09-26T02:19:19Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Hotfix 2.5.1 resolves a range of survivor and UI problems on PS4, including interaction failures in the basement, stuck survivors at the campfire, and a broken vault-rush window on Badham Preschool. It also fixes Prove Thyself not applying to its owner, incorrect Self-Care tier text in all languages, and a missing Game Over score event for The Pig. Several stability issues are addressed: crashes from disconnects during Mori or status effects, loading hangs, and tally-screen errors. HUD survivor icons now update more reliably after disconnects, Bloodweb refreshes correctly when swapping characters or opening mystery boxes, and exploits involving prestige and simultaneous character swaps are blocked.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.5.0 | Mid-Chapter](46-2-5-0-mid-chapter.md) · [Archive: PS4](../../index.md#archive-ps4) · [2.5.3 | Hotfix](48-2-5-3-hotfix.md) &rarr;
 <!-- /nav -->

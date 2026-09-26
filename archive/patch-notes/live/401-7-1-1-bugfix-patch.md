@@ -9,6 +9,12 @@ updated: "2023-08-01T14:28:41+00:00"
 archived: "2026-09-26T02:18:23Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Reactive Healing now rounds up to full 100 % when only a tiny amount is missing, and the Cenobite killer has been re-enabled. The patch then focuses on a broad sweep of bug fixes: perk timing and interactions (Scene Partner, Dramaturgy, Plot Twist), character mechanics (vault heights, Knight pickup, Nurse blink chaining, add-on values), audio glitches, UI crashes, map collision and clipping issues across multiple maps, event challenge calculations, and console-specific problems such as subtitle playback and trophy unlocking.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [7.1.0 | Nicolas Cage](400-7-1-0-nicolas-cage.md) · [Live](../../index.md#live) · [7.1.2 | Bugfix Patch](403-7-1-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

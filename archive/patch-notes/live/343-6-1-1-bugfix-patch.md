@@ -9,6 +9,12 @@ updated: "2022-07-26T14:24:54+00:00"
 archived: "2026-09-26T02:18:30Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Added a new score event that logs when a perk or effect is disabled by a conspicuous action. The remainder of the update focuses on bug fixes: menu audio now works for new accounts, store back-button visuals, Prestige perk charm display, Hex: No One Escapes Death icon persistence, Calm Spirit perk interaction with Supply Case and Rummage, Endurance visual outline, Spine Chill timer direction, Demogorgon spectator model, Doctor's static-blast scream, Illusionary Doctor aura flicker, Shape and Ghost Face camera-stalk exploits, Green Glyph interaction on The Forsaken Boneyard, and a crash caused by Feng Min's Warrior Goddess outfit, which is now re-enabled.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [6.1.0 | Mid-Chapter ](342-6-1-0-mid-chapter.md) · [Live](../../index.md#live) · [6.1.2/6.1.3 | Bugfix Patch](345-6-1-2-6-1-3-bugfix-patch.md) &rarr;
 <!-- /nav -->

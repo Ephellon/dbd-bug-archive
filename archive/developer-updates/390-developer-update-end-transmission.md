@@ -9,6 +9,12 @@ updated: "2023-06-02T13:58:17+00:00"
 archived: "2026-09-26T02:20:16Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+New killer The Singularity got EMP scarcity tweaks, clearer disabled Biopod visuals, an overclock meter, and add-on timing changes; Executioner’s recent Torment tweak was rolled back. Three perks were rebalanced: Scavenger’s skill-check cost up and a repair-speed penalty added, Machine Learning’s Haste buff increased to 10%, and Forced Hesitation’s hinder effect and cooldown were improved. All adjustments will launch with End Transmission on June 13.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | April 2023](384-developer-update-april-2023.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | End Transmission Release](393-developer-update-end-transmission-release.md) &rarr;
 <!-- /nav -->

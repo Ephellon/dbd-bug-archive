@@ -9,6 +9,12 @@ updated: "2026-04-28T14:30:55+00:00"
 archived: "2026-09-26T02:18:04Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Legion returns, map weighting is now equal, and a Diminishing Returns system reduces stacked positive or negative modifiers for both killers and survivors, with the highest value applied fully and lesser values scaled down. New 1-v-4 “Play While You Wait” lets killers slip into a survivor match while queuing, the interaction progress bar now changes color by speed, and match details reveal team loadouts and the killer’s identity when a chase or health loss occurs. Aura colors can be customized, and two new maps—Temple of Purgation and Ironworks of Misery—join the roster. Several killers receive minor speed or cooldown tweaks (Blight, Doctor, Cannibal, Ghost Face, Demogorgon, Dredge, Mastermind, Unknown, Animatronic).
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [9.5.2 | Bugfix Patch](541-9-5-2-bugfix-patch.md) · [Live](../../index.md#live) · [9.6.1 | Bugfix Patch](545-9-6-1-bugfix-patch.md) &rarr;
 <!-- /nav -->

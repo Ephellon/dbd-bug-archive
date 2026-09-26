@@ -9,6 +9,12 @@ updated: "2023-09-13T14:28:13+00:00"
 archived: "2026-09-26T02:18:22Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Xenomorph received revised turret placement logic, a slower tail-attack cooldown speed when missing, and fixes to visibility, tunnel exit, infinite invisibility, turret destruction, movement-speed after downing, and clipping issues. Perk texts for Blast Mine, Chemical Trap and Wiretap were aligned and a disappearance VFX added for Chemical Trap, while Adrenaline now correctly applies health after unhook. Audio glitches for the Skull Merchant and Nostromo spark bursts were resolved, and a UI hide bug from rapid ESC presses was fixed. Character animations and camera behaviours for the Pig, Ghost Face, and the Hag were corrected, and texture, collision and object bugs on Garden of Joy, Ormond, RPD and Nostromo were addressed. Known issue: fast vault animations misalign between survivor genders.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [7.2.1 | Bugfix Patch](406-7-2-1-bugfix-patch.md) · [Live](../../index.md#live) · [7.2.3 | Bugfix Patch](411-7-2-3-bugfix-patch.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,12 @@ updated: "2026-04-23T14:00:01+00:00"
 archived: "2026-09-26T02:20:02Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Trickster’s post-update usage jumped from 1.6% to a higher figure as of mid-March 2026, prompting the team to track his kill rate now that players are throwing more knives. Additionally, MiNA appeared in about 36.5% of Trickster matches, highlighting the new synergy.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Stats | First Look at Stats in 2026](540-stats-first-look-at-stats-in-2026.md) · [Developer Updates](../index.md#developer-updates) · [Stats | Blood Moon 2026](547-stats-blood-moon-2026.md) &rarr;
 <!-- /nav -->

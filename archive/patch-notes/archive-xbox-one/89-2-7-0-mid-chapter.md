@@ -9,6 +9,12 @@ updated: "2020-02-28T22:09:37+00:00"
 archived: "2026-09-26T02:19:36Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+End Game Collapse is revamped: closing a hatch instantly powers exit gates, the collapse starts when a gate opens or the hatch is closed, a 2-minute timer runs (slowed by downed or hooked Survivors) and Entity sacrifices count as kills; new scores reward killers and Survivors for late actions and the hatch now appears as soon as only one Survivor remains. The update adds a lobby ping-indicator delay, cancels matches with fewer than five players, and restores DLC character theme music. Balance changes adjust the Legion’s Feral Frenzy, the Wraith’s cloaking sound, the Pig’s bear-trap triggers, and several perk values. The rest consists of extensive audio, localization, map geometry, UI and general bug fixes.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.6.4 | Hotfix](88-2-6-4-hotfix.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [2.7.1 | Hotfix](90-2-7-1-hotfix.md) &rarr;
 <!-- /nav -->

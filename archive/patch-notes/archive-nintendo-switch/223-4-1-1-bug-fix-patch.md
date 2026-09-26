@@ -9,6 +9,12 @@ updated: "2020-08-12T14:30:15+00:00"
 archived: "2026-09-26T02:19:50Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Aura visuals were swapped for a clearer style after 4.1.0 feedback. Cannibal add-ons Primer Bulb and Spark Plug now boost chainsaw charge regen, Long Guide Bar and The Grease extend rev capacity, and several penalties were removed; Speed Limiter’s blood-point bonus doubled and rarity lowered. Hillbilly gained a cooling boost on Black Grease, a post-stun charge-time reduction on Mother’s Helpers, rarity changes for Lo Pro Chains, Apex Muffler and Speed Limiter, and Engravings, Heavy Clutch, Iridescent Brick and Tuned Carburetor were rebalanced. The patch also fixed bright interior lighting, lingering blood droplets, Demogorgon targeting glitches, Nancy Wheeler facial animation bugs, unintended offering consumption, Wraith Blind Warrior-Mud failure, Hillbilly counter penetration on Treatment Theatre and Cannibal tantrum instability under poor network.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.1.0 | Mid-Chapter](213-4-1-0-mid-chapter.md) · [Archive: Nintendo Switch](../../index.md#archive-nintendo-switch) · [4.1.2 | Bug fix patch ](224-4-1-2-bug-fix-patch.md) &rarr;
 <!-- /nav -->

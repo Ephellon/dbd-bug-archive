@@ -9,6 +9,12 @@ updated: "2020-03-02T15:13:08+00:00"
 archived: "2026-09-26T02:19:03Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Plague received multiple fixes: Corrupt Purge no longer disappears when blinded or stunned, vomit now hits held items, and the sacrifice camera angle is corrected. Spirit’s power charge no longer resets on pallet stun, and Hillbilly and Cannibal chainsaws now appear correctly on result screens. Perk descriptions and functionality were repaired, covering Agitation, Lightborn, Premonition, Slippery Meat, Spine Chill, Thanatophobia, We’ll Make It, Unnerving Presence, Borrowed Time, We’re Gonna Live Forever and Infectious Fright. The Temple of Purgation sacrifice visual effect was limited to the bottom floor, and various localization, LOD, crash and global-level update errors were addressed.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [2.5.4 | Hotfix](23-2-5-4-hotfix.md) · [Archive: Steam](../../index.md#archive-steam) · [2.6.4 | Hotfix](25-2-6-4-hotfix.md) &rarr;
 <!-- /nav -->

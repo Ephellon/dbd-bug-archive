@@ -9,6 +9,12 @@ updated: "2020-08-11T14:32:23+00:00"
 archived: "2026-09-26T02:19:57Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+Hillbilly’s Overheat system was rebalanced, reducing base heat dissipation from -5 to -3.5 charges per second so the heat meter now demands more active management. The patch also addresses several stability issues: chainsaw charge reset after stuns and post-stun speed glitches for Hillbilly were fixed, Nurse blink-inside-hill bugs were resolved, killers no longer get stuck mid-animation after high falls, and the frequency of Sync Error 111 on the Tally screen was reduced.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [4.1.1 | Bugfix Patch](218-4-1-1-bugfix-patch.md) · [Archive: Windows Store](../../index.md#archive-windows-store) · [4.2.0 | Descend Beyond](229-4-2-0-descend-beyond.md) &rarr;
 <!-- /nav -->

@@ -9,6 +9,12 @@ updated: "2024-04-12T13:55:08+00:00"
 archived: "2026-09-26T02:20:12Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Hillbilly’s latest balance patch pushed him to the top of killer popularity, with use and kill rates climbing across all MMRs, while the Deathslinger saw a noticeable rise after appearing in Tome challenges. The update also revealed that 70 % of skill checks are hit (good), 23 % are great and only 7 % missed, with high-MMR players performing even better. Data on perk-induced misses, nearly a billion End-Game Collapse activations, and the fact that twice as many survivors die than are saved at match end were also shared, and the team pledged more regular statistical insights.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | March 2024](440-developer-update-march-2024.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | April 2024 PTB](444-developer-update-april-2024-ptb.md) &rarr;
 <!-- /nav -->

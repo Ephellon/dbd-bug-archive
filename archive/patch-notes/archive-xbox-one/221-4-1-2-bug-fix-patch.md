@@ -9,6 +9,12 @@ updated: "2020-08-11T14:32:49+00:00"
 archived: "2026-09-26T02:19:43Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The Hillbilly’s overheat system was tweaked, lowering base heat dissipation from -5 to -3.5 charges per second to make heat management more impactful. The Xbox One hotfix also squashed several stability issues, fixing the Hillbilly’s chainsaw charge reset and post-stun speed glitches, preventing the Nurse from blinking into terrain, stopping killers from freezing mid-animation after big falls, and reducing Sync Error 111 occurrences on the Tally screen.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [ 4.1.1 | Bugfix Patch](217-4-1-1-bugfix-patch.md) · [Archive: Xbox One](../../index.md#archive-xbox-one) · [4.2.0 | Descend Beyond](231-4-2-0-descend-beyond.md) &rarr;
 <!-- /nav -->

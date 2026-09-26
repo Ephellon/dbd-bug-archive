@@ -9,6 +9,12 @@ updated: "2023-04-17T15:08:25+00:00"
 archived: "2026-09-26T02:20:17Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The live Tools of Torment Mid-Chapter reverts the PTB’s 24-second base healing to 16 seconds, standardises all Med-Kits at 24 charges, adds a 33 % self-heal penalty and boosts teammate-heal bonuses, while revising several Med-Kit add-ons. The Hillbilly’s overheat is kept softened but its Death and Doom Engraving add-ons are restored. Perk tweaks include Dead Hard now activating on unhook, increased regression on Scourge Hook: Pain Resonance to 15/20/25 %, and a higher healing speed bonus on Circle of Healing (50/75/100 %). An unsafe new tile on Autohaven Wreckers receives a safety rebalance.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [Developer Update | March 2023](382-developer-update-march-2023.md) · [Developer Updates](../index.md#developer-updates) · [Developer Update | End Transmission](390-developer-update-end-transmission.md) &rarr;
 <!-- /nav -->
