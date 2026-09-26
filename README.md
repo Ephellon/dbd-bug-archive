@@ -117,6 +117,16 @@ code and images, unwraps BHVR's `home/leaving?target=` redirector back to the
 real URL, renders forum spoiler blocks as collapsible `<details>`, and drops
 interface chrome such as spoiler toggle buttons and inline SVG icons.
 
+## Weekly sync
+
+[`.github/workflows/archive.yml`](.github/workflows/archive.yml) re-runs the
+bot every Monday and commits anything new, so posts made before the knowledge
+base comes down in October 2026 are not missed. It can also be run on demand
+from the Actions tab.
+
+A quiet week produces no commit. Delete the workflow once the archive is
+locked.
+
 ## Licence
 
 The archived text and images remain the property of Behaviour Interactive and
