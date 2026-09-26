@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/216-4-1-1-bugfix-p
 author: "PatBrutal"
 published: "2020-08-05T14:33:35+00:00"
 updated: "2020-08-05T14:33:36+00:00"
-archived: "2026-09-26T17:10:00Z"
+archived: "2026-09-26T19:28:14Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ The rest of the update is a general bug-fix pass targeting bright interior light
 
 # 4.1.1 | Bugfix Patch
 
-*This article was created from a* [*community discussion*](https://forum.deadbydaylight.com/en/discussion/177557/ps4-4-1-1-bugfix-patch)*.*
+*This article was created from a* [*community discussion*](https://forum.deadbydaylight.com/en/discussion/177557/ps4-4-1-1-bugfix-patch).
 
 ![411Banner.png](../../images/797bdba5b15dc3ce-411banner.png)
 

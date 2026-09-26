@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/365-6-4-0-forged-i
 author: "Peanits"
 published: "2022-11-22T14:57:22+00:00"
 updated: "2022-11-22T18:13:31+00:00"
-archived: "2026-09-26T17:08:53Z"
+archived: "2026-09-26T19:27:08Z"
 ---
 
 <!-- summary -->

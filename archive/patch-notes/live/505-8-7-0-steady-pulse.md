@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/505-8-7-0-steady-p
 author: "ThatRyanB"
 published: "2025-05-06T14:29:20+00:00"
 updated: "2025-05-06T14:52:59+00:00"
-archived: "2026-09-26T17:08:33Z"
+archived: "2026-09-26T19:26:47Z"
 ---
 
 <!-- summary -->

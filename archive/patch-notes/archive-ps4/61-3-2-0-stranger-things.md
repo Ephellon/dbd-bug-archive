@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/61-3-2-0-stranger-
 author: "Peanits"
 published: "2020-02-28T19:33:08+00:00"
 updated: "2020-03-02T19:57:27+00:00"
-archived: "2026-09-26T17:09:53Z"
+archived: "2026-09-26T19:28:08Z"
 ---
 
 <!-- summary -->

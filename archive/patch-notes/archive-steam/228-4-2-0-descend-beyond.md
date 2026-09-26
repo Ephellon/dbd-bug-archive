@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/228-4-2-0-descend-
 author: "Peanits"
 published: "2020-09-08T14:25:32+00:00"
 updated: "2020-09-08T15:09:59+00:00"
-archived: "2026-09-26T17:09:41Z"
+archived: "2026-09-26T19:27:55Z"
 ---
 
 <!-- summary -->

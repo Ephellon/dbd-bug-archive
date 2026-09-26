@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/468-8-2-0-castleva
 author: "Peanits"
 published: "2024-08-27T15:54:18+00:00"
 updated: "2024-08-27T15:54:19+00:00"
-archived: "2026-09-26T17:08:37Z"
+archived: "2026-09-26T19:26:52Z"
 ---
 
 <!-- summary -->

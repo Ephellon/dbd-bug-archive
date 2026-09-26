@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/430-7-5-0-alan-wak
 author: "Peanits"
 published: "2024-01-30T16:58:26+00:00"
 updated: "2024-01-30T16:58:26+00:00"
-archived: "2026-09-26T17:08:43Z"
+archived: "2026-09-26T19:26:57Z"
 ---
 
 <!-- summary -->
@@ -250,7 +250,7 @@ While in Overdrive, the Chainsaw is enhanced. Chainsaw Charge and Sprint speeds 
 - *(new functionality)*
 - **Save the Best for Last**
 - You become Obsessed with one Survivor.
-- Earn a Token for each successful basic attack that is not dealt to the Obsession*.*
+- Earn a Token for each successful basic attack that is not dealt to the Obsession.
 - Each Token grants a stackable 4% *(was 5%)* decreased successful basic attack cooldown, you can earn up to 6/7/8 tokens. *(was 8 tokens)*
 - When hitting the Obsession with a basic attack or special attack, lose 2 Tokens. You cannot gain Tokens as long as the Obsession is sacrificed or killed. *(adjusted damage source and tokens lost)*
 - **Grim Embrace**

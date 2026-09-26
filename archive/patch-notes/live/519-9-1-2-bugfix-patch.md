@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/519-9-1-2-bugfix-p
 author: "ThatRyanB"
 published: "2025-08-14T14:29:01+00:00"
 updated: "2025-08-14T14:29:01+00:00"
-archived: "2026-09-26T17:08:30Z"
+archived: "2026-09-26T19:26:45Z"
 ---
 
 <!-- summary -->
@@ -53,7 +53,7 @@ The 2V8 event returns on August 19 with a new “Play While You Wait” option t
 
 - **Team Skill** (adjustment):
   - Escapist Team Skill is now activated by using Active Ability Button 2.
-  - Range of Silent Rush ability has been increased to 12m (*was 8m*)*.*
+  - Range of Silent Rush ability has been increased to 12m (*was 8m*).
 
 ### GUIDE UPDATE
 

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/559-10-2-0-ptb-pat
 author: "Mandy"
 published: "2026-09-15T15:05:25+00:00"
 updated: "2026-09-15T15:20:44+00:00"
-archived: "2026-09-26T17:09:06Z"
+archived: "2026-09-26T19:27:21Z"
 ---
 
 <!-- summary -->
@@ -219,7 +219,7 @@ Alongside these features, dozens of Killer and Survivor perks receive balance tw
 *Dev Note: We are actively discussing how we want Boon Totem snuffing to work base-kit. In the meantime the other effect of Shattered Hope was very limited to only providing value if boons were used. We want Shattered Hope to provide direct value that you could bring alongside Hex builds.*
 
 - **Superior Anatomy**
-  - Whenever a Survivor medium or fast-vaults within 12m of you, the next time you basic-vault a Window, you basic-vault Windows 30/35/40% faster for **10**s**.** Cooldown: **20**s. *(was basic-vault once faster and 25s cooldown)*
+  - Whenever a Survivor medium or fast-vaults within 12m of you, the next time you basic-vault a Window, you basic-vault Windows 30/35/40% faster for **10**s. Cooldown: **20**s. *(was basic-vault once faster and 25s cooldown)*
 
 *Dev Note: We want to provide more flexibility to Superior Anatomy's usage. For those players who like to double or even triple vault a window the effect will now linger after it's been used. Due to the cooldown being delayed until after the linger we've reduced it slightly so it doesn't feel like a nerf in situations where you only need to vault once.*
 
@@ -284,7 +284,7 @@ Alongside these features, dozens of Killer and Survivor perks receive balance tw
     - You heal **13/14/15**% faster. *(was 8/9/10%)*
     - You unhook Survivors **13/14/15**% faster. *(was 8/9/10%)*
 - **Friendly Competition**
-  - Whenever you finish repairing a Generator with at least 1 other Survivor, Survivors who finished repairing it repair **10**% faster for **80/85/90**s**.** *(was 5% for 100/110/120s)*
+  - Whenever you finish repairing a Generator with at least 1 other Survivor, Survivors who finished repairing it repair **10**% faster for **80/85/90**s. *(was 5% for 100/110/120s)*
 - **Bound by Obsession \[Object of Obsession\]**
   - While you are the Obsession, every 30s, the Killer sees your Aura for **4**s. *(was 3s)*
   - While the Killer sees your Aura:
@@ -315,7 +315,7 @@ Alongside these features, dozens of Killer and Survivor perks receive balance tw
 *Dev Note: We want Boon: Illumination to feel more like a support boon you can bring to more easily transfer your boon around as the trial progresses. It also makes blessing a Hex Totem faster than cleansing it (equivalent to approx. 35% increased cleanse speed)*
 
 - **Borrowed Time** *(Rework)*
-  - Whenever you gain Deep Wound while you have Endurance passively mend over **40/35/30**s**.**
+  - Whenever you gain Deep Wound while you have Endurance passively mend over **40/35/30**s.
 
 *Dev Note: We added Elusive to the list of unhook protections previously but didn't like the idea of Borrowed Time extending it's duration. Instead we've opted to rework the perk to an entirely new effect.*
 
@@ -374,9 +374,9 @@ Alongside these features, dozens of Killer and Survivor perks receive balance tw
 *Dev Note: We want Plunderer's Instinct to be your go to for improving the efficiency of interacting with Chests. It should have it's place in builds that require you to open Chests.*
 
 - **Premonition** *(Rework)*
-  - While not chased by the Killer, whenever you look in the Killer’s direction within **32**m**:** *(was 36m and within 45 degrees)*
+  - While not chased by the Killer, whenever you look in the Killer’s direction within **32**m: *(was 36m and within 45 degrees)*
     - You are notified.
-    - You see the Killer's Aura for **3**s**.** *(NEW)*
+    - You see the Killer's Aura for **3**s. *(NEW)*
   - Cooldown: **70/65/60**s. *(was 60/45/30s)*
 
 *Dev Note: We want to modernize this perk by providing an Aura, giving newer players more direct information. To reinforce the need for players to learn how to loop a tile the effect disables in chase.*
@@ -401,7 +401,7 @@ Alongside these features, dozens of Killer and Survivor perks receive balance tw
     - You gain 1 Hook State.
     - You scream.
     - You become Injured *(was Exposed for 60/50/40s)*
-    - You become Broken for **160/140/120**s**.** *(NEW)*
+    - You become Broken for **160/140/120**s. *(NEW)*
     - Shoulder the Burden is deactivated for all Survivors. *(NEW)*
 
 *Dev Note: Shoulder the Burden's incredibly strong effect has not had a sizeable enough downside. We also found that the flexibility of how Shoulder the Burden could be used left little options for counterplay. We still fully expect the perk to be strong in the right hands. However we feel the new downsides and limitation provides more avenues for counterplay. We still aren't completely happy with it's interactions with some other perks, and are keeping a close eye on how the changes are received.*

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/544-9-6-0-patch-no
 author: "ThatRyanB"
 published: "2026-04-28T14:30:01+00:00"
 updated: "2026-04-28T14:30:55+00:00"
-archived: "2026-09-26T17:08:25Z"
+archived: "2026-09-26T19:26:40Z"
 ---
 
 <!-- summary -->
@@ -119,7 +119,7 @@ The Legion returns, map weighting is now equal, and a Diminishing Returns system
 
 **The Doctor**
 
-- Decreased delay of Shock Therapy attack to **0.75 seconds** *(was 0.8 seconds)*.**
+- Decreased delay of Shock Therapy attack to **0.75 seconds** *(was 0.8 seconds)*.
 
 **The Cannibal**
 

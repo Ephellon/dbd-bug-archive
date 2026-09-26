@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/118-3-5-0-mid-chap
 author: "Peanits"
 published: "2020-02-28T20:27:08+00:00"
 updated: "2020-02-28T21:35:05+00:00"
-archived: "2026-09-26T17:10:28Z"
+archived: "2026-09-26T19:28:42Z"
 ---
 
 <!-- summary -->

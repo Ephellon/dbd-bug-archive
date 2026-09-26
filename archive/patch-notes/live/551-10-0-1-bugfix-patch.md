@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/551-10-0-1-bugfix-
 author: "Mandy"
 published: "2026-06-23T14:30:07+00:00"
 updated: "2026-06-23T17:40:51+00:00"
-archived: "2026-09-26T17:08:24Z"
+archived: "2026-09-26T19:26:39Z"
 ---
 
 <!-- summary -->
@@ -39,7 +39,7 @@ Shane Wiigwas arrives as a new survivor with three perks—Wide Open Throttle (a
 - **Cross-Examination**
   - While in the Killer's Terror Radius, the Killer leaves Light Marks that lasts for **10s** that you can see. While on the Killer's Light Marks, you gain **Elusive**. This ends after **3/4/5s**.
     - ***Cross-Examination (CHANGE WILL BE IMPLEMENTED IN BUGFIX PATCH 3)***
-    - *While in the Killer's Terror Radius and not being chased by the Killer, the Killer leaves Light Marks that lasts for* ***10s*** *that you can see. While on the Killer's Light Marks, you gain* ***Elusive**. This ends after* ***3/4/5s**.*
+    - *While in the Killer's Terror Radius and not being chased by the Killer, the Killer leaves Light Marks that lasts for* ***10s*** *that you can see. While on the Killer's Light Marks, you gain* ***Elusive**. This ends after* ***3/4/5s***.
       - *Added the "not being chased by the Killer" to perk conditions*
 
 ![image.png](../../images/91c2ffb067377bac-bar-red-2.png)

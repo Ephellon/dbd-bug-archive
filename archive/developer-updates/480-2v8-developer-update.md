@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/480-2v8-developer-
 author: "Mandy"
 published: "2024-11-11T14:56:33+00:00"
 updated: "2024-11-11T17:57:21+00:00"
-archived: "2026-09-26T17:10:43Z"
+archived: "2026-09-26T19:28:56Z"
 ---
 
 <!-- summary -->

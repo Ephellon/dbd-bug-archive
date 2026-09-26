@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/215-4-1-1-bug-fix-
 author: "PatBrutal"
 published: "2020-08-05T14:31:05+00:00"
 updated: "2020-08-05T14:31:05+00:00"
-archived: "2026-09-26T17:09:40Z"
+archived: "2026-09-26T19:27:54Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Aura visuals were swapped back to a more legible version after complaints about 
 
 # 4.1.1 | Bug fix Patch
 
-*This article was created from a* [*community discussion*](https://forum.deadbydaylight.com/en/discussion/177553/pc-4-1-1-bugfix-patch)*.*
+*This article was created from a* [*community discussion*](https://forum.deadbydaylight.com/en/discussion/177553/pc-4-1-1-bugfix-patch).
 
 ![411Banner.png](../../images/797bdba5b15dc3ce-411banner.png)
 

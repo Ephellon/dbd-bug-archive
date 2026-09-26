@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/554-stats-global-s
 author: "ThatRyanB"
 published: "2026-07-29T17:11:37+00:00"
 updated: "2026-07-29T17:11:37+00:00"
-archived: "2026-09-26T17:10:36Z"
+archived: "2026-09-26T19:28:49Z"
 ---
 
 <!-- summary -->

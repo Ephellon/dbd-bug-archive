@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/543-stats-the-tric
 author: "ThatRyanB"
 published: "2026-04-23T14:00:01+00:00"
 updated: "2026-04-23T14:00:01+00:00"
-archived: "2026-09-26T17:10:37Z"
+archived: "2026-09-26T19:28:50Z"
 ---
 
 <!-- summary -->

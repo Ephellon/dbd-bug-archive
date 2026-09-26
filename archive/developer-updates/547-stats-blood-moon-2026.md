@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/547-stats-blood-mo
 author: "ThatRyanB"
 published: "2026-05-25T17:00:16+00:00"
 updated: "2026-05-25T17:00:17+00:00"
-archived: "2026-09-26T17:10:37Z"
+archived: "2026-09-26T19:28:50Z"
 ---
 
 <!-- summary -->

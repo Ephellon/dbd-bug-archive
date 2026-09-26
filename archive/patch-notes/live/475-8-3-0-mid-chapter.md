@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/475-8-3-0-mid-chap
 author: "Peanits"
 published: "2024-10-08T14:25:07+00:00"
 updated: "2024-10-08T15:11:19+00:00"
-archived: "2026-09-26T17:08:36Z"
+archived: "2026-09-26T19:26:51Z"
 ---
 
 <!-- summary -->
@@ -69,7 +69,7 @@ The update also bundles a bug-fix sweep covering archive challenges, audio cues,
 - **Inner Focus:** You can see other Survivors' Scratch Marks.  
    Whenever another Survivor loses a health state, the Killer's aura is revealed to you for **6/8/10 seconds**. *(Removed the range condition)*
 - **Lucky Star:** When you hide a locker, make no grunts of pain.  
-   After exiting the locker, you see the aura of the closest generator, all Survivors, and make no grunts of pain, nor leave blood pools for **30 seconds.** *(was 10 seconds)* *Lucky Star* goes on cooldown for **40/35/30 seconds*.*
+   After exiting the locker, you see the aura of the closest generator, all Survivors, and make no grunts of pain, nor leave blood pools for **30 seconds.** *(was 10 seconds)* *Lucky Star* goes on cooldown for **40/35/30 seconds**.
 - **Poised:** When first starting repairs on a generator, reveal the Killer's aura for **6 seconds**. *(NEW)* After a generator is completed, leave no scratch marks for **10/12/14 seconds**. *(was 6/8/10 seconds)*
 - **Quick Gambit:** When you are being chased, see the aura of other Survivors. *(Removed the range condition)*  
    Survivors working on any generator gain **3/4/5%** repair speed boost. *(was 6/7/8%)*  

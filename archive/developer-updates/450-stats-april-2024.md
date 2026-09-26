@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/450-stats-april-20
 author: "Peanits"
 published: "2024-05-17T13:56:14+00:00"
 updated: "2024-05-17T14:06:06+00:00"
-archived: "2026-09-26T17:10:46Z"
+archived: "2026-09-26T19:28:59Z"
 ---
 
 <!-- summary -->

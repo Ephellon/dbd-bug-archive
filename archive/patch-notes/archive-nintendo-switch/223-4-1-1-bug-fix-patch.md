@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/223-4-1-1-bug-fix-
 author: "PatBrutal"
 published: "2020-08-12T14:30:15+00:00"
 updated: "2020-08-12T14:30:15+00:00"
-archived: "2026-09-26T17:10:24Z"
+archived: "2026-09-26T19:28:38Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Aura visuals were swapped for a clearer style after 4.1.0 feedback. Cannibal add
 
 # 4.1.1 | Bug fix Patch 
 
-*This article was created from a* [*community discussion*](https://forum.deadbydaylight.com/en/discussion/177560/to-be-released-on-wednesday-august-12th-switch-bug-fix-patch-4-1-1)*.*
+*This article was created from a* [*community discussion*](https://forum.deadbydaylight.com/en/discussion/177560/to-be-released-on-wednesday-august-12th-switch-bug-fix-patch-4-1-1).
 
 ![411Banner.png](../../images/797bdba5b15dc3ce-411banner.png)
 

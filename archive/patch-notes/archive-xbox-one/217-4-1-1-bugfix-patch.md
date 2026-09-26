@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/217-4-1-1-bugfix-p
 author: "PatBrutal"
 published: "2020-08-05T14:34:09+00:00"
 updated: "2020-08-05T14:34:09+00:00"
-archived: "2026-09-26T17:10:02Z"
+archived: "2026-09-26T19:28:17Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Arcane aura visuals were swapped for a more visible version and dozens of add-on
 
 #  4.1.1 | Bugfix Patch
 
-*This article was created from a* [*community discussion*](https://forum.deadbydaylight.com/en/discussion/177558/xbox-4-1-1-bugfix-patch)*.*
+*This article was created from a* [*community discussion*](https://forum.deadbydaylight.com/en/discussion/177558/xbox-4-1-1-bugfix-patch).
 
 ![411Banner.png](../../images/797bdba5b15dc3ce-411banner.png)
 

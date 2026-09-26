@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/87-2-6-3-ash-vs-ev
 author: "Peanits"
 published: "2020-02-28T20:10:07+00:00"
 updated: "2020-02-28T22:08:13+00:00"
-archived: "2026-09-26T17:10:08Z"
+archived: "2026-09-26T19:28:22Z"
 ---
 
 <!-- summary -->

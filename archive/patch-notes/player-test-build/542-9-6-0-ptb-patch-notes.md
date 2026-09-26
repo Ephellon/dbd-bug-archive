@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/542-9-6-0-ptb-patc
 author: "ThatRyanB"
 published: "2026-04-07T14:30:07+00:00"
 updated: "2026-04-07T14:30:07+00:00"
-archived: "2026-09-26T17:09:07Z"
+archived: "2026-09-26T19:27:22Z"
 ---
 
 <!-- summary -->
@@ -106,7 +106,7 @@ Diminishing Returns now caps stacked positive and negative modifiers in trials, 
 
 **The Doctor**
 
-- Decreased delay of Shock Therapy attack to **0.75 seconds** *(was 0.8 seconds)*.**
+- Decreased delay of Shock Therapy attack to **0.75 seconds** *(was 0.8 seconds)*.
 
 **The Cannibal**
 

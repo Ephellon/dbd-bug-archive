@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/109-3-3-2-mid-chap
 author: "Peanits"
 published: "2020-02-28T20:22:48+00:00"
 updated: "2020-02-28T21:37:55+00:00"
-archived: "2026-09-26T17:10:20Z"
+archived: "2026-09-26T19:28:34Z"
 ---
 
 <!-- summary -->
@@ -75,7 +75,7 @@ The 3.3.2 update upgrades to Unreal Engine 4.22 and adds The Archives, a Rift re
 - Metal Spoon: Hitting a Survivor with a blink attack causes their sounds of pain to be moderately louder for 60 seconds.
 - Wooden Horse: Reduces extra fatigue from missed blink attacks by 50% (0.5 seconds).
 - Plaid Flannel: Rarity changed from Very Rare to Common. The blink indicator placement has been improved, and will now stay visible until the Nurse has reached her destination (it was previously not visible while blinking).
-- Dull Bracelet: Decreases maximum blink distance by 20% (4 meters)*.* Increases Blood point rewards for precise blink score events by 100%.
+- Dull Bracelet: Decreases maximum blink distance by 20% (4 meters). Increases Blood point rewards for precise blink score events by 100%.
 - Bad Man Keepsake: Rarity changed from Common to Uncommon. Hitting a Survivor with a blink attack causes their aura to be revealed when healing or being healed within a 28 meter range for 60 seconds.
 - Catatonic Boy's Treasure: Reduces extra fatigue from chain blinks by 100% (0.5 seconds).
 - Dark Cincture: Decreases blink recharge time by 20% (0.6 seconds).

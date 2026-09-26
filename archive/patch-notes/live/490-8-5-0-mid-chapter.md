@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/490-8-5-0-mid-chap
 author: "ThatRyanB"
 published: "2025-01-28T15:28:03+00:00"
 updated: "2025-01-28T15:28:04+00:00"
-archived: "2026-09-26T17:08:34Z"
+archived: "2026-09-26T19:26:49Z"
 ---
 
 <!-- summary -->
@@ -356,7 +356,7 @@ The rest of the update focuses on stability, delivering audio, bot, character, m
   - For each Survivor still alive, you open the Exit Gates **8/10/12.5%** faster. *(NEW)*
   - While Wake Up! is active, you open the Exit Gates **40/45/50%** faster. *(REMOVED)*
 - **Beast of Prey**:
-  - When you gain Bloodlust for the first time, gain Undetectable for **30/35/40 seconds** *(*was 10/15/20 sec*)*
+  - When you gain Bloodlust for the first time, gain Undetectable for **30/35/40 seconds** (was 10/15/20 sec)
 
 ![bar1.png](../../images/58945c20a5542241-bar-white.png)
 

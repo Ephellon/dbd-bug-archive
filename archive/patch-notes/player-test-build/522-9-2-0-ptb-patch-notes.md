@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/522-9-2-0-ptb-patc
 author: "ThatRyanB"
 published: "2025-09-03T15:00:39+00:00"
 updated: "2025-09-03T15:36:55+00:00"
-archived: "2026-09-26T17:09:08Z"
+archived: "2026-09-26T19:27:23Z"
 ---
 
 <!-- summary -->
@@ -147,7 +147,7 @@ The patch also delivers extensive bug fixes—audio glitches, bot movement, char
   - **20%** bonus to the next damage generator action ("kicking" the generator)
   - **10% Haste** for **15 seconds**
     - Breaking a pallet or damaging a Survivor removes this bonus
-  - Reveal all Survivors outside of **40 meters** that have less than or equal hook states for **4 seconds** *(*think: basekit Barbecue & Chili*)*
+  - Reveal all Survivors outside of **40 meters** that have less than or equal hook states for **4 seconds** (think: basekit Barbecue & Chili)
 - These effects can only be gained when the Killer performs the hook interaction themselves.
 - The following Killers have a different set of bonuses:
   - The Blight, The Dark Lord, The Ghoul, The Hillbilly, The Krasue, and The Nurse
@@ -384,18 +384,18 @@ The following perks have been updated. See the Perk Updates sections below for m
 
 ### Survivor Perk Updates
 
-- **Babysitter** ***(Rework)*:**
+- **Babysitter** ***(Rework)***:
   - After unhooking a Survivor, you see the Survivor's aura and the Killer's aura for **8/10/12 seconds**.
 - **Borrowed Time:**
   - Survivors you unhook retain their Unhook Protections for an additional **8/10/12 seconds**.
 - **Clairvoyance:**
-  - Increased aura reading duration to **10/11/12 seconds** (*was 8/9/10 seconds*)*.*
+  - Increased aura reading duration to **10/11/12 seconds** (*was 8/9/10 seconds*).
 - **Friendly Competition:**
-  - Increased the bonus repair progress speed duration to **100/110/120** **seconds** (*was 45/60/75 seconds*)*.*
+  - Increased the bonus repair progress speed duration to **100/110/120** **seconds** (*was 45/60/75 seconds*).
 - **Hope:**
-  - Decreased the **Haste** status effect gained when the Exit Gates are powered to **3/4/5%** (was *5/6/7%*)*.*
+  - Decreased the **Haste** status effect gained when the Exit Gates are powered to **3/4/5%** (was *5/6/7%*).
 - **No Mither:**
-  - Increased the volume reduction for grunts of pain to **100%** across all tiers (*was 25/50/75%*)*.*
+  - Increased the volume reduction for grunts of pain to **100%** across all tiers (*was 25/50/75%*).
 - **Off the Record:**
   - Removed the **Endurance** status effect.
   - Removed the stipulation that it disables once Exit Gates are powered.

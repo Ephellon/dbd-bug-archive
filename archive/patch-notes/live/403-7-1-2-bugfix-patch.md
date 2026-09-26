@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/403-7-1-2-bugfix-p
 author: "Omnia"
 published: "2023-08-09T14:28:15+00:00"
 updated: "2023-08-09T15:12:43+00:00"
-archived: "2026-09-26T17:08:47Z"
+archived: "2026-09-26T19:27:01Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Improved Player Reporting Feedback was activated, and the patch resolves a wide 
 
 # 7.1.2 | Bugfix Patch
 
-*This article was created from a* [*community discussion*](https://forums.bhvr.com/dead-by-daylight/discussion/386775/7-1-2-bugfix-patch)*.*
+*This article was created from a* [*community discussion*](https://forums.bhvr.com/dead-by-daylight/discussion/386775/7-1-2-bugfix-patch).
 
 ![712_PatchNotesThinBanner copie.png](../../images/53a27f6d93262667-712-patchnotesthinbanner-copie.png)
 

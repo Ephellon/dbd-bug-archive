@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/538-9-5-0-all-kill
 author: "ThatRyanB"
 published: "2026-03-17T14:30:07+00:00"
 updated: "2026-03-17T14:30:07+00:00"
-archived: "2026-09-26T17:08:26Z"
+archived: "2026-09-26T19:26:41Z"
 ---
 
 <!-- summary -->
@@ -617,7 +617,7 @@ Refactor done in the Virulent Bound power. This specifically tackles the desync 
 
 ## Changes from PTB
 
-### New Perks **Updates
+### New Perks **Updates**
 
 **A Place For Us**
 

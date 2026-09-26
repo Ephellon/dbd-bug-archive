@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/294-5-2-0-hellrais
 author: "Peanits"
 published: "2021-09-07T14:28:29+00:00"
 updated: "2021-09-07T14:56:02+00:00"
-archived: "2026-09-26T17:09:02Z"
+archived: "2026-09-26T19:27:17Z"
 ---
 
 <!-- summary -->

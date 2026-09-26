@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/509-9-0-0-ptb-patc
 author: "ThatRyanB"
 published: "2025-05-27T16:00:27+00:00"
 updated: "2025-05-27T16:00:28+00:00"
-archived: "2026-09-26T17:09:09Z"
+archived: "2026-09-26T19:27:24Z"
 ---
 
 <!-- summary -->
@@ -70,7 +70,7 @@ The Animatronic killer, wielding a fire axe and a security-door system, arrives 
 
 ![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
-### N**ew Map - Freddy Fazbear's Pizza
+### **N**ew Map - Freddy Fazbear's Pizza
 
 - The rotting brainchild of a sadistic murderer still stands over the grassy plains. A place of joy for some, and unspeakable terror for others. Do not let the bright colors and parlor tricks deceive you; many have died within these walls, and many more will die still.
 
@@ -97,7 +97,7 @@ The Animatronic killer, wielding a fire axe and a security-door system, arrives 
   - “Unpredictability” pop-up
   - Perk slot unlocks
 
-### Disconnection Penalties *(not in PTB)
+### Disconnection Penalties *(not in PTB)*
 
 - Disconnection Penalties are now based on your last 20 matches played.
 - Each disconnect in this set of 20 matches counts as a disconnection penalty point.

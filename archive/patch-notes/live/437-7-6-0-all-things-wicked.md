@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/437-7-6-0-all-thin
 author: "Peanits"
 published: "2024-03-12T15:55:20+00:00"
 updated: "2024-03-13T12:06:25+00:00"
-archived: "2026-09-26T17:08:42Z"
+archived: "2026-09-26T19:26:56Z"
 ---
 
 <!-- summary -->

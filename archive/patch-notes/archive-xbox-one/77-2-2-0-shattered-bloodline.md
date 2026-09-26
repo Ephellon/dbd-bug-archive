@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/77-2-2-0-shattered
 author: "Peanits"
 published: "2020-02-28T19:56:49+00:00"
 updated: "2020-02-28T21:55:51+00:00"
-archived: "2026-09-26T17:10:04Z"
+archived: "2026-09-26T19:28:19Z"
 ---
 
 <!-- summary -->

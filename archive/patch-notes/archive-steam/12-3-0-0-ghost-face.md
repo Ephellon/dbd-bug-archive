@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/12-3-0-0-ghost-fac
 author: "Peanits"
 published: "2020-02-28T17:21:55+00:00"
 updated: "2020-03-02T15:22:19+00:00"
-archived: "2026-09-26T17:09:33Z"
+archived: "2026-09-26T19:27:47Z"
 ---
 
 <!-- summary -->

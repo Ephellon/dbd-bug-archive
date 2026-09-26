@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/498-8-6-0-tokyo-gh
 author: "ThatRyanB"
 published: "2025-04-02T15:59:03+00:00"
 updated: "2025-04-02T15:59:04+00:00"
-archived: "2026-09-26T17:08:33Z"
+archived: "2026-09-26T19:26:48Z"
 ---
 
 <!-- summary -->
@@ -223,7 +223,7 @@ The following score events have been moved to a different category:
 - Increased Oblivious duration to 30/35/40 seconds *(was 20/25/30 seconds)*
 - Decreased cooldown to 20 seconds *(was 30 seconds)*
 
-#### Knock Out** ***(Rework)*:
+#### **Knock Out** ***(Rework)***:
 
 - When a Survivor drops a pallet, if they move 6/6/6 meters away from it within 6/6/6 seconds, they gain 5/5/5% Hindered for 3/4/5 seconds.
 

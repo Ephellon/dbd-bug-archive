@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/270-4-4-0-a-bindin
 author: "Peanits"
 published: "2020-12-01T15:31:27+00:00"
 updated: "2020-12-02T18:23:09+00:00"
-archived: "2026-09-26T17:09:43Z"
+archived: "2026-09-26T19:27:57Z"
 ---
 
 <!-- summary -->

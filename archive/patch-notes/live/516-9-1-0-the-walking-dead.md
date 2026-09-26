@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/516-9-1-0-the-walk
 author: "ThatRyanB"
 published: "2025-07-29T16:07:29+00:00"
 updated: "2025-07-29T16:07:30+00:00"
-archived: "2026-09-26T17:08:31Z"
+archived: "2026-09-26T19:26:45Z"
 ---
 
 <!-- summary -->

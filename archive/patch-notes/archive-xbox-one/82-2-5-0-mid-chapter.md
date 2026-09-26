@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/82-2-5-0-mid-chapt
 author: "Peanits"
 published: "2020-02-28T20:00:09+00:00"
 updated: "2020-02-28T22:04:23+00:00"
-archived: "2026-09-26T17:10:06Z"
+archived: "2026-09-26T19:28:20Z"
 ---
 
 <!-- summary -->

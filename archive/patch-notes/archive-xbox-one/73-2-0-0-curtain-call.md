@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/73-2-0-0-curtain-c
 author: "Peanits"
 published: "2020-02-28T19:53:27+00:00"
 updated: "2020-02-28T21:51:33+00:00"
-archived: "2026-09-26T17:10:03Z"
+archived: "2026-09-26T19:28:18Z"
 ---
 
 <!-- summary -->

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/523-9-2-0-sinister
 author: "ThatRyanB"
 published: "2025-09-23T16:01:21+00:00"
 updated: "2025-09-23T16:01:22+00:00"
-archived: "2026-09-26T17:08:29Z"
+archived: "2026-09-26T19:26:44Z"
 ---
 
 <!-- summary -->
@@ -274,7 +274,7 @@ The Krasue arrives as a new killer with interchangeable Body and Head forms, a 4
 - Blood-Filled Goblet:
   - Increases the duration of Scent Orbs by **60%** (*was 50%*).
 - White Wolf Medallion:
-  - Increases Killer Instinct duration by **1 second** while in Wolf Form after Survivors complete rushed actions (*was 0.8 seconds*)*.*
+  - Increases Killer Instinct duration by **1 second** while in Wolf Form after Survivors complete rushed actions (*was 0.8 seconds*).
 - Killer Doll:
   - Increases the cooldown reduction of Pounce Attacks from Scent Orbs by **30%** (*was 50%*).
 - Force of Echo:
@@ -306,13 +306,13 @@ The Krasue arrives as a new killer with interchangeable Body and Head forms, a 4
 ### Survivor Perk Updates
 
 - **Clairvoyance:**
-  - Increased aura reading duration to **10/11/12 seconds** (*was 8/9/10 seconds*)*.*
+  - Increased aura reading duration to **10/11/12 seconds** (*was 8/9/10 seconds*).
 - **Friendly Competition:**
-  - Increased the bonus repair progress speed duration to **100/110/120** **seconds** (*was 45/60/75 seconds*)*.*
+  - Increased the bonus repair progress speed duration to **100/110/120** **seconds** (*was 45/60/75 seconds*).
 - **Hope:**
-  - Decreased the **Haste** status effect gained when the Exit Gates are powered to **3/4/5%** (was *5/6/7%*)*.*
+  - Decreased the **Haste** status effect gained when the Exit Gates are powered to **3/4/5%** (was *5/6/7%*).
 - **No Mither:**
-  - Increased the volume reduction for grunts of pain to **100%** across all tiers (*was 25/50/75%*)*.*
+  - Increased the volume reduction for grunts of pain to **100%** across all tiers (*was 25/50/75%*).
 - **Off the Record:**
   - Removed the **Endurance** status effect.
   - Removed the stipulation that it disables once Exit Gates are powered.

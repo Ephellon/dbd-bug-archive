@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/440-developer-upda
 author: "Peanits"
 published: "2024-03-28T13:57:39+00:00"
 updated: "2024-03-28T13:57:39+00:00"
-archived: "2026-09-26T17:10:48Z"
+archived: "2026-09-26T19:29:01Z"
 ---
 
 <!-- summary -->
@@ -121,18 +121,18 @@ Spring has sprung, and so has a new Developer Update! In this post, we’ll shar
 ![CA_DBD_0324_Generic_Frame_Template_FOOTER_example.png](../images/714c9c1a3929d607-ca-dbd-0324-generic-frame-template-footer-exampl.png) ![Store.png](../images/7f681399251eb6da-store.png)
 
 - **`[CHANGE]`** Visual overhaul to the entire store menu.
-- **`[`*NEW*\]** Added “Specials” tab to highlight items that are on sale.
-- **`[`*NEW*\]** Added “Collections” tab to find cosmetics from a specific collection.
-- **`[`*NEW*\]** Added bundles, containing multiple items at a discounted price.
-- **`[`*NEW*\]** Killer mori animations can now be viewed in the store.
-- **`[`*NEW*\]** Added a weekly gift that can be claimed for free.
+- `[`***NEW***\] Added “Specials” tab to highlight items that are on sale.
+- `[`***NEW***\] Added “Collections” tab to find cosmetics from a specific collection.
+- `[`***NEW***\] Added bundles, containing multiple items at a discounted price.
+- `[`***NEW***\] Killer mori animations can now be viewed in the store.
+- `[`***NEW***\] Added a weekly gift that can be claimed for free.
 
 *Dev note: The store hasn’t changed much since it was introduced in 2018. This update makes it easier to find what you’re looking for and allows us to bundle content together at a reduced price. For example, it’s now possible to purchase an entire DLC pack through the in-game store rather than purchasing each character separately.*
 
 ![Store_Update_Collections.png](../images/1e7de1b188b1d430-store-update-collections.png) ![Store_Update_Featured.png](../images/f99c12eb0c6d3eb6-store-update-featured.png) ![CA_DBD_0324_Generic_Frame_Template_FOOTER_example.png](../images/714c9c1a3929d607-ca-dbd-0324-generic-frame-template-footer-exampl.png) ![Archives.png](../images/b1ebd8f2dea8e347-archives.png)
 
 - **`[CHANGE]`** New Tomes & their respective Rifts will now open at the same time as the update.
-- **`[`*NEW*\]** New Rift Bundle option, which grants the Premium Rift rewards & a 20 tier head start at a discounted price.
+- `[`***NEW***\] New Rift Bundle option, which grants the Premium Rift rewards & a 20 tier head start at a discounted price.
 
 *Dev note: Rifts have historically opened the day after our Mid-Chapter updates, but no more! You can now get cracking on those challenges right away. We have also introduced a new Rift bundle which includes the Premium Rift Pass and 20 Tiers at a discounted price. (The Premium Rift Pass can still be purchased separately if you prefer!)*
 

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/220-4-1-2-bug-fix-
 author: "PatBrutal"
 published: "2020-08-11T14:32:23+00:00"
 updated: "2020-08-11T14:32:23+00:00"
-archived: "2026-09-26T17:10:33Z"
+archived: "2026-09-26T19:28:46Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Hillbilly’s Overheat system was rebalanced, reducing base heat dissipation fro
 
 # 4.1.2 | Bug fix patch 
 
-*This article was created from a* [*community discussion*](https://forum.deadbydaylight.com/en/discussion/180983/windows-store-bug-fix-patch-4-1-2)*.*
+*This article was created from a* [*community discussion*](https://forum.deadbydaylight.com/en/discussion/180983/windows-store-bug-fix-patch-4-1-2).
 
 ![412Banner (1).png](../../images/8768a5184bf84d5d-412banner-281-29.png)
 

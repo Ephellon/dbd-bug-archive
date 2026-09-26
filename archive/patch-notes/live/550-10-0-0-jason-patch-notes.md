@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/550-10-0-0-jason-p
 author: "ThatRyanB"
 published: "2026-06-16T14:30:09+00:00"
 updated: "2026-06-16T14:32:39+00:00"
-archived: "2026-09-26T17:08:24Z"
+archived: "2026-09-26T19:26:39Z"
 ---
 
 <!-- summary -->

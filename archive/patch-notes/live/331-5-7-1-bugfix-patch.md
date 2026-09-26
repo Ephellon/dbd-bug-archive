@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/331-5-7-1-bugfix-p
 author: "Omnia"
 published: "2022-05-03T14:29:40+00:00"
 updated: "2022-05-03T18:10:56+00:00"
-archived: "2026-09-26T17:08:57Z"
+archived: "2026-09-26T19:27:12Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Ghost Face’s chase music was lowered as a temporary fix while a new track is d
 
 # 5.7.1 | Bugfix Patch
 
-*This article was created from a* [*community discussion*](https://forum.deadbydaylight.com/en/discussion/321776/5-7-1-bugfix-patch)*.*
+*This article was created from a* [*community discussion*](https://forum.deadbydaylight.com/en/discussion/321776/5-7-1-bugfix-patch).
 
 ![PatchNotesBanner571.jpg](../../images/16e39ace5015fc3c-patchnotesbanner571.jpg)
 

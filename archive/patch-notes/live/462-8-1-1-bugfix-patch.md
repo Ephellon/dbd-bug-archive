@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/462-8-1-1-bugfix-p
 author: "Peanits"
 published: "2024-07-24T14:25:39+00:00"
 updated: "2024-07-24T14:25:39+00:00"
-archived: "2026-09-26T17:08:38Z"
+archived: "2026-09-26T19:26:53Z"
 ---
 
 <!-- summary -->

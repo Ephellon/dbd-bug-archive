@@ -262,6 +262,10 @@ class MarkdownWriter:
         core = inner.strip()
         if not core:
             return " " if inner else ""
+        if not re.search(r"\w", core):
+            # <em>. </em> and friends: emphasis on bare punctuation renders as
+            # literal asterisks, because the markers are not left-flanking.
+            return inner
         lead = " " if inner[:1].isspace() else ""
         trail = " " if inner[-1:].isspace() else ""
         return f"{lead}{mark}{core}{mark}{trail}"
@@ -335,8 +339,17 @@ class MarkdownWriter:
             return [indent + "---"]
         if tag in ("h1", "h2", "h3", "h4", "h5", "h6"):
             level = int(tag[1])
-            # Headings are routinely wrapped in <strong>; that is presentation.
-            text = self.inline(node).strip().strip("*").strip()
+            # A heading wrapped entirely in <strong> is presentation, so unwrap
+            # it. Emphasis on only PART of a heading is content, and must stay:
+            # <h3><strong>N</strong>ew Map</h3> is not a wrapped heading.
+            target = node
+            while True:
+                kids = [c for c in target.children if c.tag or c.text.strip()]
+                if len(kids) == 1 and kids[0].tag in ("strong", "b", "em", "i"):
+                    target = kids[0]
+                    continue
+                break
+            text = self.inline(target).strip()
             return [f"{indent}{'#' * level} {text}"] if text else []
         if tag in ("ul", "ol"):
             return self._list(node, indent)

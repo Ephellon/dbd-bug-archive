@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/94-3-1-0-mid-chapt
 author: "Peanits"
 published: "2020-02-28T20:14:44+00:00"
 updated: "2020-02-28T22:13:07+00:00"
-archived: "2026-09-26T17:10:10Z"
+archived: "2026-09-26T19:28:24Z"
 ---
 
 <!-- summary -->
@@ -73,7 +73,7 @@ Head On:
 
 **Gameplay & power changes**
 
-Microsleep**:**
+Microsleep:
 
 - Awake Survivors will see The Nightmare within 16 meters, The Nightmare will be intermittent from 16 meters to 32 meters, and while awake Survivors will hear The Nightmare emit a Terror Radius of 32 meters.
 

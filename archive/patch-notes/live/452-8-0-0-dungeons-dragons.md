@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/452-8-0-0-dungeons
 author: "Peanits"
 published: "2024-06-03T14:58:24+00:00"
 updated: "2024-06-03T15:25:17+00:00"
-archived: "2026-09-26T17:08:40Z"
+archived: "2026-09-26T19:26:54Z"
 ---
 
 <!-- summary -->

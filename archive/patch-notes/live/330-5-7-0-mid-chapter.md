@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/330-5-7-0-mid-chap
 author: "Omnia"
 published: "2022-04-27T14:29:56+00:00"
 updated: "2022-04-27T14:40:40+00:00"
-archived: "2026-09-26T17:08:50Z"
+archived: "2026-09-26T19:27:05Z"
 ---
 
 <!-- summary -->

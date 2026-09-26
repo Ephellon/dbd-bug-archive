@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/497-design-preview
 author: "ThatRyanB"
 published: "2025-03-24T16:30:09+00:00"
 updated: "2025-03-24T16:30:10+00:00"
-archived: "2026-09-26T17:10:41Z"
+archived: "2026-09-26T19:28:54Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ Dead by Daylight’s developers outlined a forthcoming overhaul of the Killer Sk
 
 ![DbD_DesignPreview-SM_Banner_1920x1080.png](../images/945ddaf7a6797884-dbd-designpreview-sm-banner-1920x1080.png)
 
-**Click here for** [**Português Brasileiro**](https://dbd.game/4bVx069)**,** [**简体中文**](https://dbd.game/4hIKeoa)**,** [**Français**](https://dbd.game/4jfJTdV)**,** [**日本語**](https://dbd.game/4c074GH)**, and** [**Español**](https://dbd.game/4hFjuVE)**.**
+**Click here for** [**Português Brasileiro**](https://dbd.game/4bVx069), [**简体中文**](https://dbd.game/4hIKeoa), [**Français**](https://dbd.game/4jfJTdV), [**日本語**](https://dbd.game/4c074GH)**, and** [**Español**](https://dbd.game/4hFjuVE).
 
 Today, we want to dig into a topic that we know many of you have been yearning to know more about: **our vision for the future of The Skull Merchant**!
 

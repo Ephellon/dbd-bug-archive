@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/502-8-6-2-bugfix-p
 author: "ThatRyanB"
 published: "2025-04-17T14:29:18+00:00"
 updated: "2025-04-17T14:29:18+00:00"
-archived: "2026-09-26T17:08:33Z"
+archived: "2026-09-26T19:26:48Z"
 ---
 
 <!-- summary -->

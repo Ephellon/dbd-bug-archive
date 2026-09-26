@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/40-2-2-1-hotfix"
 author: "Peanits"
 published: "2020-02-28T17:58:24+00:00"
 updated: "2020-03-02T19:21:45+00:00"
-archived: "2026-09-26T17:09:47Z"
+archived: "2026-09-26T19:28:01Z"
 ---
 
 <!-- summary -->

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/224-4-1-2-bug-fix-
 author: "PatBrutal"
 published: "2020-08-12T14:30:59+00:00"
 updated: "2020-08-12T14:30:59+00:00"
-archived: "2026-09-26T17:10:25Z"
+archived: "2026-09-26T19:28:38Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ The Hillbilly’s Overheat mechanic was tweaked, reducing base heat dissipation 
 
 # 4.1.2 | Bug fix patch 
 
-*This article was created from a* [*community discussion*](https://forum.deadbydaylight.com/en/discussion/180984/to-be-released-on-wednesday-august-12-switch-bug-fix-patch-4-1-2)*.*
+*This article was created from a* [*community discussion*](https://forum.deadbydaylight.com/en/discussion/180984/to-be-released-on-wednesday-august-12-switch-bug-fix-patch-4-1-2).
 
 ![412Banner (1).png](../../images/8768a5184bf84d5d-412banner-281-29.png)
 

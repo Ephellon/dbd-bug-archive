@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/400-7-1-0-nicolas-
 author: "Peanits"
 published: "2023-07-25T14:28:07+00:00"
 updated: "2023-07-25T14:44:59+00:00"
-archived: "2026-09-26T17:08:48Z"
+archived: "2026-09-26T19:27:02Z"
 ---
 
 <!-- summary -->

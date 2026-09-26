@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/198-4-0-0-silent-h
 author: "Peanits"
 published: "2020-06-16T14:31:43+00:00"
 updated: "2020-06-16T14:31:44+00:00"
-archived: "2026-09-26T17:10:24Z"
+archived: "2026-09-26T19:28:37Z"
 ---
 
 <!-- summary -->

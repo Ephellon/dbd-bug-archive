@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/337-developer-upda
 author: "Peanits"
 published: "2022-06-20T16:15:29+00:00"
 updated: "2022-06-22T17:16:26+00:00"
-archived: "2026-09-26T17:10:56Z"
+archived: "2026-09-26T19:29:09Z"
 ---
 
 <!-- summary -->
@@ -133,7 +133,7 @@ With these two changes, we hope to reduce the reliance on passive slowdown mecha
 
 ### General Killer Improvements
 
-The average kill rates (how many Survivors are killed each trial, on average) are a little lower than we’d like – a sentiment echoed by many community members*.* To ensure the Killer feels like an unstoppable force to be feared, we’re making slight improvements to many aspects of Killer gameplay.
+The average kill rates (how many Survivors are killed each trial, on average) are a little lower than we’d like – a sentiment echoed by many community members. To ensure the Killer feels like an unstoppable force to be feared, we’re making slight improvements to many aspects of Killer gameplay.
 
 We’ve reduced the time it takes to break walls and pallets by 10% (now 2.34 seconds, previously 2.6). Generators can also be kicked 10% faster than before (now 1.8 seconds, was 2 seconds). While these changes may seem small, a fraction of second can be the difference between hitting a Survivor and them reaching a pallet.
 

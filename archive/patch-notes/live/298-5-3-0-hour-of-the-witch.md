@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/298-5-3-0-hour-of-
 author: "Peanits"
 published: "2021-10-19T14:24:36+00:00"
 updated: "2021-10-19T14:35:02+00:00"
-archived: "2026-09-26T17:09:01Z"
+archived: "2026-09-26T19:27:16Z"
 ---
 
 <!-- summary -->

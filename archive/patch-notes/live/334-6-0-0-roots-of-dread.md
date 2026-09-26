@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/334-6-0-0-roots-of
 author: "Peanits"
 published: "2022-06-07T14:28:45+00:00"
 updated: "2022-06-07T14:45:09+00:00"
-archived: "2026-09-26T17:08:57Z"
+archived: "2026-09-26T19:27:11Z"
 ---
 
 <!-- summary -->

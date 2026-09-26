@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/290-5-1-0-mid-chap
 author: "Peanits"
 published: "2021-07-27T14:28:47+00:00"
 updated: "2021-07-27T14:28:47+00:00"
-archived: "2026-09-26T17:09:03Z"
+archived: "2026-09-26T19:27:18Z"
 ---
 
 <!-- summary -->
@@ -51,8 +51,8 @@ Players can now toggle HUD elements in the Settings menu, new tutorials with too
 - Fizz-Spin Soda: Smaller effect (starts at 2 knives thrown instead of 3; balanced with smaller maximum Laceration)
 - Iridescent Photocard: When a Survivor’s Laceration Meter is two or less Blade hits away from the maximum, they are inflicted with the **Exposed** status effect.
 - Death Throes Compilation: When *Main Event ends*, The Trickster's knives are replenished.
-- Lucky Blade: Hitting a survivor with a Blade during *Main Event* **slightly** extends its duration**.** (0.2s)
-- Waiting for You Watch: Hitting a survivor with a Blade during *Main Event* **moderately** extends its duration**.** (0.3s)
+- Lucky Blade: Hitting a survivor with a Blade during *Main Event* **slightly** extends its duration. (0.2s)
+- Waiting for You Watch: Hitting a survivor with a Blade during *Main Event* **moderately** extends its duration. (0.3s)
 
 **Changes from PTB to Live:**
 

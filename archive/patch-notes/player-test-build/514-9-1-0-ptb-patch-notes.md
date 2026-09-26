@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/514-9-1-0-ptb-patc
 author: "ThatRyanB"
 published: "2025-07-08T15:37:49+00:00"
 updated: "2025-07-08T15:37:49+00:00"
-archived: "2026-09-26T17:09:09Z"
+archived: "2026-09-26T19:27:23Z"
 ---
 
 <!-- summary -->
@@ -377,7 +377,7 @@ Rick Grimes and Michonne Grimes join the roster, each bringing three new survivo
 
 ![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
-### Gameplay Area Expansion** - Fallen Refuge
+### **Gameplay Area Expansion** - Fallen Refuge
 
 - More space to chase Survivors or loop the Killer, a small reference to a narrative universe where the dead roam the world has been added.
 

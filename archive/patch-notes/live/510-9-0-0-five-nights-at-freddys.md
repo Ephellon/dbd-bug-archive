@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/510-9-0-0-five-nig
 author: "ThatRyanB"
 published: "2025-06-17T14:30:50+00:00"
 updated: "2025-06-17T16:12:48+00:00"
-archived: "2026-09-26T17:08:32Z"
+archived: "2026-09-26T19:26:46Z"
 ---
 
 <!-- summary -->
@@ -63,7 +63,7 @@ The Animatronic arrives as a new Killer with the Fire Axe power, Fazbear’s Fri
 
 ![bar_white.png](../../images/58945c20a5542241-bar-white.png)
 
-### N**ew Map - Freddy Fazbear's Pizza
+### **N**ew Map - Freddy Fazbear's Pizza
 
 - The rotting brainchild of a sadistic murderer still stands over the grassy plains. A place of joy for some, and unspeakable terror for others. Do not let the bright colors and parlor tricks deceive you; many have died within these walls, and many more will die still.
 

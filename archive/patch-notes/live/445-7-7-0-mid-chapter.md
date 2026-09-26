@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/445-7-7-0-mid-chap
 author: "Peanits"
 published: "2024-04-23T14:58:05+00:00"
 updated: "2024-04-23T15:22:28+00:00"
-archived: "2026-09-26T17:08:41Z"
+archived: "2026-09-26T19:26:55Z"
 ---
 
 <!-- summary -->
@@ -64,7 +64,7 @@ The update moves Dead by Daylight to Unreal Engine 5, trims about 18 GB from con
 
 ![PatchNotesDividerSmolWhite.png](../../images/bdb54c9551da7286-image.png)
 
-### Match's Details** **Menu
+### **Match's Details** **Menu**
 
 - The Match Details Menu now allow players to review Perks.
 - During a match, when opening the Match Details window (Escape on computers), players can see their equipped Perks.

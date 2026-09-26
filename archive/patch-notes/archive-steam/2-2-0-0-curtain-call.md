@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/2-2-0-0-curtain-ca
 author: "Peanits"
 published: "2020-02-28T17:08:53+00:00"
 updated: "2020-03-02T14:29:49+00:00"
-archived: "2026-09-26T17:09:28Z"
+archived: "2026-09-26T19:27:43Z"
 ---
 
 <!-- summary -->

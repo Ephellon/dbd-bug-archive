@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/300-5-3-0a-hotfix"
 author: "Peanits"
 published: "2021-10-22T14:36:38+00:00"
 updated: "2021-10-22T14:36:38+00:00"
-archived: "2026-09-26T17:09:01Z"
+archived: "2026-09-26T19:27:16Z"
 ---
 
 <!-- summary -->

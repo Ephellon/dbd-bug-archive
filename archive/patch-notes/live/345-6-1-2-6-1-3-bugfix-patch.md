@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/345-6-1-2-6-1-3-bu
 author: "Peanits"
 published: "2022-08-02T14:24:15+00:00"
 updated: "2022-08-02T15:00:00+00:00"
-archived: "2026-09-26T17:08:55Z"
+archived: "2026-09-26T19:27:10Z"
 ---
 
 <!-- summary -->

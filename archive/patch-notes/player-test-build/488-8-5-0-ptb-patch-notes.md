@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/488-8-5-0-ptb-patc
 author: "ThatRyanB"
 published: "2025-01-08T15:28:14+00:00"
 updated: "2025-01-08T15:28:14+00:00"
-archived: "2026-09-26T17:09:10Z"
+archived: "2026-09-26T19:27:25Z"
 ---
 
 <!-- summary -->

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/287-5-0-1-resident
 author: "DeathByGiggles"
 published: "2021-06-22T14:31:53+00:00"
 updated: "2021-06-22T14:52:20+00:00"
-archived: "2026-09-26T17:09:03Z"
+archived: "2026-09-26T19:27:18Z"
 ---
 
 <!-- summary -->

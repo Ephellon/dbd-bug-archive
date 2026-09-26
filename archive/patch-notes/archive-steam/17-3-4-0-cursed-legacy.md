@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/17-3-4-0-cursed-le
 author: "Peanits"
 published: "2020-02-28T17:31:37+00:00"
 updated: "2020-03-02T15:33:26+00:00"
-archived: "2026-09-26T17:09:36Z"
+archived: "2026-09-26T19:27:50Z"
 ---
 
 <!-- summary -->

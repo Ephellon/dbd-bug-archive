@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/404-7-1-2a-bugfix-
 author: "Omnia"
 published: "2023-08-15T14:28:32+00:00"
 updated: "2023-08-15T14:28:32+00:00"
-archived: "2026-09-26T17:08:47Z"
+archived: "2026-09-26T19:27:01Z"
 ---
 
 <!-- summary -->
@@ -21,7 +21,7 @@ Stadia-owned entitlements were restored on Steam and the Epic Games Store, fixin
 
 # 7.1.2a | Bugfix Patch
 
-*This article was created from a* [*community discussion*](https://forums.bhvr.com/dead-by-daylight/discussion/388071/7-1-2a-bugfix-patch)*.*
+*This article was created from a* [*community discussion*](https://forums.bhvr.com/dead-by-daylight/discussion/388071/7-1-2a-bugfix-patch).
 
 ![712A_PatchNotesThinBanner.png](../../images/40d94ecc5f701415-712a-patchnotesthinbanner.png)
 

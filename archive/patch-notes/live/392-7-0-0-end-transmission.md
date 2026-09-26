@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/392-7-0-0-end-tran
 author: "Peanits"
 published: "2023-06-13T14:25:52+00:00"
 updated: "2023-06-13T14:25:52+00:00"
-archived: "2026-09-26T17:08:49Z"
+archived: "2026-09-26T19:27:03Z"
 ---
 
 <!-- summary -->

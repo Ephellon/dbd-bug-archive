@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/496-design-preview
 author: "ThatRyanB"
 published: "2025-03-20T14:58:02+00:00"
 updated: "2025-03-20T14:58:02+00:00"
-archived: "2026-09-26T17:10:41Z"
+archived: "2026-09-26T19:28:54Z"
 ---
 
 <!-- summary -->

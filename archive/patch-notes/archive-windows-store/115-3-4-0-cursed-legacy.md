@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/115-3-4-0-cursed-l
 author: "Peanits"
 published: "2020-02-28T20:25:49+00:00"
 updated: "2020-02-28T21:33:45+00:00"
-archived: "2026-09-26T17:10:27Z"
+archived: "2026-09-26T19:28:41Z"
 ---
 
 <!-- summary -->

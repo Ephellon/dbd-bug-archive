@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/349-6-2-0-resident
 author: "Peanits"
 published: "2022-08-30T14:57:55+00:00"
 updated: "2022-08-30T16:48:59+00:00"
-archived: "2026-09-26T17:08:55Z"
+archived: "2026-09-26T19:27:09Z"
 ---
 
 <!-- summary -->

@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/219-4-1-2-bug-fix-
 author: "PatBrutal"
 published: "2020-08-11T14:31:12+00:00"
 updated: "2020-08-11T14:31:12+00:00"
-archived: "2026-09-26T17:09:28Z"
+archived: "2026-09-26T19:27:42Z"
 ---
 
 <!-- summary -->
@@ -23,7 +23,7 @@ The patch also addressed several bugs: it ensures the Hillbilly's chainsaw charg
 
 #  4.1.2 | Bug fix patch
 
-*This article was created from a* [*community discussion*](https://forum.deadbydaylight.com/en/discussion/180981/steam-bug-fix-patch-4-1-2)*.*
+*This article was created from a* [*community discussion*](https://forum.deadbydaylight.com/en/discussion/180981/steam-bug-fix-patch-4-1-2).
 
 ![412Banner (1).png](../../images/8768a5184bf84d5d-412banner-281-29.png)
 

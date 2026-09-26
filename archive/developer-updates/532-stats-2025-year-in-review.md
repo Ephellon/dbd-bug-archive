@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/532-stats-2025-yea
 author: "ThatRyanB"
 published: "2025-12-18T15:00:11+00:00"
 updated: "2025-12-18T15:00:11+00:00"
-archived: "2026-09-26T17:10:38Z"
+archived: "2026-09-26T19:28:51Z"
 ---
 
 <!-- summary -->

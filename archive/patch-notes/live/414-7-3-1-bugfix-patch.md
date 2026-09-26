@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/414-7-3-1-bugfix-p
 author: "dance"
 published: "2023-10-18T14:23:58+00:00"
 updated: "2023-10-18T15:04:46+00:00"
-archived: "2026-09-26T17:08:45Z"
+archived: "2026-09-26T19:26:59Z"
 ---
 
 <!-- summary -->
@@ -123,7 +123,7 @@ The Trapper’s Bear Traps now spawn near generators at trial start, and the Sku
 
 ![patchnotesdivider.png](../../images/91c2ffb067377bac-bar-red-2.png)
 
-## Known Issue**s
+## **Known Issue**s
 
 - When The Oni goes through an open Unstable Rift teleporter, parts of its character model will become visible and clip through the camera.
 - When completing a Trial as either Survivor or Killer the tally screen does not show the expected result.

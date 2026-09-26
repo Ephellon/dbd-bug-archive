@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/81-2-4-0-darkness-
 author: "Peanits"
 published: "2020-02-28T19:59:34+00:00"
 updated: "2020-02-28T22:02:30+00:00"
-archived: "2026-09-26T17:10:06Z"
+archived: "2026-09-26T19:28:20Z"
 ---
 
 <!-- summary -->

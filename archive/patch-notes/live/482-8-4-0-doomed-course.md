@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/482-8-4-0-doomed-c
 author: "ThatRyanB"
 published: "2024-11-28T15:57:01+00:00"
 updated: "2024-11-28T15:57:02+00:00"
-archived: "2026-09-26T17:08:35Z"
+archived: "2026-09-26T19:26:50Z"
 ---
 
 <!-- summary -->

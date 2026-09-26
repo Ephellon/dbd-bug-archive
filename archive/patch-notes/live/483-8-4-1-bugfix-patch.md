@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/483-8-4-1-bugfix-p
 author: "ThatRyanB"
 published: "2024-12-09T15:28:03+00:00"
 updated: "2024-12-09T15:28:03+00:00"
-archived: "2026-09-26T17:08:35Z"
+archived: "2026-09-26T19:26:50Z"
 ---
 
 <!-- summary -->
@@ -34,7 +34,7 @@ The Houndmaster’s Chase Command cooldown drops to 4 s, completed generators tu
 - Houndsense Radius only visible to a Survivor when the dog is within 20 meters of them *(previously was visible at any range)*
 - Survivors afflicted with Houndsense appear with reduced color and opacity outline to The Houndmaster *(red tint used to blend too much with Killer Instinct feedback)*
 
-#### The Houndmaster** - Addons
+#### **The Houndmaster** - Addons
 
 - **Training Bell:**
   - Increased the Survivor aura reveals to 8 seconds *(was 5 seconds)*

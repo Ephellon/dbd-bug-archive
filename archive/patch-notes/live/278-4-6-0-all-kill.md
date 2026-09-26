@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/278-4-6-0-all-kill
 author: "Peanits"
 published: "2021-03-30T14:25:04+00:00"
 updated: "2021-03-30T14:32:03+00:00"
-archived: "2026-09-26T17:09:05Z"
+archived: "2026-09-26T19:27:20Z"
 ---
 
 <!-- summary -->

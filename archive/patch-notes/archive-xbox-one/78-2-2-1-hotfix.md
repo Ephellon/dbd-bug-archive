@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/78-2-2-1-hotfix"
 author: "Peanits"
 published: "2020-02-28T19:57:41+00:00"
 updated: "2020-02-28T21:57:04+00:00"
-archived: "2026-09-26T17:10:05Z"
+archived: "2026-09-26T19:28:19Z"
 ---
 
 <!-- summary -->

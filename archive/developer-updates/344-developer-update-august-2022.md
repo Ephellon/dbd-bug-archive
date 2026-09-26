@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/344-developer-upda
 author: "Peanits"
 published: "2022-07-29T15:19:45+00:00"
 updated: "2022-08-01T15:59:22+00:00"
-archived: "2026-09-26T17:10:55Z"
+archived: "2026-09-26T19:29:08Z"
 ---
 
 <!-- summary -->

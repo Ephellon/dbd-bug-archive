@@ -6,7 +6,7 @@ source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/555-10-1-0-ptb-pat
 author: "ThatRyanB"
 published: "2026-08-04T14:30:17+00:00"
 updated: "2026-08-04T14:30:18+00:00"
-archived: "2026-09-26T17:09:06Z"
+archived: "2026-09-26T19:27:21Z"
 ---
 
 <!-- summary -->
@@ -34,7 +34,7 @@ The Judgment arrives as a new killer with the Will of the Gods power, letting pl
 - Press and hold the Power Button *(M2)* to summon Divine Light for up to **3s.**
 - Divine Light moves away from The Judgment and is controlled with camera controls (left/right only).
 - While in this state, Divine Light does not damage Survivors.
-- If Divine Light passes through obstacles, it slows down**.**
+- If Divine Light passes through obstacles, it slows down.
 - While controlling Divine Light, press the Attack Button *(M1)* to Cast it forward.
 - When cast, it enters a brief delay before it fully activates, damaging and applying Heresy to any Survivors hit. *(Survivors inflicted with Heresy are known as Heretics)*
 - The longer Divine Light is controlled:
