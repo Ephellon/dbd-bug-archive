@@ -1,0 +1,39 @@
+---
+title: "5.4.2 | Bugfix Patch"
+section: "Live"
+article_id: 308
+source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/308-5-4-2-bugfix-patch"
+author: "Peanits"
+published: "2021-12-15T15:26:39+00:00"
+updated: "2021-12-15T15:26:39+00:00"
+archived: "2026-09-26T02:18:34Z"
+---
+
+# 5.4.2 | Bugfix Patch
+
+![542Banner.png](308-5-4-2-bugfix-patch/01-542banner.png)
+
+## Optimization
+
+- Improved performance when The Artist uses all of the Dire Crows at once
+
+## Bug Fixes
+
+- Fixed an issue with the Resolution percent slider not changing the resolution on Low/Medium quality.
+- Fixed a string not localized in the Character Info screen.
+- Fixed an issue in the Settings screen where the language selection menu could overlap with Tabs.
+- Fixed an issue that caused the Lament Configuration SFX and VFX to stop playing when the Cenobite interrupts or down a survivor holding the box.
+- Fixed an issue that caused a one way collision at the top of the basement stairs in the main building of the Suffocation Pit.
+- Fixed an issue that caused Killers to get stuck in a tree by falling onto it from a climbable rock in Eyrie of Crows.
+- Fixed an issue that caused Killers not being able to kick a side of a generator next to a rock on Grim Pantry.
+- Fixed an issue that caused crow swarms to spread to some Survivors incorrectly when The Artist used the Severed Hands add-on.
+- Fixed an issue that caused the Prowler achievement to only track progress when playing The Artist.
+- Fixed an issue that caused the Thrill of the Hunt not to regain a token when a cleansed Hex: Pentimento totem is rekindled.
+- Fixed an issue that caused the Corrective Action perk to consume tokens when assisting survivors succeed skill checks.
+- Fixed an issue that caused the Cenobite Mori to loop invisibly for female survivors.
+- Fixed an issue that caused the Nemesis' footsteps to double-trigger while Tentacle Strike Charge.
+- Fixed an issue that prevented the Spirit's new chase music from playing for Killers.
+- Fixed an issue for Bone Chill event where Survivors could get stuck after interacting with specific Snowmen locations on the Raccoon City Police Station map.
+- Fixed an issue that caused the remaining generators not to have the repaired lights and SFX after the generators required to power the exit gates have been repaired.
+- Fixed an issue that may cause the Hex: Ruin regression sparks to appear when a generator is actively being repaired.
+- Fixed an issue that may cause the Cannibal to gain tokens every time the chainsaw is revved when equipped with the Irridescent Flesh add-on.

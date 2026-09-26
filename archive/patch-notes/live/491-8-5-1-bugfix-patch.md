@@ -1,0 +1,118 @@
+---
+title: "8.5.1 | Bugfix Patch"
+section: "Live"
+article_id: 491
+source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/491-8-5-1-bugfix-patch"
+author: "ThatRyanB"
+published: "2025-02-04T15:28:39+00:00"
+updated: "2025-02-04T15:28:39+00:00"
+archived: "2026-09-26T02:18:12Z"
+---
+
+# 8.5.1 | Bugfix Patch
+
+![PatchNotes_851_Forum.jpg](491-8-5-1-bugfix-patch/01-patchnotes-851-forum.jpg)
+
+## Content
+
+### Killer Rework - The Nightmare
+
+#### Base Changes
+
+- Added VFX when The Nightmare is teleporting to a Survivor being healed.
+
+#### Addons
+
+- **Black Box:**
+  - Exit Gates are blocked for Sleeping Survivors for 15 seconds after they are opened.
+  - This effect lingers for 3 seconds after they Wake Up. *(NEW)*
+
+![bar1.png](491-8-5-1-bugfix-patch/02-bar1.png)
+
+### Archives & Events
+
+- Game Mode: 2V8 returns February 10th at 11:00am Eastern.
+  - This two-week event features an event tome with new **Resident Evil**-themed rewards.
+
+![bar1.png](491-8-5-1-bugfix-patch/03-bar1.png)
+
+### Features
+
+- Clairvoyance has been updated to use a progress bar.
+- Updated the "Memento Mori" entry in the **Game Manual / Killers** section, renamed to "Kill By Your Hand", with updated information on different ways to execute the Kill action.
+  - Included in English and French, with other languages to be updated later.
+- General Perks can now be searched for using "Generic", "Universal", "General", and "Global".
+
+![bar.png](491-8-5-1-bugfix-patch/04-bar.png)
+
+## Bug Fixes
+
+### Audio
+
+- Fixed an issue that caused the Spirit's "Tomie" Legendary outfit to be quieter than the default outfit when performing Phase Walk.
+- Fixed an issue that caused the breathing SFX of the Spirit to be heard from the Husk during the Phase Walk.
+- Fixed an issue that caused the audio of the left and right trigger inputs of a controller to be heard in the Collections tab without having a visible effect.
+- Fixed an issue that caused the audio of the left and right trigger inputs of a controller to be heard in Lobbies without being useable.
+- Fixed an issue that caused Survivors not to scream when injured or downed by the Knight's Guards.
+
+### Bots
+
+- Improved Survivor bot healing and pathing against ranged Killers.
+
+### Characters
+
+- Fixed an issue that caused Yui "Murder Mill" torso customization to change her idle animations to the "Forest Guide" outfit animations.
+- Fixed an issue that caused the hair on the Pig's "Pig Mask" and "Stretched Muzzle" cosmetics to disappear.
+- Fixed an issue that caused Survivors to not be able to complete the Snap Out when in Madness Tier 3.
+- Fixed an issue that caused Survivors to soft-lock when dropping the First Aid Spray immediately after the Spray Self interaction has been completed with network lag.
+- Fixed an issue that caused Killers to be able to pick up downed Survivors while searching a locker.
+- Fixed an issue that enabled the Houndmaster's Chase Command ability to stop a Survivor from leaving through the Exit Gate by repeatedly starting a grab.
+- Fixed an issue that caused the Dog to sometimes not fall off ledges when following the Houndmaster.
+- Fixed multiple instances where the Houndmaster's Dog could get stuck or not be able to pass through places where the Killer could.
+- Fixed multiple navigation issues with the Houndmaster's Dog across multiple maps, elevations and vault areas.
+
+### The Nightmare
+
+- Fixed an issue that caused the Nightmare to jitter when touching a Dream Pallet.
+- Fixed an issue that caused the Nightmare's Teleport Channeling audio to keep playing, even if it had been canceled with a basic attack.
+- Fixed an issue that caused the Nightmare's Dream Snare to continue moving off the balcony in the Raccoon City Police Station map.
+- Fixed an issue that caused the Nightmare to teleport beyond the Exit Gate when teleporting with the Class Photo add-on in The Game map.
+- Fixed an issue that made it possible for the Nightmare to place a total of 9 Dream Pallets instead of 8.
+- Fixed an issue that caused the Nightmare to not see the aura of completed generators when the End Game Collapse triggered.
+- Fixed an issue that caused Rupturing a Dream Pallet on the floor directly above or below a Survivor to hit said Survivor.
+- Fixed an issue that allowed Dream Pallets to be placed out of bounds.
+- Fixed an issue that caused the Nightmare's Husk to be briefly visibility at the initial teleport location when finishing a teleport.
+- Fixed an issue that caused the Nightmare to teleport directly onto healing Survivors instead of at a distance.
+- Fixed an issue that caused all Survivors in the trial to hear the Nightmare's laugh when he hit an awake Survivor with his Dream Snare.
+- Fixed an issue that caused Survivors' auras to not be revealed when triggering a static Dream Snare with the "Z" Block and Blue Dress add-ons.
+
+### Environment/Maps
+
+- Fixed an issue in the Forgotten Ruins map, in which Zombies could get stuck in certain areas of the dungeon.
+- Fixed an issue in the Coal Tower map, in which the intro camera clips into the Houndmaster.
+- Fixed issues in The Underground Complex map, in which the intro camera clips into the Houndmaster.
+- Fixed an issue in the Dead Dawg Saloon map, in which the Nurse could Blink into the prison cells behind the Exit Gates.
+- Fixed an issue in the Raccoon City Police Station map, in which the Nurse could Blink out of bounds.
+- Fixed an issue in the Raccoon City Police Station map, in which the Survivor's body could clip through locker doors.
+- Fixed an issue in the Realm of Coldwind Farm, in which the Nurse could Blink on top of the shack.
+- Fixed an issue in the Realm of Yamaoka's Estate, in which the Tanuki's orientation did not match the Tanuki Statue.
+- Fixed an issue in the Mother's Dwelling map to prevent the player getting stuck on the top of the spinning wheel inside the main building.
+- Fixed an issue in the Torment Creek map to prevent the Nightmare's Dream Snare from clipping under the floor inside the main building.
+- Fixed an issue in the Torment Creek map to enable smoother navigation up the slope near the Killer Basement's entrance.
+- Fixed an issue in the Badham Preschool map, in which the Nightmare's Dream Snares would fail to go through the walls of the closed classrooms.
+- Fixed an issue in the Dead Dawg Saloon map, in which the skybox was missing galaxy star clusters.
+
+### Perks
+
+- Fixed an issue that caused Vigil's status effect recovery to display the old values in-game.
+
+### UI
+
+- Fixed an issue in which the inventory arrow buttons in the bot loadout were non-interactive.
+- Fixed an issue in which the event popup would sometimes display incorrect info if it was opened through an event item in the Store menu.
+- Fixed an issue in which The Huntress' "Ohmwrecker" mask customization item would use the default mask model.
+
+### Misc
+
+- Fixed an issue that caused some players to be unable to matchmake as Survivors.
+- Optimized the logic used to handle status effects during gameplay to improve general performance.

@@ -1,0 +1,30 @@
+---
+title: "Stats | September 2024"
+section: "Developer Updates"
+article_id: 470
+source: "https://forums.bhvr.com/dead-by-daylight/kb/articles/470-stats-september-2024"
+author: "Peanits"
+published: "2024-09-09T13:54:24+00:00"
+updated: "2024-09-09T13:54:25+00:00"
+archived: "2026-09-26T02:20:09Z"
+---
+
+# Stats | September 2024
+
+![THE LICH.png](470-stats-september-2024/01-the-lich.png)
+
+*Poor misguided wanderers* may have come face to face with The Lich in his debut month. We gathered data on how often each of his four Powers are used in an average match.
+
+![DICE ROLL.png](470-stats-september-2024/02-dice-roll.png)
+
+Let’s roll! We also pulled data on the average results of dice rolls when facing The Lich. Are you luckier than this, or have you become very familiar with mimics?
+
+![TOTEMS.png](470-stats-september-2024/03-totems.png)
+
+If it glows, it goes. We tracked down how often totems are cleansed and blessed, as well as which maps see the most and least cleansing.
+
+*Note: Hex and Boon data only includes matches where the appropriate Perk type was used.*
+
+Until next time…
+
+The Dead by Daylight team

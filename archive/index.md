@@ -1,0 +1,530 @@
+# Dead by Daylight Patch Note Archive
+
+An unofficial, read-only archive of BHVR's Dead by Daylight patch notes
+and developer updates, captured before their removal.
+
+Generated 2026-09-26T02:20:21Z · 479 articles.
+
+## Live
+
+135 article(s).
+
+- [10.1.2 Bugfix Patch](patch-notes/live/558-10-1-2-bugfix-patch.md) — 2026-09-08
+- [10.1.1 Bugfix Patch](patch-notes/live/557-10-1-1-bugfix-patch.md) — 2026-09-01
+- [10.1.0 | Chorus of Sin](patch-notes/live/556-10-1-0-chorus-of-sin.md) — 2026-08-25
+- [10.0.3 | Bugfix Patch](patch-notes/live/553-10-0-3-bugfix-patch.md) — 2026-07-21
+- [10.0.2 | Bugfix Patch](patch-notes/live/552-10-0-2-bugfix-patch.md) — 2026-07-06
+- [10.0.1 | Bugfix Patch ](patch-notes/live/551-10-0-1-bugfix-patch.md) — 2026-06-23
+- [10.0.0 | Jason Patch Notes](patch-notes/live/550-10-0-0-jason-patch-notes.md) — 2026-06-16
+- [9.6.2 | Bugfix Patch](patch-notes/live/546-9-6-2-bugfix-patch.md) — 2026-05-12
+- [9.6.1 | Bugfix Patch](patch-notes/live/545-9-6-1-bugfix-patch.md) — 2026-05-05
+- [9.6.0 | Patch Notes](patch-notes/live/544-9-6-0-patch-notes.md) — 2026-04-28
+- [9.5.2 | Bugfix Patch](patch-notes/live/541-9-5-2-bugfix-patch.md) — 2026-03-31
+- [9.5.1 | Bugfix Patch](patch-notes/live/539-9-5-1-bugfix-patch.md) — 2026-03-24
+- [9.5.0 | All-Kill: Comeback](patch-notes/live/538-9-5-0-all-kill-comeback.md) — 2026-03-17
+- [9.4.2 | Bugfix Patch](patch-notes/live/536-9-4-2-bugfix-patch.md) — 2026-02-10
+- [9.4.1 | Bugfix Patch](patch-notes/live/535-9-4-1-bugfix-patch.md) — 2026-02-03
+- [9.4.0 | Stranger Things Chapter 2](patch-notes/live/534-9-4-0-stranger-things-chapter-2.md) — 2026-01-27
+- [9.3.2 | Bugfix Patch](patch-notes/live/530-9-3-2-bugfix-patch.md) — 2025-12-09
+- [9.3.0 | Mid-Chapter](patch-notes/live/529-9-3-0-mid-chapter.md) — 2025-11-25
+- [9.2.3 | Bugfix Patch](patch-notes/live/526-9-2-3-bugfix-patch.md) — 2025-10-21
+- [9.2.2 | Bugfix Patch](patch-notes/live/525-9-2-2-bugfix-patch.md) — 2025-10-07
+- [9.2.1 | Bugfix Patch](patch-notes/live/524-9-2-1-bugfix-patch.md) — 2025-09-30
+- [9.2.0 | Sinister Grace](patch-notes/live/523-9-2-0-sinister-grace.md) — 2025-09-23
+- [9.1.3 | Bugfix Patch](patch-notes/live/520-9-1-3-bugfix-patch.md) — 2025-08-26
+- [9.1.2 | Bugfix Patch](patch-notes/live/519-9-1-2-bugfix-patch.md) — 2025-08-14
+- [9.1.1 | Bugfix Patch](patch-notes/live/517-9-1-1-bugfix-patch.md) — 2025-08-05
+- [9.1.0 | The Walking Dead](patch-notes/live/516-9-1-0-the-walking-dead.md) — 2025-07-29
+- [9.0.2 | Bugfix Patch](patch-notes/live/512-9-0-2-bugfix-patch.md) — 2025-07-02
+- [9.0.1 | Bugfix Patch](patch-notes/live/511-9-0-1-bugfix-patch.md) — 2025-06-26
+- [9.0.0 | Five Nights at Freddy's](patch-notes/live/510-9-0-0-five-nights-at-freddys.md) — 2025-06-17
+- [8.7.2 | Bugfix Patch](patch-notes/live/508-8-7-2-bugfix-patch.md) — 2025-05-26
+- [8.7.1 | Bugfix Patch](patch-notes/live/506-8-7-1-bugfix-patch.md) — 2025-05-15
+- [8.7.0 | Steady Pulse](patch-notes/live/505-8-7-0-steady-pulse.md) — 2025-05-06
+- [8.6.2 | Bugfix Patch](patch-notes/live/502-8-6-2-bugfix-patch.md) — 2025-04-17
+- [8.6.1 | Bugfix Patch](patch-notes/live/499-8-6-1-bugfix-patch.md) — 2025-04-09
+- [8.6.0 | Tokyo Ghoul](patch-notes/live/498-8-6-0-tokyo-ghoul.md) — 2025-04-02
+- [8.5.2 | Bugfix Patch](patch-notes/live/492-8-5-2-bugfix-patch.md) — 2025-02-12
+- [8.5.1 | Bugfix Patch](patch-notes/live/491-8-5-1-bugfix-patch.md) — 2025-02-04
+- [8.5.0 | Mid-Chapter](patch-notes/live/490-8-5-0-mid-chapter.md) — 2025-01-28
+- [8.4.2 | Bugfix Patch](patch-notes/live/484-8-4-2-bugfix-patch.md) — 2024-12-12
+- [8.4.1 | Bugfix Patch](patch-notes/live/483-8-4-1-bugfix-patch.md) — 2024-12-09
+- [8.4.0 | Doomed Course](patch-notes/live/482-8-4-0-doomed-course.md) — 2024-11-28
+- [8.3.2 | Bugfix Patch](patch-notes/live/477-8-3-2-bugfix-patch.md) — 2024-10-24
+- [8.3.1 | Bugfix Patch](patch-notes/live/476-8-3-1-bugfix-patch.md) — 2024-10-16
+- [8.3.0 | Mid-Chapter](patch-notes/live/475-8-3-0-mid-chapter.md) — 2024-10-08
+- [8.2.2 | Bugfix Patch](patch-notes/live/471-8-2-2-bugfix-patch.md) — 2024-09-11
+- [8.2.1 | Bugfix Patch](patch-notes/live/469-8-2-1-bugfix-patch.md) — 2024-09-04
+- [8.2.0 | Castlevania](patch-notes/live/468-8-2-0-castlevania.md) — 2024-08-27
+- [8.1.2 | Bugfix Patch](patch-notes/live/466-8-1-2-bugfix-patch.md) — 2024-08-06
+- [8.1.1a | Hotfix](patch-notes/live/463-8-1-1a-hotfix.md) — 2024-07-31
+- [8.1.1 | Bugfix Patch](patch-notes/live/462-8-1-1-bugfix-patch.md) — 2024-07-24
+- [8.1.0 | Tomb Raider](patch-notes/live/459-8-1-0-tomb-raider.md) — 2024-07-16
+- [8.0.2 | Bugfix Patch](patch-notes/live/454-8-0-2-bugfix-patch.md) — 2024-06-19
+- [8.0.1 | Bugfix Patch](patch-notes/live/453-8-0-1-bugfix-patch.md) — 2024-06-13
+- [8.0.0 | Dungeons & Dragons](patch-notes/live/452-8-0-0-dungeons-dragons.md) — 2024-06-03
+- [7.7.1 | Bugfix Patch](patch-notes/live/447-7-7-1-bugfix-patch.md) — 2024-05-06
+- [7.7.0A | Bugfix Patch (Tentative Strobing Fix)](patch-notes/live/446-7-7-0a-bugfix-patch-tentative-strobing-fix.md) — 2024-04-26
+- [7.7.0 | Mid-Chapter](patch-notes/live/445-7-7-0-mid-chapter.md) — 2024-04-23
+- [7.6.2 | Bugfix Patch](patch-notes/live/441-7-6-2-bugfix-patch.md) — 2024-04-01
+- [7.6.1 | Bugfix Patch](patch-notes/live/439-7-6-1-bugfix-patch.md) — 2024-03-25
+- [7.6.0 | All Things Wicked](patch-notes/live/437-7-6-0-all-things-wicked.md) — 2024-03-12
+- [7.5.1 | Bugfix Patch](patch-notes/live/432-7-5-1-bugfix-patch.md) — 2024-02-08
+- [7.5.0 | Hotfix](patch-notes/live/431-7-5-0-hotfix.md) — 2024-01-31
+- [7.5.0 | Alan Wake](patch-notes/live/430-7-5-0-alan-wake.md) — 2024-01-30
+- [7.4.2 | Bugfix Patch](patch-notes/live/424-7-4-2-bugfix-patch.md) — 2023-12-13
+- [7.4.1 | Bugfix Patch](patch-notes/live/422-7-4-1-bugfix-patch.md) — 2023-12-05
+- [7.4.0 | Chucky](patch-notes/live/421-7-4-0-chucky.md) — 2023-11-28
+- [7.3.3 | Bugfix Patch](patch-notes/live/417-7-3-3-bugfix-patch.md) — 2023-11-06
+- [7.3.2 | Bugfix Patch](patch-notes/live/415-7-3-2-bugfix-patch.md) — 2023-10-26
+- [7.3.1 | Bugfix Patch](patch-notes/live/414-7-3-1-bugfix-patch.md) — 2023-10-18
+- [7.3.0 | Mid-Chapter](patch-notes/live/413-7-3-0-mid-chapter.md) — 2023-10-10
+- [7.2.3 | Bugfix Patch](patch-notes/live/411-7-2-3-bugfix-patch.md) — 2023-09-20
+- [7.2.2 | Bugfix Patch](patch-notes/live/408-7-2-2-bugfix-patch.md) — 2023-09-13
+- [7.2.1 | Bugfix Patch](patch-notes/live/406-7-2-1-bugfix-patch.md) — 2023-09-05
+- [7.2.0 | Alien](patch-notes/live/405-7-2-0-alien.md) — 2023-08-29
+- [7.1.2a | Bugfix Patch](patch-notes/live/404-7-1-2a-bugfix-patch.md) — 2023-08-15
+- [7.1.2 | Bugfix Patch](patch-notes/live/403-7-1-2-bugfix-patch.md) — 2023-08-09
+- [7.1.1 | Bugfix Patch](patch-notes/live/401-7-1-1-bugfix-patch.md) — 2023-08-01
+- [7.1.0 | Nicolas Cage](patch-notes/live/400-7-1-0-nicolas-cage.md) — 2023-07-25
+- [7.0.2 | Bugfix Patch](patch-notes/live/396-7-0-2-bugfix-patch.md) — 2023-06-28
+- [7.0.1 | Bugfix Patch](patch-notes/live/394-7-0-1-bugfix-patch.md) — 2023-06-21
+- [7.0.0 | End Transmission](patch-notes/live/392-7-0-0-end-transmission.md) — 2023-06-13
+- [6.7.2 | Bugfix Patch](patch-notes/live/388-6-7-2-bugfix-patch.md) — 2023-05-18
+- [6.7.1 | Bugfix Patch](patch-notes/live/387-6-7-1-bugfix-patch.md) — 2023-05-03
+- [6.7.0 | Mid-Chapter](patch-notes/live/385-6-7-0-mid-chapter.md) — 2023-04-18
+- [6.6.2 | Bugfix Patch](patch-notes/live/381-6-6-2-bugfix-patch.md) — 2023-03-22
+- [6.6.1 | Bugfix Patch](patch-notes/live/379-6-6-1-bugfix-patch.md) — 2023-03-14
+- [6.6.0 | Tools of Torment](patch-notes/live/378-6-6-0-tools-of-torment.md) — 2023-03-07
+- [6.5.2 | Bugfix Patch](patch-notes/live/374-6-5-2-bugfix-patch.md) — 2023-02-08
+- [6.5.1 | Bugfix Patch](patch-notes/live/373-6-5-1-bugfix-patch.md) — 2023-01-31
+- [6.5.0 | Mid-Chapter](patch-notes/live/371-6-5-0-mid-chapter.md) — 2023-01-24
+- [6.4.3 | Bugfix Patch](patch-notes/live/368-6-4-3-bugfix-patch.md) — 2022-12-15
+- [6.4.2 | Bugfix Patch](patch-notes/live/367-6-4-2-bugfix-patch.md) — 2022-12-06
+- [6.4.1 | Bugfix Patch](patch-notes/live/366-6-4-1-bugfix-patch.md) — 2022-11-30
+- [6.4.0 | Forged in Fog](patch-notes/live/365-6-4-0-forged-in-fog.md) — 2022-11-22
+- [6.3.2 | Bugfix Patch](patch-notes/live/362-6-3-2-bugfix-patch.md) — 2022-10-26
+- [6.3.1 | Bugfix Patch](patch-notes/live/359-6-3-1-bugfix-patch.md) — 2022-10-18
+- [6.3.0 | Mid-Chapter ](patch-notes/live/355-6-3-0-mid-chapter.md) — 2022-10-11
+- [6.2.2 | Bugfix Patch](patch-notes/live/351-6-2-2-bugfix-patch.md) — 2022-09-13
+- [6.2.1 | Bugfix Patch](patch-notes/live/350-6-2-1-bugfix-patch.md) — 2022-09-06
+- [6.2.0 | Resident Evil: PROJECT W](patch-notes/live/349-6-2-0-resident-evil-project-w.md) — 2022-08-30
+- [6.1.2/6.1.3 | Bugfix Patch](patch-notes/live/345-6-1-2-6-1-3-bugfix-patch.md) — 2022-08-02
+- [6.1.1 | Bugfix Patch](patch-notes/live/343-6-1-1-bugfix-patch.md) — 2022-07-26
+- [6.1.0 | Mid-Chapter ](patch-notes/live/342-6-1-0-mid-chapter.md) — 2022-07-19
+- [6.0.2 | Bugfix Patch](patch-notes/live/339-6-0-2-bugfix-patch.md) — 2022-06-27
+- [6.0.1 | Bugfix Patch](patch-notes/live/335-6-0-1-bugfix-patch.md) — 2022-06-16
+- [6.0.0 | Roots of Dread](patch-notes/live/334-6-0-0-roots-of-dread.md) — 2022-06-07
+- [5.7.2 | Bugfix Patch](patch-notes/live/332-5-7-2-bugfix-patch.md) — 2022-05-10
+- [5.7.1 | Bugfix Patch](patch-notes/live/331-5-7-1-bugfix-patch.md) — 2022-05-03
+- [5.7.0 | Mid-Chapter](patch-notes/live/330-5-7-0-mid-chapter.md) — 2022-04-27
+- [5.6.2 | Bugfix Patch](patch-notes/live/328-5-6-2-bugfix-patch.md) — 2022-03-23
+- [5.6.1 | Bugfix Patch](patch-notes/live/327-5-6-1-bugfix-patch.md) — 2022-03-15
+- [5.6.0 | Sadako Rising](patch-notes/live/325-5-6-0-sadako-rising.md) — 2022-03-08
+- [5.5.2 | Bugfix Patch](patch-notes/live/323-5-5-2-bugfix-patch.md) — 2022-02-09
+- [5.5.1 | Bugfix Patch](patch-notes/live/313-5-5-1-bugfix-patch.md) — 2022-02-02
+- [5.5.0 | Mid-Chapter](patch-notes/live/311-5-5-0-mid-chapter.md) — 2022-01-25
+- [5.4.2 | Bugfix Patch](patch-notes/live/308-5-4-2-bugfix-patch.md) — 2021-12-15
+- [5.4.1 | Bugfix Patch](patch-notes/live/307-5-4-1-bugfix-patch.md) — 2021-12-07
+- [5.4.0 | Portrait of a Murder](patch-notes/live/306-5-4-0-portrait-of-a-murder.md) — 2021-11-30
+- [5.3.2 | Bugfix Patch](patch-notes/live/303-5-3-2-bugfix-patch.md) — 2021-11-02
+- [5.3.1 | Bugfix Patch](patch-notes/live/302-5-3-1-bugfix-patch.md) — 2021-10-26
+- [5.3.0a | Hotfix](patch-notes/live/300-5-3-0a-hotfix.md) — 2021-10-22
+- [5.3.0 | Hour of the Witch](patch-notes/live/298-5-3-0-hour-of-the-witch.md) — 2021-10-19
+- [5.2.2 | Bugfix Patch](patch-notes/live/296-5-2-2-bugfix-patch.md) — 2021-09-21
+- [5.2.1 | Bugfix Patch](patch-notes/live/295-5-2-1-bugfix-patch.md) — 2021-09-14
+- [5.2.0 | Hellraiser](patch-notes/live/294-5-2-0-hellraiser.md) — 2021-09-07
+- [5.1.1 | Bugfix Patch](patch-notes/live/291-5-1-1-bugfix-patch.md) — 2021-08-10
+- [5.1.0 | Mid-Chapter](patch-notes/live/290-5-1-0-mid-chapter.md) — 2021-07-27
+- [5.0.2 | Resident Evil](patch-notes/live/288-5-0-2-resident-evil.md) — 2021-06-29
+- [5.0.1 | Resident Evil](patch-notes/live/287-5-0-1-resident-evil.md) — 2021-06-22
+- [5.0.0 | Resident Evil](patch-notes/live/286-5-0-0-resident-evil.md) — 2021-06-15
+- [4.7.2 | Bugfix Patch](patch-notes/live/283-4-7-2-bugfix-patch.md) — 2021-05-19
+- [4.7.1 | Bugfix Patch](patch-notes/live/282-4-7-1-bugfix-patch.md) — 2021-05-11
+- [4.7.0 | Mid-Chapter](patch-notes/live/281-4-7-0-mid-chapter.md) — 2021-05-04
+- [4.6.1 | Bugfix Patch](patch-notes/live/280-4-6-1-bugfix-patch.md) — 2021-04-14
+- [4.6.0 | All-Kill](patch-notes/live/278-4-6-0-all-kill.md) — 2021-03-30
+
+## Player Test Build (PTB)
+
+66 article(s).
+
+- [10.2.0 PTB Patch Notes](patch-notes/player-test-build/559-10-2-0-ptb-patch-notes.md) — 2026-09-15
+- [10.1.0 | PTB Patch Notes](patch-notes/player-test-build/555-10-1-0-ptb-patch-notes.md) — 2026-08-04
+- [10.0.0 | Jason PTB Patch Notes](patch-notes/player-test-build/548-10-0-0-jason-ptb-patch-notes.md) — 2026-05-26
+- [9.6.0 | PTB Patch Notes](patch-notes/player-test-build/542-9-6-0-ptb-patch-notes.md) — 2026-04-07
+- [9.5.0 | PTB Patch Notes](patch-notes/player-test-build/537-9-5-0-ptb-patch-notes.md) — 2026-02-24
+- [9.4.0 | PTB Patch Notes](patch-notes/player-test-build/533-9-4-0-ptb-patch-notes.md) — 2026-01-06
+- [9.3.0 | PTB Patch Notes](patch-notes/player-test-build/527-9-3-0-ptb-patch-notes.md) — 2025-11-04
+- [9.2.0 | PTB Patch Notes](patch-notes/player-test-build/522-9-2-0-ptb-patch-notes.md) — 2025-09-03
+- [9.1.0 | PTB Patch Notes](patch-notes/player-test-build/514-9-1-0-ptb-patch-notes.md) — 2025-07-08
+- [9.0.0 | PTB Patch Notes](patch-notes/player-test-build/509-9-0-0-ptb-patch-notes.md) — 2025-05-27
+- [8.7.0 | PTB Patch Notes](patch-notes/player-test-build/501-8-7-0-ptb-patch-notes.md) — 2025-04-15
+- [8.6.0 | PTB Patch Notes](patch-notes/player-test-build/495-8-6-0-ptb-patch-notes.md) — 2025-03-11
+- [8.5.0 | PTB Patch Notes](patch-notes/player-test-build/488-8-5-0-ptb-patch-notes.md) — 2025-01-08
+- [8.4.0 | PTB Patch Notes](patch-notes/player-test-build/479-8-4-0-ptb-patch-notes.md) — 2024-11-07
+- [8.3.0 | PTB](patch-notes/player-test-build/473-8-3-0-ptb.md) — 2024-09-17
+- [8.2.0 | PTB](patch-notes/player-test-build/465-8-2-0-ptb.md) — 2024-08-06
+- [8.1.0 | PTB](patch-notes/player-test-build/456-8-1-0-ptb.md) — 2024-06-25
+- [8.0.0 | PTB](patch-notes/player-test-build/449-8-0-0-ptb.md) — 2024-05-14
+- [7.7.0 | PTB](patch-notes/player-test-build/442-7-7-0-ptb.md) — 2024-04-04
+- [7.6.0 | PTB](patch-notes/player-test-build/435-7-6-0-ptb.md) — 2024-02-20
+- [7.5.0 | PTB](patch-notes/player-test-build/428-7-5-0-ptb.md) — 2024-01-09
+- [7.4.0 | PTB](patch-notes/player-test-build/419-7-4-0-ptb.md) — 2023-11-08
+- [7.3.0 | PTB](patch-notes/player-test-build/410-7-3-0-ptb.md) — 2023-09-19
+- [7.2.0 | PTB](patch-notes/player-test-build/402-7-2-0-ptb.md) — 2023-08-08
+- [7.1.0 | PTB](patch-notes/player-test-build/398-7-1-0-ptb.md) — 2023-07-05
+- [7.0.0 | PTB](patch-notes/player-test-build/389-7-0-0-ptb.md) — 2023-05-23
+- [6.7.0 | PTB](patch-notes/player-test-build/383-6-7-0-ptb.md) — 2023-03-29
+- [6.6.0 | PTB](patch-notes/player-test-build/376-6-6-0-ptb.md) — 2023-02-15
+- [6.5.0 | PTB](patch-notes/player-test-build/370-6-5-0-ptb.md) — 2023-01-04
+- [6.4.0 | PTB](patch-notes/player-test-build/364-6-4-0-ptb.md) — 2022-11-01
+- [6.3.0 | PTB](patch-notes/player-test-build/353-6-3-0-ptb.md) — 2022-09-27
+- [6.2.0 | PTB](patch-notes/player-test-build/346-6-2-0-ptb.md) — 2022-08-09
+- [6.1.0 | PTB](patch-notes/player-test-build/340-6-1-0-ptb.md) — 2022-06-28
+- [6.0.0 | PTB](patch-notes/player-test-build/333-6-0-0-ptb.md) — 2022-05-17
+- [5.7.0 | PTB](patch-notes/player-test-build/329-5-7-0-ptb.md) — 2022-04-05
+- [5.6.0 | PTB](patch-notes/player-test-build/324-5-6-0-ptb.md) — 2022-02-15
+- [5.5.0 | PTB](patch-notes/player-test-build/309-5-5-0-ptb.md) — 2022-01-05
+- [5.4.0 | PTB](patch-notes/player-test-build/304-5-4-0-ptb.md) — 2021-11-09
+- [5.3.0 | PTB](patch-notes/player-test-build/297-5-3-0-ptb.md) — 2021-09-28
+- [5.2.0 | PTB](patch-notes/player-test-build/293-5-2-0-ptb.md) — 2021-08-17
+- [5.1.0 | PTB](patch-notes/player-test-build/289-5-1-0-ptb.md) — 2021-07-07
+- [5.0.0 | PTB](patch-notes/player-test-build/285-5-0-0-ptb.md) — 2021-05-25
+- [4.7.0 | PTB](patch-notes/player-test-build/279-4-7-0-ptb.md) — 2021-04-13
+- [4.6.0 | PTB](patch-notes/player-test-build/277-4-6-0-ptb.md) — 2021-03-02
+- [4.5.0 | PTB](patch-notes/player-test-build/273-4-5-0-ptb.md) — 2021-01-12
+- [4.4.0 | PTB](patch-notes/player-test-build/269-4-4-0-ptb.md) — 2020-11-10
+- [4.3.0 | PTB](patch-notes/player-test-build/243-4-3-0-ptb.md) — 2020-09-29
+- [4.2.0 | PTB](patch-notes/player-test-build/226-4-2-0-ptb.md) — 2020-08-18
+- [4.1.0 | PTB](patch-notes/player-test-build/205-4-1-0-ptb.md) — 2020-07-08
+- [4.0.0 | PTB](patch-notes/player-test-build/194-4-0-0-ptb.md) — 2020-05-26
+- [3.7.0 | PTB](patch-notes/player-test-build/178-3-7-0-ptb.md) — 2020-04-07
+- [3.6.0 | PTB](patch-notes/player-test-build/136-3-6-0-ptb.md) — 2020-02-28
+- [3.5.0 | PTB](patch-notes/player-test-build/135-3-5-0-ptb.md) — 2020-02-28
+- [3.4.0 | PTB](patch-notes/player-test-build/134-3-4-0-ptb.md) — 2020-02-28
+- [3.2.0 | PTB](patch-notes/player-test-build/133-3-2-0-ptb.md) — 2020-02-28
+- [3.3.0 | PTB](patch-notes/player-test-build/132-3-3-0-ptb.md) — 2020-02-28
+- [3.1.0 | PTB](patch-notes/player-test-build/131-3-1-0-ptb.md) — 2020-02-28
+- [3.0.0 | PTB](patch-notes/player-test-build/130-3-0-0-ptb.md) — 2020-02-28
+- [2.7.0 | PTB](patch-notes/player-test-build/129-2-7-0-ptb.md) — 2020-02-28
+- [2.6.0 | PTB](patch-notes/player-test-build/128-2-6-0-ptb.md) — 2020-02-28
+- [2.5.0 | PTB](patch-notes/player-test-build/127-2-5-0-ptb.md) — 2020-02-28
+- [2.4.0 | PTB](patch-notes/player-test-build/126-2-4-0-ptb.md) — 2020-02-28
+- [2.3.0 | PTB](patch-notes/player-test-build/125-2-3-0-ptb.md) — 2020-02-28
+- [2.2.0 | PTB](patch-notes/player-test-build/124-2-2-0-ptb.md) — 2020-02-28
+- [2.1.0 | PTB](patch-notes/player-test-build/122-2-1-0-ptb.md) — 2020-02-28
+- [2.0.0 | PTB](patch-notes/player-test-build/121-2-0-0-ptb.md) — 2020-02-28
+
+## Archive: Steam
+
+57 article(s).
+
+- [4.5.2 | Bugfix Patch](patch-notes/archive-steam/276-4-5-2-bugfix-patch.md) — 2021-02-23
+- [4.5.1 | Bugfix Patch](patch-notes/archive-steam/275-4-5-1-bugfix-patch.md) — 2021-02-16
+- [4.5.0 | Mid-Chapter](patch-notes/archive-steam/274-4-5-0-mid-chapter.md) — 2021-02-09
+- [4.4.2 | Bugfix Patch](patch-notes/archive-steam/272-4-4-2-bugfix-patch.md) — 2020-12-16
+- [4.4.1 | Bugfix Patch](patch-notes/archive-steam/271-4-4-1-bugfix-patch.md) — 2020-12-08
+- [4.4.0 | A Binding of Kin](patch-notes/archive-steam/270-4-4-0-a-binding-of-kin.md) — 2020-12-01
+- [4.3.2 | Bugfix Patch](patch-notes/archive-steam/260-4-3-2-bugfix-patch.md) — 2020-11-03
+- [4.3.1 | Bugfix Patch](patch-notes/archive-steam/254-4-3-1-bugfix-patch.md) — 2020-10-28
+- [4.3.0 | Mid-Chapter](patch-notes/archive-steam/247-4-3-0-mid-chapter.md) — 2020-10-20
+- [4.2.2 | Bugfix Patch](patch-notes/archive-steam/238-4-2-2-bugfix-patch.md) — 2020-09-24
+- [4.2.1 | Bugfix Patch](patch-notes/archive-steam/233-4-2-1-bugfix-patch.md) — 2020-09-17
+- [4.2.0 | Descend Beyond](patch-notes/archive-steam/228-4-2-0-descend-beyond.md) — 2020-09-08
+- [4.1.3 | Bugfix Patch](patch-notes/archive-steam/227-4-1-3-bugfix-patch.md) — 2020-08-21
+- [ 4.1.2 | Bug fix patch](patch-notes/archive-steam/219-4-1-2-bug-fix-patch.md) — 2020-08-11
+- [4.1.1 | Bug fix Patch](patch-notes/archive-steam/215-4-1-1-bug-fix-patch.md) — 2020-08-05
+- [4.1.0 | Mid-Chapter](patch-notes/archive-steam/210-4-1-0-mid-chapter.md) — 2020-07-28
+- [4.0.2 | Hotfix](patch-notes/archive-steam/204-4-0-2-hotfix.md) — 2020-07-02
+- [4.0.0 | Silent Hill](patch-notes/archive-steam/195-4-0-0-silent-hill.md) — 2020-06-16
+- [3.7.2 | Hotfix](patch-notes/archive-steam/189-3-7-2-hotfix.md) — 2020-05-12
+- [3.7.1 | Hotfix](patch-notes/archive-steam/187-3-7-1-hotfix.md) — 2020-05-05
+- [3.7.0 | Mid-Chapter](patch-notes/archive-steam/179-3-7-0-mid-chapter.md) — 2020-04-28
+- [3.6.2 | Hotfix](patch-notes/archive-steam/173-3-6-2-hotfix.md) — 2020-03-24
+- [3.6.1 | Hotfix](patch-notes/archive-steam/170-3-6-1-hotfix.md) — 2020-03-17
+- [3.6.0 | Chains of Hate](patch-notes/archive-steam/151-3-6-0-chains-of-hate.md) — 2020-03-10
+- [3.5.2 | Hotfix](patch-notes/archive-steam/33-3-5-2-hotfix.md) — 2020-02-28
+- [3.5.1 | Hotfix](patch-notes/archive-steam/32-3-5-1-hotfix.md) — 2020-02-28
+- [3.2.2 | Hotfix](patch-notes/archive-steam/31-3-2-2-hotfix.md) — 2020-02-28
+- [3.2.1 | Hotfix](patch-notes/archive-steam/30-3-2-1-hotfix.md) — 2020-02-28
+- [3.1.1 | Hotfix](patch-notes/archive-steam/29-3-1-1-hotfix.md) — 2020-02-28
+- [3.0.2 | Hotfix](patch-notes/archive-steam/28-3-0-2-hotfix.md) — 2020-02-28
+- [3.0.1 | Hotfix](patch-notes/archive-steam/27-3-0-1-hotfix.md) — 2020-02-28
+- [2.7.1 | Hotfix](patch-notes/archive-steam/26-2-7-1-hotfix.md) — 2020-02-28
+- [2.6.4 | Hotfix](patch-notes/archive-steam/25-2-6-4-hotfix.md) — 2020-02-28
+- [2.6.2 | Hotfix](patch-notes/archive-steam/24-2-6-2-hotfix.md) — 2020-02-28
+- [2.5.4 | Hotfix](patch-notes/archive-steam/23-2-5-4-hotfix.md) — 2020-02-28
+- [2.5.3 | Hotfix](patch-notes/archive-steam/22-2-5-3-hotfix.md) — 2020-02-28
+- [2.1.2 | Hotfix](patch-notes/archive-steam/21-2-1-2-hotfix.md) — 2020-02-28
+- [3.5.0 | Mid-Chapter](patch-notes/archive-steam/20-3-5-0-mid-chapter.md) — 2020-02-28
+- [3.4.2 | Hotfix](patch-notes/archive-steam/19-3-4-2-hotfix.md) — 2020-02-28
+- [3.4.1 | Hotfix](patch-notes/archive-steam/18-3-4-1-hotfix.md) — 2020-02-28
+- [3.4.0 | Cursed Legacy](patch-notes/archive-steam/17-3-4-0-cursed-legacy.md) — 2020-02-28
+- [3.3.2 | Hotfix](patch-notes/archive-steam/16-3-3-2-hotfix.md) — 2020-02-28
+- [3.3.1 | Mid-Chapter](patch-notes/archive-steam/15-3-3-1-mid-chapter.md) — 2020-02-28
+- [3.2.0 | Stranger Things](patch-notes/archive-steam/14-3-2-0-stranger-things.md) — 2020-02-28
+- [3.1.0 | Mid-Chapter](patch-notes/archive-steam/13-3-1-0-mid-chapter.md) — 2020-02-28
+- [3.0.0 | Ghost Face](patch-notes/archive-steam/12-3-0-0-ghost-face.md) — 2020-02-28
+- [2.7.0 | Mid-Chapter](patch-notes/archive-steam/11-2-7-0-mid-chapter.md) — 2020-02-28
+- [2.6.3 | Ash VS Evil Dead](patch-notes/archive-steam/10-2-6-3-ash-vs-evil-dead.md) — 2020-02-28
+- [2.6.0 | Demise of the Faithful](patch-notes/archive-steam/9-2-6-0-demise-of-the-faithful.md) — 2020-02-28
+- [2.5.1 | Hotfix](patch-notes/archive-steam/8-2-5-1-hotfix.md) — 2020-02-28
+- [2.5.0 | Mid-Chapter](patch-notes/archive-steam/7-2-5-0-mid-chapter.md) — 2020-02-28
+- [2.4.0 | Darkness Among Us](patch-notes/archive-steam/6-2-4-0-darkness-among-us.md) — 2020-02-28
+- [2.2.0 | Shattered Bloodline](patch-notes/archive-steam/5-2-2-0-shattered-bloodline.md) — 2020-02-28
+- [2.1.1 | Hotfix](patch-notes/archive-steam/4-2-1-1-hotfix.md) — 2020-02-28
+- [2.1.0 | Mid-Chapter](patch-notes/archive-steam/3-2-1-0-mid-chapter.md) — 2020-02-28
+- [2.0.0 | Curtain Call](patch-notes/archive-steam/2-2-0-0-curtain-call.md) — 2020-02-28
+- [1.9.4 - 1.9.4c | Emblems](patch-notes/archive-steam/1-1-9-4-1-9-4c-emblems.md) — 2020-02-28
+
+## Archive: PS4
+
+56 article(s).
+
+- [4.3.2 | Bugfix Patch](patch-notes/archive-ps4/261-4-3-2-bugfix-patch.md) — 2020-11-03
+- [4.3.1 | Bugfix Patch](patch-notes/archive-ps4/255-4-3-1-bugfix-patch.md) — 2020-10-28
+- [4.3.0 | Mid-Chapter](patch-notes/archive-ps4/248-4-3-0-mid-chapter.md) — 2020-10-20
+- [4.2.2 | Bugfix Patch](patch-notes/archive-ps4/240-4-2-2-bugfix-patch.md) — 2020-09-24
+- [4.2.1 | Bugfix Patch](patch-notes/archive-ps4/235-4-2-1-bugfix-patch.md) — 2020-09-17
+- [4.2.0 | Descend Beyond](patch-notes/archive-ps4/230-4-2-0-descend-beyond.md) — 2020-09-08
+- [4.1.2 | Bug fix patch ](patch-notes/archive-ps4/222-4-1-2-bug-fix-patch.md) — 2020-08-11
+- [4.1.1 | Bugfix Patch](patch-notes/archive-ps4/216-4-1-1-bugfix-patch.md) — 2020-08-05
+- [4.1.0 | Mid-Chapter](patch-notes/archive-ps4/212-4-1-0-mid-chapter.md) — 2020-07-28
+- [4.0.2 | Hotfix](patch-notes/archive-ps4/203-4-0-2-hotfix.md) — 2020-07-02
+- [4.0.0 | Silent Hill](patch-notes/archive-ps4/196-4-0-0-silent-hill.md) — 2020-06-16
+- [3.7.2 | Hotfix](patch-notes/archive-ps4/190-3-7-2-hotfix.md) — 2020-05-12
+- [3.7.1 | Hotfix](patch-notes/archive-ps4/186-3-7-1-hotfix.md) — 2020-05-05
+- [3.7.0 | Mid-Chapter](patch-notes/archive-ps4/180-3-7-0-mid-chapter.md) — 2020-04-28
+- [3.6.2 | Hotfix](patch-notes/archive-ps4/174-3-6-2-hotfix.md) — 2020-03-24
+- [3.6.1 | Hotfix](patch-notes/archive-ps4/171-3-6-1-hotfix.md) — 2020-03-17
+- [3.6.0a | Hotfix](patch-notes/archive-ps4/156-3-6-0a-hotfix.md) — 2020-03-13
+- [3.6.0 | Chains of Hate](patch-notes/archive-ps4/153-3-6-0-chains-of-hate.md) — 2020-03-10
+- [3.5.2 | Hotfix](patch-notes/archive-ps4/71-3-5-2-hotfix.md) — 2020-02-28
+- [3.5.1 | Hotfix](patch-notes/archive-ps4/70-3-5-1-hotfix.md) — 2020-02-28
+- [3.5.0 | Mid-Chapter](patch-notes/archive-ps4/69-3-5-0-mid-chapter.md) — 2020-02-28
+- [3.4.2 | Hotfix](patch-notes/archive-ps4/68-3-4-2-hotfix.md) — 2020-02-28
+- [3.4.1 | Hotfix](patch-notes/archive-ps4/67-3-4-1-hotfix.md) — 2020-02-28
+- [3.4.0 | Cursed Legacy](patch-notes/archive-ps4/66-3-4-0-cursed-legacy.md) — 2020-02-28
+- [3.3.2 | Hotfix](patch-notes/archive-ps4/65-3-3-2-hotfix.md) — 2020-02-28
+- [3.2.2 | Hotfix](patch-notes/archive-ps4/64-3-2-2-hotfix.md) — 2020-02-28
+- [3.3.0 | Mid-Chapter](patch-notes/archive-ps4/63-3-3-0-mid-chapter.md) — 2020-02-28
+- [3.2.1 | Hotfix](patch-notes/archive-ps4/62-3-2-1-hotfix.md) — 2020-02-28
+- [3.2.0 | Stranger Things](patch-notes/archive-ps4/61-3-2-0-stranger-things.md) — 2020-02-28
+- [3.1.2 | Hotfix](patch-notes/archive-ps4/60-3-1-2-hotfix.md) — 2020-02-28
+- [3.1.1 | Hotfix](patch-notes/archive-ps4/59-3-1-1-hotfix.md) — 2020-02-28
+- [3.1.0 | Mid-Chapter](patch-notes/archive-ps4/58-3-1-0-mid-chapter.md) — 2020-02-28
+- [3.0.2 | Hotfix](patch-notes/archive-ps4/57-3-0-2-hotfix.md) — 2020-02-28
+- [3.0.1 | Hotfix](patch-notes/archive-ps4/56-3-0-1-hotfix.md) — 2020-02-28
+- [3.0.0 | Ghost Face](patch-notes/archive-ps4/55-3-0-0-ghost-face.md) — 2020-02-28
+- [2.7.1 | Hotfix](patch-notes/archive-ps4/54-2-7-1-hotfix.md) — 2020-02-28
+- [2.7.0 | Mid-Chapter](patch-notes/archive-ps4/53-2-7-0-mid-chapter.md) — 2020-02-28
+- [2.6.4 | Hotfix](patch-notes/archive-ps4/52-2-6-4-hotfix.md) — 2020-02-28
+- [2.6.3 | Ash VS Evil Dead](patch-notes/archive-ps4/51-2-6-3-ash-vs-evil-dead.md) — 2020-02-28
+- [2.6.0 | Demise of the Faithful](patch-notes/archive-ps4/50-2-6-0-demise-of-the-faithful.md) — 2020-02-28
+- [2.5.4 | Hotfix](patch-notes/archive-ps4/49-2-5-4-hotfix.md) — 2020-02-28
+- [2.5.3 | Hotfix](patch-notes/archive-ps4/48-2-5-3-hotfix.md) — 2020-02-28
+- [2.5.1 | Hotfix](patch-notes/archive-ps4/47-2-5-1-hotfix.md) — 2020-02-28
+- [2.5.0 | Mid-Chapter](patch-notes/archive-ps4/46-2-5-0-mid-chapter.md) — 2020-02-28
+- [2.4.0 | Darkness Among Us](patch-notes/archive-ps4/45-2-4-0-darkness-among-us.md) — 2020-02-28
+- [2.3.3 | Hotfix](patch-notes/archive-ps4/44-2-3-3-hotfix.md) — 2020-02-28
+- [2.3.2 | Hotfix](patch-notes/archive-ps4/43-2-3-2-hotfix.md) — 2020-02-28
+- [2.3.1 | Hotfix](patch-notes/archive-ps4/42-2-3-1-hotfix.md) — 2020-02-28
+- [2.3.0 | Mid-Chapter](patch-notes/archive-ps4/41-2-3-0-mid-chapter.md) — 2020-02-28
+- [2.2.1 | Hotfix](patch-notes/archive-ps4/40-2-2-1-hotfix.md) — 2020-02-28
+- [2.2.0 | Shattered Bloodline](patch-notes/archive-ps4/39-2-2-0-shattered-bloodline.md) — 2020-02-28
+- [2.1.2  | Hotfix](patch-notes/archive-ps4/38-2-1-2-hotfix.md) — 2020-02-28
+- [2.1.1 | Hotfix](patch-notes/archive-ps4/37-2-1-1-hotfix.md) — 2020-02-28
+- [2.1.0 | Mid-Chapter](patch-notes/archive-ps4/36-2-1-0-mid-chapter.md) — 2020-02-28
+- [2.0.0 | Curtain Call](patch-notes/archive-ps4/35-2-0-0-curtain-call.md) — 2020-02-28
+- [1.9.4 - 1.9.4.1 | Emblems](patch-notes/archive-ps4/34-1-9-4-1-9-4-1-emblems.md) — 2020-02-28
+
+## Archive: Xbox One
+
+53 article(s).
+
+- [4.3.2 | Bugfix Patch](patch-notes/archive-xbox-one/262-4-3-2-bugfix-patch.md) — 2020-11-03
+- [4.3.1 | Bugfix Patch](patch-notes/archive-xbox-one/256-4-3-1-bugfix-patch.md) — 2020-10-28
+- [4.3.0 | Mid-Chapter](patch-notes/archive-xbox-one/249-4-3-0-mid-chapter.md) — 2020-10-20
+- [4.2.2 | Bugfix Patch](patch-notes/archive-xbox-one/241-4-2-2-bugfix-patch.md) — 2020-09-24
+- [4.2.1 | Bugfix Patch](patch-notes/archive-xbox-one/236-4-2-1-bugfix-patch.md) — 2020-09-17
+- [4.2.0 | Descend Beyond](patch-notes/archive-xbox-one/231-4-2-0-descend-beyond.md) — 2020-09-08
+- [4.1.2 | Bug fix patch ](patch-notes/archive-xbox-one/221-4-1-2-bug-fix-patch.md) — 2020-08-11
+- [ 4.1.1 | Bugfix Patch](patch-notes/archive-xbox-one/217-4-1-1-bugfix-patch.md) — 2020-08-05
+- [4.1.0 | Mid-Chapter](patch-notes/archive-xbox-one/214-4-1-0-mid-chapter.md) — 2020-07-28
+- [4.0.2 | Hotfix](patch-notes/archive-xbox-one/202-4-0-2-hotfix.md) — 2020-07-02
+- [4.0.0 | Silent Hill](patch-notes/archive-xbox-one/197-4-0-0-silent-hill.md) — 2020-06-16
+- [3.7.2 | Hotfix](patch-notes/archive-xbox-one/191-3-7-2-hotfix.md) — 2020-05-12
+- [3.7.1 | Hotfix](patch-notes/archive-xbox-one/185-3-7-1-hotfix.md) — 2020-05-05
+- [3.7.0 | Mid-Chapter](patch-notes/archive-xbox-one/181-3-7-0-mid-chapter.md) — 2020-04-28
+- [3.6.2 | Hotfix](patch-notes/archive-xbox-one/175-3-6-2-hotfix.md) — 2020-03-24
+- [3.6.1 | Hotfix](patch-notes/archive-xbox-one/169-3-6-1-hotfix.md) — 2020-03-17
+- [3.6.0 | Chains of Hate](patch-notes/archive-xbox-one/154-3-6-0-chains-of-hate.md) — 2020-03-10
+- [3.5.2 | Hotfix](patch-notes/archive-xbox-one/107-3-5-2-hotfix.md) — 2020-02-28
+- [3.5.1 | Hotfix](patch-notes/archive-xbox-one/106-3-5-1-hotfix.md) — 2020-02-28
+- [3.5.0 | Mid-Chapter](patch-notes/archive-xbox-one/105-3-5-0-mid-chapter.md) — 2020-02-28
+- [3.4.2 | Hotfix](patch-notes/archive-xbox-one/104-3-4-2-hotfix.md) — 2020-02-28
+- [3.4.1 | Hotfix](patch-notes/archive-xbox-one/103-3-4-1-hotfix.md) — 2020-02-28
+- [3.4.0 | Cursed Legacy](patch-notes/archive-xbox-one/102-3-4-0-cursed-legacy.md) — 2020-02-28
+- [3.3.2 | Hotfix](patch-notes/archive-xbox-one/101-3-3-2-hotfix.md) — 2020-02-28
+- [3.3.0 | Mid-Chapter](patch-notes/archive-xbox-one/100-3-3-0-mid-chapter.md) — 2020-02-28
+- [3.2.2 | Hotfix](patch-notes/archive-xbox-one/99-3-2-2-hotfix.md) — 2020-02-28
+- [3.2.1 | Hotfix](patch-notes/archive-xbox-one/98-3-2-1-hotfix.md) — 2020-02-28
+- [3.2.0 | Stranger Things](patch-notes/archive-xbox-one/97-3-2-0-stranger-things.md) — 2020-02-28
+- [3.1.2 | Hotfix](patch-notes/archive-xbox-one/96-3-1-2-hotfix.md) — 2020-02-28
+- [3.1.1 | Hotfix](patch-notes/archive-xbox-one/95-3-1-1-hotfix.md) — 2020-02-28
+- [3.1.0 | Mid-Chapter](patch-notes/archive-xbox-one/94-3-1-0-mid-chapter.md) — 2020-02-28
+- [3.0.2 | Hotfix](patch-notes/archive-xbox-one/93-3-0-2-hotfix.md) — 2020-02-28
+- [3.0.1 | Hotfix](patch-notes/archive-xbox-one/92-3-0-1-hotfix.md) — 2020-02-28
+- [3.0.0 | Ghost Face](patch-notes/archive-xbox-one/91-3-0-0-ghost-face.md) — 2020-02-28
+- [2.7.1 | Hotfix](patch-notes/archive-xbox-one/90-2-7-1-hotfix.md) — 2020-02-28
+- [2.7.0 | Mid-Chapter](patch-notes/archive-xbox-one/89-2-7-0-mid-chapter.md) — 2020-02-28
+- [2.6.4 | Hotfix](patch-notes/archive-xbox-one/88-2-6-4-hotfix.md) — 2020-02-28
+- [2.6.3 | Ash VS Evil Dead](patch-notes/archive-xbox-one/87-2-6-3-ash-vs-evil-dead.md) — 2020-02-28
+- [2.6.0 | Demise of the Faithful](patch-notes/archive-xbox-one/86-2-6-0-demise-of-the-faithful.md) — 2020-02-28
+- [2.5.4 | Hotfix](patch-notes/archive-xbox-one/85-2-5-4-hotfix.md) — 2020-02-28
+- [2.5.3 | Hotfix](patch-notes/archive-xbox-one/84-2-5-3-hotfix.md) — 2020-02-28
+- [2.5.1 | Hotfix](patch-notes/archive-xbox-one/83-2-5-1-hotfix.md) — 2020-02-28
+- [2.5.0 | Mid-Chapter](patch-notes/archive-xbox-one/82-2-5-0-mid-chapter.md) — 2020-02-28
+- [2.4.0 | Darkness Among Us](patch-notes/archive-xbox-one/81-2-4-0-darkness-among-us.md) — 2020-02-28
+- [2.3.2 | Hotfix](patch-notes/archive-xbox-one/80-2-3-2-hotfix.md) — 2020-02-28
+- [2.3.0 | Mid-Chapter](patch-notes/archive-xbox-one/79-2-3-0-mid-chapter.md) — 2020-02-28
+- [2.2.1 | Hotfix](patch-notes/archive-xbox-one/78-2-2-1-hotfix.md) — 2020-02-28
+- [2.2.0 | Shattered Bloodline](patch-notes/archive-xbox-one/77-2-2-0-shattered-bloodline.md) — 2020-02-28
+- [2.1.2 | Hotfix](patch-notes/archive-xbox-one/76-2-1-2-hotfix.md) — 2020-02-28
+- [2.1.1 | Hotfix](patch-notes/archive-xbox-one/75-2-1-1-hotfix.md) — 2020-02-28
+- [2.1.0 | Mid-Chapter](patch-notes/archive-xbox-one/74-2-1-0-mid-chapter.md) — 2020-02-28
+- [2.0.0 | Curtain Call](patch-notes/archive-xbox-one/73-2-0-0-curtain-call.md) — 2020-02-28
+- [1.9.4 - 1.9.4.1 | Emblems](patch-notes/archive-xbox-one/72-1-9-4-1-9-4-1-emblems.md) — 2020-02-28
+
+## Archive: Nintendo Switch
+
+24 article(s).
+
+- [4.3.2 | Bugfix Patch](patch-notes/archive-nintendo-switch/263-4-3-2-bugfix-patch.md) — 2020-11-03
+- [4.3.1 | Bugfix Patch](patch-notes/archive-nintendo-switch/258-4-3-1-bugfix-patch.md) — 2020-10-28
+- [4.3.0 | Mid-Chapter](patch-notes/archive-nintendo-switch/250-4-3-0-mid-chapter.md) — 2020-10-20
+- [4.2.2 | Bugfix Patch](patch-notes/archive-nintendo-switch/242-4-2-2-bugfix-patch.md) — 2020-09-24
+- [4.2.1 | Bugfix Patch](patch-notes/archive-nintendo-switch/237-4-2-1-bugfix-patch.md) — 2020-09-17
+- [4.2.0 | Descend Beyond](patch-notes/archive-nintendo-switch/232-4-2-0-descend-beyond.md) — 2020-09-08
+- [4.1.2 | Bug fix patch ](patch-notes/archive-nintendo-switch/224-4-1-2-bug-fix-patch.md) — 2020-08-12
+- [4.1.1 | Bug fix Patch ](patch-notes/archive-nintendo-switch/223-4-1-1-bug-fix-patch.md) — 2020-08-12
+- [4.1.0 | Mid-Chapter](patch-notes/archive-nintendo-switch/213-4-1-0-mid-chapter.md) — 2020-07-28
+- [4.0.3 | Hotfix ](patch-notes/archive-nintendo-switch/200-4-0-3-hotfix.md) — 2020-06-25
+- [4.0.0 | Silent Hill](patch-notes/archive-nintendo-switch/198-4-0-0-silent-hill.md) — 2020-06-16
+- [3.7.2 | Hotfix](patch-notes/archive-nintendo-switch/192-3-7-2-hotfix.md) — 2020-05-12
+- [3.7.1 | Hotfix](patch-notes/archive-nintendo-switch/188-3-7-1-hotfix.md) — 2020-05-06
+- [3.7.0 | Mid-Chapter](patch-notes/archive-nintendo-switch/182-3-7-0-mid-chapter.md) — 2020-04-28
+- [3.6.2 | Hotfix](patch-notes/archive-nintendo-switch/177-3-6-2-hotfix.md) — 2020-03-30
+- [3.6.1 | Hotfix](patch-notes/archive-nintendo-switch/172-3-6-1-hotfix.md) — 2020-03-17
+- [3.6.0 | Chains of Hate](patch-notes/archive-nintendo-switch/155-3-6-0-chains-of-hate.md) — 2020-03-10
+- [3.5.2 | Hotfix](patch-notes/archive-nintendo-switch/114-3-5-2-hotfix.md) — 2020-02-28
+- [3.5.1 | Hotfix](patch-notes/archive-nintendo-switch/113-3-5-1-hotfix.md) — 2020-02-28
+- [3.5.0 | Mid-Chapter](patch-notes/archive-nintendo-switch/112-3-5-0-mid-chapter.md) — 2020-02-28
+- [3.4.2 | Hotfix](patch-notes/archive-nintendo-switch/111-3-4-2-hotfix.md) — 2020-02-28
+- [3.4.0 | Cursed Legacy](patch-notes/archive-nintendo-switch/110-3-4-0-cursed-legacy.md) — 2020-02-28
+- [3.3.2 | Mid-chapter & Hotfix](patch-notes/archive-nintendo-switch/109-3-3-2-mid-chapter-hotfix.md) — 2020-02-28
+- [3.2.2 | Hotfix](patch-notes/archive-nintendo-switch/108-3-2-2-hotfix.md) — 2020-02-28
+
+## Archive: Windows Store
+
+23 article(s).
+
+- [4.3.2 | Bugfix Patch](patch-notes/archive-windows-store/264-4-3-2-bugfix-patch.md) — 2020-11-03
+- [4.3.1 | Bugfix Patch](patch-notes/archive-windows-store/257-4-3-1-bugfix-patch.md) — 2020-10-28
+- [4.3.0 | Mid-Chapter](patch-notes/archive-windows-store/251-4-3-0-mid-chapter.md) — 2020-10-20
+- [4.2.2 | Bugfix Patch](patch-notes/archive-windows-store/239-4-2-2-bugfix-patch.md) — 2020-09-24
+- [4.2.1 | Bugfix Patch](patch-notes/archive-windows-store/234-4-2-1-bugfix-patch.md) — 2020-09-17
+- [4.2.0 | Descend Beyond](patch-notes/archive-windows-store/229-4-2-0-descend-beyond.md) — 2020-09-08
+- [4.1.2 | Bug fix patch ](patch-notes/archive-windows-store/220-4-1-2-bug-fix-patch.md) — 2020-08-11
+- [4.1.1 | Bugfix Patch](patch-notes/archive-windows-store/218-4-1-1-bugfix-patch.md) — 2020-08-05
+- [4.1.0 | Mid-Chapter](patch-notes/archive-windows-store/211-4-1-0-mid-chapter.md) — 2020-07-28
+- [4.0.2 | Hotfix](patch-notes/archive-windows-store/201-4-0-2-hotfix.md) — 2020-07-02
+- [4.0.0 | Silent Hill](patch-notes/archive-windows-store/199-4-0-0-silent-hill.md) — 2020-06-16
+- [3.7.2 | Hotfix](patch-notes/archive-windows-store/193-3-7-2-hotfix.md) — 2020-05-12
+- [3.7.1 | Hotfix](patch-notes/archive-windows-store/184-3-7-1-hotfix.md) — 2020-05-05
+- [3.7.0 | Mid-Chapter](patch-notes/archive-windows-store/183-3-7-0-mid-chapter.md) — 2020-04-28
+- [3.6.2 | Hotfix](patch-notes/archive-windows-store/176-3-6-2-hotfix.md) — 2020-03-24
+- [3.6.1 | Hotfix](patch-notes/archive-windows-store/168-3-6-1-hotfix.md) — 2020-03-17
+- [3.6.0 | Chains of Hate](patch-notes/archive-windows-store/152-3-6-0-chains-of-hate.md) — 2020-03-10
+- [3.5.2 | Hotfix](patch-notes/archive-windows-store/120-3-5-2-hotfix.md) — 2020-02-28
+- [3.5.1 | Hotfix](patch-notes/archive-windows-store/119-3-5-1-hotfix.md) — 2020-02-28
+- [3.5.0 | Mid-Chapter](patch-notes/archive-windows-store/118-3-5-0-mid-chapter.md) — 2020-02-28
+- [3.4.2 | Hotfix](patch-notes/archive-windows-store/117-3-4-2-hotfix.md) — 2020-02-28
+- [3.4.1 | Hotfix](patch-notes/archive-windows-store/116-3-4-1-hotfix.md) — 2020-02-28
+- [3.4.0 | Cursed Legacy](patch-notes/archive-windows-store/115-3-4-0-cursed-legacy.md) — 2020-02-28
+
+## Archive: Stadia
+
+3 article(s).
+
+- [4.3.2 | Bugfix Patch](patch-notes/archive-stadia/265-4-3-2-bugfix-patch.md) — 2020-11-03
+- [4.3.1 | Bugfix Patch](patch-notes/archive-stadia/259-4-3-1-bugfix-patch.md) — 2020-10-28
+- [4.3.0 | Mid-Chapter](patch-notes/archive-stadia/252-4-3-0-mid-chapter.md) — 2020-10-20
+
+## Developer Updates
+
+62 article(s).
+
+- [Stats | Global Stats](developer-updates/554-stats-global-stats.md) — 2026-07-29
+- [PTB To Live Changes: The Slasher](developer-updates/549-ptb-to-live-changes-the-slasher.md) — 2026-06-10
+- [Stats | Blood Moon 2026](developer-updates/547-stats-blood-moon-2026.md) — 2026-05-25
+- [Stats | The Trickster](developer-updates/543-stats-the-trickster.md) — 2026-04-23
+- [Stats | First Look at Stats in 2026](developer-updates/540-stats-first-look-at-stats-in-2026.md) — 2026-03-27
+- [Stats | 2025 Year in Review](developer-updates/532-stats-2025-year-in-review.md) — 2025-12-18
+- [Stats | Haunted by Daylight](developer-updates/528-stats-haunted-by-daylight.md) — 2025-11-24
+- [Developer Update | August 2025](developer-updates/521-developer-update-august-2025.md) — 2025-08-29
+- [Stats | 9th Anniversary](developer-updates/518-stats-9th-anniversary.md) — 2025-08-08
+- [Developer Update | July 2025](developer-updates/513-developer-update-july-2025.md) — 2025-07-07
+- [Developer Update | May 2025](developer-updates/507-developer-update-may-2025.md) — 2025-05-26
+- [Design Preview | The Skull Merchant Part 2](developer-updates/504-design-preview-the-skull-merchant-part-2.md) — 2025-04-29
+- [Stats | January - March 2025](developer-updates/503-stats-january-march-2025.md) — 2025-04-22
+- [Developer Update | April 2025](developer-updates/500-developer-update-april-2025.md) — 2025-04-10
+- [Design Preview | The Skull Merchant](developer-updates/497-design-preview-the-skull-merchant.md) — 2025-03-24
+- [Design Preview | Future Plans + Update on The Trickster](developer-updates/496-design-preview-future-plans-update-on-the-trickster.md) — 2025-03-20
+- [Developer Update | March 2025](developer-updates/494-developer-update-march-2025.md) — 2025-03-06
+- [Developer Update | January 2025 PTB](developer-updates/489-developer-update-january-2025-ptb.md) — 2025-01-27
+- [Developer Update | January 2025](developer-updates/487-developer-update-january-2025.md) — 2025-01-07
+- [Developer Update | November 2024 PTB](developer-updates/481-developer-update-november-2024-ptb.md) — 2024-11-27
+- [2V8 | Developer Update](developer-updates/480-2v8-developer-update.md) — 2024-11-11
+- [Stats | October 2024](developer-updates/478-stats-october-2024.md) — 2024-10-29
+- [Developer Update | September 2024 PTB](developer-updates/474-developer-update-september-2024-ptb.md) — 2024-10-03
+- [Developer Update | September 2024](developer-updates/472-developer-update-september-2024.md) — 2024-09-12
+- [Stats | September 2024](developer-updates/470-stats-september-2024.md) — 2024-09-09
+- [Developer Update | August 2024 PTB](developer-updates/467-developer-update-august-2024-ptb.md) — 2024-08-22
+- [Developer Update | August 2024](developer-updates/464-developer-update-august-2024.md) — 2024-08-01
+- [Stats | July 2024](developer-updates/460-stats-july-2024.md) — 2024-07-18
+- [Developer Update | June 2024 PTB](developer-updates/458-developer-update-june-2024-ptb.md) — 2024-07-12
+- [Developer Update | June 2024](developer-updates/455-developer-update-june-2024.md) — 2024-06-20
+- [Developer Update | May 2024 PTB](developer-updates/451-developer-update-may-2024-ptb.md) — 2024-05-30
+- [Stats | April 2024](developer-updates/450-stats-april-2024.md) — 2024-05-17
+- [Developer Update | May 2024](developer-updates/448-developer-update-may-2024.md) — 2024-05-09
+- [Developer Update | April 2024 PTB](developer-updates/444-developer-update-april-2024-ptb.md) — 2024-04-18
+- [Stats | March 2024](developer-updates/443-stats-march-2024.md) — 2024-04-12
+- [Developer Update | March 2024](developer-updates/440-developer-update-march-2024.md) — 2024-03-28
+- [Developer Update | All Things Wicked PTB](developer-updates/436-developer-update-all-things-wicked-ptb.md) — 2024-03-07
+- [Developer Update | February 2024](developer-updates/434-developer-update-february-2024.md) — 2024-02-19
+- [Developer Update | Stats!](developer-updates/433-developer-update-stats.md) — 2024-02-15
+- [Developer Update | January 2024 PTB](developer-updates/429-developer-update-january-2024-ptb.md) — 2024-01-25
+- [Developer Update | January 2024](developer-updates/427-developer-update-january-2024.md) — 2024-01-08
+- [Developer Update | November 2023 PTB](developer-updates/420-developer-update-november-2023-ptb.md) — 2023-11-23
+- [Developer Update | November 2023](developer-updates/416-developer-update-november-2023.md) — 2023-11-02
+- [Developer Update | October 2023](developer-updates/412-developer-update-october-2023.md) — 2023-10-05
+- [Developer Update | September 2023](developer-updates/409-developer-update-september-2023.md) — 2023-09-18
+- [Developer Update | Nicolas Cage PTB](developer-updates/399-developer-update-nicolas-cage-ptb.md) — 2023-07-24
+- [Developer Update | July 2023](developer-updates/397-developer-update-july-2023.md) — 2023-07-04
+- [Developer Update | End Transmission Release](developer-updates/393-developer-update-end-transmission-release.md) — 2023-06-20
+- [Developer Update | End Transmission](developer-updates/390-developer-update-end-transmission.md) — 2023-06-02
+- [Developer Update | April 2023](developer-updates/384-developer-update-april-2023.md) — 2023-04-05
+- [Developer Update | March 2023](developer-updates/382-developer-update-march-2023.md) — 2023-03-24
+- [Developer Update | Tools of Torment](developer-updates/380-developer-update-tools-of-torment.md) — 2023-03-17
+- [Developer Update | Tools of Torment PTB](developer-updates/377-developer-update-tools-of-torment-ptb.md) — 2023-02-23
+- [Developer Update | February 2023](developer-updates/375-developer-update-february-2023.md) — 2023-02-10
+- [Developer Update | Year 7 Roadmap Additions](developer-updates/372-developer-update-year-7-roadmap-additions.md) — 2023-01-26
+- [Developer Update | January 2023](developer-updates/369-developer-update-january-2023.md) — 2023-01-03
+- [Developer Update | October 2022](developer-updates/363-developer-update-october-2022.md) — 2022-10-28
+- [Developer Update | Finishing Mori](developer-updates/352-developer-update-finishing-mori.md) — 2022-09-22
+- [Developer Update | August 23, 2022](developer-updates/348-developer-update-august-23-2022.md) — 2022-08-23
+- [Developer Update | August 2022](developer-updates/344-developer-update-august-2022.md) — 2022-07-29
+- [Developer Update | July 2022](developer-updates/341-developer-update-july-2022.md) — 2022-07-11
+- [Developer Update | June 2022](developer-updates/337-developer-update-june-2022.md) — 2022-06-20
