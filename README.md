@@ -4,6 +4,8 @@ An unofficial archive of Dead by Daylight's **patch notes** and **developer
 updates**, captured from [forums.bhvr.com](https://forums.bhvr.com/dead-by-daylight/kb/patchnotes)
 before their scheduled removal in October 2026.
 
+The `Outline` button at the top right of this module can provide a Table of Contents layout for easier navigation.
+
 Everything under [`archive/`](archive/) is plain Markdown with the original
 images saved beside it. Start at [`archive/index.md`](archive/index.md).
 
