@@ -167,6 +167,10 @@ def classes(node: "Node") -> set[str]:
 _WS = re.compile(r"[ \t\r\f\v]+")
 _MD_ESCAPE = re.compile(r"(?<!\\)([*_`\[\]])")
 
+# Tags whose Markdown output is wrapped in a symmetric emphasis marker.
+EMPHASIS = {"strong": "**", "b": "**", "em": "*", "i": "*",
+            "del": "~~", "s": "~~", "strike": "~~"}
+
 
 def unwrap_leaving(url: str) -> str:
     """BHVR wraps outbound links in /home/leaving?target=<encoded>."""
@@ -186,9 +190,21 @@ class MarkdownWriter:
     # -- inline ------------------------------------------------------------ #
 
     def inline(self, node: Node) -> str:
-        out = []
+        out: list[str] = []
+        marks: list[str | None] = []
         for child in node.children:
-            out.append(self._inline_node(child))
+            piece = self._inline_node(child)
+            mark = EMPHASIS.get(child.tag) if child.tag else None
+            if piece and mark and out and marks[-1]:
+                # <em>a</em><em>b</em> would emit *a**b*, which reads as a
+                # stray bold. Fuse the touching runs instead.
+                for candidate in ("**", "*", "~~"):
+                    if out[-1].endswith(candidate) and piece.startswith(candidate):
+                        out[-1] = out[-1][: -len(candidate)]
+                        piece = piece[len(candidate):]
+                        break
+            out.append(piece)
+            marks.append(mark)
         return "".join(out)
 
     def _inline_node(self, node: Node) -> str:
