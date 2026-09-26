@@ -7,6 +7,3 @@ __pycache__/
 *.nemos
 *.nemon
 *.nemou
-
-# In-flight summary generation; committed once the run completes
-archive/summaries.json
