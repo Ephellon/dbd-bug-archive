@@ -9,6 +9,12 @@ updated: "2026-10-06T14:32:45+00:00"
 archived: "2026-10-10T20:27:32Z"
 ---
 
+<!-- summary -->
+## AI TL;DR
+
+The 10.2.0 mid-chapter update adds a Survivor Intent System that lets players send preset text messages via a wheel, with mute options and opt-out, plus new Abandon, Surrender and End Trial mechanics controlling match exit conditions for Survivors and Killers. It also brings a large perk overhaul—rebalancing dozens of Killer and Survivor perks, tweaking the Mastermind’s Virulent Bound, and introducing the Academia Rift cosmetic outfits. The release is rounded out by numerous audio, bot, character, map and UI bug fixes and minor platform tweaks.
+<!-- /summary -->
+
 <!-- nav -->
 &larr; [10.1.2 Bugfix Patch](558-10-1-2-bugfix-patch.md) · [Live](../../index.md#live) · _newest_ &rarr;
 <!-- /nav -->
