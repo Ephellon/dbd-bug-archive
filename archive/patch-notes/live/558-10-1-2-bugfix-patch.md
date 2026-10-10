@@ -16,7 +16,7 @@ The Judgment’s Divine Light timing was adjusted—Zealous window back to 0.8 s
 <!-- /summary -->
 
 <!-- nav -->
-&larr; [10.1.1 Bugfix Patch](557-10-1-1-bugfix-patch.md) · [Live](../../index.md#live) · _newest_ &rarr;
+&larr; [10.1.1 Bugfix Patch](557-10-1-1-bugfix-patch.md) · [Live](../../index.md#live) · [10.2.0 | Mid-Chapter](560-10-2-0-mid-chapter.md) &rarr;
 <!-- /nav -->
 
 # 10.1.2 Bugfix Patch
@@ -178,5 +178,5 @@ Dev note: *The Judgment's performance skyrocketed following HF2. We are revertin
 - After using a Brand New Part and continuing the interaction, there are no random skill checks while repairing a generator.
 
 <!-- nav -->
-&larr; [10.1.1 Bugfix Patch](557-10-1-1-bugfix-patch.md) · [Live](../../index.md#live) · _newest_ &rarr;
+&larr; [10.1.1 Bugfix Patch](557-10-1-1-bugfix-patch.md) · [Live](../../index.md#live) · [10.2.0 | Mid-Chapter](560-10-2-0-mid-chapter.md) &rarr;
 <!-- /nav -->

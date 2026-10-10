@@ -143,7 +143,7 @@ its TL;DR. The articles themselves are never touched.
 <br>
 
 [`.github/workflows/archive.yml`](.github/workflows/archive.yml) re-runs the
-bot every Sunday and commits anything new, so posts made before the knowledge
+bot every Sunday night and commits anything new, so posts made before the knowledge
 base comes down are not missed. It can also be run on demand from the Actions
 tab.
 

@@ -3,12 +3,13 @@
 An unofficial, read-only archive of BHVR's Dead by Daylight patch notes
 and developer updates, captured before their removal.
 
-479 articles. See `manifest.json` for capture timestamps and image hashes.
+480 articles. See `manifest.json` for capture timestamps and image hashes.
 
 ## Live
 
-135 article(s).
+136 article(s).
 
+- [10.2.0 | Mid-Chapter](patch-notes/live/560-10-2-0-mid-chapter.md) — 2026-10-06
 - [10.1.2 Bugfix Patch](patch-notes/live/558-10-1-2-bugfix-patch.md) — 2026-09-08
 - [10.1.1 Bugfix Patch](patch-notes/live/557-10-1-1-bugfix-patch.md) — 2026-09-01
 - [10.1.0 | Chorus of Sin](patch-notes/live/556-10-1-0-chorus-of-sin.md) — 2026-08-25

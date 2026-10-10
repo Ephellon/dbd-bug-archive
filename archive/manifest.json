@@ -17351,6 +17351,74 @@
       "slug": "56-3-0-1-hotfix",
       "url": "https://forums.bhvr.com/dead-by-daylight/kb/articles/56-3-0-1-hotfix"
     },
+    "560": {
+      "articleID": 560,
+      "author": "ThatRyanB",
+      "dateInserted": "2026-10-06T14:32:45+00:00",
+      "dateUpdated": "2026-10-06T14:32:45+00:00",
+      "images": [
+        {
+          "bytes": 386682,
+          "file": "images/85b021c0659fcb2c-dbd-1020-patchnotes-forums.png",
+          "sha256": "85b021c0659fcb2c861a55a02f6a2a91f53e5594f6b3e615881cdcbdf66f6c6e",
+          "source": "https://us.v-cdn.net/6030815/uploads/0KRQIXK5KOSB/dbd-1020-patchnotes-forums.png"
+        },
+        {
+          "bytes": 6222,
+          "file": "images/1722ff4e1b1423bf-image.png",
+          "sha256": "1722ff4e1b1423bfda68002a2971090c439cc076c6f89b0c642d589c3447aeb3",
+          "source": "https://us.v-cdn.net/6030815/uploads/RJ7M5W36R9SC/image.png"
+        },
+        {
+          "bytes": 10706,
+          "file": "images/91c2ffb067377bac-bar-red-2.png",
+          "sha256": "91c2ffb067377bac13e0a8789325ee6ec8673f31683fdd034cb046163ee1c959",
+          "source": "https://us.v-cdn.net/6030815/uploads/Y23NXYGLYAKX/bar-red.png"
+        },
+        {
+          "bytes": 6222,
+          "file": "images/1722ff4e1b1423bf-image.png",
+          "sha256": "1722ff4e1b1423bfda68002a2971090c439cc076c6f89b0c642d589c3447aeb3",
+          "source": "https://us.v-cdn.net/6030815/uploads/SUW8EAZ80QLN/image.png"
+        },
+        {
+          "bytes": 6222,
+          "file": "images/1722ff4e1b1423bf-image.png",
+          "sha256": "1722ff4e1b1423bfda68002a2971090c439cc076c6f89b0c642d589c3447aeb3",
+          "source": "https://us.v-cdn.net/6030815/uploads/6DEUBSB3YDSK/image.png"
+        },
+        {
+          "bytes": 6222,
+          "file": "images/1722ff4e1b1423bf-image.png",
+          "sha256": "1722ff4e1b1423bfda68002a2971090c439cc076c6f89b0c642d589c3447aeb3",
+          "source": "https://us.v-cdn.net/6030815/uploads/UY984QJBHFF3/image.png"
+        },
+        {
+          "bytes": 10706,
+          "file": "images/91c2ffb067377bac-bar-red-2.png",
+          "sha256": "91c2ffb067377bac13e0a8789325ee6ec8673f31683fdd034cb046163ee1c959",
+          "source": "https://us.v-cdn.net/6030815/uploads/RDIJL7TWZNOH/bar-red.png"
+        },
+        {
+          "bytes": 10706,
+          "file": "images/91c2ffb067377bac-bar-red-2.png",
+          "sha256": "91c2ffb067377bac13e0a8789325ee6ec8673f31683fdd034cb046163ee1c959",
+          "source": "https://us.v-cdn.net/6030815/uploads/XTN3PY8JBPV5/bar-red.png"
+        },
+        {
+          "bytes": 10706,
+          "file": "images/91c2ffb067377bac-bar-red-2.png",
+          "sha256": "91c2ffb067377bac13e0a8789325ee6ec8673f31683fdd034cb046163ee1c959",
+          "source": "https://us.v-cdn.net/6030815/uploads/U6JBXKCPY6YC/bar-red.png"
+        }
+      ],
+      "lastEditor": "ThatRyanB",
+      "markdown": "patch-notes/live/560-10-2-0-mid-chapter.md",
+      "name": "10.2.0 | Mid-Chapter",
+      "section": "live",
+      "slug": "560-10-2-0-mid-chapter",
+      "url": "https://forums.bhvr.com/dead-by-daylight/kb/articles/560-10-2-0-mid-chapter"
+    },
     "57": {
       "articleID": 57,
       "author": "Peanits",
@@ -17963,5 +18031,5 @@
       "url": "https://forums.bhvr.com/dead-by-daylight/kb/articles/99-3-2-2-hotfix"
     }
   },
-  "generated": "2026-09-26T19:29:09Z"
+  "generated": "2026-10-10T20:29:15Z"
 }
