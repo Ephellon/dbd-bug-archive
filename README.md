@@ -56,6 +56,7 @@ archive/
   patch-notes/<section>/<slug>.md   one article
   developer-updates/<slug>.md
 dbd_archive.py                      the bot that produced all of the above
+summarize.py                        writes the AI TL;DR for new articles
 ```
 
 Filenames keep the forum's own slug, so the original URL is recoverable from
@@ -131,9 +132,21 @@ Two passes then tidy up — summaries injected under the front matter, then the
 navigation lines rebuilt so a new article wires itself into its neighbours.
 Both are idempotent.
 
-**Summaries.** `archive/summaries.json` maps article id to summary text. Edit
-an entry and re-run the bot to update that page; delete one and that page loses
-its TL;DR. The articles themselves are never touched.
+**Summaries.** `archive/summaries.json` maps article id to summary text, and
+`summarize.py` fills in any article that has none, using a model reached
+through the offload server:
+
+```sh
+export OFFSER_TOKEN=...           # the offload server credential
+python3 summarize.py              # summarise whatever is missing
+python3 summarize.py --list       # name them, send nothing
+python3 summarize.py --redo 560   # regenerate specific articles
+python3 dbd_archive.py            # inject them into the pages
+```
+
+Without the token it does nothing and exits cleanly. Edit an entry by hand and
+re-run `dbd_archive.py` to update that page; delete one and the page loses its
+TL;DR. The articles themselves are never touched.
 
 </details>
 
@@ -147,8 +160,12 @@ bot every Sunday night and commits anything new, so posts made before the knowle
 base comes down are not missed. It can also be run on demand from the Actions
 tab.
 
-A quiet week produces no commit. Delete the workflow once the archive is
-locked.
+A quiet week produces no commit. If an article lands without a summary —
+because the `OFFSER_TOKEN` secret is unset or the offload server is
+unreachable — the commit message names it and the run logs a warning, so it is
+visible rather than silently absent.
+
+Delete the workflow once the archive is locked.
 
 </details>
 

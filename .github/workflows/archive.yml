@@ -29,21 +29,52 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Run the archiver
+      - name: Fetch new and changed articles
+        run: python3 dbd_archive.py --out archive --delay 0.5
+
+      - name: Write the AI TL;DR for anything new
+        env:
+          OFFSER_TOKEN: ${{ secrets.OFFSER_TOKEN }}
+        # Summaries come from a model reached through the offload server. If
+        # the secret is absent or the host is unreachable, this leaves the new
+        # pages unsummarised rather than failing the run; the commit message
+        # below says which ones.
+        run: python3 summarize.py || echo "summarize.py failed; continuing"
+
+      - name: Apply summaries and navigation
         run: python3 dbd_archive.py --out archive --delay 0.5
 
       - name: Commit anything new
         run: |
           set -euo pipefail
-          # manifest.json always changes (it records the run time), so decide
-          # on the article and image files instead.
           # New articles arrive as untracked files, so ask status, not diff.
+          # manifest.json always changes (it records the run time), so it does
+          # not count towards deciding whether there is anything to commit.
           if [ -z "$(git status --porcelain -- archive ':!archive/manifest.json')" ]; then
             echo "No new or changed articles."
             exit 0
           fi
+
+          # Name any article still lacking a summary, so a missing TL;DR is
+          # visible in the history instead of silently absent.
+          missing=$(python3 summarize.py --list 2>/dev/null || true)
+
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add archive
-          git commit -m "Archive: weekly sync $(date -u +%Y-%m-%d)"
+
+          {
+            printf 'Archive: weekly sync %s\n' "$(date -u +%Y-%m-%d)"
+            if [ -n "$missing" ]; then
+              printf '\nNo AI TL;DR was generated for:\n\n%s\n' "$missing"
+              printf '\nRun summarize.py with OFFSER_TOKEN set, then dbd_archive.py.\n'
+            fi
+          } > /tmp/commit-msg
+
+          git commit -F /tmp/commit-msg
           git push
+
+          if [ -n "$missing" ]; then
+            echo "::warning::Some articles have no AI TL;DR:"
+            echo "$missing"
+          fi
