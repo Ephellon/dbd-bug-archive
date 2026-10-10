@@ -9,14 +9,6 @@ updated: "2026-10-06T14:32:45+00:00"
 archived: "2026-10-10T20:27:32Z"
 ---
 
-<!-- summary -->
-## AI TL;DR
-
-The 10.2.0 mid-chapter update adds the Survivor Intent System, letting players send preset text messages via a wheel and mute others, plus new trial-ending options—Abandon for lone humans or killers, Surrender when all survivors are dying, and End Trial for killers when only bots remain. It also overhauls many killer and survivor perks, rebalancing effects, adding tokens, cooldown tweaks, and introduces a new Rift-themed cosmetic set.
-
-The patch is otherwise a broad bug-fix sweep covering audio glitches, bot behavior, character power interactions, map geometry, perk UI, and platform input issues, and includes minor killer ability tweaks and PTB-to-live perk refinements.
-<!-- /summary -->
-
 <!-- nav -->
 &larr; [10.1.2 Bugfix Patch](558-10-1-2-bugfix-patch.md) · [Live](../../index.md#live) · _newest_ &rarr;
 <!-- /nav -->
