@@ -17419,6 +17419,44 @@
       "slug": "560-10-2-0-mid-chapter",
       "url": "https://forums.bhvr.com/dead-by-daylight/kb/articles/560-10-2-0-mid-chapter"
     },
+    "561": {
+      "articleID": 561,
+      "author": "ThatRyanB",
+      "dateInserted": "2026-10-14T15:00:15+00:00",
+      "dateUpdated": "2026-10-14T15:00:15+00:00",
+      "images": [
+        {
+          "bytes": 387076,
+          "file": "images/6171573db7d07650-dbd-1021-patchnotes-forums.png",
+          "sha256": "6171573db7d0765041f12d86a00dbeec89038a1957a1337449985217d18ef70c",
+          "source": "https://us.v-cdn.net/6030815/uploads/LUX4LXX942HZ/dbd-1021-patchnotes-forums.png"
+        },
+        {
+          "bytes": 10706,
+          "file": "images/91c2ffb067377bac-bar-red-2.png",
+          "sha256": "91c2ffb067377bac13e0a8789325ee6ec8673f31683fdd034cb046163ee1c959",
+          "source": "https://us.v-cdn.net/6030815/uploads/YGGQW8Q87TAV/bar-red.png"
+        },
+        {
+          "bytes": 10706,
+          "file": "images/91c2ffb067377bac-bar-red-2.png",
+          "sha256": "91c2ffb067377bac13e0a8789325ee6ec8673f31683fdd034cb046163ee1c959",
+          "source": "https://us.v-cdn.net/6030815/uploads/D1747QVJIFUJ/bar-red.png"
+        },
+        {
+          "bytes": 10706,
+          "file": "images/91c2ffb067377bac-bar-red-2.png",
+          "sha256": "91c2ffb067377bac13e0a8789325ee6ec8673f31683fdd034cb046163ee1c959",
+          "source": "https://us.v-cdn.net/6030815/uploads/2PQC5MSMKKAK/bar-red.png"
+        }
+      ],
+      "lastEditor": "ThatRyanB",
+      "markdown": "patch-notes/live/561-10-2-1-bugfix-patch.md",
+      "name": "10.2.1 Bugfix Patch",
+      "section": "live",
+      "slug": "561-10-2-1-bugfix-patch",
+      "url": "https://forums.bhvr.com/dead-by-daylight/kb/articles/561-10-2-1-bugfix-patch"
+    },
     "57": {
       "articleID": 57,
       "author": "Peanits",
@@ -18031,5 +18069,5 @@
       "url": "https://forums.bhvr.com/dead-by-daylight/kb/articles/99-3-2-2-hotfix"
     }
   },
-  "generated": "2026-10-10T20:56:27Z"
+  "generated": "2026-10-19T03:02:39Z"
 }

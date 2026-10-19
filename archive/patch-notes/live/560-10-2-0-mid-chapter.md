@@ -16,7 +16,7 @@ The 10.2.0 mid-chapter update adds a Survivor Intent System that lets players se
 <!-- /summary -->
 
 <!-- nav -->
-&larr; [10.1.2 Bugfix Patch](558-10-1-2-bugfix-patch.md) · [Live](../../index.md#live) · _newest_ &rarr;
+&larr; [10.1.2 Bugfix Patch](558-10-1-2-bugfix-patch.md) · [Live](../../index.md#live) · [10.2.1 Bugfix Patch](561-10-2-1-bugfix-patch.md) &rarr;
 <!-- /nav -->
 
 # 10.2.0 | Mid-Chapter
@@ -551,5 +551,5 @@ The 10.2.0 mid-chapter update adds a Survivor Intent System that lets players se
 - When playing as The Slasher, the prompt "Throw Spike" will appear for the rest of the trial after throwing a Spike once.
 
 <!-- nav -->
-&larr; [10.1.2 Bugfix Patch](558-10-1-2-bugfix-patch.md) · [Live](../../index.md#live) · _newest_ &rarr;
+&larr; [10.1.2 Bugfix Patch](558-10-1-2-bugfix-patch.md) · [Live](../../index.md#live) · [10.2.1 Bugfix Patch](561-10-2-1-bugfix-patch.md) &rarr;
 <!-- /nav -->
