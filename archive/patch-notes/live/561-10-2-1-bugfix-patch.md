@@ -16,7 +16,7 @@ A new Surrender option lets a lone survivor with at least one bot quit, while ki
 <!-- /summary -->
 
 <!-- nav -->
-&larr; [10.2.0 | Mid-Chapter](560-10-2-0-mid-chapter.md) · [Live](../../index.md#live) · _newest_ &rarr;
+&larr; [10.2.0 | Mid-Chapter](560-10-2-0-mid-chapter.md) · [Live](../../index.md#live) · [10.2.2 Bugfix Patch](562-10-2-2-bugfix-patch.md) &rarr;
 <!-- /nav -->
 
 # 10.2.1 Bugfix Patch
@@ -130,5 +130,5 @@ Survivors start with Void Crystals, allowing them to drop Smoke Bombs or place t
 See the in-game Gameplay Details for more information.
 
 <!-- nav -->
-&larr; [10.2.0 | Mid-Chapter](560-10-2-0-mid-chapter.md) · [Live](../../index.md#live) · _newest_ &rarr;
+&larr; [10.2.0 | Mid-Chapter](560-10-2-0-mid-chapter.md) · [Live](../../index.md#live) · [10.2.2 Bugfix Patch](562-10-2-2-bugfix-patch.md) &rarr;
 <!-- /nav -->

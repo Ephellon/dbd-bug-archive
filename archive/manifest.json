@@ -17457,6 +17457,38 @@
       "slug": "561-10-2-1-bugfix-patch",
       "url": "https://forums.bhvr.com/dead-by-daylight/kb/articles/561-10-2-1-bugfix-patch"
     },
+    "562": {
+      "articleID": 562,
+      "author": "ThatRyanB",
+      "dateInserted": "2026-10-20T15:01:20+00:00",
+      "dateUpdated": "2026-10-20T15:01:20+00:00",
+      "images": [
+        {
+          "bytes": 386559,
+          "file": "images/d916ac6710d41278-dbd-1022-patchnotes-forums.png",
+          "sha256": "d916ac6710d41278a9383e8744060e72b9b6ce1219fce225d64c752c35ae6395",
+          "source": "https://us.v-cdn.net/6030815/uploads/FQEA5QFHBC6V/dbd-1022-patchnotes-forums.png"
+        },
+        {
+          "bytes": 6222,
+          "file": "images/1722ff4e1b1423bf-image.png",
+          "sha256": "1722ff4e1b1423bfda68002a2971090c439cc076c6f89b0c642d589c3447aeb3",
+          "source": "https://us.v-cdn.net/6030815/uploads/ZHCBRY0EBVFK/image.png"
+        },
+        {
+          "bytes": 10706,
+          "file": "images/91c2ffb067377bac-bar-red-2.png",
+          "sha256": "91c2ffb067377bac13e0a8789325ee6ec8673f31683fdd034cb046163ee1c959",
+          "source": "https://us.v-cdn.net/6030815/uploads/8HIORS0Z3MOJ/bar-red.png"
+        }
+      ],
+      "lastEditor": "ThatRyanB",
+      "markdown": "patch-notes/live/562-10-2-2-bugfix-patch.md",
+      "name": "10.2.2 Bugfix Patch",
+      "section": "live",
+      "slug": "562-10-2-2-bugfix-patch",
+      "url": "https://forums.bhvr.com/dead-by-daylight/kb/articles/562-10-2-2-bugfix-patch"
+    },
     "57": {
       "articleID": 57,
       "author": "Peanits",
@@ -18069,5 +18101,5 @@
       "url": "https://forums.bhvr.com/dead-by-daylight/kb/articles/99-3-2-2-hotfix"
     }
   },
-  "generated": "2026-10-19T03:02:39Z"
+  "generated": "2026-10-26T02:58:19Z"
 }
