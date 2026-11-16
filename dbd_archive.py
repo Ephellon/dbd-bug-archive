@@ -31,6 +31,8 @@ import urllib.request
 from html.parser import HTMLParser
 
 API = "https://forums.bhvr.com/api/v2"
+# sysexits.h EX_TEMPFAIL: the source is unavailable, try again later.
+EXIT_SOURCE_DOWN = 75
 USER_AGENT = "dbd-bug-archive/1.0 (+https://github.com/Ephellon/dbd-bug-archive)"
 
 # Knowledge-base categories to archive: slug -> (knowledgeCategoryID, title)
@@ -60,8 +62,12 @@ def section_dir(slug: str) -> str:
 # HTTP
 # --------------------------------------------------------------------------- #
 
+class SourceUnavailable(RuntimeError):
+    """The forum is up but refusing requests, usually a maintenance window."""
+
+
 class Fetcher:
-    def __init__(self, delay: float = 1.0, retries: int = 4, timeout: int = 60):
+    def __init__(self, delay: float = 1.0, retries: int = 6, timeout: int = 60):
         self.delay = delay
         self.retries = retries
         self.timeout = timeout
@@ -75,6 +81,7 @@ class Fetcher:
 
     def get(self, url: str) -> bytes:
         last_err: Exception | None = None
+        unavailable = 0
         for attempt in range(self.retries):
             self._throttle()
             req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
@@ -85,10 +92,18 @@ class Fetcher:
                 # 4xx other than 429 will not get better by retrying.
                 if err.code != 429 and 400 <= err.code < 500:
                     raise
+                if err.code in (502, 503, 504):
+                    unavailable += 1
                 last_err = err
             except Exception as err:  # noqa: BLE001 - network is network
                 last_err = err
-            time.sleep(2 ** (attempt + 1))
+            # Cap the backoff: the forum's maintenance windows outlast any
+            # doubling we could afford, and a long sleep just burns the clock.
+            time.sleep(min(2 ** (attempt + 1), 30))
+        if unavailable == self.retries:
+            raise SourceUnavailable(
+                f"the forum is not serving the API ({last_err}). This is "
+                "usually a maintenance window; nothing has been changed.")
         raise RuntimeError(f"giving up on {url}: {last_err}")
 
     def get_json(self, url: str):
@@ -837,8 +852,13 @@ def main(argv: list[str] | None = None) -> int:
 
     print(f"Archiving {len(sections)} section(s) into {root}"
           f"{' (dry run)' if args.dry_run else ''}")
-    for slug in sections:
-        archiver.archive_section(slug)
+    try:
+        for slug in sections:
+            archiver.archive_section(slug)
+    except SourceUnavailable as err:
+        archiver.save_manifest()
+        print(f"\nSource unavailable: {err}", file=sys.stderr)
+        return EXIT_SOURCE_DOWN
 
     archiver.save_manifest()
     if not args.dry_run:

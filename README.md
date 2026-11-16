@@ -114,6 +114,10 @@ GIFs in Developer Updates. Later runs take seconds unless something changed.
   and exponential backoff on network errors and HTTP 429.
 - **Honest about failures.** A failed article is reported to stderr and the run
   continues; unhandled HTML tags are listed at the end.
+- **Patient about outages.** The forum takes its API down for maintenance from
+  time to time. Six retries with backoff ride out a short one; a longer one
+  exits 75, changing nothing, and the weekly run reports it and waits for the
+  next week rather than failing.
 
 **How it works**
 

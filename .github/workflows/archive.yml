@@ -30,9 +30,24 @@ jobs:
           python-version: '3.12'
 
       - name: Fetch new and changed articles
-        run: python3 dbd_archive.py --out archive --delay 0.5
+        id: fetch
+        # Exit 75 means the forum is in a maintenance window. That is the
+        # source being down, not a fault here, so the run ends green and says
+        # so; the next Sunday picks up whatever was missed.
+        run: |
+          set +e
+          python3 dbd_archive.py --out archive --delay 0.5
+          code=$?
+          set -e
+          if [ "$code" -eq 75 ]; then
+            echo "::warning::The forum API is unavailable; skipping this week."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          exit "$code"
 
       - name: Write the AI TL;DR for anything new
+        if: steps.fetch.outputs.skip != 'true'
         env:
           OFFSER_TOKEN: ${{ secrets.OFFSER_TOKEN }}
         # Summaries come from a model reached through the offload server. If
@@ -42,9 +57,11 @@ jobs:
         run: python3 summarize.py || echo "summarize.py failed; continuing"
 
       - name: Apply summaries and navigation
+        if: steps.fetch.outputs.skip != 'true'
         run: python3 dbd_archive.py --out archive --delay 0.5
 
       - name: Commit anything new
+        if: steps.fetch.outputs.skip != 'true'
         run: |
           set -euo pipefail
           # New articles arrive as untracked files, so ask status, not diff.
