@@ -12,13 +12,11 @@ archived: "2026-10-10T20:27:32Z"
 <!-- summary -->
 ## AI TL;DR
 
-The 10.2.0 mid-chapter update adds the Survivor Intent System, letting players send preset text messages via a wheel and mute others, plus new trial-ending options—Abandon for lone humans or killers, Surrender when all survivors are dying, and End Trial for killers when only bots remain. It also overhauls many killer and survivor perks, rebalancing effects, adding tokens, cooldown tweaks, and introduces a new Rift-themed cosmetic set.
-
-The patch is otherwise a broad bug-fix sweep covering audio glitches, bot behavior, character power interactions, map geometry, perk UI, and platform input issues, and includes minor killer ability tweaks and PTB-to-live perk refinements.
+The 10.2.0 mid-chapter update adds a Survivor Intent System that lets players send preset text messages via a wheel, with mute options and opt-out, plus new Abandon, Surrender and End Trial mechanics controlling match exit conditions for Survivors and Killers. It also brings a large perk overhaul—rebalancing dozens of Killer and Survivor perks, tweaking the Mastermind’s Virulent Bound, and introducing the Academia Rift cosmetic outfits. The release is rounded out by numerous audio, bot, character, map and UI bug fixes and minor platform tweaks.
 <!-- /summary -->
 
 <!-- nav -->
-&larr; [10.1.2 Bugfix Patch](558-10-1-2-bugfix-patch.md) · [Live](../../index.md#live) · _newest_ &rarr;
+&larr; [10.1.2 Bugfix Patch](558-10-1-2-bugfix-patch.md) · [Live](../../index.md#live) · [10.2.1 Bugfix Patch](561-10-2-1-bugfix-patch.md) &rarr;
 <!-- /nav -->
 
 # 10.2.0 | Mid-Chapter
@@ -553,5 +551,5 @@ The patch is otherwise a broad bug-fix sweep covering audio glitches, bot behavi
 - When playing as The Slasher, the prompt "Throw Spike" will appear for the rest of the trial after throwing a Spike once.
 
 <!-- nav -->
-&larr; [10.1.2 Bugfix Patch](558-10-1-2-bugfix-patch.md) · [Live](../../index.md#live) · _newest_ &rarr;
+&larr; [10.1.2 Bugfix Patch](558-10-1-2-bugfix-patch.md) · [Live](../../index.md#live) · [10.2.1 Bugfix Patch](561-10-2-1-bugfix-patch.md) &rarr;
 <!-- /nav -->
